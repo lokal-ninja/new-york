@@ -1,0 +1,4 @@
+---
+title: "Taft Furniture"
+url: /albany/taft-furniture/
+---

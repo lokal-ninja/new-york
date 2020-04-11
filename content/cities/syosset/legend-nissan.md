@@ -1,0 +1,4 @@
+---
+title: "Legend Nissan"
+url: /syosset/legend-nissan/
+---
