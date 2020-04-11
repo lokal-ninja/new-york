@@ -1,0 +1,15 @@
+baseURL = "https://shoogle.us/new-york"
+languageCode = "en-US"
+title = "New York"
+theme = "ln-base-en"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "new-york"
