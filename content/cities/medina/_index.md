@@ -1,6 +1,6 @@
 ---
 title: Medina
 url: /medina/
-latitude: 43.220058
-longitude: -78.38696900000001
+latitude: 43.2202828
+longitude: -78.3866445
 ---

@@ -1,12 +1,12 @@
-id: 637015983
+id: 856513367
 type: way
 shop: bakery
-latitude: 42.9528322
-longitude: -78.77915060000001
+latitude: 42.9528046
+longitude: -78.7790889
 postcode: "14226"
 city: Buffalo
 street: "Kensington Avenue"
 housenumber: 2178
 phone: "716-839-0871"
-opening_hours: "Tu 09:00-17:00,We 09:00-16:00,Th-Fr 09:00-17:00,Sa 09:00-16:00"
-website: "https://www.vinchet.com/"
+opening_hours: "TuThFr 09:00-17:00, WeSa 09:00-16:00"
+website: "https://vinchet.com"

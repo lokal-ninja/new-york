@@ -1,6 +1,6 @@
 ---
 title: Margaretville
 url: /margaretville/
-latitude: 42.148699
-longitude: -74.648211
+latitude: 42.1487726
+longitude: -74.6487018
 ---

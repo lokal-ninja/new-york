@@ -1,0 +1,4 @@
+---
+title: "Barnes & Noble"
+url: /saratoga-springs/barnes-and-noble/
+---

@@ -1,6 +1,6 @@
 ---
 title: Owego
 url: /owego/
-latitude: 42.1034075
-longitude: -76.2621549
+latitude: 42.1033319
+longitude: -76.2621898
 ---

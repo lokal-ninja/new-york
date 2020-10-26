@@ -1,6 +1,6 @@
 ---
 title: Olean
 url: /olean/
-latitude: 42.077565
-longitude: -78.42974190000001
+latitude: 42.077477900000005
+longitude: -78.4298613
 ---

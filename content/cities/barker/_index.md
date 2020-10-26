@@ -1,6 +1,6 @@
 ---
 title: Barker
 url: /barker/
-latitude: 43.330334
-longitude: -78.55453100000001
+latitude: 43.3276844
+longitude: -78.55475630000001
 ---

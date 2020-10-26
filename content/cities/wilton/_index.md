@@ -1,6 +1,6 @@
 ---
 title: Wilton
 url: /wilton/
-latitude: 43.180073400000005
-longitude: -73.74428640000001
+latitude: 43.1800049
+longitude: -73.7443092
 ---

@@ -1,12 +1,12 @@
-id: 3785162423
+id: 2683372644
 type: node
 shop: car
-latitude: 40.769646300000005
-longitude: -73.9922296
+latitude: 40.7704036
+longitude: -73.9909561
 postcode: "10019"
 city: New York
-street: "11th ave"
-housenumber: 801
+street: "West 57th Street"
+housenumber: 555
 phone: ""
 opening_hours: ""
-website: "bmwnyc.com"
+website: "https://www.bmwnyc.com/"

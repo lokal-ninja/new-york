@@ -1,4 +1,4 @@
 ---
-title: "P.C. Richard & Son"
+title: "P. C. Richard & Son"
 url: /new-york/p-c-richard-and-son/
 ---

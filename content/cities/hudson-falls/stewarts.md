@@ -1,4 +1,4 @@
 ---
-title: "Stewart's"
+title: "Stewarts"
 url: /hudson-falls/stewarts/
 ---
