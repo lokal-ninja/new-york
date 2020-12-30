@@ -1,4 +1,4 @@
 ---
-title: "Gamestop"
+title: "GameStop"
 url: /dewitt/gamestop/
 ---
