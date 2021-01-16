@@ -1,6 +1,6 @@
 ---
 title: Gloversville
 url: /gloversville/
-latitude: 43.050644000000005
-longitude: -74.3454195
+latitude: 43.0505088
+longitude: -74.345724
 ---
