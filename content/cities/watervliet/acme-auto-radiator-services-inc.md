@@ -1,4 +1,5 @@
 ---
 title: "Acme Auto Radiator Services, Inc."
 url: /watervliet/acme-auto-radiator-services-inc/
+shop: car repair
 ---

@@ -1,12 +1,11 @@
 id: 6231541018
 type: node
-shop: bicycle
 latitude: 40.714544100000005
 longitude: -73.99161480000001
 postcode: "10002"
 city: New York
 street: "Division Street"
 housenumber: 134
-phone: "(212) 925-0155"
+phone: "+1-212-925-0155"
 opening_hours: "Tu-Sa 11:00-19:00; Su 12:00-18:00"
 website: "https://dahshop.com"

@@ -1,4 +1,0 @@
----
-title: "Associated Supermarket"
-url: /new-york/associated-supermarket-2/
----

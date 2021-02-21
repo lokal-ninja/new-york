@@ -1,12 +1,11 @@
-id: 771767545
-type: way
-shop: chemist
-latitude: 43.0241114
-longitude: -78.738753
+id: 8356018095
+type: node
+latitude: 42.9773373
+longitude: -78.74016920000001
 postcode: "14221"
 city: Williamsville
-street: "Hopkins Road"
-housenumber: 1640
-phone: ""
-opening_hours: ""
-website: "https://locations.riteaid.com/locations/ny/williamsville/1640-hopkins-road.html"
+street: "Evans Street"
+housenumber: 480
+phone: "716-632-1940"
+opening_hours: "Su 09:00-18:00, Mo-Sa 08:00-21:00"
+website: "https://www.riteaid.com"

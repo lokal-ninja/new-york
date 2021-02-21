@@ -1,12 +1,11 @@
 id: 6231541015
 type: node
-shop: butcher
 latitude: 40.7146751
 longitude: -73.9916086
 postcode: "10002"
 city: New York
 street: "Canal Street"
 housenumber: 44
-phone: "(212) 965-1206"
+phone: "+1-212-965-1206"
 opening_hours: "Mo-Su 10:00-20:00"
 website: ""

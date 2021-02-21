@@ -1,6 +1,5 @@
 id: 7443108323
 type: node
-shop: furniture
 latitude: 43.0029294
 longitude: -78.8597149
 postcode: "14150"
@@ -8,5 +7,5 @@ city: Tonawanda
 street: "Young Street"
 housenumber: 798
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
 website: ""

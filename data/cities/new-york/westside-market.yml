@@ -1,6 +1,5 @@
 id: 752186044
 type: node
-shop: supermarket
 latitude: 40.731744600000006
 longitude: -73.9885326
 postcode: "10003"
@@ -8,5 +7,5 @@ city: New York
 street: "3rd Avenue"
 housenumber: 84
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 00:00-24:00"
 website: ""

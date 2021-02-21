@@ -1,6 +1,5 @@
 id: 2547114893
 type: node
-shop: bakery
 latitude: 40.731862
 longitude: -73.98567890000001
 postcode: "10003"
@@ -8,5 +7,5 @@ city: New York
 street: "East 13th Street"
 housenumber: 251
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 14:00-22:00"
 website: ""

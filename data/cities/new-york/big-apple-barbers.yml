@@ -1,6 +1,5 @@
 id: 3676993345
 type: node
-shop: hairdresser
 latitude: 40.7307325
 longitude: -73.9815217
 postcode: "10009"
@@ -8,5 +7,5 @@ city: New York
 street: "East 14th Street"
 housenumber: 422
 phone: "+1-212-651-4858"
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-19:00"
 website: "https://bigapplebarbershop.com"

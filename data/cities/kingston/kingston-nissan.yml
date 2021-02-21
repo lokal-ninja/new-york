@@ -1,6 +1,5 @@
 id: 264325195
 type: way
-shop: car
 latitude: 41.9486805
 longitude: -74.0321684
 postcode: "12401"
@@ -9,4 +8,4 @@ street: "NY-28"
 housenumber: 140
 phone: "845-338-3100"
 opening_hours: ""
-website: "https://www.kingstonnissan.net/ServiceApptForm?utm_source=google&utm_medium=organic&utm_campaign=googlemybusiness"
+website: "https://www.kingstonnissan.net/ServiceApptForm"

@@ -1,6 +1,5 @@
 id: 3676972136
 type: node
-shop: convenience
 latitude: 40.7316124
 longitude: -73.982769
 postcode: "10003"
@@ -8,5 +7,5 @@ city: New York
 street: "East 14th Street"
 housenumber: 353
 phone: "+1-212-460-9370"
-opening_hours: ""
+opening_hours: "Mo-Su 00:00-24:00"
 website: ""

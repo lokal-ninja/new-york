@@ -1,6 +1,5 @@
 id: 2842244629
 type: node
-shop: bakery
 latitude: 40.71746
 longitude: -73.9450305
 postcode: "11211"
@@ -8,5 +7,5 @@ city: Brooklyn
 street: "Graham Avenue"
 housenumber: 415
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 09:00-18:00"
 website: "https://www.thebluestove.com/"

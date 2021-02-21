@@ -1,6 +1,5 @@
 id: 6486788249
 type: node
-shop: car parts
 latitude: 43.0209765
 longitude: -78.88078850000001
 postcode: "14150"
@@ -8,5 +7,5 @@ city: Tonawanda
 street: "Niagara Street"
 housenumber: 76
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
 website: ""

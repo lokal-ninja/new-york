@@ -1,6 +1,5 @@
 id: 158851967
 type: way
-shop: supermarket
 latitude: 43.0020548
 longitude: -78.8582095
 postcode: "14150"
@@ -8,5 +7,5 @@ city: Tonawanda
 street: "Young Street"
 housenumber: 890
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 06:00-24:00"
 website: ""

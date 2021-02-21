@@ -1,6 +1,5 @@
 id: 2882803489
 type: node
-shop: mobile phone
 latitude: 40.764826500000005
 longitude: -73.8232397
 postcode: "11354"
@@ -9,4 +8,4 @@ street: "Northern Boulevard"
 housenumber: 144-03
 phone: "+17183590191"
 opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.t-mobile.com/store-locator/ny/queens/northern-parsons?y_source=1_MjA3MTA1Mi03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D"
+website: "https://www.t-mobile.com/store-locator/ny/queens/northern-parsons"
