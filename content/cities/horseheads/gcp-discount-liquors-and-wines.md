@@ -1,5 +1,5 @@
 ---
-title: "GCP Discount Liquor's and Wine's"
+title: "GCP Discount Liquors and Wines"
 url: /horseheads/gcp-discount-liquors-and-wines/
 shop: alcohol
 ---

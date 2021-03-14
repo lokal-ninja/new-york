@@ -1,5 +1,5 @@
 ---
 title: "Plattsburgh Flower Market"
 url: /plattsburgh/plattsburgh-flower-market/
-shop: shop
+shop: florist
 ---
