@@ -1,6 +1,6 @@
 ---
 title: Binghamton
 url: /binghamton/
-latitude: 42.096968000000004
-longitude: -75.91434100000001
+latitude: 42.098712500000005
+longitude: -75.9125262
 ---

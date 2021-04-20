@@ -7,5 +7,5 @@ city: New York
 street: "Stuyvesant Street"
 housenumber: 4
 phone: "+1-212-598-3040"
-opening_hours: "Mo-Su 10:00-23:00"
+opening_hours: "Su-Th 10:00-23:00; Fr,Sa 10:00-24:00"
 website: ""
