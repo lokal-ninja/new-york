@@ -1,11 +1,11 @@
-id: 250264474
-type: way
-latitude: 40.7267073
-longitude: -73.9763083
-postcode: "10009"
+id: 4108495532
+type: node
+latitude: 40.710835800000005
+longitude: -74.0002248
+postcode: "10038"
 city: New York
-street: "Avenue C"
-housenumber: 188
-phone: "+1-212-505-7577"
-opening_hours: "Su 08:30-18:00; Mo-Th 08:00-20:00; Fr 08:00-20:30; Sa 08:00-20:00; Dec 25 08:00-17:00"
-website: "https://locations.ctownsupermarkets.com/ctown-supermarkets-699f7b07a969"
+street: "Saint James Place"
+housenumber: 5
+phone: "+1-212-732-5653"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-2:00; Su 09:00-18:00"
+website: "https://locations.ctownsupermarkets.com/ctown-supermarkets-5c61237761bd"
