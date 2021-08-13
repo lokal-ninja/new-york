@@ -1,11 +1,11 @@
-id: 8232868079
-type: node
-latitude: 43.051428300000005
-longitude: -74.3452326
+id: 964809737
+type: way
+latitude: 43.051492800000005
+longitude: -74.3453564
 postcode: "12078"
 city: Gloversville
 street: "North Main Street"
-housenumber: 25
+housenumber: 23;25
 phone: "+1(518)725-1113"
 opening_hours: ""
 website: "gemjewelers.com"

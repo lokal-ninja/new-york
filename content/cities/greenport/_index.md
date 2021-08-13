@@ -1,6 +1,6 @@
 ---
 title: Greenport
 url: /greenport/
-latitude: 41.1024654
-longitude: -72.35912210000001
+latitude: 41.103423400000004
+longitude: -72.3592777
 ---

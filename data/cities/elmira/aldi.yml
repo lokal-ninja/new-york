@@ -1,11 +1,11 @@
-id: 7324346453
-type: node
-latitude: 42.0843737
-longitude: -76.80381630000001
-postcode: "14904"
-city: elmira
+id: 752696019
+type: way
+latitude: 42.0847076
+longitude: -76.8037475
+postcode: "14904-1306"
+city: Elmira
 street: "West Hudson Street"
-housenumber: 110
-phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.aldi.us/en/weekly-specials/our-weekly-ads/"
+housenumber: 100
+phone: "+1 877 465 1058"
+opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
+website: "https://www.aldi.us/"

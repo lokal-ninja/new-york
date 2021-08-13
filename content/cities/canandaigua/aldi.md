@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /canandaigua/aldi/
 shop: supermarket
 ---

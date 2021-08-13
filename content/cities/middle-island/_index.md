@@ -1,6 +1,6 @@
 ---
 title: Middle Island
 url: /middle-island/
-latitude: 40.886225
-longitude: -72.9730444
+latitude: 40.6220596
+longitude: -73.5185421
 ---

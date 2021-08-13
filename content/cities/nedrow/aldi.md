@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /nedrow/aldi/
 shop: supermarket
 ---

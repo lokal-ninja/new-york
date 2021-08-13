@@ -1,6 +1,6 @@
 ---
 title: Fonda
 url: /fonda/
-latitude: 42.954504500000006
-longitude: -74.37676400000001
+latitude: 42.9544299
+longitude: -74.3769115
 ---

@@ -1,11 +1,11 @@
-id: 1892277134
-type: node
-latitude: 42.9485362
-longitude: -78.8296514
-postcode: "14214"
+id: 93411444
+type: way
+latitude: 42.981713600000006
+longitude: -78.86722730000001
+postcode: "14223-1212"
 city: Buffalo
-street: "Main Street"
-housenumber: 3060
-phone: ""
-opening_hours: ""
-website: ""
+street: "Sheridan Drive"
+housenumber: 1820
+phone: "+1 866 465 1074"
+opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
+website: "https://www.aldi.us/"

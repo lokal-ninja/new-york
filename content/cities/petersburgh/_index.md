@@ -1,6 +1,6 @@
 ---
 title: Petersburgh
 url: /petersburgh/
-latitude: 
-longitude: 
+latitude: 42.749523200000006
+longitude: -73.3401106
 ---

@@ -1,11 +1,11 @@
-id: 3455102321
-type: node
-latitude: 43.0534065
-longitude: -76.1729148
-postcode: "13204"
+id: 164017225
+type: way
+latitude: 43.052717900000005
+longitude: -76.1144093
+postcode: "13224-1038"
 city: Syracuse
-street: "West Genesee Street"
-housenumber: 1055
-phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa,Su 09:00-19:00"
+street: "Erie Boulevard East"
+housenumber: 2015
+phone: "+1 888 465 1024"
+opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
 website: "https://www.aldi.us/"
