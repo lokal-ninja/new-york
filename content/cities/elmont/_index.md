@@ -1,6 +1,6 @@
 ---
 title: Elmont
 url: /elmont/
-latitude: 40.700936000000006
-longitude: -73.71290900000001
+latitude: 40.7076444
+longitude: -73.70930410000001
 ---

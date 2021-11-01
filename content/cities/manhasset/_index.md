@@ -1,6 +1,6 @@
 ---
 title: Manhasset
 url: /manhasset/
-latitude: 40.797878700000005
-longitude: -73.6995749
+latitude: 40.7956894
+longitude: -73.69891030000001
 ---

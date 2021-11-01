@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /wolcott/dollar-general/
-shop: general
+shop: variety store
 ---

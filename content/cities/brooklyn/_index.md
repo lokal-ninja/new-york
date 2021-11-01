@@ -1,6 +1,6 @@
 ---
 title: Brooklyn
 url: /brooklyn/
-latitude: 40.650103800000004
-longitude: -73.9495823
+latitude: 40.6526006
+longitude: -73.9497211
 ---

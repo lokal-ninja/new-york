@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /brooklyn/laundromat/
-shop: shop
+shop: laundry
 ---
