@@ -1,5 +1,5 @@
 ---
 title: "Imagine Salon & Day Spa"
 url: /buffalo/imagine-salon-and-day-spa/
-shop: beauty
+shop: hairdresser
 ---

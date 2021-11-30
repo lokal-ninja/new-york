@@ -1,6 +1,6 @@
 ---
 title: Bellerose
 url: /bellerose/
-latitude: 40.724269
-longitude: -73.71513130000001
+latitude: 40.7242205
+longitude: -73.7164845
 ---
