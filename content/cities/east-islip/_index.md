@@ -1,6 +1,6 @@
 ---
 title: East Islip
 url: /east-islip/
-latitude: 40.732081900000004
-longitude: -73.1883301
+latitude: 40.7320429
+longitude: -73.1856703
 ---
