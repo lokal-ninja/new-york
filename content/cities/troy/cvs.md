@@ -1,5 +1,5 @@
 ---
 title: "CVS"
 url: /troy/cvs/
-shop: convenience
+shop: Lebensmittel
 ---

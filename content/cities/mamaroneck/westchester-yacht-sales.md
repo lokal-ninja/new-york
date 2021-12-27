@@ -1,5 +1,5 @@
 ---
 title: "Westchester Yacht Sales"
 url: /mamaroneck/westchester-yacht-sales/
-shop: boat
+shop: Boot
 ---

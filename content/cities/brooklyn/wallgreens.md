@@ -1,5 +1,5 @@
 ---
 title: "Wallgreens"
 url: /brooklyn/wallgreens/
-shop: convenience
+shop: Lebensmittel
 ---

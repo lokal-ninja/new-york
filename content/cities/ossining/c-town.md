@@ -1,5 +1,5 @@
 ---
 title: "C-Town"
 url: /ossining/c-town/
-shop: supermarket
+shop: Supermarkt
 ---

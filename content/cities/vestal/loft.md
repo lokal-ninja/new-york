@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /vestal/loft/
-shop: clothes
+shop: Kleidung
 ---

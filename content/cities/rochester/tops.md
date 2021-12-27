@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /rochester/tops/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OToole's Harley Davidson"
 url: /wurtsboro/otooles-harley-davidson/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unimart"
 url: /alfred/unimart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Mart"
 url: /new-york/sunrise-mart/
-shop: supermarket
+shop: Supermarkt
 ---

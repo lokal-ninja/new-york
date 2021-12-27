@@ -1,5 +1,5 @@
 ---
 title: "Patrick Buick GMC"
 url: /henrietta/patrick-buick-gmc/
-shop: car
+shop: Autohaus
 ---

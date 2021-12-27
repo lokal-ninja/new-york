@@ -1,5 +1,5 @@
 ---
 title: "Noyhing Bundt Cakes"
 url: /rochester/noyhing-bundt-cakes/
-shop: confectionery
+shop: Süßwaren
 ---

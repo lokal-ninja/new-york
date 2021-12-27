@@ -1,6 +1,6 @@
 ---
 title: Minerva
 url: /minerva/
-latitude: 43.791667000000004
-longitude: -73.98433700000001
+latitude: 43.79
+longitude: -73.983
 ---

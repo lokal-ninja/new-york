@@ -1,6 +1,6 @@
 ---
 title: Westbury
 url: /westbury/
-latitude: 40.7556561
-longitude: -73.58762730000001
+latitude: 40.744
+longitude: -73.602
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valadon's Salon"
 url: /liverpool/valadons-salon/
-shop: hairdresser
+shop: Friseur
 ---

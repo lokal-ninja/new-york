@@ -1,5 +1,5 @@
 ---
 title: "Pink Paddock"
 url: /saratoga-springs/pink-paddock/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Montauk
 url: /montauk/
-latitude: 
-longitude: 
+latitude: 41.034
+longitude: -71.945
 ---

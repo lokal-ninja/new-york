@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /lockport/tops/
-shop: supermarket
+shop: Supermarkt
 ---

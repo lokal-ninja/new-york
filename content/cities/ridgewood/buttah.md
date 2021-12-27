@@ -1,5 +1,5 @@
 ---
 title: "Buttah"
 url: /ridgewood/buttah/
-shop: bakery
+shop: Bäckerei
 ---

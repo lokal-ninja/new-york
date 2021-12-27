@@ -1,6 +1,6 @@
 ---
 title: Ticonderoga
 url: /ticonderoga/
-latitude: 43.848779500000006
-longitude: -73.4232317
+latitude: 43.86
+longitude: -73.438
 ---

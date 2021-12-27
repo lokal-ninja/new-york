@@ -1,6 +1,6 @@
 ---
 title: Canastota
 url: /canastota/
-latitude: 43.079672
-longitude: -75.751076
+latitude: 43.068
+longitude: -75.755
 ---

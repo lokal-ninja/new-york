@@ -1,5 +1,5 @@
 ---
 title: "Scissors Barber Shop"
 url: /jamaica/scissors-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MADE"
 url: /mamaroneck/made/
-shop: art
+shop: Kunst
 ---

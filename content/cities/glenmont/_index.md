@@ -1,6 +1,6 @@
 ---
 title: Glenmont
 url: /glenmont/
-latitude: 42.604802
-longitude: -73.76956580000001
+latitude: 42.613
+longitude: -73.788
 ---

@@ -1,6 +1,6 @@
 ---
 title: Barton
 url: /barton/
-latitude: 42.042697600000004
-longitude: -76.4481907
+latitude: 42.045
+longitude: -76.446
 ---

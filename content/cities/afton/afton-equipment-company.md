@@ -1,5 +1,5 @@
 ---
 title: "Afton Equipment Company"
 url: /afton/afton-equipment-company/
-shop: shop
+shop: Allgemein
 ---

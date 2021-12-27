@@ -1,5 +1,5 @@
 ---
 title: "Vibes"
 url: /jamaica/vibes/
-shop: clothes
+shop: Kleidung
 ---

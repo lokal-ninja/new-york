@@ -1,5 +1,5 @@
 ---
 title: "Teuscher Fifth Avenue"
 url: /new-york/teuscher-fifth-avenue/
-shop: chocolate
+shop: Schokolade
 ---

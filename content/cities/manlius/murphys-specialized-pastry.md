@@ -1,5 +1,5 @@
 ---
 title: "Murphy's Specialized Pastry"
 url: /manlius/murphys-specialized-pastry/
-shop: confectionery
+shop: Süßwaren
 ---

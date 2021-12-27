@@ -1,5 +1,5 @@
 ---
 title: "Europa Hair Design"
 url: /ridgewood/europa-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

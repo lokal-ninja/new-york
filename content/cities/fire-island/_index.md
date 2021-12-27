@@ -1,6 +1,6 @@
 ---
 title: Fire Island
 url: /fire-island/
-latitude: 40.6475997
-longitude: -73.14594740000001
+latitude: 40.649
+longitude: -73.155
 ---

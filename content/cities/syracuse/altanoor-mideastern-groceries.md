@@ -1,5 +1,5 @@
 ---
 title: "Altanoor Mideastern Groceries"
 url: /syracuse/altanoor-mideastern-groceries/
-shop: convenience
+shop: Lebensmittel
 ---

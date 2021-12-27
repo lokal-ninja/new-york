@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /oceanside/express/
-shop: clothes
+shop: Kleidung
 ---

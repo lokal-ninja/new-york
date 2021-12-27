@@ -1,5 +1,5 @@
 ---
 title: "Key Foods"
 url: /south-valley-stream/key-foods/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Port Jefferson Station
 url: /port-jefferson-station/
-latitude: 40.925376400000005
-longitude: -73.0473284
+latitude: 40.925
+longitude: -73.043
 ---

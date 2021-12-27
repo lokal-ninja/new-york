@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /ithaca/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

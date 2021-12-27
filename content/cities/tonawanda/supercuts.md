@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /tonawanda/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Central Square
 url: /central-square/
-latitude: 43.286736000000005
-longitude: -76.14603600000001
+latitude: 43.292
+longitude: -76.128
 ---

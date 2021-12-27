@@ -1,6 +1,6 @@
 ---
 title: Northville
 url: /northville/
-latitude: 43.226193
-longitude: -74.172478
+latitude: 43.217
+longitude: -74.104
 ---

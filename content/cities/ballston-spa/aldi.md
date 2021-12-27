@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /ballston-spa/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

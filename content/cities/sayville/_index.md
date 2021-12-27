@@ -1,6 +1,6 @@
 ---
 title: Sayville
 url: /sayville/
-latitude: 40.7359317
-longitude: -73.0820556
+latitude: 40.732
+longitude: -73.089
 ---

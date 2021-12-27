@@ -1,5 +1,5 @@
 ---
 title: "Dicamillo Bakery"
 url: /williamsville/dicamillo-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dansville
 url: /dansville/
-latitude: 
-longitude: 
+latitude: 42.561
+longitude: -77.695
 ---

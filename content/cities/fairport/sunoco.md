@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /fairport/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

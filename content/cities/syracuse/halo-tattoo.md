@@ -1,5 +1,5 @@
 ---
 title: "Halo Tattoo"
 url: /syracuse/halo-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

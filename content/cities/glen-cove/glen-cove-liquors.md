@@ -1,5 +1,5 @@
 ---
 title: "Glen Cove Liquors"
 url: /glen-cove/glen-cove-liquors/
-shop: laundry
+shop: Wäscherei
 ---

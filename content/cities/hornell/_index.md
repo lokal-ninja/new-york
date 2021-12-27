@@ -1,6 +1,6 @@
 ---
 title: Hornell
 url: /hornell/
-latitude: 42.3278477
-longitude: -77.6611025
+latitude: 42.323
+longitude: -77.66
 ---

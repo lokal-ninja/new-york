@@ -1,6 +1,6 @@
 ---
 title: Schaghticoke
 url: /schaghticoke/
-latitude: 42.9000773
-longitude: -73.5853939
+latitude: 42.903
+longitude: -73.586
 ---

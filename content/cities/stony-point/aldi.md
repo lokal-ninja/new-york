@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /stony-point/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

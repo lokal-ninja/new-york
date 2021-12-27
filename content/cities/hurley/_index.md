@@ -1,6 +1,6 @@
 ---
 title: Hurley
 url: /hurley/
-latitude: 41.9274787
-longitude: -74.06799840000001
+latitude: 41.927
+longitude: -74.067
 ---

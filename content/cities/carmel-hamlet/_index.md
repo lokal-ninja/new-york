@@ -1,6 +1,6 @@
 ---
 title: Carmel Hamlet
 url: /carmel-hamlet/
-latitude: 
-longitude: 
+latitude: 41.414
+longitude: -73.667
 ---

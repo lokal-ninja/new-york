@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /voorheesville/stewarts/
-shop: convenience
+shop: Lebensmittel
 ---

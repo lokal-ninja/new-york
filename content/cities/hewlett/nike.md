@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /hewlett/nike/
-shop: clothes
+shop: Kleidung
 ---

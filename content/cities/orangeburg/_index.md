@@ -1,6 +1,6 @@
 ---
 title: Orangeburg
 url: /orangeburg/
-latitude: 41.0465776
-longitude: -73.9496707
+latitude: 41.042
+longitude: -73.948
 ---

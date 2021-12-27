@@ -1,6 +1,6 @@
 ---
 title: Glenfield
 url: /glenfield/
-latitude: 43.710347000000006
-longitude: -75.4021251
+latitude: 43.704
+longitude: -75.404
 ---

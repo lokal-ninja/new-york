@@ -1,6 +1,6 @@
 ---
 title: Burnt Hills
 url: /burnt-hills/
-latitude: 42.909798200000004
-longitude: -73.8951234
+latitude: 42.931
+longitude: -73.9
 ---

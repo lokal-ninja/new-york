@@ -1,6 +1,6 @@
 ---
 title: Bayport
 url: /bayport/
-latitude: 40.7384317
-longitude: -73.0506656
+latitude: 40.747
+longitude: -73.062
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neversink
 url: /neversink/
-latitude: 41.847313400000004
-longitude: -74.61904720000001
+latitude: 41.845
+longitude: -74.626
 ---

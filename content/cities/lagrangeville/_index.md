@@ -1,6 +1,6 @@
 ---
 title: Lagrangeville
 url: /lagrangeville/
-latitude: 41.6541106
-longitude: -73.6667779
+latitude: 41.668
+longitude: -73.795
 ---

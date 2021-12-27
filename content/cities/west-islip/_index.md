@@ -1,6 +1,6 @@
 ---
 title: West Islip
 url: /west-islip/
-latitude: 40.7058564
-longitude: -73.3077301
+latitude: 40.708
+longitude: -73.306
 ---

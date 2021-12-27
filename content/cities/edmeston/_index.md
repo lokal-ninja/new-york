@@ -1,6 +1,6 @@
 ---
 title: Edmeston
 url: /edmeston/
-latitude: 42.697850900000006
-longitude: -75.24377630000001
+latitude: 42.702
+longitude: -75.206
 ---

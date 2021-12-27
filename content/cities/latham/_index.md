@@ -1,6 +1,6 @@
 ---
 title: Latham
 url: /latham/
-latitude: 
-longitude: 
+latitude: 42.76
+longitude: -73.767
 ---

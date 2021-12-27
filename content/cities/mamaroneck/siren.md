@@ -1,5 +1,5 @@
 ---
 title: "Siren"
 url: /mamaroneck/siren/
-shop: clothes
+shop: Kleidung
 ---

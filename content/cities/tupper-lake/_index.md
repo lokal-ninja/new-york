@@ -1,6 +1,6 @@
 ---
 title: Tupper+Lake
 url: /tupper-lake/
-latitude: 
-longitude: 
+latitude: 44.224
+longitude: -74.464
 ---

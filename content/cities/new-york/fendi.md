@@ -1,5 +1,5 @@
 ---
 title: "Fendi"
 url: /new-york/fendi/
-shop: clothes
+shop: Kleidung
 ---

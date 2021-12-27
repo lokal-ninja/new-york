@@ -1,6 +1,6 @@
 ---
 title: Brantingham
 url: /brantingham/
-latitude: 43.688680100000006
-longitude: -75.2921223
+latitude: 43.69
+longitude: -75.292
 ---

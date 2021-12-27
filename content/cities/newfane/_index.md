@@ -1,6 +1,6 @@
 ---
 title: Newfane
 url: /newfane/
-latitude: 43.286723
-longitude: -78.710312
+latitude: 43.291
+longitude: -78.71
 ---

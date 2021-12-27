@@ -1,6 +1,6 @@
 ---
 title: Woodhaven
 url: /woodhaven/
-latitude: 40.689269800000005
-longitude: -73.8579131
+latitude: 40.692
+longitude: -73.864
 ---

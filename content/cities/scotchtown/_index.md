@@ -1,6 +1,6 @@
 ---
 title: Scotchtown
 url: /scotchtown/
-latitude: 41.4814827
-longitude: -74.3601541
+latitude: 41.472
+longitude: -74.384
 ---

@@ -1,6 +1,6 @@
 ---
 title: Canisteo
 url: /canisteo/
-latitude: 42.2703487
-longitude: -77.6058225
+latitude: 42.27
+longitude: -77.605
 ---

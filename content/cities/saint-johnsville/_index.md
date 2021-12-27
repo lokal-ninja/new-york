@@ -1,6 +1,6 @@
 ---
 title: Saint Johnsville
 url: /saint-johnsville/
-latitude: 42.9981274
-longitude: -74.6829225
+latitude: 43.051
+longitude: -74.636
 ---

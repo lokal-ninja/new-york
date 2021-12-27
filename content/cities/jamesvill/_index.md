@@ -1,6 +1,6 @@
 ---
 title: Jamesvill
 url: /jamesvill/
-latitude: 
-longitude: 
+latitude: 42.997
+longitude: -76.112
 ---

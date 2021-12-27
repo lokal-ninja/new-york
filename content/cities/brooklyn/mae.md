@@ -1,5 +1,5 @@
 ---
 title: "mae"
 url: /brooklyn/mae/
-shop: clothes
+shop: Kleidung
 ---

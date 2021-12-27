@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /astoria/costco/
-shop: wholesale
+shop: Großhandel
 ---

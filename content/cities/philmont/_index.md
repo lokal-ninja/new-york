@@ -1,6 +1,6 @@
 ---
 title: Philmont
 url: /philmont/
-latitude: 42.248421
-longitude: -73.653176
+latitude: 42.249
+longitude: -73.65
 ---

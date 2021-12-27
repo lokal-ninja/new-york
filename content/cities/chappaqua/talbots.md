@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /chappaqua/talbots/
-shop: clothes
+shop: Kleidung
 ---

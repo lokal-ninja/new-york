@@ -1,5 +1,5 @@
 ---
 title: "Deli Quetzal"
 url: /hempstead/deli-quetzal/
-shop: deli
+shop: Feinkost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /liverpool/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

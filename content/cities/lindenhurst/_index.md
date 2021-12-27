@@ -1,6 +1,6 @@
 ---
 title: Lindenhurst
 url: /lindenhurst/
-latitude: 40.6867667
-longitude: -73.37345470000001
+latitude: 40.678
+longitude: -73.365
 ---

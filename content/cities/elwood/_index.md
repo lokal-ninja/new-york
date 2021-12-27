@@ -1,6 +1,6 @@
 ---
 title: Elwood
 url: /elwood/
-latitude: 40.8453761
-longitude: -73.3351179
+latitude: 40.837
+longitude: -73.335
 ---

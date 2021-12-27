@@ -1,5 +1,5 @@
 ---
 title: "Foodtown"
 url: /hollis/foodtown/
-shop: supermarket
+shop: Supermarkt
 ---

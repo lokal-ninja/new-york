@@ -1,6 +1,6 @@
 ---
 title: Laurelton
 url: /laurelton/
-latitude: 40.6667703
-longitude: -73.7515212
+latitude: 40.676
+longitude: -73.74
 ---

@@ -1,6 +1,6 @@
 ---
 title: Purchase
 url: /purchase/
-latitude: 41.0409305
-longitude: -73.7145746
+latitude: 41.038
+longitude: -73.702
 ---

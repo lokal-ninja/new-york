@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /latham/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

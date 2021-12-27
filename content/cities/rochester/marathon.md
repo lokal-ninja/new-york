@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /rochester/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

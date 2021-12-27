@@ -1,6 +1,6 @@
 ---
 title: Lockport
 url: /lockport/
-latitude: 
-longitude: 
+latitude: 43.217
+longitude: -78.677
 ---

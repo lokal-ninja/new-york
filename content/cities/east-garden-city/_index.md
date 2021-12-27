@@ -1,6 +1,6 @@
 ---
 title: East Garden City
 url: /east-garden-city/
-latitude: 40.7300848
-longitude: -73.59564420000001
+latitude: 40.722
+longitude: -73.607
 ---

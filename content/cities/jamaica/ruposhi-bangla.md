@@ -1,5 +1,5 @@
 ---
 title: "Ruposhi Bangla"
 url: /jamaica/ruposhi-bangla/
-shop: convenience
+shop: Lebensmittel
 ---

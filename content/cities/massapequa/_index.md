@@ -1,6 +1,6 @@
 ---
 title: Massapequa
 url: /massapequa/
-latitude: 
-longitude: 
+latitude: 40.716
+longitude: -73.483
 ---

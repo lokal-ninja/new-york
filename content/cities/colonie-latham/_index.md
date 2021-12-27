@@ -1,6 +1,6 @@
 ---
 title: Colonie;Latham
 url: /colonie-latham/
-latitude: 
-longitude: 
+latitude: 42.765
+longitude: -73.809
 ---

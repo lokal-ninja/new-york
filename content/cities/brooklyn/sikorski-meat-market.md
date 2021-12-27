@@ -1,5 +1,5 @@
 ---
 title: "Sikorski Meat Market"
 url: /brooklyn/sikorski-meat-market/
-shop: butcher
+shop: Metzgerei
 ---

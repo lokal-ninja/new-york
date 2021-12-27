@@ -1,5 +1,5 @@
 ---
 title: "Agway"
 url: /clinton/agway/
-shop: hardware
+shop: Eisenwaren
 ---

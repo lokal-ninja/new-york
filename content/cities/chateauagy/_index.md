@@ -1,6 +1,6 @@
 ---
 title: Chateauagy
 url: /chateauagy/
-latitude: 
-longitude: 
+latitude: 44.927
+longitude: -74.078
 ---

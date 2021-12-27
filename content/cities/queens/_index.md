@@ -1,6 +1,6 @@
 ---
 title: Queens
 url: /queens/
-latitude: 40.7135078
-longitude: -73.82831320000001
+latitude: 40.749
+longitude: -73.887
 ---

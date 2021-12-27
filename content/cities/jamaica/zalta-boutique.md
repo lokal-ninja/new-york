@@ -1,5 +1,5 @@
 ---
 title: "Zalta Boutique"
 url: /jamaica/zalta-boutique/
-shop: clothes
+shop: Kleidung
 ---

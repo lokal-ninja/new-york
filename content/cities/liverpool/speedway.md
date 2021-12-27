@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /liverpool/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

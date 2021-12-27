@@ -1,6 +1,6 @@
 ---
 title: Melville
 url: /melville/
-latitude: 40.793432200000005
-longitude: -73.4151214
+latitude: 40.812
+longitude: -73.409
 ---

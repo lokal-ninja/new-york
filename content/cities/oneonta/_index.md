@@ -1,6 +1,6 @@
 ---
 title: Oneonta
 url: /oneonta/
-latitude: 
-longitude: 
+latitude: 42.454
+longitude: -75.06
 ---

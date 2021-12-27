@@ -1,5 +1,5 @@
 ---
 title: "The Sting"
 url: /oswego/the-sting/
-shop: clothes
+shop: Kleidung
 ---

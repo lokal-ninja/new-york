@@ -1,6 +1,6 @@
 ---
 title: Blauvelt
 url: /blauvelt/
-latitude: 41.0634299
-longitude: -73.9576378
+latitude: 41.063
+longitude: -73.951
 ---

@@ -1,6 +1,6 @@
 ---
 title: Akron
 url: /akron/
-latitude: 
-longitude: 
+latitude: 42.999
+longitude: -78.504
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
 url: /queensbury/stewarts-shops/
-shop: convenience
+shop: Lebensmittel
 ---

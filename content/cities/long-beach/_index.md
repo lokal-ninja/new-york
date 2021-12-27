@@ -1,6 +1,6 @@
 ---
 title: Long Beach
 url: /long-beach/
-latitude: 40.5885508
-longitude: -73.6582631
+latitude: 40.588
+longitude: -73.666
 ---

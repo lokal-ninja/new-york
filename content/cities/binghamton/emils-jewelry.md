@@ -1,5 +1,5 @@
 ---
 title: "Emil's Jewelry"
 url: /binghamton/emils-jewelry/
-shop: jewelry
+shop: Schmuck
 ---

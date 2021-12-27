@@ -1,6 +1,6 @@
 ---
 title: Middle Village
 url: /middle-village/
-latitude: 42.833128800000004
-longitude: -74.8298717
+latitude: 40.713
+longitude: -73.896
 ---

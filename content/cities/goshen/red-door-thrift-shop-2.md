@@ -1,5 +1,5 @@
 ---
 title: "Red Door Thrift Shop"
 url: /goshen/red-door-thrift-shop-2/
-shop: charity
+shop: Gebrauchtwaren
 ---

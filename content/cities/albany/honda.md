@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /albany/honda/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tannerville
 url: /tannerville/
-latitude: 
-longitude: 
+latitude: 42.191
+longitude: -74.167
 ---

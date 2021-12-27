@@ -1,5 +1,5 @@
 ---
 title: "AP Deli"
 url: /lynbrook/ap-deli/
-shop: deli
+shop: Feinkost
 ---

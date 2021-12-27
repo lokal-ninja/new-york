@@ -1,6 +1,6 @@
 ---
 title: Pleasant Valley
 url: /pleasant-valley/
-latitude: 41.7445382
-longitude: -73.8212439
+latitude: 41.744
+longitude: -73.824
 ---

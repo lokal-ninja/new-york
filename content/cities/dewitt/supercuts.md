@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /dewitt/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lake+Placid
 url: /lake-placid/
-latitude: 
-longitude: 
+latitude: 44.282
+longitude: -73.982
 ---

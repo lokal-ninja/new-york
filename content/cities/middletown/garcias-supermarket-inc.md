@@ -1,5 +1,5 @@
 ---
 title: "Garcia's Supermarket, Inc."
 url: /middletown/garcias-supermarket-inc/
-shop: supermarket
+shop: Supermarkt
 ---

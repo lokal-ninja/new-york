@@ -1,5 +1,5 @@
 ---
 title: "Meurice Garment Care"
 url: /manhasset/meurice-garment-care/
-shop: laundry
+shop: Wäscherei
 ---

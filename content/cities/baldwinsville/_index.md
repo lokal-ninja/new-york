@@ -1,6 +1,6 @@
 ---
 title: Baldwinsville
 url: /baldwinsville/
-latitude: 43.158679
-longitude: -76.33271
+latitude: 43.154
+longitude: -76.352
 ---

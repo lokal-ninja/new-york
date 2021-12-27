@@ -1,6 +1,6 @@
 ---
 title: Ancramdale
 url: /ancramdale/
-latitude: 42.0181473
-longitude: -73.5912358
+latitude: 42.018
+longitude: -73.591
 ---

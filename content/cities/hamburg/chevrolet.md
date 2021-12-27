@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /hamburg/chevrolet/
-shop: car
+shop: Autohaus
 ---

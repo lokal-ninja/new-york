@@ -1,6 +1,6 @@
 ---
 title: Syosset
 url: /syosset/
-latitude: 40.826210100000004
-longitude: -73.50206800000001
+latitude: 40.797
+longitude: -73.517
 ---

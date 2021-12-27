@@ -1,6 +1,6 @@
 ---
 title: Stony Brook
 url: /stony-brook/
-latitude: 40.9256538
-longitude: -73.14094300000001
+latitude: 40.873
+longitude: -73.128
 ---

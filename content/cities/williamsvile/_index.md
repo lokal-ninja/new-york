@@ -1,6 +1,6 @@
 ---
 title: Williamsvile
 url: /williamsvile/
-latitude: 
-longitude: 
+latitude: 42.965
+longitude: -78.689
 ---

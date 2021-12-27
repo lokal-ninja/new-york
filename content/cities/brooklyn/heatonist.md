@@ -1,5 +1,5 @@
 ---
 title: "Heatonist"
 url: /brooklyn/heatonist/
-shop: deli
+shop: Feinkost
 ---

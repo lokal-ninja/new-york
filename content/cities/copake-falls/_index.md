@@ -1,6 +1,6 @@
 ---
 title: Copake Falls
 url: /copake-falls/
-latitude: 42.1203043
-longitude: -73.52395820000001
+latitude: 42.117
+longitude: -73.531
 ---

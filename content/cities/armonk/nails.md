@@ -1,5 +1,5 @@
 ---
 title: "Nails"
 url: /armonk/nails/
-shop: beauty
+shop: Kosmetik
 ---

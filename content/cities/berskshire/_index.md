@@ -1,6 +1,6 @@
 ---
 title: Berskshire
 url: /berskshire/
-latitude: 
-longitude: 
+latitude: 42.306
+longitude: -76.251
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Generation Records"
 url: /new-york/generation-records/
-shop: music
+shop: Musik
 ---

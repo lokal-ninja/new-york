@@ -1,6 +1,6 @@
 ---
 title: Franklin Square
 url: /franklin-square/
-latitude: 40.7074705
-longitude: -73.6759392
+latitude: 40.707
+longitude: -73.669
 ---

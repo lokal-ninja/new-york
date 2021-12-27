@@ -1,5 +1,5 @@
 ---
 title: "Tibet Shop"
 url: /ithaca/tibet-shop/
-shop: gift
+shop: Andenken
 ---

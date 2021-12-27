@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /croton-on-hudson/mobil-mart/
-shop: convenience
+shop: Lebensmittel
 ---

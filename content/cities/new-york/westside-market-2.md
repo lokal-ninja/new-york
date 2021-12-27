@@ -1,5 +1,5 @@
 ---
 title: "Westside Market"
 url: /new-york/westside-market-2/
-shop: supermarket
+shop: Supermarkt
 ---

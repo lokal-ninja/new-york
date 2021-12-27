@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Landscaping"
 url: /uniondale/evergreen-landscaping/
-shop: garden centre
+shop: Garten-Center
 ---

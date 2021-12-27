@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /fayetteville/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

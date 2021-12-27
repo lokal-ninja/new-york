@@ -1,6 +1,6 @@
 ---
 title: Hempstead
 url: /hempstead/
-latitude: 40.7092836
-longitude: -73.6230362
+latitude: 40.716
+longitude: -73.631
 ---

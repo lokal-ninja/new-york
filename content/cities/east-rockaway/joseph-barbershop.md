@@ -1,5 +1,5 @@
 ---
 title: "Joseph Barbershop"
 url: /east-rockaway/joseph-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /dix-hills/cvs-pharmacy/
-shop: convenience
+shop: Lebensmittel
 ---

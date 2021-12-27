@@ -1,6 +1,6 @@
 ---
 title: Maybrook
 url: /maybrook/
-latitude: 41.483982700000006
-longitude: -74.2176487
+latitude: 41.498
+longitude: -74.207
 ---

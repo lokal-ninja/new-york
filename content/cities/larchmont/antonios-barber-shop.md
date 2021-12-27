@@ -1,5 +1,5 @@
 ---
 title: "Antonio's Barber Shop"
 url: /larchmont/antonios-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

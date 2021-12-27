@@ -1,6 +1,6 @@
 ---
 title: Jamaica
 url: /jamaica/
-latitude: 
-longitude: 
+latitude: 40.709
+longitude: -73.805
 ---

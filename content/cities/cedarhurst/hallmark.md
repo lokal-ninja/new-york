@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /cedarhurst/hallmark/
-shop: gift
+shop: Andenken
 ---

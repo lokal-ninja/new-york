@@ -1,6 +1,6 @@
 ---
 title: St. James
 url: /st-james/
-latitude: 40.8789871
-longitude: -73.1567778
+latitude: 40.888
+longitude: -73.162
 ---

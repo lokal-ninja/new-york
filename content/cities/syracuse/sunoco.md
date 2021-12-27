@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /syracuse/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

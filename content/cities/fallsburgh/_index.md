@@ -1,6 +1,6 @@
 ---
 title: Fallsburgh
 url: /fallsburgh/
-latitude: 
-longitude: 
+latitude: 41.731
+longitude: -74.605
 ---

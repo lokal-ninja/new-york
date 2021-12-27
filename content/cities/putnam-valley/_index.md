@@ -1,6 +1,6 @@
 ---
 title: Putnam Valley
 url: /putnam-valley/
-latitude: 41.3359272
-longitude: -73.8740252
+latitude: 41.379
+longitude: -73.856
 ---

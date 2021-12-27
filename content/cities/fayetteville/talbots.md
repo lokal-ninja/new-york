@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /fayetteville/talbots/
-shop: clothes
+shop: Kleidung
 ---

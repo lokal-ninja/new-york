@@ -1,5 +1,5 @@
 ---
 title: "VP Memorabilia"
 url: /farmingdale/vp-memorabilia/
-shop: copyshop
+shop: Kopieren
 ---

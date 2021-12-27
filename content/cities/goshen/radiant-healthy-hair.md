@@ -1,5 +1,5 @@
 ---
 title: "Radiant Healthy Hair"
 url: /goshen/radiant-healthy-hair/
-shop: hairdresser
+shop: Friseur
 ---

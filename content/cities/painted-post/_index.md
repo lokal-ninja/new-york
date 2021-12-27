@@ -1,6 +1,6 @@
 ---
 title: Painted Post
 url: /painted-post/
-latitude: 
-longitude: 
+latitude: 42.156
+longitude: -77.107
 ---

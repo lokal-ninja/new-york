@@ -1,5 +1,5 @@
 ---
 title: "Nails"
 url: /new-york/nails/
-shop: beauty
+shop: Kosmetik
 ---

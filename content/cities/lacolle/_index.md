@@ -1,6 +1,6 @@
 ---
 title: Lacolle
 url: /lacolle/
-latitude: 
-longitude: 
+latitude: 45.014
+longitude: -73.371
 ---

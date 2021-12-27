@@ -1,5 +1,5 @@
 ---
 title: "Burning Question Tattoo"
 url: /buffalo/burning-question-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

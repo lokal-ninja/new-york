@@ -1,6 +1,6 @@
 ---
 title: Friendship
 url: /friendship/
-latitude: 42.2064566
-longitude: -78.13750990000001
+latitude: 42.203
+longitude: -78.149
 ---

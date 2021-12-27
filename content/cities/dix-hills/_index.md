@@ -1,6 +1,6 @@
 ---
 title: Dix Hills
 url: /dix-hills/
-latitude: 40.8048207
-longitude: -73.3362298
+latitude: 40.795
+longitude: -73.375
 ---

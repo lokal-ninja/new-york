@@ -1,5 +1,5 @@
 ---
 title: "Wiedy's Furniture"
 url: /kingston/wiedys-furniture/
-shop: furniture
+shop: Möbel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Far Rockaway
 url: /far-rockaway/
-latitude: 40.605382500000005
-longitude: -73.75513260000001
+latitude: 40.608
+longitude: -73.751
 ---

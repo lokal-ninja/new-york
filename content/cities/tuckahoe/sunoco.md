@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /tuckahoe/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

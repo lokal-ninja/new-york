@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /geneseo/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

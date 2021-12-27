@@ -1,5 +1,5 @@
 ---
 title: "Midtown Wine and Spirits"
 url: /ballston-spa/midtown-wine-and-spirits/
-shop: alcohol
+shop: Spirituosen
 ---

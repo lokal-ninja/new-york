@@ -1,6 +1,6 @@
 ---
 title: barryville
 url: /barryville/
-latitude: 
-longitude: 
+latitude: 41.479
+longitude: -74.917
 ---

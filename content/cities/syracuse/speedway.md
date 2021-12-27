@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /syracuse/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

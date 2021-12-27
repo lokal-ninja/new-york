@@ -1,5 +1,5 @@
 ---
 title: "The Meat Hook"
 url: /brooklyn/the-meat-hook/
-shop: butcher
+shop: Metzgerei
 ---

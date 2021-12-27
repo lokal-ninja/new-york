@@ -1,5 +1,5 @@
 ---
 title: "Jembro"
 url: /flushing/jembro/
-shop: clothes
+shop: Kleidung
 ---

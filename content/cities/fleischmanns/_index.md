@@ -1,6 +1,6 @@
 ---
 title: Fleischmanns
 url: /fleischmanns/
-latitude: 42.155513400000004
-longitude: -74.53159210000001
+latitude: 42.155
+longitude: -74.527
 ---

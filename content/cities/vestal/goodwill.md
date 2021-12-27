@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /vestal/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

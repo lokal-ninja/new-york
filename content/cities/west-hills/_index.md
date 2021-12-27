@@ -1,6 +1,6 @@
 ---
 title: West Hills
 url: /west-hills/
-latitude: 40.816209900000004
-longitude: -73.4323438
+latitude: 40.8
+longitude: -73.413
 ---

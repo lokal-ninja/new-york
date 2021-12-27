@@ -1,5 +1,5 @@
 ---
 title: "Wallet Wise Wheels"
 url: /montgomery/wallet-wise-wheels/
-shop: car
+shop: Autohaus
 ---

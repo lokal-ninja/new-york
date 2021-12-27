@@ -1,5 +1,5 @@
 ---
 title: "Ciccarelli"
 url: /valley-stream/ciccarelli/
-shop: tailor
+shop: Schneiderei
 ---

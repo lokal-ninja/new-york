@@ -1,6 +1,6 @@
 ---
 title: Rouses Point
 url: /rouses-point/
-latitude: 44.99394
-longitude: -73.36498300000001
+latitude: 44.983
+longitude: -73.364
 ---

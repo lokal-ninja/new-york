@@ -1,6 +1,6 @@
 ---
 title: Elmsford
 url: /elmsford/
-latitude: 41.0550969
-longitude: -73.82013380000001
+latitude: 41.048
+longitude: -73.809
 ---

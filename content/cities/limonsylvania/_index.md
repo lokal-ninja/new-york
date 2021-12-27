@@ -1,6 +1,6 @@
 ---
 title: Limonsylvania
 url: /limonsylvania/
-latitude: 
-longitude: 
+latitude: 42.991
+longitude: -78.727
 ---

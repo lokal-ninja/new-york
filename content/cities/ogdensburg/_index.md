@@ -1,6 +1,6 @@
 ---
 title: Ogdensburg
 url: /ogdensburg/
-latitude: 44.694285
-longitude: -75.486374
+latitude: 44.7
+longitude: -75.487
 ---

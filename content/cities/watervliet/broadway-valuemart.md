@@ -1,5 +1,5 @@
 ---
 title: "Broadway Valuemart"
 url: /watervliet/broadway-valuemart/
-shop: convenience
+shop: Lebensmittel
 ---

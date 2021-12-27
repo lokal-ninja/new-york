@@ -1,6 +1,6 @@
 ---
 title: Hollis
 url: /hollis/
-latitude: 40.7134361
-longitude: -73.7670772
+latitude: 40.715
+longitude: -73.773
 ---

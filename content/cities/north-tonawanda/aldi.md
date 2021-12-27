@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /north-tonawanda/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

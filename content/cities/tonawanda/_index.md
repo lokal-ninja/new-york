@@ -1,6 +1,6 @@
 ---
 title: Tonawanda
 url: /tonawanda/
-latitude: 43.020679
-longitude: -78.878383
+latitude: 43.013
+longitude: -78.898
 ---

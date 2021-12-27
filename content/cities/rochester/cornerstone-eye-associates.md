@@ -1,5 +1,5 @@
 ---
 title: "Cornerstone Eye Associates"
 url: /rochester/cornerstone-eye-associates/
-shop: optician
+shop: Optiker
 ---

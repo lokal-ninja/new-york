@@ -1,5 +1,5 @@
 ---
 title: "Reeds / Jenss"
 url: /victor/reeds-jenss/
-shop: jewelry
+shop: Schmuck
 ---

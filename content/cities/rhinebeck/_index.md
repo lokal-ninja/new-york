@@ -1,6 +1,6 @@
 ---
 title: Rhinebeck
 url: /rhinebeck/
-latitude: 41.9268754
-longitude: -73.9126639
+latitude: 41.927
+longitude: -73.912
 ---

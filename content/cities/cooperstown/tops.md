@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /cooperstown/tops/
-shop: supermarket
+shop: Supermarkt
 ---

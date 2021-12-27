@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /orchard-park/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

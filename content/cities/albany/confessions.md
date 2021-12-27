@@ -1,5 +1,5 @@
 ---
 title: "Confessions"
 url: /albany/confessions/
-shop: beauty
+shop: Kosmetik
 ---

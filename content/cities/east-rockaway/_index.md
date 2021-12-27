@@ -1,6 +1,6 @@
 ---
 title: East Rockaway
 url: /east-rockaway/
-latitude: 40.641529600000005
-longitude: -73.6656011
+latitude: 40.649
+longitude: -73.666
 ---

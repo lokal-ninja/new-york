@@ -1,6 +1,6 @@
 ---
 title: Setauket
 url: /setauket/
-latitude: 40.9355473
-longitude: -73.1188824
+latitude: 40.944
+longitude: -73.101
 ---

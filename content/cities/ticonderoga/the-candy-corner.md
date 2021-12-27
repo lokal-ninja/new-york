@@ -1,5 +1,5 @@
 ---
 title: "The Candy Corner"
 url: /ticonderoga/the-candy-corner/
-shop: confectionery
+shop: Süßwaren
 ---

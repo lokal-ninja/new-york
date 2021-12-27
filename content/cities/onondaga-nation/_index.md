@@ -1,6 +1,6 @@
 ---
 title: Onondaga Nation
 url: /onondaga-nation/
-latitude: 
-longitude: 
+latitude: 42.965
+longitude: -76.142
 ---

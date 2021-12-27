@@ -1,6 +1,6 @@
 ---
 title: New City
 url: /new-city/
-latitude: 41.1469917
-longitude: -73.9902998
+latitude: 41.141
+longitude: -73.989
 ---

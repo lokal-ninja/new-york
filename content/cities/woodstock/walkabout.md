@@ -1,5 +1,5 @@
 ---
 title: "Walkabout"
 url: /woodstock/walkabout/
-shop: clothes
+shop: Kleidung
 ---

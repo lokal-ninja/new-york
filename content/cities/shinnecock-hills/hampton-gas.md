@@ -1,5 +1,5 @@
 ---
 title: "Hampton Gas"
 url: /shinnecock-hills/hampton-gas/
-shop: convenience
+shop: Lebensmittel
 ---

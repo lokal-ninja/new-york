@@ -1,5 +1,5 @@
 ---
 title: "Miracle Nails"
 url: /liverpool/miracle-nails/
-shop: beauty
+shop: Kosmetik
 ---

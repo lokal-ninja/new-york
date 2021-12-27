@@ -1,5 +1,5 @@
 ---
 title: "Forest Laundry"
 url: /locust-valley/forest-laundry/
-shop: laundry
+shop: Wäscherei
 ---

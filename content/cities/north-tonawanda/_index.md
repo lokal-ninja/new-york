@@ -1,6 +1,6 @@
 ---
 title: North Tonawanda
 url: /north-tonawanda/
-latitude: 43.0407742
-longitude: -78.86605270000001
+latitude: 43.038
+longitude: -78.861
 ---

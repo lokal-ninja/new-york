@@ -1,6 +1,6 @@
 ---
 title: Slate Hill
 url: /slate-hill/
-latitude: 41.3909274
-longitude: -74.4765471
+latitude: 41.39
+longitude: -74.475
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hudson Falls
 url: /hudson-falls/
-latitude: 43.300697
-longitude: -73.586082
+latitude: 43.32
+longitude: -73.573
 ---

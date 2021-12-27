@@ -1,6 +1,6 @@
 ---
 title: East Atlantic Beach
 url: /east-atlantic-beach/
-latitude: 
-longitude: 
+latitude: 40.586
+longitude: -73.7
 ---

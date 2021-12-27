@@ -1,6 +1,6 @@
 ---
 title: Copake
 url: /copake/
-latitude: 42.1035545
-longitude: -73.5496591
+latitude: 42.087
+longitude: -73.543
 ---

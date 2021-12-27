@@ -1,6 +1,6 @@
 ---
 title: Frankfort
 url: /frankfort/
-latitude: 43.038959000000006
-longitude: -75.070436
+latitude: 43.038
+longitude: -75.069
 ---

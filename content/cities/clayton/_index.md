@@ -1,6 +1,6 @@
 ---
 title: Clayton
 url: /clayton/
-latitude: 44.239491
-longitude: -76.08577600000001
+latitude: 44.242
+longitude: -76.088
 ---

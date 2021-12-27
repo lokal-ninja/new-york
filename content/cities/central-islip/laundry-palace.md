@@ -1,5 +1,5 @@
 ---
 title: "Laundry Palace"
 url: /central-islip/laundry-palace/
-shop: laundry
+shop: Wäscherei
 ---

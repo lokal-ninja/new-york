@@ -1,6 +1,6 @@
 ---
 title: Mohegan Lake
 url: /mohegan-lake/
-latitude: 41.3184272
-longitude: -73.8590248
+latitude: 41.311
+longitude: -73.872
 ---

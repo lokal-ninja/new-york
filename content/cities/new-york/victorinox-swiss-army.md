@@ -1,5 +1,5 @@
 ---
 title: "Victorinox Swiss Army"
 url: /new-york/victorinox-swiss-army/
-shop: shop
+shop: Allgemein
 ---

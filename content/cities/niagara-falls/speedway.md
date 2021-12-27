@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /niagara-falls/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Halfmoon
 url: /halfmoon/
-latitude: 42.8275774
-longitude: -73.71789670000001
+latitude: 42.879
+longitude: -73.723
 ---

@@ -1,6 +1,6 @@
 ---
 title: Colonie
 url: /colonie/
-latitude: 42.7178558
-longitude: -73.8334554
+latitude: 42.71
+longitude: -73.815
 ---

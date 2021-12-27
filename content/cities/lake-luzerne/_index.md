@@ -1,6 +1,6 @@
 ---
 title: Lake+Luzerne
 url: /lake-luzerne/
-latitude: 
-longitude: 
+latitude: 43.262
+longitude: -73.832
 ---

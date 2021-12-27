@@ -1,5 +1,5 @@
 ---
 title: "Hoselton Chevrolet"
 url: /east-rochester/hoselton-chevrolet/
-shop: car
+shop: Autohaus
 ---

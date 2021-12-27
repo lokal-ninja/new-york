@@ -1,6 +1,6 @@
 ---
 title: Geneva
 url: /geneva/
-latitude: 42.869027100000004
-longitude: -76.9786122
+latitude: 42.868
+longitude: -76.983
 ---

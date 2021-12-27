@@ -1,6 +1,6 @@
 ---
 title: Hawthorne
 url: /hawthorne/
-latitude: 41.107318400000004
-longitude: -73.79596670000001
+latitude: 41.098
+longitude: -73.809
 ---

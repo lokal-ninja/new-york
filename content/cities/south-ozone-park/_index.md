@@ -1,6 +1,6 @@
 ---
 title: South Ozone Park
 url: /south-ozone-park/
-latitude: 40.6701035
-longitude: -73.81902310000001
+latitude: 40.677
+longitude: -73.827
 ---

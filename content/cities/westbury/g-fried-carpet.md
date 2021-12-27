@@ -1,5 +1,5 @@
 ---
 title: "G. Fried Carpet"
 url: /westbury/g-fried-carpet/
-shop: carpet
+shop: Teppiche
 ---

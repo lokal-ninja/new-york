@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /east-syracuse/rite-aid/
-shop: chemist
+shop: Drogerie
 ---

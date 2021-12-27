@@ -1,6 +1,6 @@
 ---
 title: bohemia
 url: /bohemia/
-latitude: 
-longitude: 
+latitude: 40.779
+longitude: -73.088
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pound Ridge
 url: /pound-ridge/
-latitude: 41.2087066
-longitude: -73.5748483
+latitude: 41.19
+longitude: -73.549
 ---

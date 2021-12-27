@@ -1,6 +1,6 @@
 ---
 title: Cornwall-On-Hudson
 url: /cornwall-on-hudson/
-latitude: 
-longitude: 
+latitude: 41.444
+longitude: -74.021
 ---

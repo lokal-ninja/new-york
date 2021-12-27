@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
 url: /saratoga-springs/stewarts-shops-2/
-shop: convenience
+shop: Lebensmittel
 ---

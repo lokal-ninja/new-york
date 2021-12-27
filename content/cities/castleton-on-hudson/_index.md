@@ -1,6 +1,6 @@
 ---
 title: Castleton On Hudson
 url: /castleton-on-hudson/
-latitude: 
-longitude: 
+latitude: 42.563
+longitude: -73.681
 ---

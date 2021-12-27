@@ -1,6 +1,6 @@
 ---
 title: Mount Morris
 url: /mount-morris/
-latitude: 42.7256184
-longitude: -77.87416950000001
+latitude: 42.728
+longitude: -77.868
 ---

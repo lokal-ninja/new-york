@@ -1,6 +1,6 @@
 ---
 title: Youngstown
 url: /youngstown/
-latitude: 43.2474804
-longitude: -79.0501083
+latitude: 43.25
+longitude: -79.049
 ---

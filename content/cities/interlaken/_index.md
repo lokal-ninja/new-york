@@ -1,6 +1,6 @@
 ---
 title: Interlaken
 url: /interlaken/
-latitude: 42.6170155
-longitude: -76.72495020000001
+latitude: 42.64
+longitude: -76.693
 ---

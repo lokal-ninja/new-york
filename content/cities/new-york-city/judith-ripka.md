@@ -1,5 +1,5 @@
 ---
 title: "Judith Ripka"
 url: /new-york-city/judith-ripka/
-shop: clothes
+shop: Kleidung
 ---

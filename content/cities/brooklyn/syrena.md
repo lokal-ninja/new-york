@@ -1,5 +1,5 @@
 ---
 title: "Syrena"
 url: /brooklyn/syrena/
-shop: bakery
+shop: Bäckerei
 ---

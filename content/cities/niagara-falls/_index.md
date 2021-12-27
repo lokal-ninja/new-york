@@ -1,6 +1,6 @@
 ---
 title: Niagara Falls
 url: /niagara-falls/
-latitude: 43.084360000000004
-longitude: -79.06146860000001
+latitude: 43.082
+longitude: -79.071
 ---

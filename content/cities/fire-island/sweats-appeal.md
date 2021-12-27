@@ -1,5 +1,5 @@
 ---
 title: "Sweats Appeal"
 url: /fire-island/sweats-appeal/
-shop: clothes
+shop: Kleidung
 ---

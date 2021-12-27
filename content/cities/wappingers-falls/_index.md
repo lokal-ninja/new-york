@@ -1,6 +1,6 @@
 ---
 title: Wappingers Falls
 url: /wappingers-falls/
-latitude: 41.5965635
-longitude: -73.91121030000001
+latitude: 41.615
+longitude: -73.916
 ---

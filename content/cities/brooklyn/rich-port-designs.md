@@ -1,5 +1,5 @@
 ---
 title: "Rich Port Designs"
 url: /brooklyn/rich-port-designs/
-shop: furniture
+shop: Möbel
 ---

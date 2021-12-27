@@ -1,5 +1,5 @@
 ---
 title: "Deli"
 url: /the-bronx/deli/
-shop: supermarket
+shop: Supermarkt
 ---

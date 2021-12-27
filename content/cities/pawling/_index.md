@@ -1,6 +1,6 @@
 ---
 title: Pawling
 url: /pawling/
-latitude: 41.5620381
-longitude: -73.6026271
+latitude: 41.562
+longitude: -73.6
 ---

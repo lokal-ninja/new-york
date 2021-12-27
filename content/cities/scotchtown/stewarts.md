@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /scotchtown/stewarts/
-shop: convenience
+shop: Lebensmittel
 ---

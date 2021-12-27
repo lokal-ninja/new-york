@@ -1,5 +1,5 @@
 ---
 title: "Polonaise"
 url: /syracuse/polonaise/
-shop: deli
+shop: Feinkost
 ---

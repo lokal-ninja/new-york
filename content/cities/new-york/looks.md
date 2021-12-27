@@ -1,5 +1,5 @@
 ---
 title: "Looks"
 url: /new-york/looks/
-shop: hairdresser
+shop: Friseur
 ---

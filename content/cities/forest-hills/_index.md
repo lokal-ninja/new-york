@@ -1,6 +1,6 @@
 ---
 title: Forest Hills
 url: /forest-hills/
-latitude: 
-longitude: 
+latitude: 40.726
+longitude: -73.851
 ---

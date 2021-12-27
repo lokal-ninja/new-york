@@ -1,6 +1,6 @@
 ---
 title: Grand Gorge
 url: /grand-gorge/
-latitude: 42.3578599
-longitude: -74.508483
+latitude: 42.352
+longitude: -74.469
 ---

@@ -1,6 +1,6 @@
 ---
 title: North Syracuse
 url: /north-syracuse/
-latitude: 43.13479
-longitude: -76.129924
+latitude: 43.125
+longitude: -76.112
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sea Cliff
 url: /sea-cliff/
-latitude: 40.849155800000005
-longitude: -73.6448431
+latitude: 40.846
+longitude: -73.636
 ---

@@ -1,6 +1,6 @@
 ---
 title: Farmingville
 url: /farmingville/
-latitude: 40.8312096
-longitude: -73.02955200000001
+latitude: 40.832
+longitude: -73.031
 ---

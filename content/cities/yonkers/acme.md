@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /yonkers/acme/
-shop: supermarket
+shop: Supermarkt
 ---

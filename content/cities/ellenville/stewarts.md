@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /ellenville/stewarts/
-shop: convenience
+shop: Lebensmittel
 ---

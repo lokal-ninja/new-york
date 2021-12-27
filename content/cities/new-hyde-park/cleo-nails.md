@@ -1,5 +1,5 @@
 ---
 title: "Cleo Nails"
 url: /new-hyde-park/cleo-nails/
-shop: beauty
+shop: Kosmetik
 ---

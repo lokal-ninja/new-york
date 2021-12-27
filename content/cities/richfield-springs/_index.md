@@ -1,6 +1,6 @@
 ---
 title: Richfield+Springs
 url: /richfield-springs/
-latitude: 
-longitude: 
+latitude: 42.853
+longitude: -74.983
 ---

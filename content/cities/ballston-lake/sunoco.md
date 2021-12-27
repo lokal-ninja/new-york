@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /ballston-lake/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

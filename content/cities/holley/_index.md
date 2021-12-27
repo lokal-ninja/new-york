@@ -1,6 +1,6 @@
 ---
 title: Holley
 url: /holley/
-latitude: 43.226806
-longitude: -78.02715500000001
+latitude: 43.256
+longitude: -77.999
 ---

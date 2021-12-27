@@ -1,5 +1,5 @@
 ---
 title: "Occasions"
 url: /buffalo/occasions/
-shop: shop
+shop: Allgemein
 ---

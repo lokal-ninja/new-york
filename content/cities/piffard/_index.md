@@ -1,6 +1,6 @@
 ---
 title: Piffard
 url: /piffard/
-latitude: 42.8283957
-longitude: -77.85083750000001
+latitude: 42.87
+longitude: -77.886
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lawrence
 url: /lawrence/
-latitude: 40.615659900000004
-longitude: -73.7295763
+latitude: 40.624
+longitude: -73.737
 ---

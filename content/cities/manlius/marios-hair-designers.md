@@ -1,5 +1,5 @@
 ---
 title: "Mario's Hair Designers"
 url: /manlius/marios-hair-designers/
-shop: hairdresser
+shop: Friseur
 ---

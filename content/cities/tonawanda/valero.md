@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /tonawanda/valero/
-shop: convenience
+shop: Lebensmittel
 ---

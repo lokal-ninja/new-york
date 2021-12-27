@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /albany/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

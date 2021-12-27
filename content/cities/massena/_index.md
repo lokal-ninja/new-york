@@ -1,6 +1,6 @@
 ---
 title: Massena
 url: /massena/
-latitude: 44.928106
-longitude: -74.892082
+latitude: 44.944
+longitude: -74.9
 ---

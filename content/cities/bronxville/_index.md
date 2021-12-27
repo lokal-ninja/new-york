@@ -1,6 +1,6 @@
 ---
 title: Bronxville
 url: /bronxville/
-latitude: 40.9381544
-longitude: -73.8320784
+latitude: 40.944
+longitude: -73.84
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cunningham's Ski Barn"
 url: /north-creek/cunninghams-ski-barn/
-shop: sports
+shop: Sport
 ---

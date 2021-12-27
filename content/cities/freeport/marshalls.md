@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /freeport/marshalls/
-shop: department store
+shop: Warenhaus
 ---

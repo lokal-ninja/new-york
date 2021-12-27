@@ -1,6 +1,6 @@
 ---
 title: Amsterdam
 url: /amsterdam/
-latitude: 42.943367
-longitude: -74.1850436
+latitude: 42.943
+longitude: -74.188
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cohocton
 url: /cohocton/
-latitude: 42.5022907
-longitude: -77.5072102
+latitude: 42.501
+longitude: -77.494
 ---

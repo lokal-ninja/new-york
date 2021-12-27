@@ -1,5 +1,5 @@
 ---
 title: "Ressam"
 url: /brooklyn/ressam/
-shop: beauty
+shop: Kosmetik
 ---

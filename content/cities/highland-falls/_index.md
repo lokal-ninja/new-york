@@ -1,6 +1,6 @@
 ---
 title: Highland Falls
 url: /highland-falls/
-latitude: 41.3692605
-longitude: -73.9662504
+latitude: 41.366
+longitude: -73.965
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sherburne
 url: /sherburne/
-latitude: 42.678126600000006
-longitude: -75.4985123
+latitude: 42.679
+longitude: -75.499
 ---

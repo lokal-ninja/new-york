@@ -1,5 +1,5 @@
 ---
 title: "Artifex"
 url: /vestal/artifex/
-shop: tattoo
+shop: Tattoo
 ---

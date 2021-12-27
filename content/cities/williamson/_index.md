@@ -1,6 +1,6 @@
 ---
 title: Williamson
 url: /williamson/
-latitude: 43.2238186
-longitude: -77.1864012
+latitude: 43.232
+longitude: -77.187
 ---

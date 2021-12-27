@@ -1,6 +1,6 @@
 ---
 title: Bellmore
 url: /bellmore/
-latitude: 
-longitude: 
+latitude: 40.685
+longitude: -73.541
 ---

@@ -1,6 +1,6 @@
 ---
 title: Phoenicia
 url: /phoenicia/
-latitude: 42.0841895
-longitude: -74.3151813
+latitude: 42.083
+longitude: -74.313
 ---

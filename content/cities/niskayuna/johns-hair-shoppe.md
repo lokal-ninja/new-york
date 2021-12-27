@@ -1,5 +1,5 @@
 ---
 title: "John's Hair Shoppe"
 url: /niskayuna/johns-hair-shoppe/
-shop: hairdresser
+shop: Friseur
 ---

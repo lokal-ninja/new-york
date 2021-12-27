@@ -1,6 +1,6 @@
 ---
 title: Gansevoort
 url: /gansevoort/
-latitude: 43.196027
-longitude: -73.65148400000001
+latitude: 43.171
+longitude: -73.718
 ---

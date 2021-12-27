@@ -1,5 +1,5 @@
 ---
 title: "Country Max"
 url: /fairport/country-max/
-shop: garden centre
+shop: Garten-Center
 ---

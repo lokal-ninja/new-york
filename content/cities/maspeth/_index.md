@@ -1,6 +1,6 @@
 ---
 title: Maspeth
 url: /maspeth/
-latitude: 40.723158000000005
-longitude: -73.912637
+latitude: 40.729
+longitude: -73.891
 ---

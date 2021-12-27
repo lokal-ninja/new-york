@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /niagara-falls/aeropostale/
-shop: clothes
+shop: Kleidung
 ---

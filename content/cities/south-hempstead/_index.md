@@ -1,6 +1,6 @@
 ---
 title: South Hempstead
 url: /south-hempstead/
-latitude: 40.6809354
-longitude: -73.6154064
+latitude: 40.69
+longitude: -73.623
 ---

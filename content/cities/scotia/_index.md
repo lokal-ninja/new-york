@@ -1,6 +1,6 @@
 ---
 title: Scotia
 url: /scotia/
-latitude: 42.8264652
-longitude: -73.9642915
+latitude: 42.827
+longitude: -73.964
 ---

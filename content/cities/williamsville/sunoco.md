@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /williamsville/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

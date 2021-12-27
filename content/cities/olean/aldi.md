@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /olean/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

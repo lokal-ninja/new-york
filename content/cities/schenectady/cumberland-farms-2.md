@@ -1,5 +1,5 @@
 ---
 title: "Cumberland Farms"
 url: /schenectady/cumberland-farms-2/
-shop: convenience
+shop: Lebensmittel
 ---

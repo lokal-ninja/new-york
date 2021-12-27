@@ -1,6 +1,6 @@
 ---
 title: Wolcott
 url: /wolcott/
-latitude: 43.220622000000006
-longitude: -76.814958
+latitude: 43.208
+longitude: -76.815
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Johnstone Supply"
 url: /new-york/johnstone-supply/
-shop: wholesale
+shop: Großhandel
 ---

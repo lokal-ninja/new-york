@@ -1,6 +1,6 @@
 ---
 title: Bolton Landing
 url: /bolton-landing/
-latitude: 43.5572898
-longitude: -73.6548408
+latitude: 43.558
+longitude: -73.654
 ---

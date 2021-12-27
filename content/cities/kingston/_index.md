@@ -1,6 +1,6 @@
 ---
 title: Kingston
 url: /kingston/
-latitude: 
-longitude: 
+latitude: 41.929
+longitude: -74.038
 ---

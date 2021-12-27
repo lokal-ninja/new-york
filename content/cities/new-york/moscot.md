@@ -1,5 +1,5 @@
 ---
 title: "Moscot"
 url: /new-york/moscot/
-shop: optician
+shop: Optiker
 ---

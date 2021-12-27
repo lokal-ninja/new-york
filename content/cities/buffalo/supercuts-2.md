@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /buffalo/supercuts-2/
-shop: hairdresser
+shop: Friseur
 ---

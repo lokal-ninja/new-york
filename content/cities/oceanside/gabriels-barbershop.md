@@ -1,5 +1,5 @@
 ---
 title: "Gabriel's Barbershop"
 url: /oceanside/gabriels-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Martin Liquors"
 url: /middletown/martin-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grace Nails"
 url: /sunnyside/grace-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pompey
 url: /pompey/
-latitude: 42.8989556
-longitude: -76.0160326
+latitude: 42.897
+longitude: -76.015
 ---

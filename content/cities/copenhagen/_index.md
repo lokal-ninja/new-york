@@ -1,6 +1,6 @@
 ---
 title: Copenhagen
 url: /copenhagen/
-latitude: 43.893439
-longitude: -75.673828
+latitude: 43.894
+longitude: -75.675
 ---

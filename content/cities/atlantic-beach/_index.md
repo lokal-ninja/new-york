@@ -1,6 +1,6 @@
 ---
 title: Atlantic Beach
 url: /atlantic-beach/
-latitude: 40.5886547
-longitude: -73.7288791
+latitude: 40.589
+longitude: -73.724
 ---

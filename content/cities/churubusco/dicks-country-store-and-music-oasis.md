@@ -1,5 +1,5 @@
 ---
 title: "Dick's Country Store and Music Oasis"
 url: /churubusco/dicks-country-store-and-music-oasis/
-shop: convenience
+shop: Lebensmittel
 ---

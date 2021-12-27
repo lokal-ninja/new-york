@@ -1,6 +1,6 @@
 ---
 title: Pearl River
 url: /pearl-river/
-latitude: 41.058633300000004
-longitude: -74.0218967
+latitude: 41.064
+longitude: -74.012
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fabius
 url: /fabius/
-latitude: 42.835067
-longitude: -75.98603220000001
+latitude: 42.835
+longitude: -75.983
 ---

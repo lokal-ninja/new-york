@@ -1,6 +1,6 @@
 ---
 title: Douglaston
 url: /douglaston/
-latitude: 40.768713000000005
-longitude: -73.7470765
+latitude: 40.768
+longitude: -73.748
 ---

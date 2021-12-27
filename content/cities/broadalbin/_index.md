@@ -1,6 +1,6 @@
 ---
 title: Broadalbin
 url: /broadalbin/
-latitude: 43.075633100000005
-longitude: -74.1534317
+latitude: 43.08
+longitude: -74.13
 ---

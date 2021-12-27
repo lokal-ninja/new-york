@@ -1,6 +1,6 @@
 ---
 title: Stanfordville
 url: /stanfordville/
-latitude: 41.8673152
-longitude: -73.71429540000001
+latitude: 41.864
+longitude: -73.715
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /depew/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

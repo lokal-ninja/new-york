@@ -1,5 +1,5 @@
 ---
 title: "AutoInsure Direct"
 url: /syracuse/autoinsure-direct/
-shop: shop
+shop: Allgemein
 ---

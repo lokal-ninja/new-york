@@ -1,6 +1,6 @@
 ---
 title: Setauket-East Setauket
 url: /setauket-east-setauket/
-latitude: 
-longitude: 
+latitude: 40.938
+longitude: -73.109
 ---

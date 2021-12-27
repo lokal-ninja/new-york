@@ -1,5 +1,5 @@
 ---
 title: "Nichols Discount Liquors"
 url: /liverpool/nichols-discount-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

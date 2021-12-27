@@ -1,6 +1,6 @@
 ---
 title: Millbrook
 url: /millbrook/
-latitude: 41.786503800000006
-longitude: -73.69218670000001
+latitude: 41.785
+longitude: -73.693
 ---

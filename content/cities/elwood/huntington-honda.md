@@ -1,5 +1,5 @@
 ---
 title: "Huntington Honda"
 url: /elwood/huntington-honda/
-shop: car
+shop: Autohaus
 ---

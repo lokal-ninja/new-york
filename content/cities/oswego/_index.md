@@ -1,6 +1,6 @@
 ---
 title: Oswego
 url: /oswego/
-latitude: 43.4112973
-longitude: -76.1279841
+latitude: 43.459
+longitude: -76.508
 ---

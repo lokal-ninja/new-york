@@ -1,6 +1,6 @@
 ---
 title: Jamesport
 url: /jamesport/
-latitude: 40.9495443
-longitude: -72.58148010000001
+latitude: 40.947
+longitude: -72.589
 ---

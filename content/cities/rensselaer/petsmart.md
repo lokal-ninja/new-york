@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /rensselaer/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pan's Nail"
 url: /new-york-city/pans-nail/
-shop: beauty
+shop: Kosmetik
 ---

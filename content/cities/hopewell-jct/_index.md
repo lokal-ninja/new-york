@@ -1,6 +1,6 @@
 ---
 title: Hopewell Jct
 url: /hopewell-jct/
-latitude: 
-longitude: 
+latitude: 41.581
+longitude: -73.813
 ---

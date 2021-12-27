@@ -1,6 +1,6 @@
 ---
 title: Brownville
 url: /brownville/
-latitude: 41.7998155
-longitude: -74.3807086
+latitude: 44.002
+longitude: -75.984
 ---

@@ -1,6 +1,6 @@
 ---
 title: Palatine+Bridge
 url: /palatine-bridge/
-latitude: 
-longitude: 
+latitude: 42.911
+longitude: -74.571
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One-Eleven Boutique"
 url: /albany/one-eleven-boutique/
-shop: clothes
+shop: Kleidung
 ---

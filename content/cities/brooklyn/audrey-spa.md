@@ -1,5 +1,5 @@
 ---
 title: "Audrey Spa"
 url: /brooklyn/audrey-spa/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hairkiller"
 url: /middletown/hairkiller/
-shop: hairdresser
+shop: Friseur
 ---

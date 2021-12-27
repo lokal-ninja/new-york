@@ -1,5 +1,5 @@
 ---
 title: "Happylife Productions"
 url: /woodstock/happylife-productions/
-shop: gift
+shop: Andenken
 ---

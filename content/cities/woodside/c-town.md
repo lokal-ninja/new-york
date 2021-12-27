@@ -1,5 +1,5 @@
 ---
 title: "C-Town"
 url: /woodside/c-town/
-shop: supermarket
+shop: Supermarkt
 ---

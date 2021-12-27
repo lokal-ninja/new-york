@@ -1,6 +1,6 @@
 ---
 title: Pine+Bush
 url: /pine-bush/
-latitude: 
-longitude: 
+latitude: 41.603
+longitude: -74.302
 ---

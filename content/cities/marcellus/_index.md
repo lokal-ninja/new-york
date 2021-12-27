@@ -1,6 +1,6 @@
 ---
 title: Marcellus
 url: /marcellus/
-latitude: 42.955654900000006
-longitude: -76.32494240000001
+latitude: 42.979
+longitude: -76.326
 ---

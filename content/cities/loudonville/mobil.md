@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /loudonville/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

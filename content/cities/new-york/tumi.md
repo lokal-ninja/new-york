@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /new-york/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

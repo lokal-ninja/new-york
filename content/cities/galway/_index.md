@@ -1,6 +1,6 @@
 ---
 title: Galway
 url: /galway/
-latitude: 43.0186858
-longitude: -74.0315162
+latitude: 43.019
+longitude: -74.031
 ---

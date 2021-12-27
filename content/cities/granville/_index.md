@@ -1,6 +1,6 @@
 ---
 title: Granville
 url: /granville/
-latitude: 43.408041000000004
-longitude: -73.259583
+latitude: 43.403
+longitude: -73.266
 ---

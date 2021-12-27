@@ -1,6 +1,6 @@
 ---
 title: Glens Falls
 url: /glens-falls/
-latitude: 43.309941
-longitude: -73.644447
+latitude: 43.322
+longitude: -73.643
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /gates/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

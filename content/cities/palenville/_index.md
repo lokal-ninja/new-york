@@ -1,6 +1,6 @@
 ---
 title: Palenville
 url: /palenville/
-latitude: 42.1745334
-longitude: -74.02013550000001
+latitude: 42.176
+longitude: -74.022
 ---

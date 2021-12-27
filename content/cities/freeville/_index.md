@@ -1,6 +1,6 @@
 ---
 title: Freeville
 url: /freeville/
-latitude: 42.512807
-longitude: -76.3464675
+latitude: 42.531
+longitude: -76.419
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /syracuse/tops-2/
-shop: supermarket
+shop: Supermarkt
 ---

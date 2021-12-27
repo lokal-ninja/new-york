@@ -1,6 +1,6 @@
 ---
 title: Whitestone
 url: /whitestone/
-latitude: 40.7945457
-longitude: -73.8184674
+latitude: 40.79
+longitude: -73.812
 ---

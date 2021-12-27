@@ -1,6 +1,6 @@
 ---
 title: Uniondale
 url: /uniondale/
-latitude: 40.709582700000006
-longitude: -73.592341
+latitude: 40.702
+longitude: -73.593
 ---

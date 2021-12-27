@@ -1,6 +1,6 @@
 ---
 title: Richmond Hill
 url: /richmond-hill/
-latitude: 40.6994253
-longitude: -73.8309672
+latitude: 40.694
+longitude: -73.827
 ---

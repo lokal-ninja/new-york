@@ -1,6 +1,6 @@
 ---
 title: Rexrford
 url: /rexrford/
-latitude: 
-longitude: 
+latitude: 42.876
+longitude: -73.876
 ---

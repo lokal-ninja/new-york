@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /ticonderoga/walgreens/
-shop: chemist
+shop: Drogerie
 ---

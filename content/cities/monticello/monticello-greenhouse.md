@@ -1,5 +1,5 @@
 ---
 title: "Monticello Greenhouse"
 url: /monticello/monticello-greenhouse/
-shop: florist
+shop: Blumen
 ---

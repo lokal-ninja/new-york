@@ -1,5 +1,5 @@
 ---
 title: "Weichert Realtors Performance Homes"
 url: /farmingdale/weichert-realtors-performance-homes/
-shop: estate agent
+shop: Immobilien
 ---

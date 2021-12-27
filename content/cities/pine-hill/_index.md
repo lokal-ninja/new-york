@@ -1,6 +1,6 @@
 ---
 title: Pine Hill
 url: /pine-hill/
-latitude: 42.1334121
-longitude: -74.479341
+latitude: 42.132
+longitude: -74.478
 ---

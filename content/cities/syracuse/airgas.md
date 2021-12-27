@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /syracuse/airgas/
-shop: gas
+shop: Gasflaschen
 ---

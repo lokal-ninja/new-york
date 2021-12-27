@@ -1,5 +1,5 @@
 ---
 title: "Aubuchon Hardware"
 url: /ticonderoga/aubuchon-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

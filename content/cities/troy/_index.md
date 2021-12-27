@@ -1,6 +1,6 @@
 ---
 title: Troy
 url: /troy/
-latitude: 42.7284117
-longitude: -73.6917878
+latitude: 42.715
+longitude: -73.694
 ---

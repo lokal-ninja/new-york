@@ -1,6 +1,6 @@
 ---
 title: Cold Spring
 url: /cold-spring/
-latitude: 43.671453
-longitude: -73.4067818
+latitude: 41.418
+longitude: -73.953
 ---

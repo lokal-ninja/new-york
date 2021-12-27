@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /rockville-centre/kia/
-shop: car
+shop: Autohaus
 ---

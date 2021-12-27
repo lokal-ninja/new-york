@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /hamburg/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

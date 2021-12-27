@@ -1,6 +1,6 @@
 ---
 title: Hartsdale
 url: /hartsdale/
-latitude: 41.0189863
-longitude: -73.7981884
+latitude: 41.011
+longitude: -73.797
 ---

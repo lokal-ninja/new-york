@@ -1,6 +1,6 @@
 ---
 title: Springfield Gardens
 url: /springfield-gardens/
-latitude: 40.678159
-longitude: -73.746521
+latitude: 40.679
+longitude: -73.75
 ---

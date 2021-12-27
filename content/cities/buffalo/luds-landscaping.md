@@ -1,5 +1,5 @@
 ---
 title: "Luds Landscaping"
 url: /buffalo/luds-landscaping/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trainland"
 url: /lynbrook/trainland/
-shop: shop
+shop: Allgemein
 ---

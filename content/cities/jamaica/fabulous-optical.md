@@ -1,5 +1,5 @@
 ---
 title: "Fabulous Optical"
 url: /jamaica/fabulous-optical/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /massapequa-park/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

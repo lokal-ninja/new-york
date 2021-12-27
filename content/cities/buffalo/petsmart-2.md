@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /buffalo/petsmart-2/
-shop: pet
+shop: Tiere
 ---

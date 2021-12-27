@@ -1,6 +1,6 @@
 ---
 title: North Creek
 url: /north-creek/
-latitude: 43.699899
-longitude: -73.98571000000001
+latitude: 43.7
+longitude: -73.987
 ---

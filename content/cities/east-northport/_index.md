@@ -1,6 +1,6 @@
 ---
 title: East Northport
 url: /east-northport/
-latitude: 40.876764800000004
-longitude: -73.32456140000001
+latitude: 40.839
+longitude: -73.323
 ---

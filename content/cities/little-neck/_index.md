@@ -1,6 +1,6 @@
 ---
 title: Little Neck
 url: /little-neck/
-latitude: 40.7620463
-longitude: -73.7381874
+latitude: 40.765
+longitude: -73.726
 ---

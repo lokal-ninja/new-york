@@ -1,6 +1,6 @@
 ---
 title: Mayville
 url: /mayville/
-latitude: 42.253947000000004
-longitude: -79.504491
+latitude: 42.169
+longitude: -79.441
 ---

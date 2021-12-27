@@ -1,6 +1,6 @@
 ---
 title: Port Ewen
 url: /port-ewen/
-latitude: 41.9053703
-longitude: -73.97624900000001
+latitude: 41.905
+longitude: -73.976
 ---

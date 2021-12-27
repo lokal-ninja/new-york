@@ -1,6 +1,6 @@
 ---
 title: Greece
 url: /greece/
-latitude: 43.209783800000004
-longitude: -77.6930602
+latitude: 43.222
+longitude: -77.642
 ---

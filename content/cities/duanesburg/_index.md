@@ -1,6 +1,6 @@
 ---
 title: Duanesburg
 url: /duanesburg/
-latitude: 42.76202
-longitude: -74.1337383
+latitude: 42.762
+longitude: -74.133
 ---

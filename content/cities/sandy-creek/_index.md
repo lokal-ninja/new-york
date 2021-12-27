@@ -1,6 +1,6 @@
 ---
 title: Sandy Creek
 url: /sandy-creek/
-latitude: 43.644235
-longitude: -76.08603500000001
+latitude: 43.647
+longitude: -76.086
 ---

@@ -1,6 +1,6 @@
 ---
 title: West Sand Lake
 url: /west-sand-lake/
-latitude: 42.6434128
-longitude: -73.6087274
+latitude: 42.646
+longitude: -73.607
 ---

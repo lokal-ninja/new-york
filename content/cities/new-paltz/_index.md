@@ -1,6 +1,6 @@
 ---
 title: New+Paltz
 url: /new-paltz/
-latitude: 
-longitude: 
+latitude: 41.754
+longitude: -74.084
 ---

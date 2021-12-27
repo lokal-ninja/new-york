@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /bath/kmart/
-shop: department store
+shop: Warenhaus
 ---

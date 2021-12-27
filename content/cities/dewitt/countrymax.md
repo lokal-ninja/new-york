@@ -1,5 +1,5 @@
 ---
 title: "Countrymax"
 url: /dewitt/countrymax/
-shop: garden centre
+shop: Garten-Center
 ---

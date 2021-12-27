@@ -1,5 +1,5 @@
 ---
 title: "MINIER'S"
 url: /big-flats/miniers/
-shop: supermarket
+shop: Supermarkt
 ---

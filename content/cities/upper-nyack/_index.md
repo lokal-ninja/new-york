@@ -1,6 +1,6 @@
 ---
 title: Upper Nyack
 url: /upper-nyack/
-latitude: 41.1070404
-longitude: -73.9201371
+latitude: 41.112
+longitude: -73.928
 ---

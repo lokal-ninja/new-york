@@ -1,5 +1,5 @@
 ---
 title: "Carvel"
 url: /syosset/carvel/
-shop: department store
+shop: Warenhaus
 ---

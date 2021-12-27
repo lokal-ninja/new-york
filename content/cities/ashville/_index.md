@@ -1,6 +1,6 @@
 ---
 title: Ashville
 url: /ashville/
-latitude: 42.096446
-longitude: -79.3756044
+latitude: 42.155
+longitude: -79.406
 ---

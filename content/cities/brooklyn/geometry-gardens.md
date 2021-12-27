@@ -1,5 +1,5 @@
 ---
 title: "Geometry Gardens"
 url: /brooklyn/geometry-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

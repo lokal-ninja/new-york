@@ -1,5 +1,5 @@
 ---
 title: "Timbuktu"
 url: /woodstock/timbuktu/
-shop: gift
+shop: Andenken
 ---

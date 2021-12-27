@@ -1,6 +1,6 @@
 ---
 title: Green Island
 url: /green-island/
-latitude: 40.6192688
-longitude: -73.5012375
+latitude: 42.738
+longitude: -73.696
 ---

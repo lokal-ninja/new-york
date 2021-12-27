@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /orchard-park/maurices/
-shop: clothes
+shop: Kleidung
 ---

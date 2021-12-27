@@ -1,6 +1,6 @@
 ---
 title: Poestenkill
 url: /poestenkill/
-latitude: 42.6903566
-longitude: -73.5645597
+latitude: 42.69
+longitude: -73.565
 ---

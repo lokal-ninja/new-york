@@ -1,6 +1,6 @@
 ---
 title: Mamaroneck
 url: /mamaroneck/
-latitude: 40.9487097
-longitude: -73.7326309
+latitude: 40.953
+longitude: -73.736
 ---

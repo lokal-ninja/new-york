@@ -1,6 +1,6 @@
 ---
 title: Cross River
 url: /cross-river/
-latitude: 
-longitude: 
+latitude: 41.269
+longitude: -73.607
 ---

@@ -1,6 +1,6 @@
 ---
 title: Valhalla
 url: /valhalla/
-latitude: 41.074818900000004
-longitude: -73.7751326
+latitude: 41.066
+longitude: -73.779
 ---

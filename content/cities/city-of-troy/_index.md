@@ -1,6 +1,6 @@
 ---
 title: City of Troy
 url: /city-of-troy/
-latitude: 
-longitude: 
+latitude: 42.718
+longitude: -73.681
 ---

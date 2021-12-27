@@ -1,6 +1,6 @@
 ---
 title: Batavia
 url: /batavia/
-latitude: 42.9980144
-longitude: -78.1875515
+latitude: 43.006
+longitude: -78.206
 ---

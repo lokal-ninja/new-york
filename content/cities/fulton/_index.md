@@ -1,6 +1,6 @@
 ---
 title: Fulton
 url: /fulton/
-latitude: 43.1061507
-longitude: -74.4461771
+latitude: 43.124
+longitude: -76.119
 ---

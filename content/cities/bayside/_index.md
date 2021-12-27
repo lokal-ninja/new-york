@@ -1,6 +1,6 @@
 ---
 title: Bayside
 url: /bayside/
-latitude: 40.768435100000005
-longitude: -73.77707740000001
+latitude: 40.756
+longitude: -73.767
 ---
