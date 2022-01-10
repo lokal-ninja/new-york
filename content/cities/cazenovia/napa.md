@@ -1,5 +1,5 @@
 ---
 title: "NAPA"
 url: /cazenovia/napa/
-shop: Autoteile
+shop: car parts
 ---

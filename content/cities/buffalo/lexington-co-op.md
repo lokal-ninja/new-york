@@ -1,5 +1,5 @@
 ---
 title: "Lexington Co-op"
 url: /buffalo/lexington-co-op/
-shop: Supermarkt
+shop: supermarket
 ---

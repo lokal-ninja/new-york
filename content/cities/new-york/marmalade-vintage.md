@@ -1,5 +1,5 @@
 ---
 title: "Marmalade Vintage"
 url: /new-york/marmalade-vintage/
-shop: Kleidung
+shop: clothes
 ---

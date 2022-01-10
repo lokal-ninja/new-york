@@ -1,5 +1,5 @@
 ---
 title: "Eden Collision"
 url: /eden/eden-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

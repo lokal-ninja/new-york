@@ -1,5 +1,5 @@
 ---
 title: "Sprinkles Cupcakes"
 url: /new-york/sprinkles-cupcakes/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shake Paw Puppies"
 url: /lynbrook/shake-paw-puppies/
-shop: Tiere
+shop: pet
 ---

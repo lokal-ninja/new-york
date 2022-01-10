@@ -1,5 +1,5 @@
 ---
 title: "Bottega Veneta"
 url: /new-york/bottega-veneta/
-shop: Kleidung
+shop: clothes
 ---

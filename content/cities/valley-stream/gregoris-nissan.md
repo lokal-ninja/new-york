@@ -1,5 +1,5 @@
 ---
 title: "Gregoris Nissan"
 url: /valley-stream/gregoris-nissan/
-shop: Autohaus
+shop: car
 ---

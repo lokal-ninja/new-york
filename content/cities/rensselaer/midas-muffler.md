@@ -1,5 +1,5 @@
 ---
 title: "Midas Muffler"
 url: /rensselaer/midas-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

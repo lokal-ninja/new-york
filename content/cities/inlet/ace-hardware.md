@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /inlet/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

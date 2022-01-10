@@ -1,5 +1,5 @@
 ---
 title: "Portabella"
 url: /jamaica/portabella/
-shop: Kleidung
+shop: clothes
 ---

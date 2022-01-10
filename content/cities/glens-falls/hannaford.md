@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /glens-falls/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

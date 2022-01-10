@@ -1,5 +1,5 @@
 ---
 title: "Bay Supermarket"
 url: /brooklyn/bay-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

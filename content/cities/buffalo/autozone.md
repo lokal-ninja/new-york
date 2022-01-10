@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /buffalo/autozone/
-shop: Autoteile
+shop: car parts
 ---

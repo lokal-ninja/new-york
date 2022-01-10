@@ -1,5 +1,5 @@
 ---
 title: "Colonial Plaza"
 url: /whitesboro/colonial-plaza/
-shop: Allgemein
+shop: shop
 ---

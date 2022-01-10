@@ -1,5 +1,5 @@
 ---
 title: "Carstar Collision of Amherst"
 url: /buffalo/carstar-collision-of-amherst/
-shop: Autowerkstatt
+shop: car repair
 ---

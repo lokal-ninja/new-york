@@ -1,5 +1,5 @@
 ---
 title: "Medallion Jewelers"
 url: /larchmont/medallion-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

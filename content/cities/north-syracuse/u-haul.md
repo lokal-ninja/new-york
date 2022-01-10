@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /north-syracuse/u-haul/
-shop: Mieten
+shop: storage rental
 ---

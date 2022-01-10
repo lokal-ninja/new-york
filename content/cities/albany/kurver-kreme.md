@@ -1,5 +1,5 @@
 ---
 title: "Kurver Kreme"
 url: /albany/kurver-kreme/
-shop: Eisprodukte
+shop: ice cream
 ---

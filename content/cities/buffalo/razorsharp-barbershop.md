@@ -1,5 +1,5 @@
 ---
 title: "RazorSharp BarberShop"
 url: /buffalo/razorsharp-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

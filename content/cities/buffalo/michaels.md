@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /buffalo/michaels/
-shop: Basteln
+shop: craft
 ---

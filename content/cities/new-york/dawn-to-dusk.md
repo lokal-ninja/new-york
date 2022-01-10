@@ -1,5 +1,5 @@
 ---
 title: "Dawn to Dusk"
 url: /new-york/dawn-to-dusk/
-shop: Lebensmittel
+shop: convenience
 ---

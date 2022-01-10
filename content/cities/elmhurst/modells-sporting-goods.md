@@ -1,5 +1,5 @@
 ---
 title: "Modell's Sporting Goods"
 url: /elmhurst/modells-sporting-goods/
-shop: Sport
+shop: sports
 ---

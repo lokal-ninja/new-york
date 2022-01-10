@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /massena/stewarts/
-shop: Lebensmittel
+shop: convenience
 ---

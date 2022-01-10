@@ -1,5 +1,5 @@
 ---
 title: "Mavis Discount Tire"
 url: /vestal/mavis-discount-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

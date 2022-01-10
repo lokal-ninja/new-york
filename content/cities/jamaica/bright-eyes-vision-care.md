@@ -1,5 +1,5 @@
 ---
 title: "Bright Eyes Vision Care"
 url: /jamaica/bright-eyes-vision-care/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miracle Nails"
 url: /fayetteville/miracle-nails/
-shop: Kosmetik
+shop: beauty
 ---

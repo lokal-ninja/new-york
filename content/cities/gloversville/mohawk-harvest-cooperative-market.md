@@ -1,5 +1,5 @@
 ---
 title: "Mohawk Harvest Cooperative Market"
 url: /gloversville/mohawk-harvest-cooperative-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dish it Out"
 url: /lawrence/dish-it-out/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /hempstead/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

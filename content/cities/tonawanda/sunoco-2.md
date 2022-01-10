@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /tonawanda/sunoco-2/
-shop: Lebensmittel
+shop: convenience
 ---

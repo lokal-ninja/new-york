@@ -1,5 +1,5 @@
 ---
 title: "Banana Republic"
 url: /new-york/banana-republic-2/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Home Outlet"
 url: /watervliet/home-outlet/
-shop: Allgemein
+shop: shop
 ---

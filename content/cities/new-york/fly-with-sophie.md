@@ -1,5 +1,5 @@
 ---
 title: "Fly with Sophie"
 url: /new-york/fly-with-sophie/
-shop: Reisebüro
+shop: travel agency
 ---

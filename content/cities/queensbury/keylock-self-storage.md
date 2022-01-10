@@ -1,5 +1,5 @@
 ---
 title: "Keylock Self Storage"
 url: /queensbury/keylock-self-storage/
-shop: Mieten
+shop: storage rental
 ---

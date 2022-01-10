@@ -1,5 +1,5 @@
 ---
 title: "Dreaming Goddess"
 url: /poughkeepsie/dreaming-goddess/
-shop: Andenken
+shop: gift
 ---

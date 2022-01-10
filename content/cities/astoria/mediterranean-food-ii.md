@@ -1,5 +1,5 @@
 ---
 title: "Mediterranean Food II"
 url: /astoria/mediterranean-food-ii/
-shop: Supermarkt
+shop: supermarket
 ---

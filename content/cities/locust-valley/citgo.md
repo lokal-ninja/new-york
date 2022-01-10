@@ -1,5 +1,5 @@
 ---
 title: "CITGO"
 url: /locust-valley/citgo/
-shop: Kiosk
+shop: kiosk
 ---

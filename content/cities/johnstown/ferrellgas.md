@@ -1,5 +1,5 @@
 ---
 title: "Ferrellgas"
 url: /johnstown/ferrellgas/
-shop: Gasflaschen
+shop: gas
 ---

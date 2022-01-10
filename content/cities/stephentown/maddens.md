@@ -1,5 +1,5 @@
 ---
 title: "Madden's"
 url: /stephentown/maddens/
-shop: Autowerkstatt
+shop: car repair
 ---

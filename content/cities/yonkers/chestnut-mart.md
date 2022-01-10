@@ -1,5 +1,5 @@
 ---
 title: "Chestnut Mart"
 url: /yonkers/chestnut-mart/
-shop: Lebensmittel
+shop: convenience
 ---

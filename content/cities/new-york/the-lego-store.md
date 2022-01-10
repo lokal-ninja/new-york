@@ -1,5 +1,5 @@
 ---
 title: "The LEGO Store"
 url: /new-york/the-lego-store/
-shop: Spielzeug
+shop: toys
 ---

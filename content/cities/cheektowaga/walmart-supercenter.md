@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /cheektowaga/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mimi's Salon"
 url: /buffalo/mimis-salon/
-shop: Friseur
+shop: hairdresser
 ---

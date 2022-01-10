@@ -1,5 +1,5 @@
 ---
 title: "Armory Garage"
 url: /albany/armory-garage/
-shop: Autohaus
+shop: car
 ---

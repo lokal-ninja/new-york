@@ -1,5 +1,5 @@
 ---
 title: "Vangelder's Automotive Inc."
 url: /piffard/vangelders-automotive-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

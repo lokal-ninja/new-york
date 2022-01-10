@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /amherst/premier/
-shop: Spirituosen
+shop: alcohol
 ---

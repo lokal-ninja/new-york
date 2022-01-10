@@ -1,5 +1,5 @@
 ---
 title: "Truly Rhe"
 url: /troy/truly-rhe/
-shop: Kleidung
+shop: clothes
 ---

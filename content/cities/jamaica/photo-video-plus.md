@@ -1,5 +1,5 @@
 ---
 title: "Photo Video Plus"
 url: /jamaica/photo-video-plus/
-shop: Kopieren
+shop: copyshop
 ---

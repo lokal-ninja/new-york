@@ -1,5 +1,5 @@
 ---
 title: "Bomi Jewelers"
 url: /buffalo/bomi-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

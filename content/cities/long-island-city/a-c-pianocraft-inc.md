@@ -1,5 +1,5 @@
 ---
 title: "A.C. Pianocraft, Inc."
 url: /long-island-city/a-c-pianocraft-inc/
-shop: Instrumente
+shop: musical instrument
 ---

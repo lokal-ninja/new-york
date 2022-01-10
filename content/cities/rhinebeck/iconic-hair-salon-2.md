@@ -1,5 +1,5 @@
 ---
 title: "Iconic Hair Salon"
 url: /rhinebeck/iconic-hair-salon-2/
-shop: Kosmetik
+shop: beauty
 ---

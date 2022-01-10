@@ -1,5 +1,5 @@
 ---
 title: "Bert's Bikes and Fitness"
 url: /rochester/berts-bikes-and-fitness/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hess"
 url: /jamaica/hess/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /buffalo/kohls/
-shop: Warenhaus
+shop: department store
 ---

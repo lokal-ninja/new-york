@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /brooklyn/cubesmart-4/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Farm"
 url: /jamaica/elizabeth-farm/
-shop: Lebensmittel
+shop: convenience
 ---

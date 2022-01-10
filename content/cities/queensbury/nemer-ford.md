@@ -1,5 +1,5 @@
 ---
 title: "Nemer Ford"
 url: /queensbury/nemer-ford/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /saugerties/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angelo's Barbershop"
 url: /middletown/angelos-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

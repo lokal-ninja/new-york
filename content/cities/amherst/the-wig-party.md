@@ -1,5 +1,5 @@
 ---
 title: "The Wig Party"
 url: /amherst/the-wig-party/
-shop: Allgemein
+shop: shop
 ---

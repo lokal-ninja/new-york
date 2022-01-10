@@ -1,5 +1,5 @@
 ---
 title: "Jefferson Valley Mall"
 url: /yorktown-heights/jefferson-valley-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gourmetibles"
 url: /beacon/gourmetibles/
-shop: Schokolade
+shop: chocolate
 ---

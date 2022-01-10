@@ -1,5 +1,5 @@
 ---
 title: "Kaminotech"
 url: /new-york/kaminotech/
-shop: Friseur
+shop: hairdresser
 ---

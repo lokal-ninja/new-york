@@ -1,5 +1,5 @@
 ---
 title: "Majestic Carpet and Floor"
 url: /middletown/majestic-carpet-and-floor/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beer Town"
 url: /ozone-park/beer-town/
-shop: Spirituosen
+shop: alcohol
 ---

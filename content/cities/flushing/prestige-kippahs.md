@@ -1,5 +1,5 @@
 ---
 title: "Prestige Kippahs"
 url: /flushing/prestige-kippahs/
-shop: Religion
+shop: religion
 ---

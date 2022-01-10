@@ -1,5 +1,5 @@
 ---
 title: "Goodman's Farm Market"
 url: /niagara-falls/goodmans-farm-market/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AIIA"
 url: /cedarhurst/aiia/
-shop: Möbel
+shop: furniture
 ---

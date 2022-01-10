@@ -1,5 +1,5 @@
 ---
 title: "Nesheiwat Square"
 url: /wappingers-falls/nesheiwat-square/
-shop: Einkaufszentrum
+shop: mall
 ---

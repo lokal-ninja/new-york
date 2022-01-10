@@ -1,5 +1,5 @@
 ---
 title: "Bazar's Auto Body"
 url: /cohoes/bazars-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

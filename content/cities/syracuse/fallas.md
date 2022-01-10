@@ -1,5 +1,5 @@
 ---
 title: "Fallas"
 url: /syracuse/fallas/
-shop: Kleidung
+shop: clothes
 ---

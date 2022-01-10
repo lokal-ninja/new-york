@@ -1,5 +1,5 @@
 ---
 title: "Nature's Animals"
 url: /mamaroneck/natures-animals/
-shop: Tiere
+shop: pet
 ---

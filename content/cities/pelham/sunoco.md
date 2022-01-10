@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /pelham/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Furniture"
 url: /jamaica/family-furniture/
-shop: Möbel
+shop: furniture
 ---

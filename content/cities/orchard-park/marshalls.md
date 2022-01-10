@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /orchard-park/marshalls/
-shop: Warenhaus
+shop: department store
 ---

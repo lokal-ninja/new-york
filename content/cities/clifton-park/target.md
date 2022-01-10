@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /clifton-park/target/
-shop: Warenhaus
+shop: department store
 ---

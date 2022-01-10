@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /hornell/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

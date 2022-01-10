@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /valley-stream/extra-space-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beny's Delice"
 url: /brooklyn/benys-delice/
-shop: Bäckerei
+shop: bakery
 ---

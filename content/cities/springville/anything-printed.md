@@ -1,5 +1,5 @@
 ---
 title: "Anything Printed"
 url: /springville/anything-printed/
-shop: Kopieren
+shop: copyshop
 ---

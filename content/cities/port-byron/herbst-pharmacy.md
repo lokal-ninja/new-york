@@ -1,5 +1,5 @@
 ---
 title: "Herbst Pharmacy"
 url: /port-byron/herbst-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

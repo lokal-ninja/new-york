@@ -1,5 +1,5 @@
 ---
 title: "Shortstop Deli"
 url: /ithaca/shortstop-deli/
-shop: Feinkost
+shop: deli
 ---

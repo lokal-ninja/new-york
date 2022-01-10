@@ -1,5 +1,5 @@
 ---
 title: "Jamaica Deli"
 url: /jamaica/jamaica-deli/
-shop: Feinkost
+shop: deli
 ---

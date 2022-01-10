@@ -1,5 +1,5 @@
 ---
 title: "Hannaford Supermarket"
 url: /west-hurley/hannaford-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

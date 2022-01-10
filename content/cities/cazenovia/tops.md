@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /cazenovia/tops/
-shop: Supermarkt
+shop: supermarket
 ---

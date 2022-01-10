@@ -1,5 +1,5 @@
 ---
 title: "Sullivan Pharmacy"
 url: /liberty/sullivan-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

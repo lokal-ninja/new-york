@@ -1,5 +1,5 @@
 ---
 title: "East Rockaway Florist"
 url: /east-rockaway/east-rockaway-florist/
-shop: Blumen
+shop: florist
 ---

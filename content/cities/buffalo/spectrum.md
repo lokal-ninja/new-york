@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /buffalo/spectrum/
-shop: Handy
+shop: mobile phone
 ---

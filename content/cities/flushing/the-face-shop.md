@@ -1,5 +1,5 @@
 ---
 title: "THE FACE SHOP"
 url: /flushing/the-face-shop/
-shop: Kosmetik
+shop: beauty
 ---

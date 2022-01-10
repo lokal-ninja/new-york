@@ -1,5 +1,5 @@
 ---
 title: "Runnings"
 url: /jamestown/runnings/
-shop: Dorfladen
+shop: general
 ---

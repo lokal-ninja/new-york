@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /buffalo/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

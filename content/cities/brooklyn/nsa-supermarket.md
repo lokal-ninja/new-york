@@ -1,5 +1,5 @@
 ---
 title: "NSA SUPERMARKET"
 url: /brooklyn/nsa-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

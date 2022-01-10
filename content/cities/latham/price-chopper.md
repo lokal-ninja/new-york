@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /latham/price-chopper/
-shop: Supermarkt
+shop: supermarket
 ---

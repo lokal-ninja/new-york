@@ -1,5 +1,5 @@
 ---
 title: "Fiona"
 url: /woodstock/fiona/
-shop: Andenken
+shop: gift
 ---

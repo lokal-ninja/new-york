@@ -1,5 +1,5 @@
 ---
 title: "Riot Act"
 url: /binghamton/riot-act/
-shop: Bücher
+shop: books
 ---

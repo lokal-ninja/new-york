@@ -1,5 +1,5 @@
 ---
 title: "Fresh Valley Market"
 url: /brooklyn/fresh-valley-market/
-shop: Leerstehend
+shop: vacant
 ---

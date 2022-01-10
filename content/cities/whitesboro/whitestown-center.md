@@ -1,5 +1,5 @@
 ---
 title: "Whitestown Center"
 url: /whitesboro/whitestown-center/
-shop: Allgemein
+shop: shop
 ---

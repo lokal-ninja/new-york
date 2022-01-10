@@ -1,5 +1,5 @@
 ---
 title: "Ralph Lauren"
 url: /new-york/ralph-lauren/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suncity Technology"
 url: /new-york/suncity-technology/
-shop: Handy
+shop: mobile phone
 ---

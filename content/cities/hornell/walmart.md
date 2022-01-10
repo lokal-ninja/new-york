@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /hornell/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /cicero/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

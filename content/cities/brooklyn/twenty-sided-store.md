@@ -1,5 +1,5 @@
 ---
 title: "Twenty Sided Store"
 url: /brooklyn/twenty-sided-store/
-shop: Spielzeug
+shop: toys
 ---

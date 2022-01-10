@@ -1,5 +1,5 @@
 ---
 title: "Supermarket"
 url: /woodhaven/supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

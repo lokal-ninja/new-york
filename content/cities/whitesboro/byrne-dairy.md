@@ -1,5 +1,5 @@
 ---
 title: "Byrne Dairy"
 url: /whitesboro/byrne-dairy/
-shop: Lebensmittel
+shop: convenience
 ---

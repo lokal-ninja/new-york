@@ -1,5 +1,5 @@
 ---
 title: "Global Home"
 url: /beacon/global-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

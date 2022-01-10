@@ -1,5 +1,5 @@
 ---
 title: "Stephanie's Kloset"
 url: /larchmont/stephanies-kloset/
-shop: Andenken
+shop: gift
 ---

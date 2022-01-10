@@ -1,5 +1,5 @@
 ---
 title: "Precision Automotive Services"
 url: /quiogue/precision-automotive-services/
-shop: Autoteile
+shop: car parts
 ---

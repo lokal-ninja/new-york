@@ -1,5 +1,5 @@
 ---
 title: "Pristine Auto Leasing"
 url: /valley-stream/pristine-auto-leasing/
-shop: Autohaus
+shop: car
 ---

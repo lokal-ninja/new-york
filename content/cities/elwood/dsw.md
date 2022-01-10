@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /elwood/dsw/
-shop: Schuhe
+shop: shoes
 ---

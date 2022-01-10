@@ -1,5 +1,5 @@
 ---
 title: "Autopart International"
 url: /mamaroneck/autopart-international/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beach-Tuyn Funeral Home"
 url: /buffalo/beach-tuyn-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

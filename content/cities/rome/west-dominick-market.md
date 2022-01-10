@@ -1,5 +1,5 @@
 ---
 title: "West Dominick Market"
 url: /rome/west-dominick-market/
-shop: Lebensmittel
+shop: convenience
 ---

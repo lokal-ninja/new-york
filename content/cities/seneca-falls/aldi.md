@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /seneca-falls/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

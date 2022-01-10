@@ -1,5 +1,5 @@
 ---
 title: "Village Copier"
 url: /new-york/village-copier/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mooradian's Furniture"
 url: /clifton-park/mooradians-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clairabella Salon"
 url: /buffalo/clairabella-salon/
-shop: Friseur
+shop: hairdresser
 ---

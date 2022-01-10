@@ -1,5 +1,5 @@
 ---
 title: "The Dollar Yard"
 url: /poughkeepsie/the-dollar-yard/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krause's Chocolates"
 url: /rhinebeck/krauses-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

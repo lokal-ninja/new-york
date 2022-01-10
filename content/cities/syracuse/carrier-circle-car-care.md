@@ -1,5 +1,5 @@
 ---
 title: "Carrier Circle Car Care"
 url: /syracuse/carrier-circle-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

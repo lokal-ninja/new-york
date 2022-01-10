@@ -1,5 +1,5 @@
 ---
 title: "The Pink Pug"
 url: /syracuse/the-pink-pug/
-shop: Tiere
+shop: pet
 ---

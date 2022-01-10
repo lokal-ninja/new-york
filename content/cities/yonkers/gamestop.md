@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /yonkers/gamestop/
-shop: Videospiele
+shop: video games
 ---

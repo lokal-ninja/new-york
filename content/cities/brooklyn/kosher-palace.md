@@ -1,5 +1,5 @@
 ---
 title: "Kosher Palace"
 url: /brooklyn/kosher-palace/
-shop: Supermarkt
+shop: supermarket
 ---

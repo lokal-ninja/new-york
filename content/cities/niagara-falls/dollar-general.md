@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /niagara-falls/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

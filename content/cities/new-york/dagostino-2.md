@@ -1,5 +1,5 @@
 ---
 title: "D'Agostino"
 url: /new-york/dagostino-2/
-shop: Supermarkt
+shop: supermarket
 ---

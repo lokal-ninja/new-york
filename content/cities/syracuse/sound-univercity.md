@@ -1,5 +1,5 @@
 ---
 title: "Sound Univercity"
 url: /syracuse/sound-univercity/
-shop: Musik
+shop: music
 ---

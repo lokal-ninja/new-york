@@ -1,5 +1,5 @@
 ---
 title: "Shree Convenience Inc."
 url: /jamaica/shree-convenience-inc/
-shop: Lebensmittel
+shop: convenience
 ---

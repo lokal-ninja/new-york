@@ -1,5 +1,5 @@
 ---
 title: "Ziebart"
 url: /cicero/ziebart/
-shop: Autowerkstatt
+shop: car repair
 ---

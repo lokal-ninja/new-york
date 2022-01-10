@@ -1,5 +1,5 @@
 ---
 title: "The Victor Tailor"
 url: /victor/the-victor-tailor/
-shop: Schneiderei
+shop: tailor
 ---

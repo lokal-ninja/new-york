@@ -1,5 +1,5 @@
 ---
 title: "Depaula Chevrolet Hummer"
 url: /albany/depaula-chevrolet-hummer/
-shop: Autohaus
+shop: car
 ---

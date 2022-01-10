@@ -1,5 +1,5 @@
 ---
 title: "Woodstock Haircutz"
 url: /woodstock/woodstock-haircutz/
-shop: Friseur
+shop: hairdresser
 ---

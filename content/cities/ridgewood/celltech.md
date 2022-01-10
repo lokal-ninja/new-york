@@ -1,5 +1,5 @@
 ---
 title: "Celltech"
 url: /ridgewood/celltech/
-shop: Handy
+shop: mobile phone
 ---

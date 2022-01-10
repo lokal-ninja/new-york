@@ -1,5 +1,5 @@
 ---
 title: "Morton Williams Supermarket"
 url: /new-york/morton-williams-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

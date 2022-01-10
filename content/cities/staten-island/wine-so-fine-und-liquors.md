@@ -1,5 +1,0 @@
----
-title: "Wine So Fine & Liquors"
-url: /staten-island/wine-so-fine-und-liquors/
-shop: Spirituosen
----

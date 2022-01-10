@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /warsaw/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

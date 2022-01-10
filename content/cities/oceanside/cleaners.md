@@ -1,5 +1,5 @@
 ---
 title: "Cleaners"
 url: /oceanside/cleaners/
-shop: Wäscherei
+shop: laundry
 ---

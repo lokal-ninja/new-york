@@ -1,5 +1,5 @@
 ---
 title: "David's Bridal"
 url: /buffalo/davids-bridal/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Virgil Avenue Tobacconist"
 url: /buffalo/virgil-avenue-tobacconist/
-shop: Tabak
+shop: tobacco
 ---

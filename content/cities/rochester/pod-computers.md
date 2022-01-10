@@ -1,5 +1,5 @@
 ---
 title: "POD Computers"
 url: /rochester/pod-computers/
-shop: Computer
+shop: computer
 ---

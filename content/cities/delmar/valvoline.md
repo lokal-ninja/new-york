@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /delmar/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

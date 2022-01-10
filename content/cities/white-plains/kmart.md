@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /white-plains/kmart/
-shop: Warenhaus
+shop: department store
 ---

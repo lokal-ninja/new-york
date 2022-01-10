@@ -1,5 +1,5 @@
 ---
 title: "Mamaroneck Self Storage"
 url: /mamaroneck/mamaroneck-self-storage/
-shop: Mieten
+shop: storage rental
 ---

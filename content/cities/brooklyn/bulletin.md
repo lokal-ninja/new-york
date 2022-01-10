@@ -1,5 +1,5 @@
 ---
 title: "Bulletin"
 url: /brooklyn/bulletin/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacob Joseph Salon"
 url: /lynbrook/jacob-joseph-salon/
-shop: Kosmetik
+shop: beauty
 ---

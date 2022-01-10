@@ -1,5 +1,5 @@
 ---
 title: "Petland Discounts"
 url: /new-york/petland-discounts/
-shop: Tiere
+shop: pet
 ---

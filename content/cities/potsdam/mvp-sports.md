@@ -1,5 +1,5 @@
 ---
 title: "MVP Sports"
 url: /potsdam/mvp-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kings Hairstyling"
 url: /new-york/kings-hairstyling/
-shop: Friseur
+shop: hairdresser
 ---

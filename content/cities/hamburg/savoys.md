@@ -1,5 +1,5 @@
 ---
 title: "Savoy's"
 url: /hamburg/savoys/
-shop: Autowerkstatt
+shop: car repair
 ---

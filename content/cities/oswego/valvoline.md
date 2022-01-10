@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /oswego/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

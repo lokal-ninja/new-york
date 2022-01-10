@@ -1,5 +1,5 @@
 ---
 title: "PJs Grocery"
 url: /new-york/pjs-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

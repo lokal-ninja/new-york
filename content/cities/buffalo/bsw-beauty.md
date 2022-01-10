@@ -1,5 +1,5 @@
 ---
 title: "BSW Beauty"
 url: /buffalo/bsw-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

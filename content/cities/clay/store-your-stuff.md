@@ -1,5 +1,5 @@
 ---
 title: "Store Your Stuff"
 url: /clay/store-your-stuff/
-shop: Mieten
+shop: storage rental
 ---

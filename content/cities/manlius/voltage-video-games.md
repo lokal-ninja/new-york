@@ -1,5 +1,5 @@
 ---
 title: "Voltage Video Games"
 url: /manlius/voltage-video-games/
-shop: Videospiele
+shop: video games
 ---

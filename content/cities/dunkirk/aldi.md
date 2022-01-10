@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /dunkirk/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

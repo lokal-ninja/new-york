@@ -1,5 +1,5 @@
 ---
 title: "Bob's True Value"
 url: /syracuse/bobs-true-value/
-shop: Eisenwaren
+shop: hardware
 ---

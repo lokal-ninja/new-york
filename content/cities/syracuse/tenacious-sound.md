@@ -1,5 +1,5 @@
 ---
 title: "Tenacious Sound"
 url: /syracuse/tenacious-sound/
-shop: Hifi
+shop: hifi
 ---

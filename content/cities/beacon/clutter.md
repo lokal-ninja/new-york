@@ -1,5 +1,5 @@
 ---
 title: "Clutter"
 url: /beacon/clutter/
-shop: Allgemein
+shop: shop
 ---

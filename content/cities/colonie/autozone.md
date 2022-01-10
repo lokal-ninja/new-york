@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /colonie/autozone/
-shop: Autoteile
+shop: car parts
 ---

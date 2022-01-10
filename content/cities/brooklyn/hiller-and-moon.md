@@ -1,5 +1,5 @@
 ---
 title: "Hiller and Moon"
 url: /brooklyn/hiller-and-moon/
-shop: Feinkost
+shop: deli
 ---

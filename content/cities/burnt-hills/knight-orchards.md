@@ -1,5 +1,5 @@
 ---
 title: "Knight Orchards"
 url: /burnt-hills/knight-orchards/
-shop: Hofladen
+shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Modern Nails"
 url: /manlius/modern-nails/
-shop: Kosmetik
+shop: beauty
 ---

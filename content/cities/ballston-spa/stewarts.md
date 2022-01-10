@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /ballston-spa/stewarts/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /buffalo/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

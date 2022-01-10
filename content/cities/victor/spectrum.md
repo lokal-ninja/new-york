@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /victor/spectrum/
-shop: Handy
+shop: mobile phone
 ---

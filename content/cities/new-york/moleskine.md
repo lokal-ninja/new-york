@@ -1,5 +1,5 @@
 ---
 title: "Moleskine"
 url: /new-york/moleskine/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /cicero/wegmans/
-shop: Supermarkt
+shop: supermarket
 ---

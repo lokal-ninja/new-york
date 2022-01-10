@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /syracuse/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

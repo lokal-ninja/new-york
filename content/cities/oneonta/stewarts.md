@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /oneonta/stewarts/
-shop: Lebensmittel
+shop: convenience
 ---

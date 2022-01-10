@@ -1,5 +1,5 @@
 ---
 title: "Mendetta's Mini Mart"
 url: /gloversville/mendettas-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

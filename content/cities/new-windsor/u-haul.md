@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /new-windsor/u-haul/
-shop: Mieten
+shop: storage rental
 ---

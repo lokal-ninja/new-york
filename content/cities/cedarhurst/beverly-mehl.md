@@ -1,5 +1,5 @@
 ---
 title: "Beverly Mehl"
 url: /cedarhurst/beverly-mehl/
-shop: Kleidung
+shop: clothes
 ---

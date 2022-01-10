@@ -1,5 +1,5 @@
 ---
 title: "Hattan Cleaners"
 url: /new-york/hattan-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

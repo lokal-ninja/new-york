@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Pet Spa"
 url: /brooklyn/brooklyn-pet-spa/
-shop: Tiersalon
+shop: pet grooming
 ---

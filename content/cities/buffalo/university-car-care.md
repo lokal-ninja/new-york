@@ -1,5 +1,5 @@
 ---
 title: "University Car Care"
 url: /buffalo/university-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

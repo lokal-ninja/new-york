@@ -1,5 +1,5 @@
 ---
 title: "One Stop Auto"
 url: /valley-stream/one-stop-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

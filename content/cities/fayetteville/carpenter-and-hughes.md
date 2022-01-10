@@ -1,5 +1,5 @@
 ---
 title: "Carpenter and Hughes"
 url: /fayetteville/carpenter-and-hughes/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Apple"
 url: /east-syracuse/red-apple/
-shop: Lebensmittel
+shop: convenience
 ---

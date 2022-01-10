@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /oswego/autozone/
-shop: Autoteile
+shop: car parts
 ---

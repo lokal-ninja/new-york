@@ -1,5 +1,5 @@
 ---
 title: "Chautauqua Brick"
 url: /bemus-point/chautauqua-brick/
-shop: Eisenwaren
+shop: hardware
 ---

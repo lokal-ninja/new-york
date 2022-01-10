@@ -1,5 +1,5 @@
 ---
 title: "The Cookie Factory"
 url: /troy/the-cookie-factory/
-shop: Bäckerei
+shop: bakery
 ---

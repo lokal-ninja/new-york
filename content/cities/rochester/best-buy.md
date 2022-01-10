@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /rochester/best-buy/
-shop: Elektronik
+shop: electronics
 ---

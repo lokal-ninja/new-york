@@ -1,5 +1,5 @@
 ---
 title: "Rock's Barber Shop"
 url: /wynantskill/rocks-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

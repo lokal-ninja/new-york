@@ -1,5 +1,5 @@
 ---
 title: "225 Marketplace"
 url: /west-hempstead/225-marketplace/
-shop: Feinkost
+shop: deli
 ---

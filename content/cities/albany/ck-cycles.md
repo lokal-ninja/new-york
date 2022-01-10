@@ -1,5 +1,5 @@
 ---
 title: "CK Cycles"
 url: /albany/ck-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flaco Auto Repairs"
 url: /inwood/flaco-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ivette Dominican Salon"
 url: /brooklyn/ivette-dominican-salon/
-shop: Friseur
+shop: hairdresser
 ---

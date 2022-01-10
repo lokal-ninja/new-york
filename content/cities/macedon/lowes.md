@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /macedon/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

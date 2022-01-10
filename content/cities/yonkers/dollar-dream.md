@@ -1,5 +1,5 @@
 ---
 title: "Dollar Dream"
 url: /yonkers/dollar-dream/
-shop: Dorfladen
+shop: general
 ---

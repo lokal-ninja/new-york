@@ -1,5 +1,5 @@
 ---
 title: "The Barber Shop"
 url: /orchard-park/the-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iFurniture Seating, Inc."
 url: /brooklyn/ifurniture-seating-inc/
-shop: Möbel
+shop: furniture
 ---

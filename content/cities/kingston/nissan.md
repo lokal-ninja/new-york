@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /kingston/nissan/
-shop: Autohaus
+shop: car
 ---

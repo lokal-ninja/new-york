@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /binghamton/autozone/
-shop: Autoteile
+shop: car parts
 ---

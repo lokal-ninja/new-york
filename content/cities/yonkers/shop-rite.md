@@ -1,5 +1,5 @@
 ---
 title: "Shop Rite"
 url: /yonkers/shop-rite/
-shop: Supermarkt
+shop: supermarket
 ---

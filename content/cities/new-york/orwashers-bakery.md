@@ -1,5 +1,5 @@
 ---
 title: "Orwashers Bakery"
 url: /new-york/orwashers-bakery/
-shop: Bäckerei
+shop: bakery
 ---

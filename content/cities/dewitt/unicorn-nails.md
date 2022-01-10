@@ -1,5 +1,5 @@
 ---
 title: "Unicorn Nails"
 url: /dewitt/unicorn-nails/
-shop: Kosmetik
+shop: beauty
 ---

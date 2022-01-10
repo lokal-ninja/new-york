@@ -1,5 +1,5 @@
 ---
 title: "Caruba Collision"
 url: /hamburg/caruba-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

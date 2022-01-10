@@ -1,5 +1,5 @@
 ---
 title: "I Love Foods"
 url: /woodside/i-love-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /irondequoit/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

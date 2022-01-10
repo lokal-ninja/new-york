@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /falconer/tops/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /baldwinsville/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

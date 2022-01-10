@@ -1,5 +1,5 @@
 ---
 title: "VW, Nissan, Infiniti"
 url: /brooklyn/vw-nissan-infiniti/
-shop: Autohaus
+shop: car
 ---

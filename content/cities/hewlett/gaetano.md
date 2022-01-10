@@ -1,5 +1,5 @@
 ---
 title: "Gaetano"
 url: /hewlett/gaetano/
-shop: Blumen
+shop: florist
 ---

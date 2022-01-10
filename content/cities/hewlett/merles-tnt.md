@@ -1,5 +1,5 @@
 ---
 title: "Merle's TNT"
 url: /hewlett/merles-tnt/
-shop: Kleidung
+shop: clothes
 ---

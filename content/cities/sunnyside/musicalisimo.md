@@ -1,5 +1,5 @@
 ---
 title: "Musicalisimo"
 url: /sunnyside/musicalisimo/
-shop: Handy
+shop: mobile phone
 ---

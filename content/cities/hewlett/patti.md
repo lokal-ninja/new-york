@@ -1,5 +1,5 @@
 ---
 title: "patti"
 url: /hewlett/patti/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /schenectady/stewarts/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marie Eiffel Market"
 url: /shelter-island-heights/marie-eiffel-market/
-shop: Lebensmittel
+shop: convenience
 ---

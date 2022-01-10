@@ -1,5 +1,5 @@
 ---
 title: "Springdale Ice Co"
 url: /mamaroneck/springdale-ice-co/
-shop: Tiefkühl
+shop: frozen food
 ---

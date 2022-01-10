@@ -1,5 +1,5 @@
 ---
 title: "Crystal Gallery"
 url: /new-york/crystal-gallery/
-shop: Allgemein
+shop: shop
 ---

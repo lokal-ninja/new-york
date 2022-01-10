@@ -1,5 +1,5 @@
 ---
 title: "Visage"
 url: /dewitt/visage/
-shop: Kosmetik
+shop: beauty
 ---

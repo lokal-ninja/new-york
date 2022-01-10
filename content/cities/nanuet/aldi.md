@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /nanuet/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

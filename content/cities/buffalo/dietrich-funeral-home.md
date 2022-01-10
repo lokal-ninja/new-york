@@ -1,5 +1,5 @@
 ---
 title: "Dietrich Funeral Home"
 url: /buffalo/dietrich-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Sound Garden"
 url: /syracuse/the-sound-garden/
-shop: Musik
+shop: music
 ---

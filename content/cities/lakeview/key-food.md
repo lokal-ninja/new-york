@@ -1,5 +1,5 @@
 ---
 title: "Key Food"
 url: /lakeview/key-food/
-shop: Supermarkt
+shop: supermarket
 ---

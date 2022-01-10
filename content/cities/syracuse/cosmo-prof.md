@@ -1,5 +1,5 @@
 ---
 title: "Cosmo Prof"
 url: /syracuse/cosmo-prof/
-shop: Drogerie
+shop: chemist
 ---

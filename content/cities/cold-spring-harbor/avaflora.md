@@ -1,5 +1,5 @@
 ---
 title: "AvaFlora"
 url: /cold-spring-harbor/avaflora/
-shop: Blumen
+shop: florist
 ---

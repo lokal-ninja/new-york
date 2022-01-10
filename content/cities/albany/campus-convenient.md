@@ -1,5 +1,5 @@
 ---
 title: "Campus Convenient"
 url: /albany/campus-convenient/
-shop: Lebensmittel
+shop: convenience
 ---

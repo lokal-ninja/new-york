@@ -1,5 +1,5 @@
 ---
 title: "Revolver Records"
 url: /buffalo/revolver-records-2/
-shop: Musik
+shop: music
 ---

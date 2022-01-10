@@ -1,5 +1,5 @@
 ---
 title: "Macy's Backstage"
 url: /brooklyn/macys-backstage/
-shop: Warenhaus
+shop: department store
 ---

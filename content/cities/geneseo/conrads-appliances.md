@@ -1,5 +1,5 @@
 ---
 title: "Conrad's Appliances"
 url: /geneseo/conrads-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

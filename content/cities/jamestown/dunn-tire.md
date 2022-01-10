@@ -1,5 +1,5 @@
 ---
 title: "Dunn Tire"
 url: /jamestown/dunn-tire/
-shop: Reifen
+shop: tyres
 ---

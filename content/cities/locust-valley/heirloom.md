@@ -1,5 +1,5 @@
 ---
 title: "Heirloom"
 url: /locust-valley/heirloom/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freddy's Deli Cafe"
 url: /hempstead/freddys-deli-cafe/
-shop: Feinkost
+shop: deli
 ---

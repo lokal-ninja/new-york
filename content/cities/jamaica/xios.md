@@ -1,5 +1,5 @@
 ---
 title: "XIOS"
 url: /jamaica/xios/
-shop: Kleidung
+shop: clothes
 ---

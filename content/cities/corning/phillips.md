@@ -1,5 +1,5 @@
 ---
 title: "Phillip's"
 url: /corning/phillips/
-shop: Bestattungen
+shop: funeral directors
 ---

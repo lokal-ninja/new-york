@@ -1,5 +1,5 @@
 ---
 title: "MG Supply Company"
 url: /brooklyn/mg-supply-company/
-shop: Eisenwaren
+shop: hardware
 ---

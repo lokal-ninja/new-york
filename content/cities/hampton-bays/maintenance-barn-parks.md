@@ -1,5 +1,5 @@
 ---
 title: "Maintenance Barn (Parks)"
 url: /hampton-bays/maintenance-barn-parks/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adirondack Hair Creations"
 url: /ticonderoga/adirondack-hair-creations/
-shop: Friseur
+shop: hairdresser
 ---

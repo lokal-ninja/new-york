@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /horseheads/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mirabai"
 url: /woodstock/mirabai/
-shop: Bücher
+shop: books
 ---

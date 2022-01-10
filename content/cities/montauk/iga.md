@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /montauk/iga/
-shop: Supermarkt
+shop: supermarket
 ---

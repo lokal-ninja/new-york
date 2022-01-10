@@ -1,5 +1,5 @@
 ---
 title: "Soons Orchards"
 url: /new-hampton/soons-orchards/
-shop: Hofladen
+shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /tannersville/tops/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /hawthorne/audi/
-shop: Autohaus
+shop: car
 ---

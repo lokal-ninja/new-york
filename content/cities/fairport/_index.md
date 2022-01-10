@@ -1,6 +1,6 @@
 ---
 title: Fairport
 url: /fairport/
-latitude: 43.068
-longitude: -77.446
+latitude: 43.069
+longitude: -77.445
 ---

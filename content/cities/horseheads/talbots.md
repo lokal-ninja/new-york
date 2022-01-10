@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /horseheads/talbots/
-shop: Kleidung
+shop: clothes
 ---

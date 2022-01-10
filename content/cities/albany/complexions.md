@@ -1,5 +1,5 @@
 ---
 title: "Complexions"
 url: /albany/complexions/
-shop: Allgemein
+shop: shop
 ---

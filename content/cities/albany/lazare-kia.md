@@ -1,5 +1,5 @@
 ---
 title: "Lazare Kia"
 url: /albany/lazare-kia/
-shop: Autohaus
+shop: car
 ---

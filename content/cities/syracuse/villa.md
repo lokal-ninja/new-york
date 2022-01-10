@@ -1,5 +1,5 @@
 ---
 title: "Villa"
 url: /syracuse/villa/
-shop: Kleidung
+shop: clothes
 ---

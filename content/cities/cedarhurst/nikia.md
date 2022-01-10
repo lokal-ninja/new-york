@@ -1,5 +1,5 @@
 ---
 title: "Nikia"
 url: /cedarhurst/nikia/
-shop: Kleidung
+shop: clothes
 ---

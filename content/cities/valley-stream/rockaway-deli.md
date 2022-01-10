@@ -1,5 +1,5 @@
 ---
 title: "Rockaway Deli"
 url: /valley-stream/rockaway-deli/
-shop: Feinkost
+shop: deli
 ---

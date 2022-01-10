@@ -1,5 +1,5 @@
 ---
 title: "Country Corner Store"
 url: /alton/country-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

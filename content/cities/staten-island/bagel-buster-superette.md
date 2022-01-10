@@ -1,5 +1,5 @@
 ---
 title: "Bagel Buster Superette"
 url: /staten-island/bagel-buster-superette/
-shop: Lebensmittel
+shop: convenience
 ---

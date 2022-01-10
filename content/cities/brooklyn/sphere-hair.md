@@ -1,5 +1,5 @@
 ---
 title: "Sphere Hair"
 url: /brooklyn/sphere-hair/
-shop: Friseur
+shop: hairdresser
 ---

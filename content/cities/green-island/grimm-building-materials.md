@@ -1,5 +1,5 @@
 ---
 title: "Grimm Building Materials"
 url: /green-island/grimm-building-materials/
-shop: Baustoffe
+shop: trade
 ---

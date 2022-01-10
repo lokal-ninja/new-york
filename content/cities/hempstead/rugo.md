@@ -1,5 +1,5 @@
 ---
 title: "Rugo"
 url: /hempstead/rugo/
-shop: Autowerkstatt
+shop: car repair
 ---

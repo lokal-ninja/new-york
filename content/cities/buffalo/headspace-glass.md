@@ -1,5 +1,5 @@
 ---
 title: "Headspace Glass"
 url: /buffalo/headspace-glass/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

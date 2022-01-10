@@ -1,5 +1,5 @@
 ---
 title: "Hess Express"
 url: /queensbury/hess-express/
-shop: Lebensmittel
+shop: convenience
 ---

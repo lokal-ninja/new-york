@@ -1,5 +1,5 @@
 ---
 title: "Relax Foot Spa"
 url: /hewlett/relax-foot-spa/
-shop: Kosmetik
+shop: beauty
 ---

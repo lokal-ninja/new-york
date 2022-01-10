@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /stony-point/walgreens/
-shop: Drogerie
+shop: chemist
 ---

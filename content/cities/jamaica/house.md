@@ -1,5 +1,5 @@
 ---
 title: "House"
 url: /jamaica/house/
-shop: Kleidung
+shop: clothes
 ---

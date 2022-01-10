@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /vestal/spectrum/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Caprice"
 url: /buffalo/salon-caprice/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LifeStorage"
 url: /east-syracuse/lifestorage/
-shop: Mieten
+shop: storage rental
 ---

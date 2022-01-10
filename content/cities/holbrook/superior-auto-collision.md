@@ -1,5 +1,5 @@
 ---
 title: "Superior Auto Collision"
 url: /holbrook/superior-auto-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

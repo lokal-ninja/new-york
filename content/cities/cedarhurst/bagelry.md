@@ -1,5 +1,5 @@
 ---
 title: "Bagelry"
 url: /cedarhurst/bagelry/
-shop: Feinkost
+shop: deli
 ---

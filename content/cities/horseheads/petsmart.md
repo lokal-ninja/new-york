@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /horseheads/petsmart/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PriceRite"
 url: /syracuse/pricerite/
-shop: Supermarkt
+shop: supermarket
 ---

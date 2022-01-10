@@ -1,5 +1,5 @@
 ---
 title: "Kountry Krullers"
 url: /elmira/kountry-krullers/
-shop: Bäckerei
+shop: bakery
 ---

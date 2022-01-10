@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /potsdam/autozone/
-shop: Autoteile
+shop: car parts
 ---

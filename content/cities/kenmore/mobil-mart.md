@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /kenmore/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

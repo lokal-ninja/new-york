@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /middleville/stewarts/
-shop: Lebensmittel
+shop: convenience
 ---

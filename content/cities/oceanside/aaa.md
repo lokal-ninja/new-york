@@ -1,5 +1,5 @@
 ---
 title: "AAA"
 url: /oceanside/aaa/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Working Class Tattoo"
 url: /syracuse/working-class-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

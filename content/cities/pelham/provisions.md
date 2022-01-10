@@ -1,5 +1,5 @@
 ---
 title: "Provisions"
 url: /pelham/provisions/
-shop: Bäckerei
+shop: bakery
 ---

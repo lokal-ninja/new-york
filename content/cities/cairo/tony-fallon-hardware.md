@@ -1,5 +1,5 @@
 ---
 title: "Tony Fallon Hardware"
 url: /cairo/tony-fallon-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

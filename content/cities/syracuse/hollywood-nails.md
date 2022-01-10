@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Nails"
 url: /syracuse/hollywood-nails/
-shop: Kosmetik
+shop: beauty
 ---

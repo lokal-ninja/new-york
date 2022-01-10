@@ -1,5 +1,5 @@
 ---
 title: "Oviatt"
 url: /manlius/oviatt/
-shop: Hörgeräte
+shop: hearing aids
 ---

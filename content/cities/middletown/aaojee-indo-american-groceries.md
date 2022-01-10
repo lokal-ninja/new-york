@@ -1,5 +1,5 @@
 ---
 title: "Aaojee indo American Groceries"
 url: /middletown/aaojee-indo-american-groceries/
-shop: Lebensmittel
+shop: convenience
 ---

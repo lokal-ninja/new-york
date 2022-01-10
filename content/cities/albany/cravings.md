@@ -1,5 +1,5 @@
 ---
 title: "Cravings"
 url: /albany/cravings/
-shop: Süßwaren
+shop: confectionery
 ---

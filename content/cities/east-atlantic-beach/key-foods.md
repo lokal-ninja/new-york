@@ -1,5 +1,5 @@
 ---
 title: "Key Foods"
 url: /east-atlantic-beach/key-foods/
-shop: Supermarkt
+shop: supermarket
 ---

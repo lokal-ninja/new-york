@@ -1,5 +1,5 @@
 ---
 title: "Durso's Liquor Store"
 url: /cohoes/dursos-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

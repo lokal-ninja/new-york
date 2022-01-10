@@ -1,5 +1,5 @@
 ---
 title: "DVK"
 url: /jamaica/dvk/
-shop: Kramladen
+shop: variety store
 ---

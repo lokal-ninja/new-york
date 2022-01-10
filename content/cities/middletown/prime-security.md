@@ -1,5 +1,5 @@
 ---
 title: "Prime Security"
 url: /middletown/prime-security/
-shop: Elektronik
+shop: electronics
 ---

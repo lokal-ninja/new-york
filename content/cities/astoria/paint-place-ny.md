@@ -1,5 +1,5 @@
 ---
 title: "Paint Place NY"
 url: /astoria/paint-place-ny/
-shop: Farben
+shop: paint
 ---

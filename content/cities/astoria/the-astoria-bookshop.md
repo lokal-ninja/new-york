@@ -1,5 +1,5 @@
 ---
 title: "The Astoria Bookshop"
 url: /astoria/the-astoria-bookshop/
-shop: Bücher
+shop: books
 ---

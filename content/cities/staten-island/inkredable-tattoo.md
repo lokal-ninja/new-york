@@ -1,5 +1,5 @@
 ---
 title: "Inkredable Tattoo"
 url: /staten-island/inkredable-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

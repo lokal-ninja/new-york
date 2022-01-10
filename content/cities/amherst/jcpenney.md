@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /amherst/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

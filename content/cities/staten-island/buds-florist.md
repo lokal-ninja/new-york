@@ -1,5 +1,5 @@
 ---
 title: "Buds Florist"
 url: /staten-island/buds-florist/
-shop: Blumen
+shop: florist
 ---

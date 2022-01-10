@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /bronxville/acme/
-shop: Supermarkt
+shop: supermarket
 ---

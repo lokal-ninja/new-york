@@ -1,5 +1,5 @@
 ---
 title: "B's Bikes"
 url: /brooklyn/bs-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

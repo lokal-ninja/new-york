@@ -1,5 +1,5 @@
 ---
 title: "Phoenicia Supermarket"
 url: /phoenicia/phoenicia-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

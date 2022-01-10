@@ -1,5 +1,5 @@
 ---
 title: "Card Shack"
 url: /lynbrook/card-shack/
-shop: Schreibwaren
+shop: office supplies
 ---

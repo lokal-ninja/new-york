@@ -1,5 +1,5 @@
 ---
 title: "Danlee Medical Products, Inc."
 url: /syracuse/danlee-medical-products-inc/
-shop: Sanitätshaus
+shop: medical supply
 ---

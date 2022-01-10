@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /nanuet/macys/
-shop: Warenhaus
+shop: department store
 ---

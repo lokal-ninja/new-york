@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /glendale/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

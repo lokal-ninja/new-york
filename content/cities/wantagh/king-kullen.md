@@ -1,5 +1,5 @@
 ---
 title: "King Kullen"
 url: /wantagh/king-kullen/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jenabu Hair Braiding"
 url: /bronx/jenabu-hair-braiding/
-shop: Friseur
+shop: hairdresser
 ---

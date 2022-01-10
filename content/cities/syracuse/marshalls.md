@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /syracuse/marshalls/
-shop: Warenhaus
+shop: department store
 ---

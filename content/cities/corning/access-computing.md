@@ -1,5 +1,5 @@
 ---
 title: "Access Computing"
 url: /corning/access-computing/
-shop: Computer
+shop: computer
 ---

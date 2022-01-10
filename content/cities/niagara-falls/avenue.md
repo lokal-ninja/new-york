@@ -1,5 +1,5 @@
 ---
 title: "Avenue"
 url: /niagara-falls/avenue/
-shop: Kleidung
+shop: clothes
 ---

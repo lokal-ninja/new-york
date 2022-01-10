@@ -1,5 +1,5 @@
 ---
 title: "Dandy MiniMart"
 url: /nichols/dandy-minimart/
-shop: Lebensmittel
+shop: convenience
 ---

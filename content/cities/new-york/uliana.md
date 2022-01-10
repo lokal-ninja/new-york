@@ -1,5 +1,5 @@
 ---
 title: "Uliana"
 url: /new-york/uliana/
-shop: Friseur
+shop: hairdresser
 ---

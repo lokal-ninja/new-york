@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /dewitt/gamestop/
-shop: Videospiele
+shop: video games
 ---

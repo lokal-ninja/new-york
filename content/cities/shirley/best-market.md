@@ -1,5 +1,5 @@
 ---
 title: "Best Market"
 url: /shirley/best-market/
-shop: Supermarkt
+shop: supermarket
 ---

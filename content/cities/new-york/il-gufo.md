@@ -1,5 +1,5 @@
 ---
 title: "Il Gufo"
 url: /new-york/il-gufo/
-shop: Kleidung
+shop: clothes
 ---

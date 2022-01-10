@@ -1,5 +1,5 @@
 ---
 title: "David Desso"
 url: /cedarhurst/david-desso/
-shop: Schmuck
+shop: jewelry
 ---

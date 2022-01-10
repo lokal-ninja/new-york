@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /west-bay-shore/target/
-shop: Warenhaus
+shop: department store
 ---

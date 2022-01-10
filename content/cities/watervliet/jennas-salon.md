@@ -1,5 +1,5 @@
 ---
 title: "Jenna's Salon"
 url: /watervliet/jennas-salon/
-shop: Friseur
+shop: hairdresser
 ---

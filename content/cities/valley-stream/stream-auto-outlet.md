@@ -1,5 +1,5 @@
 ---
 title: "Stream Auto Outlet"
 url: /valley-stream/stream-auto-outlet/
-shop: Autohaus
+shop: car
 ---

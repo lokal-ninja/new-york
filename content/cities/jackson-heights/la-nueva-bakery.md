@@ -1,5 +1,5 @@
 ---
 title: "La Nueva Bakery"
 url: /jackson-heights/la-nueva-bakery/
-shop: Bäckerei
+shop: bakery
 ---

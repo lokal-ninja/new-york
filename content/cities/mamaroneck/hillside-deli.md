@@ -1,5 +1,5 @@
 ---
 title: "Hillside Deli"
 url: /mamaroneck/hillside-deli/
-shop: Feinkost
+shop: deli
 ---

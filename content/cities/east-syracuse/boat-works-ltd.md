@@ -1,5 +1,5 @@
 ---
 title: "Boat Works Ltd."
 url: /east-syracuse/boat-works-ltd/
-shop: Boot
+shop: boat
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EPR Electronics"
 url: /middletown/epr-electronics/
-shop: Instrumente
+shop: musical instrument
 ---

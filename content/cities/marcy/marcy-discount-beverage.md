@@ -1,5 +1,5 @@
 ---
 title: "Marcy Discount Beverage"
 url: /marcy/marcy-discount-beverage/
-shop: Allgemein
+shop: shop
 ---

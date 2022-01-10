@@ -1,5 +1,5 @@
 ---
 title: "The Laundry Lounge"
 url: /west-seneca/the-laundry-lounge/
-shop: Wäscherei
+shop: laundry
 ---

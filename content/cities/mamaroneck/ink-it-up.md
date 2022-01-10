@@ -1,5 +1,5 @@
 ---
 title: "Ink It Up"
 url: /mamaroneck/ink-it-up/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KeyBank ATM"
 url: /ticonderoga/keybank-atm/
-shop: Leiher
+shop: pawnbroker
 ---

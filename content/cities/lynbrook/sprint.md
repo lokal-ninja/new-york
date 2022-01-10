@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /lynbrook/sprint/
-shop: Handy
+shop: mobile phone
 ---

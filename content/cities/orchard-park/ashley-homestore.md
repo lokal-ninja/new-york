@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /orchard-park/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

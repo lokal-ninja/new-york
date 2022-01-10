@@ -1,5 +1,5 @@
 ---
 title: "Les Sports"
 url: /wynantskill/les-sports/
-shop: Allgemein
+shop: shop
 ---

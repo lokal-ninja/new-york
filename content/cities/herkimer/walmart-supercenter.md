@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /herkimer/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

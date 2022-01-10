@@ -1,5 +1,5 @@
 ---
 title: "Ish Guitars"
 url: /syracuse/ish-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Victor Auto Collision Inc."
 url: /brooklyn/victor-auto-collision-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

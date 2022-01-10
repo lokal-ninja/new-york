@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /jamaica/sprint/
-shop: Handy
+shop: mobile phone
 ---

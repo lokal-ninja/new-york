@@ -1,5 +1,5 @@
 ---
 title: "Brown's Florist"
 url: /kingston/browns-florist/
-shop: Blumen
+shop: florist
 ---

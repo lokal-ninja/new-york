@@ -1,5 +1,5 @@
 ---
 title: "Sabatino Funeral Home"
 url: /brooklyn/sabatino-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

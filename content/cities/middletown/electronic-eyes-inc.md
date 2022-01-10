@@ -1,5 +1,5 @@
 ---
 title: "Electronic Eyes Inc"
 url: /middletown/electronic-eyes-inc/
-shop: Sicherheit
+shop: security
 ---

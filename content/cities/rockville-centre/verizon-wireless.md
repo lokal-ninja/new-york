@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /rockville-centre/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

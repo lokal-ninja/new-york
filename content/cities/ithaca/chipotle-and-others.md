@@ -1,5 +1,5 @@
 ---
 title: "Chipotle and others"
 url: /ithaca/chipotle-and-others/
-shop: Einkaufszentrum
+shop: mall
 ---

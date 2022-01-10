@@ -1,5 +1,5 @@
 ---
 title: "The Country Thistle"
 url: /pleasant-valley/the-country-thistle/
-shop: Andenken
+shop: gift
 ---

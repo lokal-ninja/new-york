@@ -1,5 +1,5 @@
 ---
 title: "WinLi Market"
 url: /ithaca/winli-market/
-shop: Supermarkt
+shop: supermarket
 ---

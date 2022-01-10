@@ -1,5 +1,5 @@
 ---
 title: "Steet Toyota Scion"
 url: /johnstown/steet-toyota-scion/
-shop: Autohaus
+shop: car
 ---

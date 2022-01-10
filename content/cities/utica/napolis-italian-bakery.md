@@ -1,5 +1,5 @@
 ---
 title: "Napoli's Italian Bakery"
 url: /utica/napolis-italian-bakery/
-shop: Bäckerei
+shop: bakery
 ---

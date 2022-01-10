@@ -1,5 +1,5 @@
 ---
 title: "The Paper Store"
 url: /east-farmingdale/the-paper-store/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /ithaca/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

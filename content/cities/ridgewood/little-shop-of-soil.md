@@ -1,5 +1,5 @@
 ---
 title: "Little Shop of Soil"
 url: /ridgewood/little-shop-of-soil/
-shop: Garten-Center
+shop: garden centre
 ---

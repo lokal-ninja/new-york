@@ -1,5 +1,5 @@
 ---
 title: "Bluestockings"
 url: /new-york/bluestockings/
-shop: Bücher
+shop: books
 ---

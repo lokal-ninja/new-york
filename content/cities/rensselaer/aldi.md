@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rensselaer/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

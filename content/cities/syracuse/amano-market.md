@@ -1,5 +1,5 @@
 ---
 title: "Amano Market"
 url: /syracuse/amano-market/
-shop: Lebensmittel
+shop: convenience
 ---

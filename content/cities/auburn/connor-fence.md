@@ -1,5 +1,5 @@
 ---
 title: "Connor Fence"
 url: /auburn/connor-fence/
-shop: Eisenwaren
+shop: hardware
 ---

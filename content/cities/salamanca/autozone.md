@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /salamanca/autozone/
-shop: Autoteile
+shop: car parts
 ---

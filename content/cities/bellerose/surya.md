@@ -1,5 +1,5 @@
 ---
 title: "Surya"
 url: /bellerose/surya/
-shop: Bäckerei
+shop: bakery
 ---

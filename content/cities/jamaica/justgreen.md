@@ -1,5 +1,5 @@
 ---
 title: "JustGreen"
 url: /jamaica/justgreen/
-shop: Schuhe
+shop: shoes
 ---

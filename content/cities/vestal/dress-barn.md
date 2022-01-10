@@ -1,5 +1,5 @@
 ---
 title: "Dress Barn"
 url: /vestal/dress-barn/
-shop: Kleidung
+shop: clothes
 ---

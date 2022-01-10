@@ -1,5 +1,5 @@
 ---
 title: "Q A Services"
 url: /ticonderoga/q-a-services/
-shop: Autowerkstatt
+shop: car repair
 ---

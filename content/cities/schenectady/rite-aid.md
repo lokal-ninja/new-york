@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /schenectady/rite-aid/
-shop: Lebensmittel
+shop: convenience
 ---

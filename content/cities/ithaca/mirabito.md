@@ -1,5 +1,5 @@
 ---
 title: "Mirabito"
 url: /ithaca/mirabito/
-shop: Lebensmittel
+shop: convenience
 ---

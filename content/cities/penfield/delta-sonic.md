@@ -1,5 +1,5 @@
 ---
 title: "Delta Sonic"
 url: /penfield/delta-sonic/
-shop: Lebensmittel
+shop: convenience
 ---

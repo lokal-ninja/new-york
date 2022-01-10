@@ -1,5 +1,5 @@
 ---
 title: "The Country Store"
 url: /houghton/the-country-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /grand-island/tops/
-shop: Supermarkt
+shop: supermarket
 ---

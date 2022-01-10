@@ -1,5 +1,5 @@
 ---
 title: "Aves Del Paraiso"
 url: /jamaica/aves-del-paraiso/
-shop: Blumen
+shop: florist
 ---

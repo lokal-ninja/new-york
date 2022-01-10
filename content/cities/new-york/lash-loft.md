@@ -1,5 +1,5 @@
 ---
 title: "Lash Loft"
 url: /new-york/lash-loft/
-shop: Kosmetik
+shop: beauty
 ---

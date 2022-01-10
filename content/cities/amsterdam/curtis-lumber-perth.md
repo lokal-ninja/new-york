@@ -1,5 +1,5 @@
 ---
 title: "Curtis Lumber - Perth"
 url: /amsterdam/curtis-lumber-perth/
-shop: Baumarkt
+shop: doityourself
 ---

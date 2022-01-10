@@ -1,5 +1,5 @@
 ---
 title: "Kiss Mart"
 url: /dewitt/kiss-mart/
-shop: Lebensmittel
+shop: convenience
 ---

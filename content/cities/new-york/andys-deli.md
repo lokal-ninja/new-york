@@ -1,5 +1,5 @@
 ---
 title: "Andy's Deli"
 url: /new-york/andys-deli/
-shop: Lebensmittel
+shop: convenience
 ---

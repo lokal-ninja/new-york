@@ -1,5 +1,5 @@
 ---
 title: "Key Food"
 url: /rego-park/key-food/
-shop: Supermarkt
+shop: supermarket
 ---

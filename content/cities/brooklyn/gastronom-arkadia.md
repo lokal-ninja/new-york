@@ -1,5 +1,5 @@
 ---
 title: "Gastronom Arkadia"
 url: /brooklyn/gastronom-arkadia/
-shop: Lebensmittel
+shop: convenience
 ---

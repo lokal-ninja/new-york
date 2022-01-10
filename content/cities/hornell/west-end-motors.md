@@ -1,5 +1,5 @@
 ---
 title: "West End Motors"
 url: /hornell/west-end-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simmons-Rockwell Nissan"
 url: /horseheads/simmons-rockwell-nissan/
-shop: Autohaus
+shop: car
 ---

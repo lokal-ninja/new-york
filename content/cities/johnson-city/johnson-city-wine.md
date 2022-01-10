@@ -1,5 +1,5 @@
 ---
 title: "Johnson City Wine"
 url: /johnson-city/johnson-city-wine/
-shop: Spirituosen
+shop: alcohol
 ---

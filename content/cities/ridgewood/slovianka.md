@@ -1,5 +1,5 @@
 ---
 title: "Slovianka"
 url: /ridgewood/slovianka/
-shop: Feinkost
+shop: deli
 ---

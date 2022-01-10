@@ -1,5 +1,5 @@
 ---
 title: "Roland Mouret"
 url: /new-york/roland-mouret/
-shop: Allgemein
+shop: shop
 ---

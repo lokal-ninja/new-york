@@ -1,5 +1,5 @@
 ---
 title: "Buffalo ReUse"
 url: /buffalo/buffalo-reuse/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vogue"
 url: /jamaica/vogue/
-shop: Friseur
+shop: hairdresser
 ---

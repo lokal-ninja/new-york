@@ -1,5 +1,5 @@
 ---
 title: "Brandy Melville"
 url: /new-york/brandy-melville/
-shop: Kleidung
+shop: clothes
 ---

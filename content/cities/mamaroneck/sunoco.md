@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /mamaroneck/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

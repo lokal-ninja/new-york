@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /camillus/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bravo"
 url: /brooklyn/bravo/
-shop: Supermarkt
+shop: supermarket
 ---

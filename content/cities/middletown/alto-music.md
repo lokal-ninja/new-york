@@ -1,5 +1,5 @@
 ---
 title: "Alto Music"
 url: /middletown/alto-music/
-shop: Musik
+shop: music
 ---

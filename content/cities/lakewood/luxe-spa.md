@@ -1,5 +1,5 @@
 ---
 title: "Luxe Spa"
 url: /lakewood/luxe-spa/
-shop: Kosmetik
+shop: beauty
 ---

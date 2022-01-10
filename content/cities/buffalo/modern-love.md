@@ -1,5 +1,5 @@
 ---
 title: "Modern Love"
 url: /buffalo/modern-love/
-shop: Tattoo
+shop: tattoo
 ---

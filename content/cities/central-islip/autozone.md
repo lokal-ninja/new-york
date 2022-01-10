@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /central-islip/autozone/
-shop: Autoteile
+shop: car parts
 ---

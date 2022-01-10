@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /perinton/walgreens/
-shop: Drogerie
+shop: chemist
 ---

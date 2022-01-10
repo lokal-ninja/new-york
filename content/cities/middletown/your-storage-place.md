@@ -1,5 +1,5 @@
 ---
 title: "Your Storage Place"
 url: /middletown/your-storage-place/
-shop: Mieten
+shop: storage rental
 ---

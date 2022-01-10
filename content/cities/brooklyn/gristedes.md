@@ -1,5 +1,5 @@
 ---
 title: "Gristedes"
 url: /brooklyn/gristedes/
-shop: Supermarkt
+shop: supermarket
 ---

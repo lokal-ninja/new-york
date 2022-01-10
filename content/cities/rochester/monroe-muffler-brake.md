@@ -1,5 +1,5 @@
 ---
 title: "Monroe Muffler Brake"
 url: /rochester/monroe-muffler-brake/
-shop: Autohaus
+shop: car
 ---

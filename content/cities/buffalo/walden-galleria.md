@@ -1,5 +1,5 @@
 ---
 title: "Walden Galleria"
 url: /buffalo/walden-galleria/
-shop: Einkaufszentrum
+shop: mall
 ---

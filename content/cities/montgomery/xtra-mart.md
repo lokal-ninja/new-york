@@ -1,5 +1,5 @@
 ---
 title: "Xtra Mart"
 url: /montgomery/xtra-mart/
-shop: Lebensmittel
+shop: convenience
 ---

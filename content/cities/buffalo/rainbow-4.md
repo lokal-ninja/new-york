@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /buffalo/rainbow-4/
-shop: Kleidung
+shop: clothes
 ---

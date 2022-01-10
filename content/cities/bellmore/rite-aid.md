@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /bellmore/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

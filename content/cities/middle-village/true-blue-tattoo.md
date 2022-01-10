@@ -1,5 +1,5 @@
 ---
 title: "True Blue Tattoo"
 url: /middle-village/true-blue-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

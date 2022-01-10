@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /pearl-river/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

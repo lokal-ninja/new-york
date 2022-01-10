@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /nesconset/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

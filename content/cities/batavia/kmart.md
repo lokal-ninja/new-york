@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /batavia/kmart/
-shop: Warenhaus
+shop: department store
 ---

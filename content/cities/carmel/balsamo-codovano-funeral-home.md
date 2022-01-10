@@ -1,5 +1,5 @@
 ---
 title: "Balsamo-Codovano Funeral Home"
 url: /carmel/balsamo-codovano-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

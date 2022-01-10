@@ -1,5 +1,5 @@
 ---
 title: "Provisions"
 url: /syracuse/provisions/
-shop: Bäckerei
+shop: bakery
 ---

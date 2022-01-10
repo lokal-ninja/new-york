@@ -1,5 +1,5 @@
 ---
 title: "Omonia Cafe"
 url: /brooklyn/omonia-cafe/
-shop: Bäckerei
+shop: bakery
 ---

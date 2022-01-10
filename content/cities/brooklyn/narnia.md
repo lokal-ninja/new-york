@@ -1,5 +1,5 @@
 ---
 title: "Narnia"
 url: /brooklyn/narnia/
-shop: Kleidung
+shop: clothes
 ---

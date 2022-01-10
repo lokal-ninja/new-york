@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /rocky-point/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

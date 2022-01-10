@@ -1,5 +1,5 @@
 ---
 title: "Ranch Deli"
 url: /new-york/ranch-deli/
-shop: Lebensmittel
+shop: convenience
 ---

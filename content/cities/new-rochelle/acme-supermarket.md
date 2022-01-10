@@ -1,5 +1,5 @@
 ---
 title: "Acme Supermarket"
 url: /new-rochelle/acme-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

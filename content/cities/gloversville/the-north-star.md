@@ -1,5 +1,5 @@
 ---
 title: "The North Star"
 url: /gloversville/the-north-star/
-shop: Bücher
+shop: books
 ---

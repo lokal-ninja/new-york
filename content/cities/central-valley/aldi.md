@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /central-valley/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dress Barn"
 url: /albany/dress-barn/
-shop: Kleidung
+shop: clothes
 ---

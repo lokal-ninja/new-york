@@ -1,5 +1,5 @@
 ---
 title: "Blind Barber"
 url: /new-york/blind-barber/
-shop: Friseur
+shop: hairdresser
 ---

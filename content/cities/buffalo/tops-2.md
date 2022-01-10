@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /buffalo/tops-2/
-shop: Supermarkt
+shop: supermarket
 ---

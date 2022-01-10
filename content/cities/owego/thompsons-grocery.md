@@ -1,5 +1,5 @@
 ---
 title: "Thompson's Grocery"
 url: /owego/thompsons-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

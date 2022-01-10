@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /bethpage/sprint/
-shop: Handy
+shop: mobile phone
 ---

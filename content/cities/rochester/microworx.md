@@ -1,5 +1,5 @@
 ---
 title: "Microworx"
 url: /rochester/microworx/
-shop: Computer
+shop: computer
 ---

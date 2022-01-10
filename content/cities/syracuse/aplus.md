@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /syracuse/aplus/
-shop: Lebensmittel
+shop: convenience
 ---

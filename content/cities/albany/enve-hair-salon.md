@@ -1,5 +1,5 @@
 ---
 title: "Enve Hair Salon"
 url: /albany/enve-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

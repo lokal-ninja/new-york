@@ -1,5 +1,5 @@
 ---
 title: "Indian Fashion"
 url: /dewitt/indian-fashion/
-shop: Kleidung
+shop: clothes
 ---

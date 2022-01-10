@@ -1,5 +1,5 @@
 ---
 title: "Big Pasha"
 url: /buffalo/big-pasha/
-shop: Lebensmittel
+shop: convenience
 ---

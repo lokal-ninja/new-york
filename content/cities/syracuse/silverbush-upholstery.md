@@ -1,5 +1,5 @@
 ---
 title: "Silverbush Upholstery"
 url: /syracuse/silverbush-upholstery/
-shop: Möbel
+shop: furniture
 ---

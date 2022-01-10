@@ -1,5 +1,5 @@
 ---
 title: "Tony's Dry Cleaners"
 url: /lynbrook/tonys-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

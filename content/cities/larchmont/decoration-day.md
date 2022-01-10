@@ -1,5 +1,5 @@
 ---
 title: "Decoration Day"
 url: /larchmont/decoration-day/
-shop: Andenken
+shop: gift
 ---

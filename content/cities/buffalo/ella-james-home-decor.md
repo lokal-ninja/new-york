@@ -1,5 +1,5 @@
 ---
 title: "Ella James Home Decor"
 url: /buffalo/ella-james-home-decor/
-shop: Raumausstattung
+shop: interior decoration
 ---

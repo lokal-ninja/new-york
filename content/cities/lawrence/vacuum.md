@@ -1,5 +1,5 @@
 ---
 title: "Vacuum"
 url: /lawrence/vacuum/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

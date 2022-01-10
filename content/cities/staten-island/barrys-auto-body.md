@@ -1,5 +1,5 @@
 ---
 title: "Barry's Auto Body"
 url: /staten-island/barrys-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

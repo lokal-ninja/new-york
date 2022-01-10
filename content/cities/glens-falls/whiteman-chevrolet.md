@@ -1,5 +1,5 @@
 ---
 title: "Whiteman Chevrolet"
 url: /glens-falls/whiteman-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tops Friendly Markets"
 url: /baldwinsville/tops-friendly-markets/
-shop: Supermarkt
+shop: supermarket
 ---

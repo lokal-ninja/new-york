@@ -1,5 +1,5 @@
 ---
 title: "Spokesman Cycles"
 url: /ridgewood/spokesman-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

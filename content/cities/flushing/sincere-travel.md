@@ -1,5 +1,5 @@
 ---
 title: "Sincere Travel"
 url: /flushing/sincere-travel/
-shop: Reisebüro
+shop: travel agency
 ---

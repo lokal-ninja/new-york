@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /springville/harbor-freight-tools/
-shop: Autoteile
+shop: car parts
 ---

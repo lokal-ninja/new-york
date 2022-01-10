@@ -1,5 +1,5 @@
 ---
 title: "Cigar Lounge"
 url: /franklin-square/cigar-lounge/
-shop: Tabak
+shop: tobacco
 ---

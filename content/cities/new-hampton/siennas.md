@@ -1,5 +1,5 @@
 ---
 title: "Siennas"
 url: /new-hampton/siennas/
-shop: Autohaus
+shop: car
 ---

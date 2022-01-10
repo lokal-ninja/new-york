@@ -1,5 +1,5 @@
 ---
 title: "Five Stars Wireless"
 url: /jamaica/five-stars-wireless/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Game Planet"
 url: /jamaica/game-planet/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gentiana's Hair Salon"
 url: /larchmont/gentianas-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

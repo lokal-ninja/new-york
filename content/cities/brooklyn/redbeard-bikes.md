@@ -1,5 +1,5 @@
 ---
 title: "Redbeard Bikes"
 url: /brooklyn/redbeard-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scholastic Sports Sales"
 url: /manlius/scholastic-sports-sales/
-shop: Sport
+shop: sports
 ---

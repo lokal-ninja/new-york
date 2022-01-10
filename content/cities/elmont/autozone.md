@@ -1,5 +1,5 @@
 ---
 title: "Autozone"
 url: /elmont/autozone/
-shop: Autoteile
+shop: car parts
 ---

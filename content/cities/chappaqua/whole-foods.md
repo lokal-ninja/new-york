@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods"
 url: /chappaqua/whole-foods/
-shop: Supermarkt
+shop: supermarket
 ---

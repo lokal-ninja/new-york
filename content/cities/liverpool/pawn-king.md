@@ -1,5 +1,5 @@
 ---
 title: "Pawn King"
 url: /liverpool/pawn-king/
-shop: Leiher
+shop: pawnbroker
 ---

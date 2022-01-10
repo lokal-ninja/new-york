@@ -1,5 +1,5 @@
 ---
 title: "Carvel Franchisor SPV LLC"
 url: /middletown/carvel-franchisor-spv-llc/
-shop: Eisprodukte
+shop: ice cream
 ---

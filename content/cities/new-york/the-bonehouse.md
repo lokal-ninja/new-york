@@ -1,5 +1,5 @@
 ---
 title: "The Bonehouse"
 url: /new-york/the-bonehouse/
-shop: Tiere
+shop: pet
 ---

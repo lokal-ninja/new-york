@@ -1,5 +1,5 @@
 ---
 title: "ZZ Mart"
 url: /gloversville/zz-mart/
-shop: Lebensmittel
+shop: convenience
 ---

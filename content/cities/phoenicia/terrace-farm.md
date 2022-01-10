@@ -1,5 +1,5 @@
 ---
 title: "Terrace Farm"
 url: /phoenicia/terrace-farm/
-shop: Hofladen
+shop: farm
 ---

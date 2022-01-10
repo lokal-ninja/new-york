@@ -1,5 +1,5 @@
 ---
 title: "Collegetown Bagels"
 url: /ithaca/collegetown-bagels/
-shop: Kaffee
+shop: coffee
 ---

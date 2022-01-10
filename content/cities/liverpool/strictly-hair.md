@@ -1,5 +1,5 @@
 ---
 title: "Strictly Hair"
 url: /liverpool/strictly-hair/
-shop: Friseur
+shop: hairdresser
 ---

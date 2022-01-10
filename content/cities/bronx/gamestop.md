@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /bronx/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parkside Memorial Chapels"
 url: /forest-hills/parkside-memorial-chapels/
-shop: Bestattungen
+shop: funeral directors
 ---

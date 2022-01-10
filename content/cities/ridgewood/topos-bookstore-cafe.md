@@ -1,5 +1,5 @@
 ---
 title: "Topos Bookstore Cafe"
 url: /ridgewood/topos-bookstore-cafe/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Latta Long Liquor"
 url: /greece/latta-long-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

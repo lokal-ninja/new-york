@@ -1,5 +1,5 @@
 ---
 title: "Boscov's"
 url: /colonie/boscovs/
-shop: Warenhaus
+shop: department store
 ---

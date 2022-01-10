@@ -1,5 +1,5 @@
 ---
 title: "Bolton's"
 url: /new-york/boltons/
-shop: Kleidung
+shop: clothes
 ---

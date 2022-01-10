@@ -1,5 +1,5 @@
 ---
 title: "Feel Beauty"
 url: /jamaica/feel-beauty/
-shop: Kosmetik
+shop: beauty
 ---

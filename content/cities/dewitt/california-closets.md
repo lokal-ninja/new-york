@@ -1,5 +1,5 @@
 ---
 title: "California Closets"
 url: /dewitt/california-closets/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goshen Auto Repair and Tire"
 url: /goshen/goshen-auto-repair-and-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

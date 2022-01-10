@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /niagara-falls/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

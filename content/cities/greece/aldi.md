@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /greece/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

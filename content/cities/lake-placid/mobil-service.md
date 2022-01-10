@@ -1,5 +1,5 @@
 ---
 title: "Mobil Service"
 url: /lake-placid/mobil-service/
-shop: Autowerkstatt
+shop: car repair
 ---

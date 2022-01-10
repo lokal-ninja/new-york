@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /liverpool/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

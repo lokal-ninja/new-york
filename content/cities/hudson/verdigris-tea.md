@@ -1,5 +1,5 @@
 ---
 title: "Verdigris Tea"
 url: /hudson/verdigris-tea/
-shop: Tee
+shop: tea
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /centereach/rainbow/
-shop: Warenhaus
+shop: department store
 ---

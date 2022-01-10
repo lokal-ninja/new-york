@@ -1,5 +1,5 @@
 ---
 title: "Morning Glory"
 url: /flushing/morning-glory/
-shop: Schreibwaren
+shop: office supplies
 ---

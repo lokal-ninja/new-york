@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /farmington/tops/
-shop: Supermarkt
+shop: supermarket
 ---

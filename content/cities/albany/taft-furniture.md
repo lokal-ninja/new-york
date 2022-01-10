@@ -1,5 +1,5 @@
 ---
 title: "Taft Furniture"
 url: /albany/taft-furniture/
-shop: Möbel
+shop: furniture
 ---

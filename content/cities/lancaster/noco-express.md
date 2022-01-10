@@ -1,5 +1,5 @@
 ---
 title: "NOCO Express"
 url: /lancaster/noco-express/
-shop: Lebensmittel
+shop: convenience
 ---

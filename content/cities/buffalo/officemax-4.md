@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /buffalo/officemax-4/
-shop: Schreibwaren
+shop: office supplies
 ---

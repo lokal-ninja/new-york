@@ -1,5 +1,5 @@
 ---
 title: "Quinn Motorcar"
 url: /west-sand-lake/quinn-motorcar/
-shop: Autowerkstatt
+shop: car repair
 ---

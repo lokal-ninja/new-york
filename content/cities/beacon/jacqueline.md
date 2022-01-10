@@ -1,5 +1,5 @@
 ---
 title: "Jacqueline"
 url: /beacon/jacqueline/
-shop: Allgemein
+shop: shop
 ---

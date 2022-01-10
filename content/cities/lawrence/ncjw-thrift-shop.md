@@ -1,5 +1,5 @@
 ---
 title: "NCJW Thrift Shop"
 url: /lawrence/ncjw-thrift-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

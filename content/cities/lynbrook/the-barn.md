@@ -1,5 +1,5 @@
 ---
 title: "The Barn"
 url: /lynbrook/the-barn/
-shop: Lebensmittel
+shop: convenience
 ---

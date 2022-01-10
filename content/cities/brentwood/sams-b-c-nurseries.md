@@ -1,5 +1,5 @@
 ---
 title: "Sam's B.C. Nurseries"
 url: /brentwood/sams-b-c-nurseries/
-shop: Garten-Center
+shop: garden centre
 ---

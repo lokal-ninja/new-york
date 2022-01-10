@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /ozone-park/metropcs/
-shop: Handy
+shop: mobile phone
 ---

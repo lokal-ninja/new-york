@@ -1,5 +1,5 @@
 ---
 title: "Bon Fire Crafts"
 url: /buffalo/bon-fire-crafts/
-shop: Andenken
+shop: gift
 ---

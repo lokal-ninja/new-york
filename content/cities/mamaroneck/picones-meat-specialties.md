@@ -1,5 +1,5 @@
 ---
 title: "Picone's Meat Specialties"
 url: /mamaroneck/picones-meat-specialties/
-shop: Metzgerei
+shop: butcher
 ---

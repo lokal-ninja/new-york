@@ -1,5 +1,5 @@
 ---
 title: "Lands' End Inlet"
 url: /rochester/lands-end-inlet/
-shop: Kleidung
+shop: clothes
 ---

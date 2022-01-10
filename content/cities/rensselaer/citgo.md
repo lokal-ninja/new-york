@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /rensselaer/citgo/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rego-park/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

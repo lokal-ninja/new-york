@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /troy/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

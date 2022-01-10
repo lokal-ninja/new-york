@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /wolcott/rite-aid/
-shop: Supermarkt
+shop: supermarket
 ---

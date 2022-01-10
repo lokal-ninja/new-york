@@ -1,5 +1,5 @@
 ---
 title: "Salina Paris Salon"
 url: /buffalo/salina-paris-salon/
-shop: Friseur
+shop: hairdresser
 ---

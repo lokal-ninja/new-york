@@ -1,5 +1,5 @@
 ---
 title: "Colburn's Landromat"
 url: /red-hook/colburns-landromat/
-shop: Wäscherei
+shop: laundry
 ---

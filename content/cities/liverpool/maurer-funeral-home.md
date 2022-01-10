@@ -1,5 +1,5 @@
 ---
 title: "Maurer Funeral Home"
 url: /liverpool/maurer-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

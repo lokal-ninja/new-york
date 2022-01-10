@@ -1,5 +1,5 @@
 ---
 title: "Musler's"
 url: /schenectady/muslers/
-shop: Kleidung
+shop: clothes
 ---

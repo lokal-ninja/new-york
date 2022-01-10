@@ -1,5 +1,5 @@
 ---
 title: "iClean"
 url: /new-york/iclean/
-shop: Wäscherei
+shop: laundry
 ---

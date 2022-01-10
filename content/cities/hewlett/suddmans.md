@@ -1,5 +1,5 @@
 ---
 title: "Suddman's"
 url: /hewlett/suddmans/
-shop: Autowerkstatt
+shop: car repair
 ---

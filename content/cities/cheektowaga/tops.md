@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /cheektowaga/tops/
-shop: Supermarkt
+shop: supermarket
 ---

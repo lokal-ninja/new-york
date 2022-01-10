@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /new-paltz/true-value/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cell Point Wireless"
 url: /jamaica/cell-point-wireless/
-shop: Handy
+shop: mobile phone
 ---

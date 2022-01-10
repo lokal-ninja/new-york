@@ -1,5 +1,5 @@
 ---
 title: "Minuteman Press"
 url: /syosset/minuteman-press/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cheaper Peepers"
 url: /new-hyde-park/cheaper-peepers/
-shop: Optiker
+shop: optician
 ---

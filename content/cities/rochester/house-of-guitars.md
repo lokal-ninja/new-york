@@ -1,5 +1,5 @@
 ---
 title: "House of Guitars"
 url: /rochester/house-of-guitars/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wireless Planet"
 url: /lynbrook/wireless-planet/
-shop: Handy
+shop: mobile phone
 ---

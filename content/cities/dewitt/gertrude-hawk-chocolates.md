@@ -1,5 +1,5 @@
 ---
 title: "Gertrude Hawk Chocolates"
 url: /dewitt/gertrude-hawk-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

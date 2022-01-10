@@ -1,5 +1,5 @@
 ---
 title: "Baringer Motor Sports"
 url: /middletown/baringer-motor-sports/
-shop: Autoteile
+shop: car parts
 ---

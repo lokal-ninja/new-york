@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /canandaigua/michaels/
-shop: Basteln
+shop: craft
 ---

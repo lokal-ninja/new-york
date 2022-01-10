@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /utica/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

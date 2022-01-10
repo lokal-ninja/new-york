@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /east-farmingdale/visionworks/
-shop: Optiker
+shop: optician
 ---

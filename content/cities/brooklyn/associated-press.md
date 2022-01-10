@@ -1,5 +1,5 @@
 ---
 title: "Associated Press"
 url: /brooklyn/associated-press/
-shop: Supermarkt
+shop: supermarket
 ---

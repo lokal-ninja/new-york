@@ -1,5 +1,5 @@
 ---
 title: "Bagel Depot"
 url: /staten-island/bagel-depot/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "nom!"
 url: /new-york/nom/
-shop: Feinkost
+shop: deli
 ---

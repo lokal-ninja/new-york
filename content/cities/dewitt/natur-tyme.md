@@ -1,5 +1,5 @@
 ---
 title: "Natur-Tyme"
 url: /dewitt/natur-tyme/
-shop: Supermarkt
+shop: supermarket
 ---

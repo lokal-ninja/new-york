@@ -1,5 +1,5 @@
 ---
 title: "Hackel's Auto Service"
 url: /albany/hackels-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

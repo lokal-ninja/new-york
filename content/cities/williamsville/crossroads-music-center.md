@@ -1,5 +1,5 @@
 ---
 title: "Crossroads Music Center"
 url: /williamsville/crossroads-music-center/
-shop: Musik
+shop: music
 ---

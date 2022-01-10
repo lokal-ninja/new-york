@@ -1,5 +1,5 @@
 ---
 title: "Slater's Pellets"
 url: /cairo/slaters-pellets/
-shop: Lebensmittel
+shop: convenience
 ---

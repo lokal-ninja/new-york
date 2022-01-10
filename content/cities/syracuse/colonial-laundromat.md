@@ -1,5 +1,5 @@
 ---
 title: "Colonial Laundromat"
 url: /syracuse/colonial-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

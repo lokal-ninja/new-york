@@ -1,5 +1,5 @@
 ---
 title: "Kinderhook Transmission"
 url: /valatie/kinderhook-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

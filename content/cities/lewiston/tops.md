@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /lewiston/tops/
-shop: Supermarkt
+shop: supermarket
 ---

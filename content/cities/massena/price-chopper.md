@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /massena/price-chopper/
-shop: Supermarkt
+shop: supermarket
 ---

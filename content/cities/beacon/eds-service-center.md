@@ -1,5 +1,5 @@
 ---
 title: "Ed's Service Center"
 url: /beacon/eds-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

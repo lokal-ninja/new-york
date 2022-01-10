@@ -1,5 +1,5 @@
 ---
 title: "Expressway Automotive"
 url: /hamburg/expressway-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

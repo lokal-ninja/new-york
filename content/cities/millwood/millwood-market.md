@@ -1,5 +1,5 @@
 ---
 title: "Millwood Market"
 url: /millwood/millwood-market/
-shop: Lebensmittel
+shop: convenience
 ---

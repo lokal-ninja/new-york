@@ -1,5 +1,5 @@
 ---
 title: "Metro Hair Studio"
 url: /mamaroneck/metro-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

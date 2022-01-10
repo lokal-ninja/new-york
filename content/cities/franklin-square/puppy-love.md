@@ -1,5 +1,5 @@
 ---
 title: "Puppy Love"
 url: /franklin-square/puppy-love/
-shop: Tiere
+shop: pet
 ---

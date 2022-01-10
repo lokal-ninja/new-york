@@ -1,5 +1,5 @@
 ---
 title: "Aum Shanti"
 url: /new-york/aum-shanti/
-shop: Bücher
+shop: books
 ---

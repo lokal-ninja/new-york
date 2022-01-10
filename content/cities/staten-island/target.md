@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /staten-island/target/
-shop: Warenhaus
+shop: department store
 ---

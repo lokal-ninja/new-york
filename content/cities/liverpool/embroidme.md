@@ -1,5 +1,5 @@
 ---
 title: "EmbroidMe"
 url: /liverpool/embroidme/
-shop: Kleidung
+shop: clothes
 ---

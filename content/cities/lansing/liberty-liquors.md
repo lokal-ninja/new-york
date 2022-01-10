@@ -1,5 +1,5 @@
 ---
 title: "Liberty Liquors"
 url: /lansing/liberty-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

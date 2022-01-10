@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /new-hartford/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disney Store"
 url: /new-york/disney-store/
-shop: Andenken
+shop: gift
 ---

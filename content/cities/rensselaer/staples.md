@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /rensselaer/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

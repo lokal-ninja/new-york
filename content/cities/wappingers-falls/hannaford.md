@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /wappingers-falls/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

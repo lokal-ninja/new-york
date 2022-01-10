@@ -1,5 +1,5 @@
 ---
 title: "Astoria Wireless"
 url: /astoria/astoria-wireless/
-shop: Handy
+shop: mobile phone
 ---

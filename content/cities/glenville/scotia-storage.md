@@ -1,5 +1,5 @@
 ---
 title: "Scotia Storage"
 url: /glenville/scotia-storage/
-shop: Mieten
+shop: storage rental
 ---

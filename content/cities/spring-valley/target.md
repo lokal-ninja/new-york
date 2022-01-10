@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /spring-valley/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /manhasset/walgreens/
-shop: Drogerie
+shop: chemist
 ---

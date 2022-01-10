@@ -1,5 +1,5 @@
 ---
 title: "C-Town"
 url: /jamaica/c-town-2/
-shop: Supermarkt
+shop: supermarket
 ---

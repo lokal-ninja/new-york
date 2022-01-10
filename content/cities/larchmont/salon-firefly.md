@@ -1,5 +1,5 @@
 ---
 title: "Salon Firefly"
 url: /larchmont/salon-firefly/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eddie Bauer"
 url: /saratoga-springs/eddie-bauer/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wildflowers"
 url: /margaretville/wildflowers/
-shop: Blumen
+shop: florist
 ---

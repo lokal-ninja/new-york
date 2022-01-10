@@ -1,5 +1,5 @@
 ---
 title: "Perk's Auto Care"
 url: /almond/perks-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

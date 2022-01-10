@@ -1,5 +1,5 @@
 ---
 title: "Estate Buyouts"
 url: /east-rochester/estate-buyouts/
-shop: Antiquitäten
+shop: antiques
 ---

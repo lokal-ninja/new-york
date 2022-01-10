@@ -1,5 +1,5 @@
 ---
 title: "Gold Leaf Stationers Inc."
 url: /new-york/gold-leaf-stationers-inc/
-shop: Schreibwaren
+shop: office supplies
 ---

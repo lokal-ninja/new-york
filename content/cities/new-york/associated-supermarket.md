@@ -1,5 +1,5 @@
 ---
 title: "Associated Supermarket"
 url: /new-york/associated-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

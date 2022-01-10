@@ -1,5 +1,5 @@
 ---
 title: "Oliver Krita Chocolates"
 url: /kingston/oliver-krita-chocolates/
-shop: Schokolade
+shop: chocolate
 ---
