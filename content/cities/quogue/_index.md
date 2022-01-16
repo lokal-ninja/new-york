@@ -2,5 +2,5 @@
 title: Quogue
 url: /quogue/
 latitude: 40.823
-longitude: -72.61
+longitude: -72.609
 ---
