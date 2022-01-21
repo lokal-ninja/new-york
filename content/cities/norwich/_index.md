@@ -1,6 +1,6 @@
 ---
 title: Norwich
 url: /norwich/
-latitude: 42.496
-longitude: -75.528
+latitude: 42.515
+longitude: -75.523
 ---

@@ -1,6 +1,6 @@
 ---
 title: Clifton Park
 url: /clifton-park/
-latitude: 42.878
-longitude: -73.775
+latitude: 42.903
+longitude: -73.784
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saugerties
 url: /saugerties/
-latitude: 42.077
-longitude: -73.952
+latitude: 42.084
+longitude: -73.968
 ---
