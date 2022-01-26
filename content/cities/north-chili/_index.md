@@ -1,6 +1,6 @@
 ---
 title: North Chili
 url: /north-chili/
-latitude: 43.12
-longitude: -77.805
+latitude: 43.121
+longitude: -77.807
 ---

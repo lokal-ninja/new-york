@@ -1,6 +1,6 @@
 ---
 title: Calverton
 url: /calverton/
-latitude: 40.925
-longitude: -72.699
+latitude: 40.917
+longitude: -72.714
 ---

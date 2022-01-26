@@ -1,6 +1,6 @@
 ---
 title: Apalachin
 url: /apalachin/
-latitude: 42.06
-longitude: -76.145
+latitude: 42.062
+longitude: -76.12
 ---
