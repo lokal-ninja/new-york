@@ -1,5 +1,5 @@
 ---
-title: "CVS/Pharmacy"
+title: "CVS Pharmacy"
 url: /cohoes/cvs-pharmacy/
-shop: convenience
+shop: chemist
 ---

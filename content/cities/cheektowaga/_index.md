@@ -1,6 +1,6 @@
 ---
 title: Cheektowaga
 url: /cheektowaga/
-latitude: 42.91
-longitude: -78.776
+latitude: 42.884
+longitude: -78.763
 ---
