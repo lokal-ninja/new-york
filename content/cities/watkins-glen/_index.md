@@ -1,6 +1,6 @@
 ---
 title: Watkins Glen
 url: /watkins-glen/
-latitude: 42.37
-longitude: -76.867
+latitude: 42.384
+longitude: -76.875
 ---
