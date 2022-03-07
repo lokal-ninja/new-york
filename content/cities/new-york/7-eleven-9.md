@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /middletown/7-eleven/
+url: /new-york/7-eleven-9/
 shop: convenience
 ---

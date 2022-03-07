@@ -1,6 +1,6 @@
 ---
 title: Yorktown Heights
 url: /yorktown-heights/
-latitude: 41.33
-longitude: -73.809
+latitude: 41.271
+longitude: -73.779
 ---
