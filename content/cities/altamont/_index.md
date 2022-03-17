@@ -1,6 +1,6 @@
 ---
 title: Altamont
 url: /altamont/
-latitude: 42.7
-longitude: -74.034
+latitude: 42.736
+longitude: -74.007
 ---
