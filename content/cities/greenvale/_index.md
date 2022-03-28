@@ -1,6 +1,6 @@
 ---
 title: Greenvale
 url: /greenvale/
-latitude: 40.808
-longitude: -73.633
+latitude: 40.81
+longitude: -73.63
 ---
