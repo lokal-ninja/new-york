@@ -1,6 +1,6 @@
 ---
 title: Westhampton Beach
 url: /westhampton-beach/
-latitude: 40.81
-longitude: -72.642
+latitude: 40.809
+longitude: -72.644
 ---
