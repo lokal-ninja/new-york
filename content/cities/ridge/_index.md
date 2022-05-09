@@ -1,6 +1,6 @@
 ---
 title: Ridge
 url: /ridge/
-latitude: 40.909
-longitude: -72.847
+latitude: 40.904
+longitude: -72.858
 ---

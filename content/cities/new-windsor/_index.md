@@ -1,6 +1,6 @@
 ---
 title: New Windsor
 url: /new-windsor/
-latitude: 41.456
-longitude: -74.06
+latitude: 41.466
+longitude: -74.099
 ---

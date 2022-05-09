@@ -1,6 +1,6 @@
 ---
 title: Cutchogue
 url: /cutchogue/
-latitude: 41.007
-longitude: -72.483
+latitude: 40.992
+longitude: -72.472
 ---
