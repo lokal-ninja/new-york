@@ -1,6 +1,6 @@
 ---
 title: LeRoy
 url: /leroy/
-latitude: 42.98
-longitude: -78.005
+latitude: 43.005
+longitude: -77.979
 ---
