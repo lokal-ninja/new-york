@@ -1,6 +1,6 @@
 ---
 title: East Syracuse
 url: /east-syracuse/
-latitude: 43.054
-longitude: -76.068
+latitude: 43.07
+longitude: -76.077
 ---

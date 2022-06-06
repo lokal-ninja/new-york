@@ -1,6 +1,6 @@
 ---
 title: Smithtown
 url: /smithtown/
-latitude: 40.847
-longitude: -73.169
+latitude: 40.858
+longitude: -73.207
 ---
