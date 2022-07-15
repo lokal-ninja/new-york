@@ -1,10 +1,10 @@
-id: 796629558
-type: node
-latitude: 43.03762
-longitude: -74.20492
+id: 124088333
+type: way
+latitude: 43.03782
+longitude: -74.20525
 postcode: "12010"
 city: Amsterdam
-street: "State Highway 30"
+street: "State Route 30;State Highway 30"
 housenumber: 3883
 phone: ""
 opening_hours: ""
