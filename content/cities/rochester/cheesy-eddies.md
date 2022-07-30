@@ -1,5 +1,5 @@
 ---
-title: "Cheesy Eddie's"
+title: "Cheesy Eddies"
 url: /rochester/cheesy-eddies/
 shop: bakery
 ---

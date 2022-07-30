@@ -7,5 +7,5 @@ city: Babylon
 street: "E Main St"
 housenumber: 103
 phone: "631-661-9646"
-opening_hours: "Tue - Wed: 9:00 AM to 7:00 PM Thur: 9:00 AM to 8:00 PM Fri - Sat: 9:00 AM to 7:00 PM"
+opening_hours: "Tu,We,Fr,Sa 09:00-19:00; Th 09:00-20:00"
 website: "https://balihairdesigns.com"
