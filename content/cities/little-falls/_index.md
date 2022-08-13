@@ -1,6 +1,6 @@
 ---
 title: Little Falls
 url: /little-falls/
-latitude: 43.044
-longitude: -74.86
+latitude: 43.042
+longitude: -74.865
 ---
