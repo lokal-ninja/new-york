@@ -1,6 +1,6 @@
 ---
 title: Port Jervis
 url: /port-jervis/
-latitude: 41.357
-longitude: -74.68
+latitude: 41.374
+longitude: -74.692
 ---

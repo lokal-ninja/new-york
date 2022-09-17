@@ -1,6 +1,6 @@
 ---
 title: Tannersville
 url: /tannersville/
-latitude: 42.191
-longitude: -74.167
+latitude: 42.196
+longitude: -74.15
 ---
