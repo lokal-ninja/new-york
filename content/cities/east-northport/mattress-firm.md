@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /staten-island/mattress-firm/
+url: /east-northport/mattress-firm/
 shop: bed
 ---
