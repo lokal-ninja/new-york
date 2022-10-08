@@ -1,6 +1,6 @@
 ---
 title: Huntington Station
 url: /huntington-station/
-latitude: 40.841
-longitude: -73.412
+latitude: 40.829
+longitude: -73.419
 ---
