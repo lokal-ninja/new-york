@@ -1,6 +1,6 @@
 ---
 title: Lansing
 url: /lansing/
-latitude: 42.54
-longitude: -76.492
+latitude: 42.538
+longitude: -76.493
 ---
