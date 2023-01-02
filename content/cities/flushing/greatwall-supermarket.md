@@ -1,5 +1,5 @@
 ---
-title: "GreatWall SuperMarket"
+title: "GreatWall Supermarket"
 url: /flushing/greatwall-supermarket/
 shop: supermarket
 ---
