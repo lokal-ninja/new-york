@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
-url: /queensbury/stewarts-2/
+url: /queensbury/stewarts/
 shop: convenience
 ---

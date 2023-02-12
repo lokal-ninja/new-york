@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
-url: /watervliet/stewarts-shops-2/
+url: /watervliet/stewarts-shops/
 shop: convenience
 ---

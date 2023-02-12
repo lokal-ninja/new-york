@@ -1,6 +1,6 @@
 ---
 title: Williamsville
 url: /williamsville/
-latitude: 42.966
-longitude: -78.699
+latitude: 42.978
+longitude: -78.734
 ---

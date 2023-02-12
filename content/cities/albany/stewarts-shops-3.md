@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
-url: /albany/stewarts-shops-3/
+url: /albany/stewarts-shops/
 shop: convenience
 ---
