@@ -1,6 +1,6 @@
 ---
 title: Livingston Manor
 url: /livingston-manor/
-latitude: 41.906
-longitude: -74.798
+latitude: 41.899
+longitude: -74.831
 ---
