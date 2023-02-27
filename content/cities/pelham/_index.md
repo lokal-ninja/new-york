@@ -1,6 +1,6 @@
 ---
 title: Pelham
 url: /pelham/
-latitude: 40.906
-longitude: -73.812
+latitude: 40.91
+longitude: -73.811
 ---
