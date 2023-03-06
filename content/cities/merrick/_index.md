@@ -1,6 +1,6 @@
 ---
 title: Merrick
 url: /merrick/
-latitude: 40.659
-longitude: -73.544
+latitude: 40.664
+longitude: -73.545
 ---
