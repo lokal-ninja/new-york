@@ -7,5 +7,5 @@ city: Woodstock
 street: "Tinker Street"
 housenumber: 36
 phone: "+1-845-679-2079"
-opening_hours: "Fr-Su 12:00-17:00; Feb Mo[3],Fr-Su: 11:00-17:00; May Mo[-1],Fr-Su 12:00-17:00; Jul-Aug: Th-Su 12:00-17:00; Jul 4: 12:00-17:00; Sep Mo[1],Fr-Su: 12:00-17:00; Dec: Th-Su 12:00-17:00"
+opening_hours: "Fr-Su 12:00-17:00; Feb Mo[3],Fr-Su 11:00-17:00; May Mo[-1],Fr-Su 12:00-17:00; Jul-Aug: Th-Su 12:00-17:00; Jul 04: 12:00-17:00; Sep Mo[1],Fr-Su 12:00-17:00; Dec: Th-Su 12:00-17:00"
 website: "https://www.woodstockguild.org/the-byrdcliffe-shop/"
