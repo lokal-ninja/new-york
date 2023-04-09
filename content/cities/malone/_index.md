@@ -1,6 +1,6 @@
 ---
 title: Malone
 url: /malone/
-latitude: 44.849
-longitude: -74.299
+latitude: 44.852
+longitude: -74.271
 ---

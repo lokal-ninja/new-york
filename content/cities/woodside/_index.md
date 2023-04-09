@@ -1,6 +1,6 @@
 ---
 title: Woodside
 url: /woodside/
-latitude: 40.743
-longitude: -73.907
+latitude: 40.735
+longitude: -73.895
 ---
