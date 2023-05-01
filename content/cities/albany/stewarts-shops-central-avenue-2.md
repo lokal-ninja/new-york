@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
 url: /albany/stewarts-shops/
-shop: convenience
+shop: gas
 ---
