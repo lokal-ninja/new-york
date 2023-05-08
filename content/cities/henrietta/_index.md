@@ -1,6 +1,6 @@
 ---
 title: Henrietta
 url: /henrietta/
-latitude: 43.06
-longitude: -77.611
+latitude: 43.078
+longitude: -77.642
 ---
