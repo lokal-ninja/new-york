@@ -1,6 +1,6 @@
 ---
 title: Whitesboro
 url: /whitesboro/
-latitude: 43.119
-longitude: -75.294
+latitude: 43.126
+longitude: -75.297
 ---
