@@ -1,6 +1,6 @@
 ---
 title: South Glens Falls
 url: /south-glens-falls/
-latitude: 43.298
-longitude: -73.635
+latitude: 43.274
+longitude: -73.639
 ---

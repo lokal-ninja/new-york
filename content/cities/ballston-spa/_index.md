@@ -1,6 +1,6 @@
 ---
-title: Ballston Spa
+title: Ballston+Spa
 url: /ballston-spa/
-latitude: 42.975
-longitude: -73.845
+latitude: 43.028
+longitude: -73.927
 ---
