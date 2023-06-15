@@ -1,5 +1,5 @@
 ---
-title: "Lao Feng Xiang"
+title: "老凤祥"
 url: /new-york/lao-feng-xiang/
 shop: jewelry
 ---
