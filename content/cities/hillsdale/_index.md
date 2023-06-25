@@ -1,6 +1,6 @@
 ---
 title: Hillsdale
 url: /hillsdale/
-latitude: 42.18
-longitude: -73.522
+latitude: 42.179
+longitude: -73.521
 ---
