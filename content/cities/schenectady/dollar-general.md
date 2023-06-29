@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /schenectady/dollar-general/
-shop: shop
+shop: variety store
 ---

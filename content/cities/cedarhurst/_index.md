@@ -1,6 +1,6 @@
 ---
 title: Cedarhurst
 url: /cedarhurst/
-latitude: 40.625
-longitude: -73.719
+latitude: 40.623
+longitude: -73.722
 ---
