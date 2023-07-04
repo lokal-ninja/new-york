@@ -1,6 +1,6 @@
 ---
 title: Depew
 url: /depew/
-latitude: 42.892
-longitude: -78.697
+latitude: 42.867
+longitude: -78.708
 ---
