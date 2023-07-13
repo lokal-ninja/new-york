@@ -1,6 +1,6 @@
 ---
 title: Hancock
 url: /hancock/
-latitude: 41.955
-longitude: -75.283
+latitude: 41.953
+longitude: -75.284
 ---
