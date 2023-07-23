@@ -1,6 +1,6 @@
 ---
 title: Larchmont
 url: /larchmont/
-latitude: 40.921
-longitude: -73.764
+latitude: 40.928
+longitude: -73.765
 ---
