@@ -1,6 +1,6 @@
 ---
 title: New York
 url: /new-york/
-latitude: 40.74
-longitude: -73.986
+latitude: 40.794
+longitude: -73.971
 ---
