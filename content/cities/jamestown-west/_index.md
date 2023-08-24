@@ -1,6 +1,6 @@
 ---
 title: Jamestown West
 url: /jamestown-west/
-latitude: 42.094
-longitude: -79.289
+latitude: 42.095
+longitude: -79.291
 ---

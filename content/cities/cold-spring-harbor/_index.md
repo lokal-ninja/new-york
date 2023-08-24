@@ -1,6 +1,6 @@
 ---
 title: Cold Spring Harbor
 url: /cold-spring-harbor/
-latitude: 40.871
-longitude: -73.459
+latitude: 40.87
+longitude: -73.46
 ---

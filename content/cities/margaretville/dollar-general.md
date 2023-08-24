@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /margaretville/dollar-general/
-shop: convenience
+shop: variety store
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hauppauge
 url: /hauppauge/
-latitude: 40.836
-longitude: -73.185
+latitude: 40.831
+longitude: -73.199
 ---
