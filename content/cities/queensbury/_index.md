@@ -1,6 +1,6 @@
 ---
 title: Queensbury
 url: /queensbury/
-latitude: 43.295
-longitude: -73.682
+latitude: 43.297
+longitude: -73.683
 ---
