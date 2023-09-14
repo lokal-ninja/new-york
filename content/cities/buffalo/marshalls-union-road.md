@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
-url: /buffalo/marshalls/
+url: /buffalo/marshalls-union-road/
 shop: department store
 ---

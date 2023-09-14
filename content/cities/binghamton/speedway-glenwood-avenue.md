@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /binghamton/speedway/
+url: /binghamton/speedway-glenwood-avenue/
 shop: convenience
 ---

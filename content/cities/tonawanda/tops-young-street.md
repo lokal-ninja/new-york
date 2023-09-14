@@ -1,5 +1,5 @@
 ---
 title: "Tops"
-url: /tonawanda/tops/
+url: /tonawanda/tops-young-street/
 shop: supermarket
 ---

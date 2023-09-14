@@ -1,5 +1,5 @@
 ---
 title: "NetCost Market"
-url: /brooklyn/netcost-market/
+url: /brooklyn/netcost-market-neptune-avenue/
 shop: supermarket
 ---

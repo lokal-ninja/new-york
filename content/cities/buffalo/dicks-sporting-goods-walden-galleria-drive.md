@@ -1,5 +1,5 @@
 ---
 title: "Dick's Sporting Goods"
-url: /buffalo/dicks-sporting-goods/
+url: /buffalo/dicks-sporting-goods-walden-galleria-drive/
 shop: sports
 ---

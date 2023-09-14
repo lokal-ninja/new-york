@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /queensbury/speedway/
+url: /queensbury/speedway-quaker-road/
 shop: convenience
 ---

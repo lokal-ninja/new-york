@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
-url: /buffalo/rainbow/
+url: /buffalo/rainbow-union-road/
 shop: clothes
 ---

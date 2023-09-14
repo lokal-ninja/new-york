@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
-url: /rochester/napa-auto-parts/
+url: /rochester/napa-auto-parts-jefferson-rd/
 shop: car parts
 ---

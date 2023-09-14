@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fill"
-url: /rochester/kwik-fill/
+url: /rochester/kwik-fill-west-henrietta-road/
 shop: convenience
 ---

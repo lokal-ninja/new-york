@@ -1,5 +1,5 @@
 ---
 title: "Jared"
-url: /buffalo/jared/
+url: /buffalo/jared-niagara-falls-boulevard/
 shop: jewelry
 ---

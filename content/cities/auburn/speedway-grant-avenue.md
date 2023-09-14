@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /auburn/speedway/
+url: /auburn/speedway-grant-avenue/
 shop: convenience
 ---

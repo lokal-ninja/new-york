@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /syracuse/advance-auto-parts/
+url: /syracuse/advance-auto-parts-south-salina-street/
 shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
-url: /buffalo/homegoods/
+url: /buffalo/homegoods-transit-road/
 shop: houseware
 ---

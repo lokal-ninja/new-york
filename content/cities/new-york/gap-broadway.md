@@ -1,5 +1,5 @@
 ---
 title: "Gap"
-url: /new-york/gap/
+url: /new-york/gap-broadway/
 shop: clothes
 ---

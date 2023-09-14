@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /rochester/supercuts/
+url: /rochester/supercuts-jefferson-road/
 shop: hairdresser
 ---

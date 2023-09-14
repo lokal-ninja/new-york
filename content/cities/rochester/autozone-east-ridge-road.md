@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /rochester/autozone/
+url: /rochester/autozone-east-ridge-road/
 shop: car parts
 ---

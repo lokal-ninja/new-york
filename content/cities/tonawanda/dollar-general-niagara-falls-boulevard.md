@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /tonawanda/dollar-general/
+url: /tonawanda/dollar-general-niagara-falls-boulevard/
 shop: variety store
 ---

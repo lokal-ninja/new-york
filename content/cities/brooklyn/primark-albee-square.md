@@ -1,5 +1,5 @@
 ---
 title: "Primark"
-url: /brooklyn/primark/
+url: /brooklyn/primark-albee-square/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
-url: /buffalo/officemax/
+url: /buffalo/officemax-delaware-avenue/
 shop: office supplies
 ---

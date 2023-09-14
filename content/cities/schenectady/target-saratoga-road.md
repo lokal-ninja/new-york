@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /schenectady/target/
+url: /schenectady/target-saratoga-road/
 shop: department store
 ---

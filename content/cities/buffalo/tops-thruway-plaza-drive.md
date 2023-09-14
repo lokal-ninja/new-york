@@ -1,5 +1,5 @@
 ---
 title: "Tops"
-url: /buffalo/tops/
+url: /buffalo/tops-thruway-plaza-drive/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /westbury/speedway/
+url: /westbury/speedway-merrick-avenue/
 shop: convenience
 ---

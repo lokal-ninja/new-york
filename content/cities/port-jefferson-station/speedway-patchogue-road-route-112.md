@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /port-jefferson-station/speedway/
+url: /port-jefferson-station/speedway-patchogue-road-route-112/
 shop: convenience
 ---

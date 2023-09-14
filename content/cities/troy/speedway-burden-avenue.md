@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /troy/speedway/
+url: /troy/speedway-burden-avenue/
 shop: convenience
 ---

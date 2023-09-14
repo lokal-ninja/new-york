@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /syracuse/speedway/
+url: /syracuse/speedway-brewerton-road/
 shop: convenience
 ---

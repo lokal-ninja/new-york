@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
-url: /schenectady/hannaford/
+url: /schenectady/hannaford-consaul-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /rochester/dollar-general/
+url: /rochester/dollar-general-chili-avenue/
 shop: variety store
 ---

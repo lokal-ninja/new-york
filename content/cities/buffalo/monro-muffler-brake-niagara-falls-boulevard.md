@@ -1,5 +1,5 @@
 ---
 title: "Monro Muffler Brake"
-url: /buffalo/monro-muffler-brake/
+url: /buffalo/monro-muffler-brake-niagara-falls-boulevard/
 shop: car repair
 ---

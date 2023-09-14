@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /oneonta/speedway/
+url: /oneonta/speedway-oneida-street/
 shop: convenience
 ---

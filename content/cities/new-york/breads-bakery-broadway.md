@@ -1,5 +1,5 @@
 ---
 title: "Breads Bakery"
-url: /new-york/breads-bakery/
+url: /new-york/breads-bakery-broadway/
 shop: bakery
 ---

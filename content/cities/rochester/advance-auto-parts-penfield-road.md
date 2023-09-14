@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /rochester/advance-auto-parts/
+url: /rochester/advance-auto-parts-penfield-road/
 shop: car parts
 ---

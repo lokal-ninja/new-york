@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /commack/speedway/
+url: /commack/speedway-jericho-turnpike-2/
 shop: convenience
 ---

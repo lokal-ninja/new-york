@@ -1,5 +1,5 @@
 ---
 title: "King Kullen"
-url: /new-hyde-park/king-kullen/
+url: /new-hyde-park/king-kullen-jericho-turnpike/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
-url: /niagara-falls/life-storage/
+url: /niagara-falls/life-storage-fashion-outlets-boulevard/
 shop: storage rental
 ---

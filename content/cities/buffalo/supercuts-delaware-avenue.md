@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /buffalo/supercuts/
+url: /buffalo/supercuts-delaware-avenue/
 shop: hairdresser
 ---

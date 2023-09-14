@@ -1,5 +1,5 @@
 ---
 title: "Country Farms"
-url: /schenectady/country-farms/
+url: /schenectady/country-farms-erie-boulevard/
 shop: convenience
 ---

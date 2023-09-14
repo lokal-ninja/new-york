@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
-url: /poughkeepsie/shoprite/
+url: /poughkeepsie/shoprite-south-road/
 shop: supermarket
 ---

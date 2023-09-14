@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
-url: /liverpool/valvoline/
+url: /liverpool/valvoline-oswego-road/
 shop: car repair
 ---

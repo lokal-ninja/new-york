@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
-url: /buffalo/wegmans/
+url: /buffalo/wegmans-alberta-drive/
 shop: supermarket
 ---

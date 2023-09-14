@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /rochester/goodwill/
+url: /rochester/goodwill-brighton-henrietta-town-line-road/
 shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /flushing/t-mobile/
+url: /flushing/t-mobile-40th-road/
 shop: mobile phone
 ---

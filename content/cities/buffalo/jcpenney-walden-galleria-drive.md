@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
-url: /buffalo/jcpenney/
+url: /buffalo/jcpenney-walden-galleria-drive/
 shop: department store
 ---

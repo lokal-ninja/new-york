@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /albany/speedway/
+url: /albany/speedway-central-avenue/
 shop: convenience
 ---

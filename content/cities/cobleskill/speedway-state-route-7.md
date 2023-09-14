@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /cobleskill/speedway/
+url: /cobleskill/speedway-state-route-7/
 shop: convenience
 ---

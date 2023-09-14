@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
-url: /syracuse/fastenal/
+url: /syracuse/fastenal-spencer-street/
 shop: trade
 ---

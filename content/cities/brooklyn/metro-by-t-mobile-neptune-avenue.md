@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
-url: /brooklyn/metro-by-t-mobile/
+url: /brooklyn/metro-by-t-mobile-neptune-avenue/
 shop: mobile phone
 ---

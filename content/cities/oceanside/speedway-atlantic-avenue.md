@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /oceanside/speedway/
+url: /oceanside/speedway-atlantic-avenue/
 shop: convenience
 ---

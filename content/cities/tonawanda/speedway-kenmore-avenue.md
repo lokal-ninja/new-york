@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /tonawanda/speedway/
+url: /tonawanda/speedway-kenmore-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /buffalo/burlington/
+url: /buffalo/burlington-sheridan-drive/
 shop: department store
 ---

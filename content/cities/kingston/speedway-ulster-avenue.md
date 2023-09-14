@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /kingston/speedway/
+url: /kingston/speedway-ulster-avenue/
 shop: convenience
 ---

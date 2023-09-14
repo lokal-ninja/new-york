@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
-url: /brooklyn/cubesmart/
+url: /brooklyn/cubesmart-cropsey-avenue/
 shop: storage rental
 ---

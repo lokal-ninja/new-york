@@ -1,5 +1,5 @@
 ---
 title: "Magnolia Bakery"
-url: /new-york/magnolia-bakery/
+url: /new-york/magnolia-bakery-6th-avenue/
 shop: bakery
 ---

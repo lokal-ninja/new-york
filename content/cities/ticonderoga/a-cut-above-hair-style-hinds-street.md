@@ -1,5 +1,5 @@
 ---
 title: "A Cut Above Hair Style"
-url: /ticonderoga/a-cut-above-hair-style/
+url: /ticonderoga/a-cut-above-hair-style-hinds-street/
 shop: hairdresser
 ---

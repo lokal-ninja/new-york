@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /brockport/speedway/
+url: /brockport/speedway-transit-way/
 shop: convenience
 ---

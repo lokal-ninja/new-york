@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /buffalo/family-dollar/
+url: /buffalo/family-dollar-kenmore-avenue-2/
 shop: variety store
 ---

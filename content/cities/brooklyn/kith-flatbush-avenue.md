@@ -1,5 +1,5 @@
 ---
 title: "Kith"
-url: /brooklyn/kith/
+url: /brooklyn/kith-flatbush-avenue/
 shop: clothes
 ---

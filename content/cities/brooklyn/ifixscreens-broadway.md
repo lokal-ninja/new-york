@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
-url: /brooklyn/ifixscreens/
+url: /brooklyn/ifixscreens-broadway/
 shop: mobile phone
 ---

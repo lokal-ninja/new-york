@@ -1,5 +1,5 @@
 ---
 title: "University Convenience"
-url: /buffalo/university-convenience/
+url: /buffalo/university-convenience-sheridan-drive/
 shop: convenience
 ---

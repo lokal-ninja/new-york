@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /buffalo/atandt/
+url: /buffalo/atandt-elmwood-avenue/
 shop: mobile phone
 ---

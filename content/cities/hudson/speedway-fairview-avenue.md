@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /hudson/speedway/
+url: /hudson/speedway-fairview-avenue/
 shop: convenience
 ---

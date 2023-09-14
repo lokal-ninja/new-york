@@ -1,5 +1,5 @@
 ---
 title: "U Best Bakery"
-url: /flushing/u-best-bakery/
+url: /flushing/u-best-bakery-roosevelt-avenue/
 shop: bakery
 ---

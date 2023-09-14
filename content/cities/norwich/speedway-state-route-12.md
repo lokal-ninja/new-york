@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /norwich/speedway/
+url: /norwich/speedway-state-route-12/
 shop: convenience
 ---

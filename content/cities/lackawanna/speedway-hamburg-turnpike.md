@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lackawanna/speedway/
+url: /lackawanna/speedway-hamburg-turnpike/
 shop: convenience
 ---

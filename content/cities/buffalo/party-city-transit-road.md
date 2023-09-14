@@ -1,5 +1,5 @@
 ---
 title: "Party City"
-url: /buffalo/party-city/
+url: /buffalo/party-city-transit-road/
 shop: party
 ---

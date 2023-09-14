@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
-url: /kingston/stewarts/
+url: /kingston/stewarts-boulevard/
 shop: convenience
 ---

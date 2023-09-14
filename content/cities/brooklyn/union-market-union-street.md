@@ -1,5 +1,5 @@
 ---
 title: "Union Market"
-url: /brooklyn/union-market/
+url: /brooklyn/union-market-union-street/
 shop: supermarket
 ---

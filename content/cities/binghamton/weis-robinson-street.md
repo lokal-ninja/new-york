@@ -1,5 +1,5 @@
 ---
 title: "Weis"
-url: /binghamton/weis/
+url: /binghamton/weis-robinson-street/
 shop: supermarket
 ---

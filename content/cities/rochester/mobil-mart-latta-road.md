@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /rochester/mobil-mart/
+url: /rochester/mobil-mart-latta-road/
 shop: convenience
 ---

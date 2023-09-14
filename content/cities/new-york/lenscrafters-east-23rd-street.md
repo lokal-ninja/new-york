@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
-url: /new-york/lenscrafters/
+url: /new-york/lenscrafters-east-23rd-street/
 shop: optician
 ---

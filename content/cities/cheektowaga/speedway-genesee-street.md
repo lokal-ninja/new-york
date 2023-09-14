@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /cheektowaga/speedway/
+url: /cheektowaga/speedway-genesee-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shakespeare & Co."
-url: /new-york/shakespeare-and-co/
+url: /new-york/shakespeare-and-co-broadway/
 shop: books
 ---

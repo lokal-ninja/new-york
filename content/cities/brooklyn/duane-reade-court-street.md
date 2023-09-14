@@ -1,5 +1,5 @@
 ---
 title: "Duane Reade"
-url: /brooklyn/duane-reade/
+url: /brooklyn/duane-reade-court-street/
 shop: chemist
 ---

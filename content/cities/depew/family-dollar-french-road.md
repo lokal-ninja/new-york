@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /depew/family-dollar/
+url: /depew/family-dollar-french-road/
 shop: variety store
 ---

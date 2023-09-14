@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /cicero/speedway/
+url: /cicero/speedway-brewerton-road/
 shop: convenience
 ---

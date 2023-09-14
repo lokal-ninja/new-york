@@ -1,5 +1,5 @@
 ---
 title: "PPG Paints"
-url: /buffalo/ppg-paints/
+url: /buffalo/ppg-paints-transit-road/
 shop: paint
 ---

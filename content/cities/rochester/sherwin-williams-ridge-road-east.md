@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /rochester/sherwin-williams/
+url: /rochester/sherwin-williams-ridge-road-east/
 shop: doityourself
 ---

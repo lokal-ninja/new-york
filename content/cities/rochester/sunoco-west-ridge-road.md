@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /rochester/sunoco/
+url: /rochester/sunoco-west-ridge-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /poughkeepsie/dollar-tree/
+url: /poughkeepsie/dollar-tree-south-road/
 shop: variety store
 ---

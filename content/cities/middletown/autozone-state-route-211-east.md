@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /middletown/autozone/
+url: /middletown/autozone-state-route-211-east/
 shop: car parts
 ---

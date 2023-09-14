@@ -1,5 +1,5 @@
 ---
 title: "APlus"
-url: /syracuse/aplus/
+url: /syracuse/aplus-erie-boulevard-east/
 shop: convenience
 ---

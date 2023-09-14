@@ -1,5 +1,5 @@
 ---
 title: "Mavis Discount Tire"
-url: /rochester/mavis-discount-tire/
+url: /rochester/mavis-discount-tire-ridge-road-west/
 shop: tyres
 ---

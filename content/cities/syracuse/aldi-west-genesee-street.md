@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /syracuse/aldi/
+url: /syracuse/aldi-west-genesee-street/
 shop: supermarket
 ---

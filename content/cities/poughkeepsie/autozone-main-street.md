@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /poughkeepsie/autozone/
+url: /poughkeepsie/autozone-main-street/
 shop: car parts
 ---

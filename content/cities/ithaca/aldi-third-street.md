@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /ithaca/aldi/
+url: /ithaca/aldi-third-street/
 shop: supermarket
 ---

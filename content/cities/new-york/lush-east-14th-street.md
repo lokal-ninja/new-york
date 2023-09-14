@@ -1,5 +1,5 @@
 ---
 title: "Lush"
-url: /new-york/lush/
+url: /new-york/lush-east-14th-street/
 shop: beauty
 ---

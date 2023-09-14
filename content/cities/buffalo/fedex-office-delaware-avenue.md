@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
-url: /buffalo/fedex-office/
+url: /buffalo/fedex-office-delaware-avenue/
 shop: copyshop
 ---

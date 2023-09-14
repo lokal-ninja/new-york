@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /endicott/speedway/
+url: /endicott/speedway-east-main-street/
 shop: convenience
 ---

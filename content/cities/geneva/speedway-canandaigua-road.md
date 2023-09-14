@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /geneva/speedway/
+url: /geneva/speedway-canandaigua-road/
 shop: convenience
 ---

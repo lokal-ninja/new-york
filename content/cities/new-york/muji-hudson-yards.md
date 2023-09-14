@@ -1,5 +1,5 @@
 ---
 title: "MUJI"
-url: /new-york/muji/
+url: /new-york/muji-hudson-yards/
 shop: department store
 ---

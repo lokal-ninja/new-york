@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /rochester/autozone/
+url: /rochester/autozone-dewey-avenue/
 shop: car parts
 ---

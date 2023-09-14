@@ -1,5 +1,5 @@
 ---
 title: "Stop and Shop"
-url: /bronx/stop-and-shop/
+url: /bronx/stop-and-shop-broadway/
 shop: supermarket
 ---

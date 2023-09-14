@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /liverpool/speedway/
+url: /liverpool/speedway-7th-north-street/
 shop: convenience
 ---

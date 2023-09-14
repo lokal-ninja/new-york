@@ -1,5 +1,5 @@
 ---
 title: "Aesop"
-url: /brooklyn/aesop/
+url: /brooklyn/aesop-bergen-street/
 shop: beauty
 ---

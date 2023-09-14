@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
-url: /brooklyn/best-buy/
+url: /brooklyn/best-buy-bay-parkway/
 shop: electronics
 ---

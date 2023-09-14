@@ -1,5 +1,5 @@
 ---
 title: "Fastrac"
-url: /rochester/fastrac/
+url: /rochester/fastrac-jefferson-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /schenectady/speedway/
+url: /schenectady/speedway-central-avenue/
 shop: convenience
 ---

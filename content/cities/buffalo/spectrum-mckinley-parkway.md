@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
-url: /buffalo/spectrum/
+url: /buffalo/spectrum-mckinley-parkway/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /camillus/speedway/
+url: /camillus/speedway-west-genesee-street/
 shop: convenience
 ---

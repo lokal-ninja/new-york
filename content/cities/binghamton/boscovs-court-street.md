@@ -1,5 +1,5 @@
 ---
 title: "Boscov's"
-url: /binghamton/boscovs/
+url: /binghamton/boscovs-court-street/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /albany/sunoco/
+url: /albany/sunoco-washington-avenue/
 shop: convenience
 ---

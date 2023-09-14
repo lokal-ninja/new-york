@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /syracuse/autozone/
+url: /syracuse/autozone-erie-boulevard-east/
 shop: car parts
 ---

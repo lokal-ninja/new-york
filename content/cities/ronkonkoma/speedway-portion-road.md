@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /ronkonkoma/speedway/
+url: /ronkonkoma/speedway-portion-road/
 shop: convenience
 ---

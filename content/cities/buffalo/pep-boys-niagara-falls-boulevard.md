@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
-url: /buffalo/pep-boys/
+url: /buffalo/pep-boys-niagara-falls-boulevard/
 shop: car repair
 ---

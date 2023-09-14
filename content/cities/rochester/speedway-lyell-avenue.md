@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /rochester/speedway/
+url: /rochester/speedway-lyell-avenue/
 shop: convenience
 ---

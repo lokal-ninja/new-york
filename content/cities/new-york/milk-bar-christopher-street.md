@@ -1,5 +1,5 @@
 ---
 title: "Milk Bar"
-url: /new-york/milk-bar/
+url: /new-york/milk-bar-christopher-street/
 shop: pastry
 ---

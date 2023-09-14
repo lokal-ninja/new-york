@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
-url: /middletown/quickchek/
+url: /middletown/quickchek-state-route-211-east/
 shop: convenience
 ---

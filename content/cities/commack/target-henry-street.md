@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /commack/target/
+url: /commack/target-henry-street/
 shop: department store
 ---

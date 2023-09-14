@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
-url: /glens-falls/stewarts-shops/
+url: /glens-falls/stewarts-shops-ridge-street/
 shop: convenience
 ---

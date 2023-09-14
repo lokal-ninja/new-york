@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
-url: /buffalo/tj-maxx/
+url: /buffalo/tj-maxx-transit-road/
 shop: department store
 ---

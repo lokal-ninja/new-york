@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /brooklyn/autozone/
+url: /brooklyn/autozone-coney-island-avenue/
 shop: car parts
 ---

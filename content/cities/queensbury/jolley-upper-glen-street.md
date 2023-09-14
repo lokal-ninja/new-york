@@ -1,5 +1,5 @@
 ---
 title: "Jolley"
-url: /queensbury/jolley/
+url: /queensbury/jolley-upper-glen-street/
 shop: convenience
 ---

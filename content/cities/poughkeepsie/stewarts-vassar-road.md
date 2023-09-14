@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
-url: /poughkeepsie/stewarts/
+url: /poughkeepsie/stewarts-vassar-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /buffalo/autozone/
+url: /buffalo/autozone-sheridan-drive/
 shop: car parts
 ---

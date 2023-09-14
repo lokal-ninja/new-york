@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /buffalo/atandt/
+url: /buffalo/atandt-sheridan-drive/
 shop: mobile phone
 ---

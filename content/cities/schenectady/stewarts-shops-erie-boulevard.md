@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
-url: /schenectady/stewarts-shops/
+url: /schenectady/stewarts-shops-erie-boulevard/
 shop: convenience
 ---

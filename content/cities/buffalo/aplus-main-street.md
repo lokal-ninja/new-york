@@ -1,5 +1,5 @@
 ---
 title: "APlus"
-url: /buffalo/aplus/
+url: /buffalo/aplus-main-street/
 shop: convenience
 ---

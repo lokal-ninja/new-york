@@ -1,5 +1,5 @@
 ---
 title: "Paris Baguette"
-url: /new-york/paris-baguette/
+url: /new-york/paris-baguette-broadway/
 shop: bakery
 ---

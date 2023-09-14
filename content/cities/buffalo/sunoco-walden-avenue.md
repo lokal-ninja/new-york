@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /buffalo/sunoco/
+url: /buffalo/sunoco-walden-avenue/
 shop: convenience
 ---

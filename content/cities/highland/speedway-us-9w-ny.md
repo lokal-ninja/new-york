@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /highland/speedway/
+url: /highland/speedway-us-9w-ny/
 shop: convenience
 ---

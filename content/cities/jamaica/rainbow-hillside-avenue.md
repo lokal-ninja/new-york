@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
-url: /jamaica/rainbow/
+url: /jamaica/rainbow-hillside-avenue/
 shop: clothes
 ---

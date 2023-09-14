@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /horseheads/speedway/
+url: /horseheads/speedway-south-main-street/
 shop: convenience
 ---

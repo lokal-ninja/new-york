@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /farmingdale/7-eleven/
+url: /farmingdale/7-eleven-fulton-street/
 shop: convenience
 ---

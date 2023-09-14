@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /buffalo/speedway/
+url: /buffalo/speedway-elmwood-avenue-2/
 shop: convenience
 ---

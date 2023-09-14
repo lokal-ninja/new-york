@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
-url: /kingston/hannaford/
+url: /kingston/hannaford-ulster-avenue/
 shop: supermarket
 ---

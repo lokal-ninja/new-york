@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
-url: /brooklyn/meineke/
+url: /brooklyn/meineke-atlantic-avenue/
 shop: car repair
 ---

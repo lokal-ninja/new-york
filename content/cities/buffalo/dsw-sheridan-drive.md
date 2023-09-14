@@ -1,5 +1,5 @@
 ---
 title: "DSW"
-url: /buffalo/dsw/
+url: /buffalo/dsw-sheridan-drive/
 shop: shoes
 ---
