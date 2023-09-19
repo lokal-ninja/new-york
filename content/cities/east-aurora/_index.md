@@ -1,6 +1,6 @@
 ---
 title: East Aurora
 url: /east-aurora/
-latitude: 42.765
-longitude: -78.634
+latitude: 42.768
+longitude: -78.629
 ---

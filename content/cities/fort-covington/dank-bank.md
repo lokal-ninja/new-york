@@ -1,5 +1,5 @@
 ---
-title: "DANK BANK"
+title: "Dank Bank"
 url: /fort-covington/dank-bank/
 shop: cannabis
 ---
