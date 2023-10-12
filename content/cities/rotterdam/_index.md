@@ -1,6 +1,6 @@
 ---
 title: Rotterdam
 url: /rotterdam/
-latitude: 42.781
-longitude: -73.958
+latitude: 42.788
+longitude: -73.971
 ---

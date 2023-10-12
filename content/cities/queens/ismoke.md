@@ -1,5 +1,5 @@
 ---
 title: "ismoke"
 url: /queens/ismoke/
-shop: tobacco
+shop: cannabis
 ---

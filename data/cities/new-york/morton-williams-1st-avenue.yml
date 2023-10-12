@@ -7,5 +7,5 @@ city: New York
 street: "1st Avenue"
 housenumber: 1331
 phone: "+1 212-139-0636"
-opening_hours: "Mo-Su 07:00-24:00"
+opening_hours: "PH,Mo-Su 00:00-23:59"
 website: "https://www.mortonwilliams.com"
