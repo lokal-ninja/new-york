@@ -1,6 +1,6 @@
 ---
 title: Arcade
 url: /arcade/
-latitude: 42.534
-longitude: -78.424
+latitude: 42.532
+longitude: -78.451
 ---
