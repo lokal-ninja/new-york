@@ -1,6 +1,6 @@
 ---
 title: Williston Park
 url: /williston-park/
-latitude: 40.756
-longitude: -73.646
+latitude: 40.755
+longitude: -73.648
 ---
