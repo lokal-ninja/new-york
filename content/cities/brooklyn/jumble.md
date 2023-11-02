@@ -1,5 +1,5 @@
 ---
 title: "Jumble"
 url: /brooklyn/jumble/
-shop: wholesale
+shop: variety store
 ---

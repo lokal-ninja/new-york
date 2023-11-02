@@ -1,6 +1,6 @@
 ---
 title: West Seneca
 url: /west-seneca/
-latitude: 42.863
-longitude: -78.752
+latitude: 42.829
+longitude: -78.782
 ---
