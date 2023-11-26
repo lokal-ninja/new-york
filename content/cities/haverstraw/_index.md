@@ -1,6 +1,6 @@
 ---
 title: Haverstraw
 url: /haverstraw/
-latitude: 41.2
-longitude: -73.982
+latitude: 41.201
+longitude: -73.983
 ---
