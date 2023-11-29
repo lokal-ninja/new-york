@@ -1,6 +1,6 @@
 ---
 title: Hagaman
 url: /hagaman/
-latitude: 42.975
-longitude: -74.151
+latitude: 43.006
+longitude: -74.085
 ---
