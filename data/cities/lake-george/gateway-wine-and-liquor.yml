@@ -4,8 +4,8 @@ latitude: 43.48611
 longitude: -73.75986
 postcode: "12845"
 city: Lake George
-street: "LG Plaza Road;LG Plaza Road"
-housenumber: 16;10
+street: "LG Plaza Road"
+housenumber: 10, 16
 phone: ""
 opening_hours: ""
 website: ""
