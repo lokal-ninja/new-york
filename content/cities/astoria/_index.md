@@ -1,6 +1,6 @@
 ---
 title: Astoria
 url: /astoria/
-latitude: 40.773
-longitude: -73.911
+latitude: 40.759
+longitude: -73.919
 ---
