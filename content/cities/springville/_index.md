@@ -1,6 +1,6 @@
 ---
 title: Springville
 url: /springville/
-latitude: 42.508
-longitude: -78.665
+latitude: 42.503
+longitude: -78.692
 ---
