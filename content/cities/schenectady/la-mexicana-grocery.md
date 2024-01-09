@@ -1,5 +1,5 @@
 ---
 title: "La Mexicana Grocery"
 url: /schenectady/la-mexicana-grocery/
-shop: supermarket
+shop: convenience
 ---
