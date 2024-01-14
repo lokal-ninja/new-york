@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /brewster/marshalls/
-shop: clothes
+shop: department store
 ---
