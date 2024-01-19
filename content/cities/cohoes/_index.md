@@ -1,6 +1,6 @@
 ---
 title: Cohoes
 url: /cohoes/
-latitude: 42.754
-longitude: -73.7
+latitude: 42.773
+longitude: -73.701
 ---
