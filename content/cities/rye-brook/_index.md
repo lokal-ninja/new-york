@@ -1,6 +1,6 @@
 ---
 title: Rye Brook
 url: /rye-brook/
-latitude: 41.004
-longitude: -73.684
+latitude: 41.003
+longitude: -73.683
 ---
