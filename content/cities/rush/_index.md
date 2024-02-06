@@ -1,6 +1,6 @@
 ---
 title: Rush
 url: /rush/
-latitude: 43.003
-longitude: -77.661
+latitude: 42.997
+longitude: -77.646
 ---
