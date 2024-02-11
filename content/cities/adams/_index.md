@@ -1,6 +1,6 @@
 ---
 title: Adams
 url: /adams/
-latitude: 43.824
-longitude: -76.023
+latitude: 43.826
+longitude: -76.019
 ---

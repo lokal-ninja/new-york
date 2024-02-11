@@ -1,6 +1,6 @@
 ---
 title: Gates
 url: /gates/
-latitude: 43.166
-longitude: -77.694
+latitude: 43.146
+longitude: -77.712
 ---

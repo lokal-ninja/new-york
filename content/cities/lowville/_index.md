@@ -1,6 +1,6 @@
 ---
 title: Lowville
 url: /lowville/
-latitude: 43.774
-longitude: -75.478
+latitude: 43.779
+longitude: -75.488
 ---
