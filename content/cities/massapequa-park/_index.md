@@ -1,6 +1,6 @@
 ---
 title: Massapequa Park
 url: /massapequa-park/
-latitude: 40.677
+latitude: 40.68
 longitude: -73.455
 ---

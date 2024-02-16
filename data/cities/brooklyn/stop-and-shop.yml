@@ -1,11 +1,11 @@
-id: 248841441
-type: way
-latitude: 40.58302
-longitude: -73.98469
-postcode: "11214"
+id: 6021696473
+type: node
+latitude: 40.68403
+longitude: -73.97574
+postcode: "11217"
 city: Brooklyn
-street: "Cropsey Avenue"
-housenumber: 2965
-phone: "+1-718-266-2705"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://stores.stopandshop.com/ny/brooklyn/2965-cropsey-ave"
+street: "Atlantic Avenue"
+housenumber: 625
+phone: "+1 718-399-6161"
+opening_hours: "Mo-Su 06:00-01:00 open Store  || Mo-Fr 09:00-21:00; Sa, Su 09:00-17:00 open Pharmacy"
+website: "https://stores.stopandshop.com/ny/brooklyn/625-atlantic-ave"

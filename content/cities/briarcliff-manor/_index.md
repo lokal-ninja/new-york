@@ -1,6 +1,6 @@
 ---
 title: Briarcliff Manor
 url: /briarcliff-manor/
-latitude: 41.163
-longitude: -73.846
+latitude: 41.164
+longitude: -73.847
 ---

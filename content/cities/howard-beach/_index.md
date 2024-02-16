@@ -1,6 +1,6 @@
 ---
 title: Howard Beach
 url: /howard-beach/
-latitude: 40.653
-longitude: -73.847
+latitude: 40.667
+longitude: -73.851
 ---

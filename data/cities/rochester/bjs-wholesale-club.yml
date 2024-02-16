@@ -1,8 +1,8 @@
-id: 5872819347
-type: node
-latitude: 43.18159
-longitude: -77.68672
-postcode: "14626"
+id: 93263561
+type: way
+latitude: 43.18054
+longitude: -77.68732
+postcode: "14626;14606"
 city: Rochester
 street: "Bellwood Drive"
 housenumber: 300
