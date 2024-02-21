@@ -1,6 +1,6 @@
 ---
 title: Plattsburgh
 url: /plattsburgh/
-latitude: 44.688
-longitude: -73.485
+latitude: 44.692
+longitude: -73.487
 ---
