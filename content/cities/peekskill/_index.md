@@ -1,6 +1,6 @@
 ---
 title: Peekskill
 url: /peekskill/
-latitude: 41.306
-longitude: -73.911
+latitude: 41.277
+longitude: -73.927
 ---
