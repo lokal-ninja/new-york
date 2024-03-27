@@ -1,6 +1,6 @@
 ---
-title: Dewitt
+title: DeWitt
 url: /dewitt/
-latitude: 43.054
-longitude: -76.077
+latitude: 43.044
+longitude: -76.069
 ---
