@@ -7,5 +7,5 @@ city: Long Island City
 street: "Northern Boulevard"
 housenumber: 25-02
 phone: "+1-718-728-8111"
-opening_hours: "Mo-Fr 07:00-17:00 Sa 07:00-16:00 Su Closed"
+opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-16:00; Su closed"
 website: "https://www.queensvw.parts/"
