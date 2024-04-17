@@ -1,5 +1,5 @@
 ---
-title: "Atmosphere Kitchen and Bath"
+title: "Atmosphere Kitchen & Bath"
 url: /new-york/atmosphere-kitchen-and-bath/
 shop: kitchen
 ---
