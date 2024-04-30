@@ -1,5 +1,5 @@
 ---
-title: "Baumans Farm market"
+title: "Baumans Farm Market"
 url: /webster/baumans-farm-market/
 shop: convenience
 ---
