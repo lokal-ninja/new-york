@@ -1,6 +1,6 @@
 ---
 title: Macedon
 url: /macedon/
-latitude: 43.069
-longitude: -77.297
+latitude: 43.117
+longitude: -77.314
 ---

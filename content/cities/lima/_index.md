@@ -1,6 +1,6 @@
 ---
 title: Lima
 url: /lima/
-latitude: 42.921
-longitude: -77.613
+latitude: 42.905
+longitude: -77.611
 ---

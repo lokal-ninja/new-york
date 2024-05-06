@@ -1,6 +1,6 @@
 ---
 title: Hamlin
 url: /hamlin/
-latitude: 43.295
-longitude: -77.92
+latitude: 43.31
+longitude: -77.921
 ---
