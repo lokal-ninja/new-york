@@ -1,11 +1,11 @@
-id: 285137405
-type: way
-latitude: 40.58722
-longitude: -73.96017
-postcode: "11235"
+id: 11890396856
+type: node
+latitude: 40.61776
+longitude: -73.95986
+postcode: "11230"
 city: Brooklyn
-street: "Coney Island Avenue"
-housenumber: 2845
-phone: "+1 718-535-7200"
-opening_hours: "Mo-Tu 07:00-20:00; We-Th 07:00-22:00; Fr 07:00-(sunset-01:00); Sa off; Su 07:00-20:00"
-website: "https://shopfreddys.com/#!_/Coney-Island"
+street: "Avenue M"
+housenumber: 1502
+phone: "+1-718-787-1777"
+opening_hours: "Mo-We 09:00-17:00; Th 07:00-21:00; Fr 07:00-(sunset-1); Sa off; Su 09:00-16:30"
+website: "https://shopfreddys.com/"

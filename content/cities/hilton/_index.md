@@ -1,6 +1,6 @@
 ---
 title: Hilton
 url: /hilton/
-latitude: 43.289
-longitude: -77.793
+latitude: 43.255
+longitude: -77.732
 ---
