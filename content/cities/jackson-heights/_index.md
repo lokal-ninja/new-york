@@ -1,6 +1,6 @@
 ---
 title: Jackson Heights
 url: /jackson-heights/
-latitude: 40.755
-longitude: -73.889
+latitude: 40.749
+longitude: -73.89
 ---
