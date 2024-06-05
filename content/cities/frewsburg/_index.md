@@ -1,6 +1,6 @@
 ---
 title: Frewsburg
 url: /frewsburg/
-latitude: 42.052
-longitude: -79.17
+latitude: 42.053
+longitude: -79.162
 ---

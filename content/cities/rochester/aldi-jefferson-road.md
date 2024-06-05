@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /rochester/aldi-jefferson-road/
 shop: supermarket
 ---
