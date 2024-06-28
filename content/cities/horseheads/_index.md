@@ -1,6 +1,6 @@
 ---
 title: Horseheads
 url: /horseheads/
-latitude: 42.161
-longitude: -76.816
+latitude: 42.189
+longitude: -76.792
 ---

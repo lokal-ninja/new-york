@@ -1,11 +1,11 @@
-id: 10904384463
-type: node
-latitude: 41.09717
-longitude: -73.95616
+id: 1289405422
+type: way
+latitude: 41.09766
+longitude: -73.95504
 postcode: "10994"
 city: West Nyack
 street: "Palisades Center Drive"
 housenumber: 1000
 phone: "+1-845-348-1000"
 opening_hours: "Mo-Sa 10:00-21:30; Su 11:00-19:00"
-website: "https://www.palisadescenter.com/"
+website: "https://www.palisadescenter.com"

@@ -1,5 +1,5 @@
 ---
-title: "Reeds / Jenss"
+title: "Reeds Jenss"
 url: /amherst/reeds-jenss/
 shop: jewelry
 ---
