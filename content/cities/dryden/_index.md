@@ -1,6 +1,6 @@
 ---
 title: Dryden
 url: /dryden/
-latitude: 42.495
+latitude: 42.496
 longitude: -76.299
 ---

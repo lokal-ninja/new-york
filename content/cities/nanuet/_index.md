@@ -1,6 +1,6 @@
 ---
 title: Nanuet
 url: /nanuet/
-latitude: 41.109
-longitude: -74.024
+latitude: 41.092
+longitude: -74.013
 ---
