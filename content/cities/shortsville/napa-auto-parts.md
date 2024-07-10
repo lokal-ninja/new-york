@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /shortsville/napa-auto-parts/
-shop: car repair
+shop: car parts
 ---
