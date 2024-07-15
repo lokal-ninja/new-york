@@ -1,6 +1,6 @@
 ---
 title: Wading River
 url: /wading-river/
-latitude: 40.944
-longitude: -72.842
+latitude: 40.943
+longitude: -72.841
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /suffern/walmart/
-shop: department store
+shop: supermarket
 ---

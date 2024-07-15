@@ -1,6 +1,6 @@
 ---
 title: Yonkers
 url: /yonkers/
-latitude: 40.96
-longitude: -73.843
+latitude: 40.911
+longitude: -73.883
 ---

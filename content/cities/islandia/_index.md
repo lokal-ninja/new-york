@@ -1,6 +1,6 @@
 ---
 title: Islandia
 url: /islandia/
-latitude: 40.8
-longitude: -73.178
+latitude: 40.802
+longitude: -73.167
 ---
