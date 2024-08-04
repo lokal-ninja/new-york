@@ -1,6 +1,6 @@
 ---
 title: Napanoch
 url: /napanoch/
-latitude: 41.742
-longitude: -74.371
+latitude: 41.739
+longitude: -74.375
 ---

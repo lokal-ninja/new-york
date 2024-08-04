@@ -1,5 +1,5 @@
 ---
-title: "Claire's"
+title: "claire's"
 url: /new-york/claires/
-shop: jewelry
+shop: boutique
 ---
