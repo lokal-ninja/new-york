@@ -1,6 +1,6 @@
 ---
 title: Skaneateles
 url: /skaneateles/
-latitude: 42.949
-longitude: -76.433
+latitude: 42.947
+longitude: -76.431
 ---
