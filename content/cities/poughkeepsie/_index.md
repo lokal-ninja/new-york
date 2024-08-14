@@ -1,6 +1,6 @@
 ---
 title: Poughkeepsie
 url: /poughkeepsie/
-latitude: 41.721
-longitude: -73.905
+latitude: 41.623
+longitude: -73.918
 ---
