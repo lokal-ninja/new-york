@@ -1,5 +1,5 @@
 ---
 title: "Bob's Ace Hardware"
 url: /syracuse/bobs-ace-hardware/
-shop: hardware
+shop: doityourself
 ---
