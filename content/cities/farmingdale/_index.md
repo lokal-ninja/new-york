@@ -1,6 +1,6 @@
 ---
 title: Farmingdale
 url: /farmingdale/
-latitude: 40.727
-longitude: -73.42
+latitude: 40.729
+longitude: -73.449
 ---
