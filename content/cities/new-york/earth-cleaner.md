@@ -1,5 +1,5 @@
 ---
 title: "Earth Cleaner"
 url: /new-york/earth-cleaner/
-shop: laundry
+shop: Wäscherei
 ---

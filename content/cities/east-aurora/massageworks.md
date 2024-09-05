@@ -1,5 +1,5 @@
 ---
 title: "MassageWorks"
 url: /east-aurora/massageworks/
-shop: massage
+shop: Massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salty Boutique"
 url: /rochester/salty-boutique/
-shop: clothes
+shop: Kleidung
 ---

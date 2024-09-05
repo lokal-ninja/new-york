@@ -1,5 +1,5 @@
 ---
 title: "Mill Hollow Maple"
 url: /new-lisbon/mill-hollow-maple/
-shop: farm
+shop: Hofladen
 ---

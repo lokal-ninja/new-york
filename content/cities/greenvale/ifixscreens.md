@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /greenvale/ifixscreens/
-shop: mobile phone
+shop: Handy
 ---

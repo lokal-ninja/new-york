@@ -1,5 +1,5 @@
 ---
 title: "Maxim Spa Salon"
 url: /rochester/maxim-spa-salon/
-shop: hairdresser
+shop: Friseur
 ---

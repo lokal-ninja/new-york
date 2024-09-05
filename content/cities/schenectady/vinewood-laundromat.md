@@ -1,5 +1,5 @@
 ---
 title: "Vinewood Laundromat"
 url: /schenectady/vinewood-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

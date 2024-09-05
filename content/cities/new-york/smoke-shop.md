@@ -1,5 +1,5 @@
 ---
 title: "Smoke Shop"
 url: /new-york/smoke-shop/
-shop: tobacco
+shop: Tabak
 ---

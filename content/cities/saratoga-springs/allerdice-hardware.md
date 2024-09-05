@@ -1,5 +1,5 @@
 ---
 title: "Allerdice Hardware"
 url: /saratoga-springs/allerdice-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

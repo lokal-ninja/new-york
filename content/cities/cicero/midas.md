@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /cicero/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

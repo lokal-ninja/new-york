@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /amherst/cosmoprof/
-shop: beauty
+shop: Kosmetik
 ---

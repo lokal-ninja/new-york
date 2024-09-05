@@ -1,5 +1,5 @@
 ---
 title: "Columbia Cleaners"
 url: /new-york/columbia-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

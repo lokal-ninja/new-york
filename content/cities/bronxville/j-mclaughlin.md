@@ -1,5 +1,5 @@
 ---
 title: "J. McLaughlin"
 url: /bronxville/j-mclaughlin/
-shop: clothes
+shop: Kleidung
 ---

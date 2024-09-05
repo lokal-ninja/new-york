@@ -1,5 +1,5 @@
 ---
 title: "Deli and Grocery"
 url: /brooklyn/deli-and-grocery/
-shop: deli
+shop: Feinkost
 ---

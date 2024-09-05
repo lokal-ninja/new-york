@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /vestal/michaels/
-shop: craft
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crown Cleaners"
 url: /east-greenbush/crown-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

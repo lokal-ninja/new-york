@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bethpage/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

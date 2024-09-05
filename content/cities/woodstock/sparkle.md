@@ -1,5 +1,5 @@
 ---
 title: "Sparkle"
 url: /woodstock/sparkle/
-shop: clothes
+shop: Kleidung
 ---

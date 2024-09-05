@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /schenectady/party-city/
-shop: party
+shop: Partyzubehör
 ---

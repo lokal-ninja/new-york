@@ -1,5 +1,5 @@
 ---
 title: "Armazém"
 url: /williston-park/armazem/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

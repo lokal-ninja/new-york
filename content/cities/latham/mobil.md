@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /latham/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

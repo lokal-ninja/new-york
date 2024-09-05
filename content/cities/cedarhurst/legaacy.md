@@ -1,5 +1,5 @@
 ---
 title: "Legaacy"
 url: /cedarhurst/legaacy/
-shop: clothes
+shop: Kleidung
 ---

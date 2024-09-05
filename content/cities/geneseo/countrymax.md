@@ -1,5 +1,5 @@
 ---
 title: "CountryMax"
 url: /geneseo/countrymax/
-shop: general
+shop: Dorfladen
 ---

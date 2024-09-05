@@ -1,5 +1,5 @@
 ---
 title: "Auriello's"
 url: /tonawanda/auriellos/
-shop: hairdresser
+shop: Friseur
 ---

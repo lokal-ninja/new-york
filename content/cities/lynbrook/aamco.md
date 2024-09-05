@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /lynbrook/aamco/
-shop: car repair
+shop: Autowerkstatt
 ---

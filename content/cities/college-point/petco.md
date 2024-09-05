@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /college-point/petco/
-shop: pet
+shop: Tiere
 ---

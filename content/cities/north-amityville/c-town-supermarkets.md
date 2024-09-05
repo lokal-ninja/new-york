@@ -1,5 +1,5 @@
 ---
 title: "C‑Town Supermarkets"
 url: /north-amityville/c-town-supermarkets/
-shop: supermarket
+shop: Supermarkt
 ---

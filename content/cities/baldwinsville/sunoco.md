@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /baldwinsville/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

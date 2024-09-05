@@ -1,5 +1,5 @@
 ---
 title: "Continental Lighting"
 url: /floral-park/continental-lighting/
-shop: lamps
+shop: Lampen
 ---

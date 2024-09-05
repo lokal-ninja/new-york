@@ -1,5 +1,5 @@
 ---
 title: "Animal Pantry"
 url: /brooklyn/animal-pantry/
-shop: pet
+shop: Tiere
 ---

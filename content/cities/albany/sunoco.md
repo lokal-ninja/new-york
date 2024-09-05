@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /albany/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

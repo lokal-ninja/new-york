@@ -1,5 +1,5 @@
 ---
 title: "Lee Nail Art"
 url: /spencerport/lee-nail-art/
-shop: beauty
+shop: Kosmetik
 ---

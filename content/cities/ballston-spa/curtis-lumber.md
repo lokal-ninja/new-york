@@ -1,5 +1,5 @@
 ---
 title: "Curtis Lumber"
 url: /ballston-spa/curtis-lumber/
-shop: doityourself
+shop: Baumarkt
 ---

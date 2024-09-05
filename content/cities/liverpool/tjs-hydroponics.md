@@ -1,5 +1,5 @@
 ---
 title: "TJ’s Hydroponics"
 url: /liverpool/tjs-hydroponics/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

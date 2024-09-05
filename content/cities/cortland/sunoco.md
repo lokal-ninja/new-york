@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /cortland/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

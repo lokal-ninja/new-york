@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /canastota/tops/
-shop: supermarket
+shop: Supermarkt
 ---

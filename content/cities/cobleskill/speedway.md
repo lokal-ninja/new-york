@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cobleskill/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

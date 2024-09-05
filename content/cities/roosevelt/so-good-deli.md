@@ -1,5 +1,5 @@
 ---
 title: "So Good Deli"
 url: /roosevelt/so-good-deli/
-shop: deli
+shop: Feinkost
 ---

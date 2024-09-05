@@ -1,5 +1,5 @@
 ---
 title: "Dragon Sushi"
 url: /new-york/dragon-sushi/
-shop: vacant
+shop: Leerstehend
 ---

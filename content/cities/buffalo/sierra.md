@@ -1,5 +1,5 @@
 ---
 title: "Sierra"
 url: /buffalo/sierra/
-shop: outdoor
+shop: Outdoor
 ---

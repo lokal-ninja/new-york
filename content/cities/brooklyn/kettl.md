@@ -1,5 +1,5 @@
 ---
 title: "Kettl"
 url: /brooklyn/kettl/
-shop: tea
+shop: Tee
 ---

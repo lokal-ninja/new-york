@@ -1,5 +1,5 @@
 ---
 title: "Stewarts"
 url: /granville/stewarts/
-shop: convenience
+shop: Lebensmittel
 ---

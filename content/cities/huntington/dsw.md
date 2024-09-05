@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /huntington/dsw/
-shop: shoes
+shop: Schuhe
 ---

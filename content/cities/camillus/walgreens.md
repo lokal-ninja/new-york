@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /camillus/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Finders Keepers"
 url: /queensbury/finders-keepers/
-shop: clothes
+shop: Kleidung
 ---

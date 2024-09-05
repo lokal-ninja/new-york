@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /west-carthage/price-chopper/
-shop: supermarket
+shop: Supermarkt
 ---

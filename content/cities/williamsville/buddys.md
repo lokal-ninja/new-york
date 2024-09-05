@@ -1,5 +1,5 @@
 ---
 title: "Buddy's"
 url: /williamsville/buddys/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Russin"
 url: /montgomery/russin/
-shop: trade
+shop: Baustoffe
 ---

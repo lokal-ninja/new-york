@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /riverhead/puma/
-shop: clothes
+shop: Kleidung
 ---

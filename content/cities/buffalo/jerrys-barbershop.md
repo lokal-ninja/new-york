@@ -1,5 +1,5 @@
 ---
 title: "Jerry's Barbershop"
 url: /buffalo/jerrys-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

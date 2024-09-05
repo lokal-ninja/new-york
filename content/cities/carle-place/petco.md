@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /carle-place/petco/
-shop: pet
+shop: Tiere
 ---

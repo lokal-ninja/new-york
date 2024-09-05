@@ -1,5 +1,5 @@
 ---
 title: "Mendon Meadows Marketplace"
 url: /mendon/mendon-meadows-marketplace/
-shop: supermarket
+shop: Supermarkt
 ---

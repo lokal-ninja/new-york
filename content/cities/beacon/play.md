@@ -1,5 +1,5 @@
 ---
 title: "PLAY"
 url: /beacon/play/
-shop: toys
+shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /east-aurora/petsmart/
-shop: pet
+shop: Tiere
 ---

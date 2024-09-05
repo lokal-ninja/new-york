@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /thornwood/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

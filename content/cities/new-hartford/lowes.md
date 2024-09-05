@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /new-hartford/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

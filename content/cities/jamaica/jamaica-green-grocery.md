@@ -1,5 +1,5 @@
 ---
 title: "Jamaica Green Grocery"
 url: /jamaica/jamaica-green-grocery/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

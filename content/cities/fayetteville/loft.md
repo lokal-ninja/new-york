@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /fayetteville/loft/
-shop: clothes
+shop: Kleidung
 ---

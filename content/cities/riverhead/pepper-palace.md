@@ -1,5 +1,5 @@
 ---
 title: "Pepper Palace"
 url: /riverhead/pepper-palace/
-shop: shop
+shop: Allgemein
 ---

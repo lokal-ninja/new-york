@@ -1,5 +1,5 @@
 ---
 title: "Stewarts"
 url: /niskayuna/stewarts/
-shop: convenience
+shop: Lebensmittel
 ---

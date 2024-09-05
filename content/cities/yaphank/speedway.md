@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /yaphank/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

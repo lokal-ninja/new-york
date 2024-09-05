@@ -1,5 +1,5 @@
 ---
 title: "ReShop"
 url: /ballston-spa/reshop/
-shop: shop
+shop: Allgemein
 ---

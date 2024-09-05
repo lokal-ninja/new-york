@@ -1,5 +1,5 @@
 ---
 title: "FedEx"
 url: /ithaca/fedex/
-shop: copyshop
+shop: Kopieren
 ---

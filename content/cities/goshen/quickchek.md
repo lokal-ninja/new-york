@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /goshen/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

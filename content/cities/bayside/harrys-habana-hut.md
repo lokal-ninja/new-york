@@ -1,5 +1,5 @@
 ---
 title: "Harry's Habana Hut"
 url: /bayside/harrys-habana-hut/
-shop: tobacco
+shop: Tabak
 ---

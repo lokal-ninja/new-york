@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /utica/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

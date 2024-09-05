@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /ithaca/insomnia-cookies/
-shop: pastry
+shop: Konditorei
 ---

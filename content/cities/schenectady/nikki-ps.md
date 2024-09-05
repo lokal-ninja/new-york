@@ -1,5 +1,5 @@
 ---
 title: "Nikki P's"
 url: /schenectady/nikki-ps/
-shop: bakery
+shop: Bäckerei
 ---

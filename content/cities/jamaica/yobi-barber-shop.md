@@ -1,5 +1,5 @@
 ---
 title: "Yobi Barber Shop"
 url: /jamaica/yobi-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

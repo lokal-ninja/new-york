@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /buffalo/rainbow-delaware-avenue/
-shop: clothes
+shop: Kleidung
 ---

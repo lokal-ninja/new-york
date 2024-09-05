@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /buffalo/goodyear-transit-road/
-shop: car repair
+shop: Autowerkstatt
 ---

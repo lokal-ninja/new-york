@@ -1,5 +1,5 @@
 ---
 title: "Wild Roots Studio"
 url: /owego/wild-roots-studio/
-shop: hairdresser
+shop: Friseur
 ---

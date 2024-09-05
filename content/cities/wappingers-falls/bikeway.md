@@ -1,5 +1,5 @@
 ---
 title: "Bikeway"
 url: /wappingers-falls/bikeway/
-shop: bicycle
+shop: Fahrrad
 ---

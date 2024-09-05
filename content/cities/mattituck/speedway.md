@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /mattituck/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

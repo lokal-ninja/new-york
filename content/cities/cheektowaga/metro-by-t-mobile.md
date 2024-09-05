@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /cheektowaga/metro-by-t-mobile/
-shop: mobile phone
+shop: Handy
 ---

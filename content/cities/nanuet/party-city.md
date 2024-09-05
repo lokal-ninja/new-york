@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /nanuet/party-city/
-shop: party
+shop: Partyzubehör
 ---

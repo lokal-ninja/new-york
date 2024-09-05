@@ -1,5 +1,5 @@
 ---
 title: "566 Laundromat"
 url: /ridgewood/566-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

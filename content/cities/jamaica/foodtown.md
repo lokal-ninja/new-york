@@ -1,5 +1,5 @@
 ---
 title: "Foodtown"
 url: /jamaica/foodtown/
-shop: supermarket
+shop: Supermarkt
 ---

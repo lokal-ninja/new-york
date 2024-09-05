@@ -1,5 +1,5 @@
 ---
 title: "Chili Gas Inc"
 url: /middletown/chili-gas-inc/
-shop: gas
+shop: Gasflaschen
 ---

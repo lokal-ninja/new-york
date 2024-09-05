@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /white-plains/petsmart/
-shop: pet
+shop: Tiere
 ---

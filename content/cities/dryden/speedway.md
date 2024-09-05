@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dryden/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /patchogue/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

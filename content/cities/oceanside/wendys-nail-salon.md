@@ -1,5 +1,5 @@
 ---
 title: "Wendy's Nail Salon"
 url: /oceanside/wendys-nail-salon/
-shop: beauty
+shop: Kosmetik
 ---

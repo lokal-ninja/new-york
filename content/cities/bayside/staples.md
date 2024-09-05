@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bayside/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

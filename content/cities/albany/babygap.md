@@ -1,5 +1,5 @@
 ---
 title: "babyGap"
 url: /albany/babygap/
-shop: clothes
+shop: Kleidung
 ---

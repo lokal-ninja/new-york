@@ -1,5 +1,5 @@
 ---
 title: "Gordie's Appliance Repair"
 url: /cortland/gordies-appliance-repair/
-shop: shop
+shop: Allgemein
 ---

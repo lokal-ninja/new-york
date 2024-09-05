@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /owego/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Immortal NYC Barbershop"
 url: /deer-park/immortal-nyc-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

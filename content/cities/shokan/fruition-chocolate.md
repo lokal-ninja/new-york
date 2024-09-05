@@ -1,5 +1,5 @@
 ---
 title: "Fruition Chocolate"
 url: /shokan/fruition-chocolate/
-shop: chocolate
+shop: Schokolade
 ---

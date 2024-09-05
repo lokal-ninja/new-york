@@ -1,5 +1,5 @@
 ---
 title: "Cool Cutz Barbershop"
 url: /franklin-square/cool-cutz-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

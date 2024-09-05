@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /geneva/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

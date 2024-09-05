@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /riverhead/guess/
-shop: clothes
+shop: Kleidung
 ---

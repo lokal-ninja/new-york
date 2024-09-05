@@ -1,5 +1,5 @@
 ---
 title: "SallyeAnder"
 url: /cornwall/sallyeander/
-shop: shop
+shop: Allgemein
 ---

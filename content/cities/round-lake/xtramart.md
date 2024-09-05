@@ -1,5 +1,5 @@
 ---
 title: "XtraMart"
 url: /round-lake/xtramart/
-shop: convenience
+shop: Lebensmittel
 ---

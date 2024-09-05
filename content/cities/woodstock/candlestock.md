@@ -1,5 +1,5 @@
 ---
 title: "Candlestock"
 url: /woodstock/candlestock/
-shop: candles
+shop: Kerzen
 ---

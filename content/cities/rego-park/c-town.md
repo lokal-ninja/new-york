@@ -1,5 +1,5 @@
 ---
 title: "C-Town"
 url: /rego-park/c-town/
-shop: supermarket
+shop: Supermarkt
 ---

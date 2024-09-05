@@ -1,5 +1,5 @@
 ---
 title: "INSPO"
 url: /pelham/inspo/
-shop: clothes
+shop: Kleidung
 ---

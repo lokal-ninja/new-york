@@ -1,5 +1,5 @@
 ---
 title: "Seneca Greenhouse"
 url: /buffalo/seneca-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

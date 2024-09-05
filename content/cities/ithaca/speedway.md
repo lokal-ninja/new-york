@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ithaca/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

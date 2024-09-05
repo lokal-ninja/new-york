@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /elizabethtown/tops/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nailesthetic"
 url: /new-york/nailesthetic/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /riverhead/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

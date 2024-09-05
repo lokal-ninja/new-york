@@ -1,5 +1,5 @@
 ---
 title: "Vostochny Bazaar"
 url: /brooklyn/vostochny-bazaar/
-shop: supermarket
+shop: Supermarkt
 ---

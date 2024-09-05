@@ -1,5 +1,5 @@
 ---
 title: "Nicolino"
 url: /hewlett/nicolino/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Лукойл"
 url: /schenectady/lukoil/
-shop: convenience
+shop: Lebensmittel
 ---

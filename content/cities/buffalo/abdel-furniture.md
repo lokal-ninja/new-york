@@ -1,5 +1,5 @@
 ---
 title: "Abdel Furniture"
 url: /buffalo/abdel-furniture/
-shop: furniture
+shop: Möbel
 ---

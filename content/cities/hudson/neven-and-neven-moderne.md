@@ -1,5 +1,5 @@
 ---
 title: "Neven and Neven Moderne"
 url: /hudson/neven-and-neven-moderne/
-shop: antiques
+shop: Antiquitäten
 ---

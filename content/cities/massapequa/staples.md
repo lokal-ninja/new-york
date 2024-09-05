@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /massapequa/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

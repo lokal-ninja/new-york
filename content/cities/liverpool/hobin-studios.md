@@ -1,5 +1,5 @@
 ---
 title: "Hobin Studios"
 url: /liverpool/hobin-studios/
-shop: shop
+shop: Allgemein
 ---

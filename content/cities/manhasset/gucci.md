@@ -1,5 +1,5 @@
 ---
 title: "Gucci"
 url: /manhasset/gucci/
-shop: clothes
+shop: Kleidung
 ---

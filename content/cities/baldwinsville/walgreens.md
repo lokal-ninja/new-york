@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /baldwinsville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

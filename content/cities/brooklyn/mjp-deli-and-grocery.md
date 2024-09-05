@@ -1,5 +1,5 @@
 ---
 title: "MJP Deli and Grocery"
 url: /brooklyn/mjp-deli-and-grocery/
-shop: convenience
+shop: Lebensmittel
 ---

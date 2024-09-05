@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /albany/rei/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /commack/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

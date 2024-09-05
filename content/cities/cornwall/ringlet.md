@@ -1,5 +1,5 @@
 ---
 title: "Ringlet"
 url: /cornwall/ringlet/
-shop: hairdresser
+shop: Friseur
 ---

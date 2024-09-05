@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /fayetteville/carters/
-shop: clothes
+shop: Kleidung
 ---

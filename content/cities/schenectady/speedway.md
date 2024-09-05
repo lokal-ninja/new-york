@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /schenectady/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /valley-stream/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

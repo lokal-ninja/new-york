@@ -1,5 +1,5 @@
 ---
 title: "El Mercadito"
 url: /kingston/el-mercadito/
-shop: convenience
+shop: Lebensmittel
 ---

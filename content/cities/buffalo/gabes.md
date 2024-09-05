@@ -1,5 +1,5 @@
 ---
 title: "Gabe's"
 url: /buffalo/gabes/
-shop: clothes
+shop: Kleidung
 ---

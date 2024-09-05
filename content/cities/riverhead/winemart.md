@@ -1,5 +1,5 @@
 ---
 title: "Winemart"
 url: /riverhead/winemart/
-shop: wine
+shop: Wein
 ---

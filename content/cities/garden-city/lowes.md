@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /garden-city/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

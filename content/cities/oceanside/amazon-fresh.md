@@ -1,5 +1,5 @@
 ---
 title: "Amazon Fresh"
 url: /oceanside/amazon-fresh/
-shop: supermarket
+shop: Supermarkt
 ---

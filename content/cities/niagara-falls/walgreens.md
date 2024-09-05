@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /niagara-falls/walgreens/
-shop: chemist
+shop: Drogerie
 ---

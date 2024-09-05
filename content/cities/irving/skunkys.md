@@ -1,5 +1,5 @@
 ---
 title: "Skunky's"
 url: /irving/skunkys/
-shop: cannabis
+shop: Hanf
 ---

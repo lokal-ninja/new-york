@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /schenectady/autozone/
-shop: car parts
+shop: Autoteile
 ---

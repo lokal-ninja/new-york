@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /riverhead/petco/
-shop: pet
+shop: Tiere
 ---

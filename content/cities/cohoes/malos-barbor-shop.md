@@ -1,5 +1,5 @@
 ---
 title: "Malo's Barbor Shop"
 url: /cohoes/malos-barbor-shop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Todd Martin Studio"
 url: /ridgewood/todd-martin-studio/
-shop: tailor
+shop: Schneiderei
 ---

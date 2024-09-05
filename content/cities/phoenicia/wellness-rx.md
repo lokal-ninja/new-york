@@ -1,5 +1,5 @@
 ---
 title: "Wellness Rx"
 url: /phoenicia/wellness-rx/
-shop: chemist
+shop: Drogerie
 ---

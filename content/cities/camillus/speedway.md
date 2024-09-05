@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /camillus/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpet Culture"
 url: /new-york/carpet-culture/
-shop: carpet
+shop: Teppiche
 ---

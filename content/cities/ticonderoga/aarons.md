@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /ticonderoga/aarons/
-shop: furniture
+shop: Möbel
 ---

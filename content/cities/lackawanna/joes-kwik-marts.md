@@ -1,5 +1,5 @@
 ---
 title: "Joe's Kwik Marts"
 url: /lackawanna/joes-kwik-marts/
-shop: convenience
+shop: Lebensmittel
 ---

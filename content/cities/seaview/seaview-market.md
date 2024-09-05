@@ -1,5 +1,5 @@
 ---
 title: "Seaview Market"
 url: /seaview/seaview-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

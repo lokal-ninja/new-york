@@ -1,5 +1,5 @@
 ---
 title: "Vera Bradley"
 url: /riverhead/vera-bradley/
-shop: bag
+shop: Taschen & Koffer
 ---

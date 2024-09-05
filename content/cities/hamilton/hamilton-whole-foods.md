@@ -1,5 +1,5 @@
 ---
 title: "Hamilton Whole Foods"
 url: /hamilton/hamilton-whole-foods/
-shop: convenience
+shop: Lebensmittel
 ---

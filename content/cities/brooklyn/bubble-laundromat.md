@@ -1,5 +1,5 @@
 ---
 title: "Bubble Laundromat"
 url: /brooklyn/bubble-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

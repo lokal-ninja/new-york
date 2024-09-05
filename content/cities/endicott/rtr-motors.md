@@ -1,5 +1,5 @@
 ---
 title: "Rtr Motors"
 url: /endicott/rtr-motors/
-shop: car
+shop: Autohaus
 ---

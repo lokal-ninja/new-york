@@ -1,5 +1,5 @@
 ---
 title: "Shinnecock Smoke Shop"
 url: /shinnecock-hills/shinnecock-smoke-shop/
-shop: tobacco
+shop: Tabak
 ---

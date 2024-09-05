@@ -1,5 +1,5 @@
 ---
 title: "Freemans"
 url: /monroe/freemans/
-shop: car repair
+shop: Autowerkstatt
 ---

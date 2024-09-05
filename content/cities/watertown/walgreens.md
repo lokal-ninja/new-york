@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /watertown/walgreens/
-shop: chemist
+shop: Drogerie
 ---

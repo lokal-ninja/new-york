@@ -1,5 +1,5 @@
 ---
 title: "SLN Cleaners"
 url: /new-york/sln-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

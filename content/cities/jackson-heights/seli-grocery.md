@@ -1,5 +1,5 @@
 ---
 title: "Seli Grocery"
 url: /jackson-heights/seli-grocery/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /waterford/stewarts-2/
-shop: convenience
+shop: Lebensmittel
 ---

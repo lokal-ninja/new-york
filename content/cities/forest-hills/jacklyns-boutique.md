@@ -1,5 +1,5 @@
 ---
 title: "Jacklyn's Boutique"
 url: /forest-hills/jacklyns-boutique/
-shop: clothes
+shop: Kleidung
 ---

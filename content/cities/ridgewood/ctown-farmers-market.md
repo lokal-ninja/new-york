@@ -1,5 +1,5 @@
 ---
 title: "CTown Farmer’s Market"
 url: /ridgewood/ctown-farmers-market/
-shop: supermarket
+shop: Supermarkt
 ---

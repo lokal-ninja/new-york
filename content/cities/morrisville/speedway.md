@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /morrisville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

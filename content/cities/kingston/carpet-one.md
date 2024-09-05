@@ -1,5 +1,5 @@
 ---
 title: "Carpet One"
 url: /kingston/carpet-one/
-shop: flooring
+shop: Fußböden
 ---

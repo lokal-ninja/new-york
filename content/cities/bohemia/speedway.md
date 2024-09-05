@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bohemia/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

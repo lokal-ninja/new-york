@@ -1,5 +1,5 @@
 ---
 title: "The Placid Baker"
 url: /troy/the-placid-baker/
-shop: bakery
+shop: Bäckerei
 ---

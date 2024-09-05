@@ -1,5 +1,5 @@
 ---
 title: "Hardscrabble Supply"
 url: /north-salem/hardscrabble-supply/
-shop: garden centre
+shop: Garten-Center
 ---

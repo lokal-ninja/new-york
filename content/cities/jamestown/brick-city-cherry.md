@@ -1,5 +1,5 @@
 ---
 title: "Brick City Cherry"
 url: /jamestown/brick-city-cherry/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /nanuet/petsmart/
-shop: pet
+shop: Tiere
 ---

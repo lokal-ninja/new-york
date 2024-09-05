@@ -1,5 +1,5 @@
 ---
 title: "Happy Tails Dog Shop"
 url: /syracuse/happy-tails-dog-shop/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mavis Discount Tire"
 url: /baldwinsville/mavis-discount-tire/
-shop: tyres
+shop: Reifen
 ---

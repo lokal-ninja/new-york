@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /bethpage/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

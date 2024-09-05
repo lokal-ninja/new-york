@@ -1,5 +1,5 @@
 ---
 title: "Heritage Locksmith"
 url: /buffalo/heritage-locksmith/
-shop: locksmith
+shop: Schlüsseldienst
 ---

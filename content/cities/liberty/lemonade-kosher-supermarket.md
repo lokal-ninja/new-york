@@ -1,5 +1,5 @@
 ---
 title: "Lemonade Kosher Supermarket"
 url: /liberty/lemonade-kosher-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

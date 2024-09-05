@@ -1,5 +1,5 @@
 ---
 title: "Removery"
 url: /buffalo/removery/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Key Food"
 url: /jamaica/key-food-jamaica-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Store"
 url: /walton/country-store/
-shop: convenience
+shop: Lebensmittel
 ---

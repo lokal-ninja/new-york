@@ -1,5 +1,5 @@
 ---
 title: "Agway"
 url: /mount-sinai/agway/
-shop: garden centre
+shop: Garten-Center
 ---

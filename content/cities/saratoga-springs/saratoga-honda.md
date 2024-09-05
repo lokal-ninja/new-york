@@ -1,5 +1,5 @@
 ---
 title: "Saratoga Honda"
 url: /saratoga-springs/saratoga-honda/
-shop: car
+shop: Autohaus
 ---

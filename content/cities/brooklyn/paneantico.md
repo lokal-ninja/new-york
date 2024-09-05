@@ -1,5 +1,5 @@
 ---
 title: "Paneantico"
 url: /brooklyn/paneantico/
-shop: bakery
+shop: Bäckerei
 ---

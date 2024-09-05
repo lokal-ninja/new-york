@@ -1,5 +1,5 @@
 ---
 title: "Blooming Couture Flowers"
 url: /new-york/blooming-couture-flowers/
-shop: florist
+shop: Blumen
 ---

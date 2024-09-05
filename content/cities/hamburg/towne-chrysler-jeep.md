@@ -1,5 +1,5 @@
 ---
 title: "Towne Chrysler Jeep"
 url: /hamburg/towne-chrysler-jeep/
-shop: car
+shop: Autohaus
 ---

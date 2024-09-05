@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /ithaca/airgas/
-shop: gas
+shop: Gasflaschen
 ---

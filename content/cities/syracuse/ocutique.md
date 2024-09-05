@@ -1,5 +1,5 @@
 ---
 title: "Ocutique"
 url: /syracuse/ocutique/
-shop: optician
+shop: Optiker
 ---

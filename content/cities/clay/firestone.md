@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /clay/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

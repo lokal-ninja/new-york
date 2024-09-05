@@ -1,5 +1,5 @@
 ---
 title: "GoWireless (Verizon Authorized Retailer)"
 url: /north-syracuse/gowireless-verizon-authorized-retailer/
-shop: mobile phone
+shop: Handy
 ---

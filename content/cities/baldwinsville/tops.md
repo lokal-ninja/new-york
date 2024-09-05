@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /baldwinsville/tops/
-shop: supermarket
+shop: Supermarkt
 ---

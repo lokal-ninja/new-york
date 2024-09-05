@@ -1,5 +1,5 @@
 ---
 title: "Classy Nails"
 url: /north-tonawanda/classy-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crosby's"
 url: /buffalo/crosbys/
-shop: convenience
+shop: Lebensmittel
 ---

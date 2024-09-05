@@ -1,5 +1,5 @@
 ---
 title: "Bookeater"
 url: /rochester/bookeater/
-shop: books
+shop: Bücher
 ---

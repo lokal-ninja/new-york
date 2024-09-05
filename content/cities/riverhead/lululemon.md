@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /riverhead/lululemon/
-shop: clothes
+shop: Kleidung
 ---

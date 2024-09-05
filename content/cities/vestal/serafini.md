@@ -1,5 +1,5 @@
 ---
 title: "Serafini"
 url: /vestal/serafini/
-shop: car
+shop: Autohaus
 ---

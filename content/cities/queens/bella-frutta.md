@@ -1,5 +1,5 @@
 ---
 title: "Bella Frutta"
 url: /queens/bella-frutta/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

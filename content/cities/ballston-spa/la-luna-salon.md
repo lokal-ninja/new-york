@@ -1,5 +1,5 @@
 ---
 title: "La Luna Salon"
 url: /ballston-spa/la-luna-salon/
-shop: hairdresser
+shop: Friseur
 ---

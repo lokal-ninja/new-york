@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /massapequa-park/iga/
-shop: supermarket
+shop: Supermarkt
 ---

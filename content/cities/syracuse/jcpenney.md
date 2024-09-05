@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /syracuse/jcpenney/
-shop: department store
+shop: Warenhaus
 ---

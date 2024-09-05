@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /watertown/michaels/
-shop: craft
+shop: Basteln
 ---

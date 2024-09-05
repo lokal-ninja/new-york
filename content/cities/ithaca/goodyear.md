@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /ithaca/goodyear/
-shop: car repair
+shop: Autowerkstatt
 ---

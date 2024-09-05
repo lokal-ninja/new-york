@@ -1,5 +1,5 @@
 ---
 title: "Javelin"
 url: /brooklyn/javelin/
-shop: clothes
+shop: Kleidung
 ---

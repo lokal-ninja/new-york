@@ -1,5 +1,5 @@
 ---
 title: "Symphony Cleaners"
 url: /new-york/symphony-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

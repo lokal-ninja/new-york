@@ -1,5 +1,5 @@
 ---
 title: "bareMinerals"
 url: /riverhead/bareminerals/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /central-islip/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

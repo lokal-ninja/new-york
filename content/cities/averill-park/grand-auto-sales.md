@@ -1,5 +1,5 @@
 ---
 title: "Grand Auto Sales"
 url: /averill-park/grand-auto-sales/
-shop: car
+shop: Autohaus
 ---

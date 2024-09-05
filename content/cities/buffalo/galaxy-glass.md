@@ -1,5 +1,5 @@
 ---
 title: "Galaxy Glass"
 url: /buffalo/galaxy-glass/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

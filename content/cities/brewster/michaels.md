@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /brewster/michaels/
-shop: craft
+shop: Basteln
 ---

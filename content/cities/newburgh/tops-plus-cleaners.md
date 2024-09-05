@@ -1,5 +1,5 @@
 ---
 title: "Tops Plus Cleaners"
 url: /newburgh/tops-plus-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

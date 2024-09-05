@@ -1,5 +1,5 @@
 ---
 title: "Salon Pulse"
 url: /williston-park/salon-pulse/
-shop: hairdresser
+shop: Friseur
 ---

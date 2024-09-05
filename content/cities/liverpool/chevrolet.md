@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /liverpool/chevrolet/
-shop: car
+shop: Autohaus
 ---

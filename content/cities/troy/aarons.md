@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /troy/aarons/
-shop: electronics
+shop: Elektronik
 ---

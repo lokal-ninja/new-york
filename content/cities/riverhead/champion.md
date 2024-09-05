@@ -1,5 +1,5 @@
 ---
 title: "Champion"
 url: /riverhead/champion/
-shop: clothes
+shop: Kleidung
 ---

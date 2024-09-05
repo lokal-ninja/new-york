@@ -1,5 +1,5 @@
 ---
 title: "Springfield Market"
 url: /queens-village/springfield-market/
-shop: convenience
+shop: Lebensmittel
 ---

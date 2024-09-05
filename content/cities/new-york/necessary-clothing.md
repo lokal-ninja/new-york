@@ -1,5 +1,5 @@
 ---
 title: "Necessary Clothing"
 url: /new-york/necessary-clothing/
-shop: clothes
+shop: Kleidung
 ---

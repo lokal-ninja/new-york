@@ -1,5 +1,5 @@
 ---
 title: "Little Deep"
 url: /woodstock/little-deep/
-shop: gift
+shop: Andenken
 ---

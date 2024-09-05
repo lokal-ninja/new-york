@@ -1,5 +1,5 @@
 ---
 title: "Ward's Lumber"
 url: /honeoye/wards-lumber/
-shop: hardware
+shop: Eisenwaren
 ---

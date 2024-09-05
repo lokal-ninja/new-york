@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cheektowaga/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

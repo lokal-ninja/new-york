@@ -1,5 +1,5 @@
 ---
 title: "Sweet Delites"
 url: /somers/sweet-delites/
-shop: bakery
+shop: Bäckerei
 ---

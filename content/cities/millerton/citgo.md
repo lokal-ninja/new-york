@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /millerton/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

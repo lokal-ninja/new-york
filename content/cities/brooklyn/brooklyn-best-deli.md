@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Best Deli"
 url: /brooklyn/brooklyn-best-deli/
-shop: convenience
+shop: Lebensmittel
 ---

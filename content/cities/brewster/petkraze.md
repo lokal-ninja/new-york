@@ -1,5 +1,5 @@
 ---
 title: "PetKraze"
 url: /brewster/petkraze/
-shop: pet
+shop: Tiere
 ---

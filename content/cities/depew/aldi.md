@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /depew/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flowerbake"
 url: /pelham/flowerbake/
-shop: bakery
+shop: Bäckerei
 ---

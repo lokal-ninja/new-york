@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /oceanside/petco/
-shop: pet
+shop: Tiere
 ---

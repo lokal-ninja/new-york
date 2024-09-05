@@ -1,5 +1,5 @@
 ---
 title: "Tabu"
 url: /port-jefferson/tabu/
-shop: clothes
+shop: Kleidung
 ---

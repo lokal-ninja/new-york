@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /ontario/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stop and Go"
 url: /brooklyn/stop-and-go/
-shop: convenience
+shop: Lebensmittel
 ---

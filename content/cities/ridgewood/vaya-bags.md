@@ -1,5 +1,5 @@
 ---
 title: "Vaya Bags"
 url: /ridgewood/vaya-bags/
-shop: bag
+shop: Taschen & Koffer
 ---

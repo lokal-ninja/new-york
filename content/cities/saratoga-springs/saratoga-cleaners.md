@@ -1,5 +1,5 @@
 ---
 title: "Saratoga Cleaners"
 url: /saratoga-springs/saratoga-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

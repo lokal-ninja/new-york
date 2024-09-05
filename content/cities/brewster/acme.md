@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /brewster/acme/
-shop: supermarket
+shop: Supermarkt
 ---

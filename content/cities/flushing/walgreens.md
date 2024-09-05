@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /flushing/walgreens/
-shop: chemist
+shop: Drogerie
 ---

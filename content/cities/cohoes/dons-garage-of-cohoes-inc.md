@@ -1,5 +1,5 @@
 ---
 title: "Don's Garage of Cohoes Inc"
 url: /cohoes/dons-garage-of-cohoes-inc/
-shop: car repair
+shop: Autowerkstatt
 ---

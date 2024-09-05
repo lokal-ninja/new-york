@@ -1,5 +1,5 @@
 ---
 title: "Apple Store"
 url: /brooklyn/apple-store-flatbush-avenue/
-shop: electronics
+shop: Elektronik
 ---

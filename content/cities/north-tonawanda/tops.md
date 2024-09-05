@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /north-tonawanda/tops/
-shop: supermarket
+shop: Supermarkt
 ---

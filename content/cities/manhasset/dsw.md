@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /manhasset/dsw/
-shop: shoes
+shop: Schuhe
 ---

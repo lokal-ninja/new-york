@@ -1,5 +1,5 @@
 ---
 title: "Paris Baguette"
 url: /astoria/paris-baguette/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chili Auto Outlet"
 url: /rochester/chili-auto-outlet/
-shop: car
+shop: Autohaus
 ---

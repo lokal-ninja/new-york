@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /oneonta/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

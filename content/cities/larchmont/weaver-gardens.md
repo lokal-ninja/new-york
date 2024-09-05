@@ -1,5 +1,5 @@
 ---
 title: "Weaver Gardens"
 url: /larchmont/weaver-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "streeTgame"
 url: /syracuse/streetgame/
-shop: shoes
+shop: Schuhe
 ---

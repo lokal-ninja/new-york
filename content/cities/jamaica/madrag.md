@@ -1,5 +1,5 @@
 ---
 title: "Madrag"
 url: /jamaica/madrag/
-shop: clothes
+shop: Kleidung
 ---

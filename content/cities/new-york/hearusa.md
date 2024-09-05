@@ -1,5 +1,5 @@
 ---
 title: "HearUSA"
 url: /new-york/hearusa/
-shop: hearing aids
+shop: Hörgeräte
 ---

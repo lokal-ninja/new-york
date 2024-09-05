@@ -1,5 +1,5 @@
 ---
 title: "The Clock Shop"
 url: /endicott/the-clock-shop/
-shop: shop
+shop: Allgemein
 ---

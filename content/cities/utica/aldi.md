@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /utica/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /brooklyn/ifixscreens/
-shop: mobile phone
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /whitestone/walgreens/
-shop: chemist
+shop: Drogerie
 ---

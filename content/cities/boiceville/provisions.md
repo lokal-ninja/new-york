@@ -1,5 +1,5 @@
 ---
 title: "Provisions"
 url: /boiceville/provisions/
-shop: shop
+shop: Allgemein
 ---

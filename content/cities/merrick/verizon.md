@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /merrick/verizon/
-shop: mobile phone
+shop: Handy
 ---

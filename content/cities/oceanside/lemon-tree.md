@@ -1,5 +1,5 @@
 ---
 title: "Lemon Tree"
 url: /oceanside/lemon-tree/
-shop: hairdresser
+shop: Friseur
 ---

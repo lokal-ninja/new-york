@@ -1,5 +1,5 @@
 ---
 title: "Tinkersphere"
 url: /new-york/tinkersphere/
-shop: electronics
+shop: Elektronik
 ---

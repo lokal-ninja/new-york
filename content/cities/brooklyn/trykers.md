@@ -1,5 +1,5 @@
 ---
 title: "Tryker's"
 url: /brooklyn/trykers/
-shop: convenience
+shop: Lebensmittel
 ---

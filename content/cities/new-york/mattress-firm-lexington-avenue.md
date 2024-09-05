@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /new-york/mattress-firm-lexington-avenue/
-shop: bed
+shop: Betten
 ---

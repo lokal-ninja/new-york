@@ -1,5 +1,5 @@
 ---
 title: "Boot Barn"
 url: /niagara-falls/boot-barn/
-shop: clothes
+shop: Kleidung
 ---

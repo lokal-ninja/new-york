@@ -1,5 +1,5 @@
 ---
 title: "RHP"
 url: /monsey/rhp/
-shop: hardware
+shop: Eisenwaren
 ---

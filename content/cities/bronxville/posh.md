@@ -1,5 +1,5 @@
 ---
 title: "POSH"
 url: /bronxville/posh/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /shortsville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

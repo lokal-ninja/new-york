@@ -1,5 +1,5 @@
 ---
 title: "Lukoil"
 url: /albany/lukoil/
-shop: convenience
+shop: Lebensmittel
 ---

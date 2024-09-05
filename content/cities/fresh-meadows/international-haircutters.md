@@ -1,5 +1,5 @@
 ---
 title: "International Haircutters"
 url: /fresh-meadows/international-haircutters/
-shop: hairdresser
+shop: Friseur
 ---

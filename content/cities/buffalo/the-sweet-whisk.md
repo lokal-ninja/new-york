@@ -1,5 +1,5 @@
 ---
 title: "The Sweet Whisk"
 url: /buffalo/the-sweet-whisk/
-shop: chocolate
+shop: Schokolade
 ---

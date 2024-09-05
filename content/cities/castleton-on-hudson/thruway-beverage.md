@@ -1,5 +1,5 @@
 ---
 title: "Thruway Beverage"
 url: /castleton-on-hudson/thruway-beverage/
-shop: beverages
+shop: Getränke
 ---

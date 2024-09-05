@@ -1,5 +1,5 @@
 ---
 title: "Fastrac"
 url: /herkimer/fastrac/
-shop: convenience
+shop: Lebensmittel
 ---

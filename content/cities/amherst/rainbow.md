@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /amherst/rainbow/
-shop: clothes
+shop: Kleidung
 ---

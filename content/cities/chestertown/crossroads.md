@@ -1,5 +1,5 @@
 ---
 title: "Crossroads"
 url: /chestertown/crossroads/
-shop: sports
+shop: Sport
 ---

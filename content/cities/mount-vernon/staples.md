@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /mount-vernon/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

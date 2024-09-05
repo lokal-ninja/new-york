@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /central-valley/fossil/
-shop: watches
+shop: Uhren
 ---

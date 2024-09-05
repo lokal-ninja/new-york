@@ -1,5 +1,5 @@
 ---
 title: "Hertel Home Consignment"
 url: /buffalo/hertel-home-consignment/
-shop: charity
+shop: Gebrauchtwaren
 ---

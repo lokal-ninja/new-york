@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /canandaigua/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

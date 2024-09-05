@@ -1,5 +1,5 @@
 ---
 title: "Genres Book Store"
 url: /westfield/genres-book-store/
-shop: books
+shop: Bücher
 ---

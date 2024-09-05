@@ -1,5 +1,5 @@
 ---
 title: "The Comic Shop"
 url: /oswego/the-comic-shop/
-shop: collector
+shop: Sammler
 ---

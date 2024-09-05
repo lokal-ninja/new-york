@@ -1,5 +1,5 @@
 ---
 title: "Hello Beauty"
 url: /astoria/hello-beauty/
-shop: beauty
+shop: Kosmetik
 ---

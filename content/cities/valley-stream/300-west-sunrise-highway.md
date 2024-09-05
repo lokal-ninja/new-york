@@ -1,5 +1,5 @@
 ---
 title: "300 West Sunrise Highway"
 url: /valley-stream/300-west-sunrise-highway/
-shop: shop
+shop: Allgemein
 ---

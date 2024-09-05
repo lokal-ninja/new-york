@@ -1,5 +1,5 @@
 ---
 title: "Ping Laundromat"
 url: /jamaica/ping-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

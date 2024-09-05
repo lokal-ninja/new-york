@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /canastota/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

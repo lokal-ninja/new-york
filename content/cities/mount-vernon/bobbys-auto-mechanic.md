@@ -1,5 +1,5 @@
 ---
 title: "Bobby's Auto Mechanic"
 url: /mount-vernon/bobbys-auto-mechanic/
-shop: car repair
+shop: Autowerkstatt
 ---

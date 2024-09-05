@@ -1,5 +1,5 @@
 ---
 title: "NY Car Brokers"
 url: /bronx/ny-car-brokers/
-shop: car
+shop: Autohaus
 ---

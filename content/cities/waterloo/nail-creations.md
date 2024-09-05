@@ -1,5 +1,5 @@
 ---
 title: "Nail Creations"
 url: /waterloo/nail-creations/
-shop: beauty
+shop: Kosmetik
 ---

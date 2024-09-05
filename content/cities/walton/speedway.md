@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /walton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

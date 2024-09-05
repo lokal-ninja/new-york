@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /dewitt/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bay Ridge Rx"
 url: /brooklyn/bay-ridge-rx/
-shop: chemist
+shop: Drogerie
 ---

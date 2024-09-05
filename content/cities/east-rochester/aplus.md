@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /east-rochester/aplus/
-shop: convenience
+shop: Lebensmittel
 ---

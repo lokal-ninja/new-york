@@ -1,5 +1,5 @@
 ---
 title: "Broadway Liquors"
 url: /new-york/broadway-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

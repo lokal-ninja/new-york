@@ -1,5 +1,5 @@
 ---
 title: "Gotham Greens"
 url: /jamaica/gotham-greens/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

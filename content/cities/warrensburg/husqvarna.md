@@ -1,5 +1,5 @@
 ---
 title: "Husqvarna"
 url: /warrensburg/husqvarna/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /larchmont/petco/
-shop: pet
+shop: Tiere
 ---

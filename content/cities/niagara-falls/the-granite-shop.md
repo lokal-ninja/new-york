@@ -1,5 +1,5 @@
 ---
 title: "The Granite Shop"
 url: /niagara-falls/the-granite-shop/
-shop: shop
+shop: Allgemein
 ---

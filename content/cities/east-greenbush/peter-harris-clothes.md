@@ -1,5 +1,5 @@
 ---
 title: "Peter Harris Clothes"
 url: /east-greenbush/peter-harris-clothes/
-shop: clothes
+shop: Kleidung
 ---

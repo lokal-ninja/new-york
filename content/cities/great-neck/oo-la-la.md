@@ -1,5 +1,5 @@
 ---
 title: "Oo La La"
 url: /great-neck/oo-la-la/
-shop: clothes
+shop: Kleidung
 ---

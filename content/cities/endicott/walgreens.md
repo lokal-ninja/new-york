@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /endicott/walgreens/
-shop: chemist
+shop: Drogerie
 ---

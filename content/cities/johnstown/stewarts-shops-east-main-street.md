@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
 url: /johnstown/stewarts-shops-east-main-street/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoCrafting"
 url: /syracuse/autocrafting/
-shop: car
+shop: Autohaus
 ---

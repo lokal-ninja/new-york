@@ -1,5 +1,5 @@
 ---
 title: "Grainger"
 url: /elmsford/grainger/
-shop: trade
+shop: Baustoffe
 ---

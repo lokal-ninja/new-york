@@ -1,5 +1,5 @@
 ---
 title: "Maine Technical Source"
 url: /syracuse/maine-technical-source/
-shop: trade
+shop: Baustoffe
 ---

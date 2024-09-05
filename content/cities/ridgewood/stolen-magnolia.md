@@ -1,5 +1,5 @@
 ---
 title: "Stolen Magnolia"
 url: /ridgewood/stolen-magnolia/
-shop: garden centre
+shop: Garten-Center
 ---

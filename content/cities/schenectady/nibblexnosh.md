@@ -1,5 +1,5 @@
 ---
 title: "NibblexNosh"
 url: /schenectady/nibblexnosh/
-shop: pastry
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /oceanside/ifixscreens/
-shop: mobile phone
+shop: Handy
 ---

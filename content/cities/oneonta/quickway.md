@@ -1,5 +1,5 @@
 ---
 title: "Quickway"
 url: /oneonta/quickway/
-shop: convenience
+shop: Lebensmittel
 ---

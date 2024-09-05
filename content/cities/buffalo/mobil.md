@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /buffalo/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

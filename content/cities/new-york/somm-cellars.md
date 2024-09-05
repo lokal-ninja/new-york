@@ -1,5 +1,5 @@
 ---
 title: "Somm Cellars"
 url: /new-york/somm-cellars/
-shop: wine
+shop: Wein
 ---

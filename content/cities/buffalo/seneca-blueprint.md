@@ -1,5 +1,5 @@
 ---
 title: "Seneca Blueprint"
 url: /buffalo/seneca-blueprint/
-shop: copyshop
+shop: Kopieren
 ---

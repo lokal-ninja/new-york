@@ -1,5 +1,5 @@
 ---
 title: "All Music Inc"
 url: /plainview/all-music-inc/
-shop: music
+shop: Musik
 ---

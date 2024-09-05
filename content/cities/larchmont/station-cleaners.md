@@ -1,5 +1,5 @@
 ---
 title: "Station Cleaners"
 url: /larchmont/station-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Duals Natural"
 url: /new-york/duals-natural/
-shop: spices
+shop: Gewürze
 ---

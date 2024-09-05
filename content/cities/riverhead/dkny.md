@@ -1,5 +1,5 @@
 ---
 title: "DKNY"
 url: /riverhead/dkny/
-shop: clothes
+shop: Kleidung
 ---

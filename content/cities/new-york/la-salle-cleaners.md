@@ -1,5 +1,5 @@
 ---
 title: "La Salle Cleaners"
 url: /new-york/la-salle-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /riverhead/talbots/
-shop: clothes
+shop: Kleidung
 ---

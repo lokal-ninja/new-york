@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /pulaski/tops/
-shop: supermarket
+shop: Supermarkt
 ---

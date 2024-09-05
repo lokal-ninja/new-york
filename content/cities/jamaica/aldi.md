@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /jamaica/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

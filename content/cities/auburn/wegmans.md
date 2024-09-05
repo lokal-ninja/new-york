@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /auburn/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

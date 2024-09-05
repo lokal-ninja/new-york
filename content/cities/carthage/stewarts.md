@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /carthage/stewarts/
-shop: convenience
+shop: Lebensmittel
 ---

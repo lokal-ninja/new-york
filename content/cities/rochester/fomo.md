@@ -1,5 +1,5 @@
 ---
 title: "FOMO"
 url: /rochester/fomo/
-shop: clothes
+shop: Kleidung
 ---

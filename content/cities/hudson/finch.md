@@ -1,5 +1,5 @@
 ---
 title: "FINCH"
 url: /hudson/finch/
-shop: furniture
+shop: Möbel
 ---

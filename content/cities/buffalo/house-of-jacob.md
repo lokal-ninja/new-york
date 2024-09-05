@@ -1,5 +1,5 @@
 ---
 title: "House of Jacob"
 url: /buffalo/house-of-jacob/
-shop: antiques
+shop: Antiquitäten
 ---

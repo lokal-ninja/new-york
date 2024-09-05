@@ -1,5 +1,5 @@
 ---
 title: "HealthyHolic"
 url: /new-york/healthyholic/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /westbury/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

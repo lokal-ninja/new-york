@@ -1,5 +1,5 @@
 ---
 title: "UGG"
 url: /riverhead/ugg/
-shop: shoes
+shop: Schuhe
 ---

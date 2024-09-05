@@ -1,5 +1,5 @@
 ---
 title: "Capital Volvo of Albany"
 url: /colonie/capital-volvo-of-albany/
-shop: car
+shop: Autohaus
 ---

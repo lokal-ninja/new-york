@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /riverhead/pacsun/
-shop: clothes
+shop: Kleidung
 ---

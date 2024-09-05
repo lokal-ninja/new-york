@@ -1,5 +1,5 @@
 ---
 title: "Davis Furniture"
 url: /poughkeepsie/davis-furniture/
-shop: furniture
+shop: Möbel
 ---

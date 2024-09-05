@@ -1,5 +1,5 @@
 ---
 title: "Mazzone Hardware"
 url: /brooklyn/mazzone-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

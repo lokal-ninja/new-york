@@ -1,5 +1,5 @@
 ---
 title: "Troutfitter"
 url: /syracuse/troutfitter/
-shop: fishing
+shop: Angeln
 ---

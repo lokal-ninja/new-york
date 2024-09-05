@@ -1,5 +1,5 @@
 ---
 title: "Red Pearl"
 url: /brooklyn/red-pearl/
-shop: gift
+shop: Andenken
 ---

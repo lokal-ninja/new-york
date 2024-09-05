@@ -1,5 +1,5 @@
 ---
 title: "Eagle"
 url: /riverhead/eagle/
-shop: car
+shop: Autohaus
 ---

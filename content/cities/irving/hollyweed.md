@@ -1,5 +1,5 @@
 ---
 title: "Hollyweed"
 url: /irving/hollyweed/
-shop: cannabis
+shop: Hanf
 ---

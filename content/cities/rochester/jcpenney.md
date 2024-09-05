@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /rochester/jcpenney/
-shop: department store
+shop: Warenhaus
 ---

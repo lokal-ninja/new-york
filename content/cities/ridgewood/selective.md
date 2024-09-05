@@ -1,5 +1,5 @@
 ---
 title: "Selective"
 url: /ridgewood/selective/
-shop: tobacco
+shop: Tabak
 ---

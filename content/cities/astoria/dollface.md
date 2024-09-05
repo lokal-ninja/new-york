@@ -1,5 +1,5 @@
 ---
 title: "Dollface"
 url: /astoria/dollface/
-shop: beauty
+shop: Kosmetik
 ---

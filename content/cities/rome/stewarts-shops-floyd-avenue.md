@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
 url: /rome/stewarts-shops-floyd-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

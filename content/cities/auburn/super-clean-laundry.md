@@ -1,5 +1,5 @@
 ---
 title: "Super Clean Laundry"
 url: /auburn/super-clean-laundry/
-shop: laundry
+shop: Wäscherei
 ---

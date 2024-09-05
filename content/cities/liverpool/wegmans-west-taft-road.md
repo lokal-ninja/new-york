@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /liverpool/wegmans-west-taft-road/
-shop: supermarket
+shop: Supermarkt
 ---

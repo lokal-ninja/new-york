@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /canandaigua/rite-aid-north-main-street/
-shop: chemist
+shop: Drogerie
 ---

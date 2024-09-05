@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /riverhead/zales/
-shop: jewelry
+shop: Schmuck
 ---

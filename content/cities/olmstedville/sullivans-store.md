@@ -1,5 +1,5 @@
 ---
 title: "Sullivan's Store"
 url: /olmstedville/sullivans-store/
-shop: convenience
+shop: Lebensmittel
 ---

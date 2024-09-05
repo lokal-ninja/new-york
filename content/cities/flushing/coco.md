@@ -1,5 +1,5 @@
 ---
 title: "Coco"
 url: /flushing/coco/
-shop: tea
+shop: Tee
 ---

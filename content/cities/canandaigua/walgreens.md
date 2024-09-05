@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /canandaigua/walgreens/
-shop: chemist
+shop: Drogerie
 ---

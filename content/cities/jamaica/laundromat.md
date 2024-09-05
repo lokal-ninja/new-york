@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /jamaica/laundromat/
-shop: laundry
+shop: Wäscherei
 ---

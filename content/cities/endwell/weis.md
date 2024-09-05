@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /endwell/weis/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Max Mara"
 url: /new-york/max-mara/
-shop: clothes
+shop: Kleidung
 ---

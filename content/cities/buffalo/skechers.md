@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /buffalo/skechers/
-shop: shoes
+shop: Schuhe
 ---

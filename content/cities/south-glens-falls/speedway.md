@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /south-glens-falls/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

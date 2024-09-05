@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
 url: /jamaica/snipes/
-shop: shoes
+shop: Schuhe
 ---

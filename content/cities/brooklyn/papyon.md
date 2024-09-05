@@ -1,5 +1,5 @@
 ---
 title: "Papyon"
 url: /brooklyn/papyon/
-shop: hairdresser
+shop: Friseur
 ---

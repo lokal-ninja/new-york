@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /ithaca/harbor-freight-tools/
-shop: hardware
+shop: Eisenwaren
 ---

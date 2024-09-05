@@ -1,5 +1,5 @@
 ---
 title: "Computuners"
 url: /nanuet/computuners/
-shop: computer
+shop: Computer
 ---

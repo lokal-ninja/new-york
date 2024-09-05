@@ -1,5 +1,5 @@
 ---
 title: "Sun Capsule Tanning Salon"
 url: /schenectady/sun-capsule-tanning-salon/
-shop: beauty
+shop: Kosmetik
 ---

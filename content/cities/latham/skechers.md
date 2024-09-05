@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /latham/skechers/
-shop: shoes
+shop: Schuhe
 ---

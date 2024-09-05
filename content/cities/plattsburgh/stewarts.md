@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /plattsburgh/stewarts/
-shop: convenience
+shop: Lebensmittel
 ---

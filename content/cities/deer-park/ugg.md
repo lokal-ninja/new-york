@@ -1,5 +1,5 @@
 ---
 title: "UGG"
 url: /deer-park/ugg/
-shop: shoes
+shop: Schuhe
 ---

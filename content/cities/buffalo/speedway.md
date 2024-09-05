@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /buffalo/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

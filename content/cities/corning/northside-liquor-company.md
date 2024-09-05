@@ -1,5 +1,5 @@
 ---
 title: "Northside Liquor Company"
 url: /corning/northside-liquor-company/
-shop: alcohol
+shop: Spirituosen
 ---

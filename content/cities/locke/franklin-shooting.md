@@ -1,5 +1,5 @@
 ---
 title: "Franklin Shooting"
 url: /locke/franklin-shooting/
-shop: weapons
+shop: Waffen
 ---

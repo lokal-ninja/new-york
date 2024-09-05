@@ -1,5 +1,5 @@
 ---
 title: "Atlixc Taller De  Biciciletas"
 url: /woodside/atlixc-taller-de-biciciletas/
-shop: bicycle
+shop: Fahrrad
 ---

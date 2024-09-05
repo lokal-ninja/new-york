@@ -1,5 +1,5 @@
 ---
 title: "Chick's Barbershop"
 url: /buffalo/chicks-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ran Art Gallery"
 url: /new-york/ran-art-gallery/
-shop: frame
+shop: Rahmen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chapter Aesthetic Studio"
 url: /tonawanda/chapter-aesthetic-studio/
-shop: beauty
+shop: Kosmetik
 ---

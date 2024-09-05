@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
 url: /glen-oaks/edible-arrangements/
-shop: gift
+shop: Andenken
 ---

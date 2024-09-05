@@ -1,5 +1,5 @@
 ---
 title: "Centre Seafood"
 url: /new-york/centre-seafood/
-shop: seafood
+shop: Fisch
 ---

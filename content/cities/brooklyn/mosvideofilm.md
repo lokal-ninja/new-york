@@ -1,5 +1,5 @@
 ---
 title: "Mosvideofilm"
 url: /brooklyn/mosvideofilm/
-shop: video
+shop: Videothek
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /syracuse/valvoline/
-shop: car repair
+shop: Autowerkstatt
 ---

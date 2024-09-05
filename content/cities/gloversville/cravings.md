@@ -1,5 +1,5 @@
 ---
 title: "Cravings"
 url: /gloversville/cravings/
-shop: bakery
+shop: Bäckerei
 ---

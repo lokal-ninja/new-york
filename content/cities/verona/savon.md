@@ -1,5 +1,5 @@
 ---
 title: "SavOn"
 url: /verona/savon/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Retrograde"
 url: /manlius/retrograde/
-shop: antiques
+shop: Antiquitäten
 ---

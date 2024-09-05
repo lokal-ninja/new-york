@@ -1,5 +1,5 @@
 ---
 title: "Spoken Boutique"
 url: /saratoga-springs/spoken-boutique/
-shop: clothes
+shop: Kleidung
 ---

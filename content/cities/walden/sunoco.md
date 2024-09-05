@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /walden/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

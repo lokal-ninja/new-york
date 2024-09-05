@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /geneseo/petsmart/
-shop: pet
+shop: Tiere
 ---

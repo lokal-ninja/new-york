@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Women's Exchange"
 url: /brooklyn/brooklyn-womens-exchange/
-shop: gift
+shop: Andenken
 ---

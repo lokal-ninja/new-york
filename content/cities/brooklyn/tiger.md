@@ -1,5 +1,5 @@
 ---
 title: "Tiger"
 url: /brooklyn/tiger/
-shop: houseware
+shop: Haushaltsartikel
 ---

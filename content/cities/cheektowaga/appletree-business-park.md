@@ -1,5 +1,5 @@
 ---
 title: "AppleTree Business Park"
 url: /cheektowaga/appletree-business-park/
-shop: mall
+shop: Einkaufszentrum
 ---

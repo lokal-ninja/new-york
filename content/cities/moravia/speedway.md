@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /moravia/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

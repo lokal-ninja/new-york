@@ -1,5 +1,5 @@
 ---
 title: "Nest"
 url: /buffalo/nest/
-shop: houseware
+shop: Haushaltsartikel
 ---

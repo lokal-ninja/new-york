@@ -1,5 +1,5 @@
 ---
 title: "McnNally Jackson"
 url: /new-york/mcnnally-jackson/
-shop: books
+shop: Bücher
 ---

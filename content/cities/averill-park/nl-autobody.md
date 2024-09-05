@@ -1,5 +1,5 @@
 ---
 title: "NL Autobody"
 url: /averill-park/nl-autobody/
-shop: car repair
+shop: Autowerkstatt
 ---

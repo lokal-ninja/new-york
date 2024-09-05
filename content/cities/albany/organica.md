@@ -1,5 +1,5 @@
 ---
 title: "Organica"
 url: /albany/organica/
-shop: garden centre
+shop: Garten-Center
 ---

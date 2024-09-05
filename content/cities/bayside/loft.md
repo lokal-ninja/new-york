@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /bayside/loft/
-shop: clothes
+shop: Kleidung
 ---

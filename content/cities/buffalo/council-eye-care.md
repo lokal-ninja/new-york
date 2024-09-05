@@ -1,5 +1,5 @@
 ---
 title: "Council Eye Care"
 url: /buffalo/council-eye-care/
-shop: optician
+shop: Optiker
 ---

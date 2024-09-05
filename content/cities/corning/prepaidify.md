@@ -1,5 +1,5 @@
 ---
 title: "Prepaidify"
 url: /corning/prepaidify/
-shop: gift
+shop: Andenken
 ---

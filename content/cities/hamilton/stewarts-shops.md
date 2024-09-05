@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
 url: /hamilton/stewarts-shops/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /wappingers-falls/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

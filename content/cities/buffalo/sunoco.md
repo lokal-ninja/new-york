@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /buffalo/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

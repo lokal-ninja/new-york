@@ -1,5 +1,5 @@
 ---
 title: "Liquors"
 url: /brooklyn/liquors-myrtle-avenue/
-shop: alcohol
+shop: Spirituosen
 ---

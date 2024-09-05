@@ -1,5 +1,5 @@
 ---
 title: "Mirabito"
 url: /new-hartford/mirabito/
-shop: convenience
+shop: Lebensmittel
 ---

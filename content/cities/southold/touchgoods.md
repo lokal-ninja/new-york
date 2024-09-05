@@ -1,5 +1,5 @@
 ---
 title: "touchGOODS"
 url: /southold/touchgoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

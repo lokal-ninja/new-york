@@ -1,5 +1,5 @@
 ---
 title: "Pasteurized Tees"
 url: /buffalo/pasteurized-tees/
-shop: clothes
+shop: Kleidung
 ---

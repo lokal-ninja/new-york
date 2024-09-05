@@ -1,5 +1,5 @@
 ---
 title: "Idyology"
 url: /lynbrook/idyology/
-shop: clothes
+shop: Kleidung
 ---

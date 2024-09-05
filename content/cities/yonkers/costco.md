@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /yonkers/costco/
-shop: wholesale
+shop: Großhandel
 ---

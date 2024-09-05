@@ -1,5 +1,5 @@
 ---
 title: "Madlen"
 url: /brooklyn/madlen/
-shop: shoes
+shop: Schuhe
 ---

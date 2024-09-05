@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /rochester/at-home-jefferson-road/
-shop: houseware
+shop: Haushaltsartikel
 ---

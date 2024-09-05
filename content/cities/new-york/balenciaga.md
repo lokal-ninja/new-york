@@ -1,5 +1,5 @@
 ---
 title: "Balenciaga"
 url: /new-york/balenciaga/
-shop: clothes
+shop: Kleidung
 ---

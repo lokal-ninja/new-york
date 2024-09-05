@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /buffalo/tops-amherst-street/
-shop: supermarket
+shop: Supermarkt
 ---

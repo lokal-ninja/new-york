@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /rome/hannaford/
-shop: supermarket
+shop: Supermarkt
 ---

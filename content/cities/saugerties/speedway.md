@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /saugerties/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

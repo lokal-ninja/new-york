@@ -1,5 +1,5 @@
 ---
 title: "LEIF"
 url: /brooklyn/leif/
-shop: shop
+shop: Allgemein
 ---

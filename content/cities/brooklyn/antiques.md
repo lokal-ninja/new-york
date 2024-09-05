@@ -1,5 +1,5 @@
 ---
 title: "Antiques"
 url: /brooklyn/antiques/
-shop: antiques
+shop: Antiquitäten
 ---

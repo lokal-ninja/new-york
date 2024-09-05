@@ -1,5 +1,5 @@
 ---
 title: "Parrot"
 url: /astoria/parrot/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

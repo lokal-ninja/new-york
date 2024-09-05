@@ -1,5 +1,5 @@
 ---
 title: "New Balance"
 url: /central-valley/new-balance/
-shop: shoes
+shop: Schuhe
 ---

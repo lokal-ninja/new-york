@@ -1,5 +1,5 @@
 ---
 title: "Noah's Attic"
 url: /ballston-spa/noahs-attic/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cloudscape"
 url: /brooklyn/cloudscape/
-shop: convenience
+shop: Lebensmittel
 ---

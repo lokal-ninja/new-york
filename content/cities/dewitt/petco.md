@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /dewitt/petco/
-shop: pet
+shop: Tiere
 ---

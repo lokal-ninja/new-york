@@ -1,5 +1,5 @@
 ---
 title: "Charlie Johns"
 url: /speculator/charlie-johns/
-shop: supermarket
+shop: Supermarkt
 ---

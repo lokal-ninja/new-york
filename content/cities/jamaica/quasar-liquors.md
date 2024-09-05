@@ -1,5 +1,5 @@
 ---
 title: "Quasar Liquors"
 url: /jamaica/quasar-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

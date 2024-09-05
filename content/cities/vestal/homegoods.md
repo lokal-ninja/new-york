@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /vestal/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

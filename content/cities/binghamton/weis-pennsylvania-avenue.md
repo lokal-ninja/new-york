@@ -1,5 +1,5 @@
 ---
 title: "Weis"
 url: /binghamton/weis-pennsylvania-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maytag Laundromat"
 url: /niagara-falls/maytag-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

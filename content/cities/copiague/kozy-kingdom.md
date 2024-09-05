@@ -1,5 +1,5 @@
 ---
 title: "Kozy Kingdom"
 url: /copiague/kozy-kingdom/
-shop: furniture
+shop: Möbel
 ---

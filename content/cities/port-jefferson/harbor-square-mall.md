@@ -1,5 +1,5 @@
 ---
 title: "Harbor Square Mall"
 url: /port-jefferson/harbor-square-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

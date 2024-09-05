@@ -1,5 +1,5 @@
 ---
 title: "Y Cleaners"
 url: /syosset/y-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

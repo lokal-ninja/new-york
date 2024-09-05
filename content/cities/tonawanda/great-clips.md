@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /tonawanda/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

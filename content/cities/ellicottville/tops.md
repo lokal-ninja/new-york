@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /ellicottville/tops/
-shop: supermarket
+shop: Supermarkt
 ---

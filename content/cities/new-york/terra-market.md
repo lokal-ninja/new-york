@@ -1,5 +1,5 @@
 ---
 title: "Terra Market"
 url: /new-york/terra-market/
-shop: convenience
+shop: Lebensmittel
 ---

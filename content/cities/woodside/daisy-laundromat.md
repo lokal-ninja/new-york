@@ -1,5 +1,5 @@
 ---
 title: "Daisy Laundromat"
 url: /woodside/daisy-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cortland/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

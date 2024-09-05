@@ -1,5 +1,5 @@
 ---
 title: "La Mirage I"
 url: /queens/la-mirage-i/
-shop: hairdresser
+shop: Friseur
 ---

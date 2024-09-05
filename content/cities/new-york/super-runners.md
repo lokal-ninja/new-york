@@ -1,5 +1,5 @@
 ---
 title: "Super Runners"
 url: /new-york/super-runners/
-shop: sports
+shop: Sport
 ---

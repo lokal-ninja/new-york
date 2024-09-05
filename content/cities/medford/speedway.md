@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /medford/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

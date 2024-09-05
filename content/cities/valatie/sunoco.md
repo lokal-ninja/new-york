@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /valatie/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

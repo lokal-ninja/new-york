@@ -1,5 +1,5 @@
 ---
 title: "Fabulous Yarn"
 url: /tivoli/fabulous-yarn/
-shop: fabric
+shop: Textil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hitman Collision"
 url: /riverhead/hitman-collision/
-shop: car repair
+shop: Autowerkstatt
 ---

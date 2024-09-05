@@ -1,5 +1,5 @@
 ---
 title: "William S Panitch Inc"
 url: /albany/william-s-panitch-inc/
-shop: collector
+shop: Sammler
 ---

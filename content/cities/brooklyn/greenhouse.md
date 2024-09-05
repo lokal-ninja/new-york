@@ -1,5 +1,5 @@
 ---
 title: "Greenhouse"
 url: /brooklyn/greenhouse/
-shop: florist
+shop: Blumen
 ---

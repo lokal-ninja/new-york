@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /white-plains/acme/
-shop: supermarket
+shop: Supermarkt
 ---

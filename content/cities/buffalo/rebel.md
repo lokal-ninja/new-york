@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /buffalo/rebel/
-shop: convenience
+shop: Lebensmittel
 ---

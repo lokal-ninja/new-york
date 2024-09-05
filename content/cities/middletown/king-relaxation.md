@@ -1,5 +1,5 @@
 ---
 title: "King Relaxation"
 url: /middletown/king-relaxation/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mahr"
 url: /new-york/mahr/
-shop: florist
+shop: Blumen
 ---

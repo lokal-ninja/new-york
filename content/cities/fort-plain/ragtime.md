@@ -1,5 +1,5 @@
 ---
 title: "Ragtime"
 url: /fort-plain/ragtime/
-shop: collector
+shop: Sammler
 ---

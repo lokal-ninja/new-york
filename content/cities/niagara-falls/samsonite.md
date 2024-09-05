@@ -1,5 +1,5 @@
 ---
 title: "Samsonite"
 url: /niagara-falls/samsonite/
-shop: bag
+shop: Taschen & Koffer
 ---

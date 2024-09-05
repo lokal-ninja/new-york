@@ -1,5 +1,5 @@
 ---
 title: "Shapes Brow Studio"
 url: /schenectady/shapes-brow-studio/
-shop: tattoo
+shop: Tattoo
 ---

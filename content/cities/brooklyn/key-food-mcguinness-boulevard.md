@@ -1,5 +1,5 @@
 ---
 title: "Key Food"
 url: /brooklyn/key-food-mcguinness-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

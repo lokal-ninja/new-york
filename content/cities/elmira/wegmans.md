@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /elmira/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

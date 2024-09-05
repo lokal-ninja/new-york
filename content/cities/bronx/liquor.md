@@ -1,5 +1,5 @@
 ---
 title: "Liquor"
 url: /bronx/liquor/
-shop: alcohol
+shop: Spirituosen
 ---

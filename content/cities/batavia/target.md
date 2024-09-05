@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /batavia/target/
-shop: department store
+shop: Warenhaus
 ---

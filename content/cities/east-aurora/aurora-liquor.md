@@ -1,5 +1,5 @@
 ---
 title: "Aurora Liquor"
 url: /east-aurora/aurora-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indulge"
 url: /cortland/indulge/
-shop: bakery
+shop: Bäckerei
 ---

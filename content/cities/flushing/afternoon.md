@@ -1,5 +1,5 @@
 ---
 title: "Afternoon"
 url: /flushing/afternoon/
-shop: bakery
+shop: Bäckerei
 ---

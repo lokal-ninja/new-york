@@ -1,5 +1,5 @@
 ---
 title: "Beyond Vape"
 url: /bronx/beyond-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

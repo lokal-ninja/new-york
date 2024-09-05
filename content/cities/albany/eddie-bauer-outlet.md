@@ -1,5 +1,5 @@
 ---
 title: "Eddie Bauer Outlet"
 url: /albany/eddie-bauer-outlet/
-shop: clothes
+shop: Kleidung
 ---
