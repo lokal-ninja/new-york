@@ -1,5 +1,5 @@
 ---
 title: "CML Dunkin Donuts"
 url: /middletown/cml-dunkin-donuts/
-shop: Autowerkstatt
+shop: car repair
 ---

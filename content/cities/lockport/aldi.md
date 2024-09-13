@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lockport/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

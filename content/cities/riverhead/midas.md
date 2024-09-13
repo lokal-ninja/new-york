@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /riverhead/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

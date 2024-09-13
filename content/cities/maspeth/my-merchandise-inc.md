@@ -1,5 +1,5 @@
 ---
 title: "My Merchandise Inc."
 url: /maspeth/my-merchandise-inc/
-shop: Großhandel
+shop: wholesale
 ---

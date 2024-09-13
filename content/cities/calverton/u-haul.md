@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /calverton/u-haul/
-shop: Mieten
+shop: storage rental
 ---

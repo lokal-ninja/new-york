@@ -1,5 +1,5 @@
 ---
 title: "Appliance Parts"
 url: /syracuse/appliance-parts/
-shop: Allgemein
+shop: shop
 ---

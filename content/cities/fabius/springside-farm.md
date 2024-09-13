@@ -1,5 +1,5 @@
 ---
 title: "Springside Farm"
 url: /fabius/springside-farm/
-shop: Andenken
+shop: gift
 ---

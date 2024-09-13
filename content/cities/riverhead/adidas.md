@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /riverhead/adidas/
-shop: Sport
+shop: sports
 ---

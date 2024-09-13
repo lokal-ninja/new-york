@@ -1,5 +1,5 @@
 ---
 title: "Tattoorolo"
 url: /corning/tattoorolo/
-shop: Tattoo
+shop: tattoo
 ---

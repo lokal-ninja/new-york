@@ -1,5 +1,5 @@
 ---
 title: "Camaria Deli"
 url: /poughkeepsie/camaria-deli/
-shop: Feinkost
+shop: deli
 ---

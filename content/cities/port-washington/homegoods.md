@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /port-washington/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

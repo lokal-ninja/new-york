@@ -1,5 +1,5 @@
 ---
 title: "Electrolux"
 url: /larchmont/electrolux/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whalen Chevrolet"
 url: /greenwich/whalen-chevrolet/
-shop: Autohaus
+shop: car
 ---

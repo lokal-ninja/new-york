@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /delhi/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

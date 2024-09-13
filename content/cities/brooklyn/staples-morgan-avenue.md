@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /brooklyn/staples-morgan-avenue/
-shop: Schreibwaren
+shop: office supplies
 ---

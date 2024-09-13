@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /oneonta/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

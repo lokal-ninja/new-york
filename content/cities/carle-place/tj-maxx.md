@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /carle-place/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

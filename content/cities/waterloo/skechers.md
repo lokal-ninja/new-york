@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /waterloo/skechers/
-shop: Schuhe
+shop: shoes
 ---

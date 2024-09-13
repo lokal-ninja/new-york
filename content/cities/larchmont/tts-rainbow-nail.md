@@ -1,5 +1,5 @@
 ---
 title: "TT's Rainbow Nail"
 url: /larchmont/tts-rainbow-nail/
-shop: Kosmetik
+shop: beauty
 ---

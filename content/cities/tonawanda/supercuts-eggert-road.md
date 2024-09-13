@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /tonawanda/supercuts-eggert-road/
-shop: Friseur
+shop: hairdresser
 ---

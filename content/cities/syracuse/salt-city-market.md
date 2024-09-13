@@ -1,5 +1,5 @@
 ---
 title: "Salt City Market"
 url: /syracuse/salt-city-market/
-shop: Einkaufszentrum
+shop: mall
 ---

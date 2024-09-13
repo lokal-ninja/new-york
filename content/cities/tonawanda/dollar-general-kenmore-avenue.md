@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /tonawanda/dollar-general-kenmore-avenue/
-shop: Kramladen
+shop: variety store
 ---

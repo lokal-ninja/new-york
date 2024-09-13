@@ -1,5 +1,5 @@
 ---
 title: "KJ Auto repair"
 url: /monroe/kj-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

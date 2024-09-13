@@ -1,5 +1,5 @@
 ---
 title: "The Corner Store"
 url: /tivoli/the-corner-store/
-shop: Andenken
+shop: gift
 ---

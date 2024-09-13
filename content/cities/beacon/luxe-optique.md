@@ -1,5 +1,5 @@
 ---
 title: "Luxe Optique"
 url: /beacon/luxe-optique/
-shop: Optiker
+shop: optician
 ---

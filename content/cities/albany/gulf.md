@@ -1,5 +1,5 @@
 ---
 title: "Gulf"
 url: /albany/gulf/
-shop: Lebensmittel
+shop: convenience
 ---

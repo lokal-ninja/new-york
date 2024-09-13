@@ -1,5 +1,5 @@
 ---
 title: "The Ultimate Spectacle"
 url: /poughkeepsie/the-ultimate-spectacle/
-shop: Optiker
+shop: optician
 ---

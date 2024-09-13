@@ -1,5 +1,5 @@
 ---
 title: "Timeless Babez"
 url: /tonawanda/timeless-babez/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Center Ice Sports Cards"
 url: /tonawanda/center-ice-sports-cards/
-shop: Sammler
+shop: collector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automotive Plus"
 url: /hamburg/automotive-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

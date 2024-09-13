@@ -1,5 +1,5 @@
 ---
 title: "Heritage Packaging"
 url: /victor/heritage-packaging/
-shop: Dorfladen
+shop: general
 ---

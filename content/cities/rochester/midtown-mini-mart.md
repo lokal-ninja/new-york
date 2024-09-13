@@ -1,5 +1,5 @@
 ---
 title: "Midtown Mini-Mart"
 url: /rochester/midtown-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

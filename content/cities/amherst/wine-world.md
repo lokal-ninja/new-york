@@ -1,5 +1,5 @@
 ---
 title: "Wine World"
 url: /amherst/wine-world/
-shop: Wein
+shop: wine
 ---

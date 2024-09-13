@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /hyde-park/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

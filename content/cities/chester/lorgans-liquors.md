@@ -1,5 +1,5 @@
 ---
 title: "Lorgans Liquors"
 url: /chester/lorgans-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

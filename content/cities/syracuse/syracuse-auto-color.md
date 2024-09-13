@@ -1,5 +1,5 @@
 ---
 title: "Syracuse Auto Color"
 url: /syracuse/syracuse-auto-color/
-shop: Autowerkstatt
+shop: car repair
 ---

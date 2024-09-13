@@ -1,5 +1,5 @@
 ---
 title: "Maxin Bakery"
 url: /flushing/maxin-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kravet"
 url: /woodbury/kravet/
-shop: Möbel
+shop: furniture
 ---

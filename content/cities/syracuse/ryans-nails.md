@@ -1,5 +1,5 @@
 ---
 title: "Ryan's Nails"
 url: /syracuse/ryans-nails/
-shop: Kosmetik
+shop: beauty
 ---

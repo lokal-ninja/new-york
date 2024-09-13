@@ -1,5 +1,5 @@
 ---
 title: "Richmond Automotive Center"
 url: /honeoye/richmond-automotive-center/
-shop: Autowerkstatt
+shop: car repair
 ---

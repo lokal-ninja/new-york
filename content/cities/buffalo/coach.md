@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /buffalo/coach/
-shop: Taschen & Koffer
+shop: bag
 ---

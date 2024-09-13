@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /poughkeepsie/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

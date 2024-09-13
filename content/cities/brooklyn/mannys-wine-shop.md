@@ -1,5 +1,5 @@
 ---
 title: "Manny's Wine Shop"
 url: /brooklyn/mannys-wine-shop/
-shop: Wein
+shop: wine
 ---

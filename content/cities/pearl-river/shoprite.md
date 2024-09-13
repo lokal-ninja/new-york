@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /pearl-river/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /shirley/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

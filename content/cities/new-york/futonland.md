@@ -1,5 +1,5 @@
 ---
 title: "Futonland"
 url: /new-york/futonland/
-shop: Möbel
+shop: furniture
 ---

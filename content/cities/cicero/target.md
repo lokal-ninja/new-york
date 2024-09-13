@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /cicero/target/
-shop: Warenhaus
+shop: department store
 ---

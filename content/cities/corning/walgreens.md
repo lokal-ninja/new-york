@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /corning/walgreens/
-shop: Drogerie
+shop: chemist
 ---

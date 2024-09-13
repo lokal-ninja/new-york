@@ -1,5 +1,5 @@
 ---
 title: "Leah Discount"
 url: /brooklyn/leah-discount/
-shop: Kramladen
+shop: variety store
 ---

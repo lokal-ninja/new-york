@@ -1,5 +1,5 @@
 ---
 title: "Linden Self Storage"
 url: /rochester/linden-self-storage/
-shop: Mieten
+shop: storage rental
 ---

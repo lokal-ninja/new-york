@@ -1,5 +1,5 @@
 ---
 title: "Scrubble's Laundromat"
 url: /elmira/scrubbles-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

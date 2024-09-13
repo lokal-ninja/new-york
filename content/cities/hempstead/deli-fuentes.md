@@ -1,5 +1,5 @@
 ---
 title: "Deli Fuentes"
 url: /hempstead/deli-fuentes/
-shop: Feinkost
+shop: deli
 ---

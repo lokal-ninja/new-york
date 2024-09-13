@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /carle-place/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

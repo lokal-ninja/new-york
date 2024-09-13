@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /carle-place/dsw/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boiceville Pit Stop"
 url: /boiceville/boiceville-pit-stop/
-shop: Lebensmittel
+shop: convenience
 ---

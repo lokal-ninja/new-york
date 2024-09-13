@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /skaneateles/tops/
-shop: Supermarkt
+shop: supermarket
 ---

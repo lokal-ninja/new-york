@@ -1,5 +1,5 @@
 ---
 title: "Telco Stores"
 url: /ridgewood/telco-stores/
-shop: Warenhaus
+shop: department store
 ---

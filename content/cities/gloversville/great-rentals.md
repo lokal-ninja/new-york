@@ -1,5 +1,5 @@
 ---
 title: "Great Rentals"
 url: /gloversville/great-rentals/
-shop: Mieten
+shop: storage rental
 ---

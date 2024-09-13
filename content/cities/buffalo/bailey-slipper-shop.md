@@ -1,5 +1,5 @@
 ---
 title: "Bailey Slipper Shop"
 url: /buffalo/bailey-slipper-shop/
-shop: Schuhe
+shop: shoes
 ---

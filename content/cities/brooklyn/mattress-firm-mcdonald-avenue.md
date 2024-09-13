@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /brooklyn/mattress-firm-mcdonald-avenue/
-shop: Betten
+shop: bed
 ---

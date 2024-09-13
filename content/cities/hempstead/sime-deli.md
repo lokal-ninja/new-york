@@ -1,5 +1,5 @@
 ---
 title: "Simé Deli"
 url: /hempstead/sime-deli/
-shop: Feinkost
+shop: deli
 ---

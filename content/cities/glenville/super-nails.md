@@ -1,5 +1,5 @@
 ---
 title: "Super Nails"
 url: /glenville/super-nails/
-shop: Kosmetik
+shop: beauty
 ---

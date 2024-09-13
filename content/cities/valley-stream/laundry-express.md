@@ -1,5 +1,5 @@
 ---
 title: "Laundry Express"
 url: /valley-stream/laundry-express/
-shop: Wäscherei
+shop: laundry
 ---

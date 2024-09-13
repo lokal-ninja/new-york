@@ -1,5 +1,5 @@
 ---
 title: "Pure Hockey"
 url: /buffalo/pure-hockey-sheridan-drive/
-shop: Sport
+shop: sports
 ---

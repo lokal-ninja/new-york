@@ -1,5 +1,5 @@
 ---
 title: "USA Tailor"
 url: /new-hartford/usa-tailor/
-shop: Schneiderei
+shop: tailor
 ---

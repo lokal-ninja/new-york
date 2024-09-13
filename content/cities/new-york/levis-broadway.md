@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /new-york/levis-broadway/
-shop: Kleidung
+shop: clothes
 ---

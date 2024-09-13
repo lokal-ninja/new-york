@@ -1,5 +1,5 @@
 ---
 title: "Micro Center"
 url: /yonkers/micro-center/
-shop: Computer
+shop: computer
 ---

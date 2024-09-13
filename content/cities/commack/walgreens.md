@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /commack/walgreens/
-shop: Drogerie
+shop: chemist
 ---

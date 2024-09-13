@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /east-rochester/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

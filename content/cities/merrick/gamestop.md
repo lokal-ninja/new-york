@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /merrick/gamestop/
-shop: Videospiele
+shop: video games
 ---

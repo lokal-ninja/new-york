@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /glenmont/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

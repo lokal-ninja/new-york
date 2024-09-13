@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /east-aurora/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

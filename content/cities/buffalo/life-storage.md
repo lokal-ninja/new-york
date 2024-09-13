@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
 url: /buffalo/life-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pasteur Pharmacy"
 url: /new-york/pasteur-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

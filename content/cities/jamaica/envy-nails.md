@@ -1,5 +1,5 @@
 ---
 title: "Envy Nails"
 url: /jamaica/envy-nails/
-shop: Kosmetik
+shop: beauty
 ---

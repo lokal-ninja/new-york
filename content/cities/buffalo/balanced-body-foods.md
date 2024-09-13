@@ -1,5 +1,5 @@
 ---
 title: "Balanced Body Foods"
 url: /buffalo/balanced-body-foods/
-shop: Bioladen
+shop: health food
 ---

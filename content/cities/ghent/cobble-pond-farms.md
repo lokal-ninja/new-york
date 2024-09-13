@@ -1,5 +1,5 @@
 ---
 title: "Cobble Pond Farms"
 url: /ghent/cobble-pond-farms/
-shop: Lebensmittel
+shop: convenience
 ---

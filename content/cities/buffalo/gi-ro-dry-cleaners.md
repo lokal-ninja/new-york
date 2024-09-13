@@ -1,5 +1,5 @@
 ---
 title: "Gi-Ro Dry Cleaners"
 url: /buffalo/gi-ro-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

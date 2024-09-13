@@ -1,5 +1,5 @@
 ---
 title: "Prestige Organic Market"
 url: /brooklyn/prestige-organic-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EDE Collision"
 url: /webster/ede-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

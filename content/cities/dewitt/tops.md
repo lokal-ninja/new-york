@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /dewitt/tops/
-shop: Supermarkt
+shop: supermarket
 ---

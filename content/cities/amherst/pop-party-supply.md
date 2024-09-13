@@ -1,5 +1,5 @@
 ---
 title: "POP! Party Supply"
 url: /amherst/pop-party-supply/
-shop: Partyzubehör
+shop: party
 ---

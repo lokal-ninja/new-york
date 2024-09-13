@@ -1,5 +1,5 @@
 ---
 title: "Redi Imports"
 url: /rochester/redi-imports/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam Ash"
 url: /brooklyn/sam-ash/
-shop: Instrumente
+shop: musical instrument
 ---

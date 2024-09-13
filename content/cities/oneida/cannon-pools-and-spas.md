@@ -1,5 +1,5 @@
 ---
 title: "Cannon Pools and Spas"
 url: /oneida/cannon-pools-and-spas/
-shop: Pool
+shop: swimming pool
 ---

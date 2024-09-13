@@ -1,5 +1,5 @@
 ---
 title: "E-SHACK"
 url: /honeoye-falls/e-shack/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Balkan Motors"
 url: /east-rochester/balkan-motors/
-shop: Autohaus
+shop: car
 ---

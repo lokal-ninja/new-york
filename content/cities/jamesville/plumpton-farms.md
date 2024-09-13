@@ -1,5 +1,5 @@
 ---
 title: "Plumpton Farms"
 url: /jamesville/plumpton-farms/
-shop: Garten-Center
+shop: garden centre
 ---

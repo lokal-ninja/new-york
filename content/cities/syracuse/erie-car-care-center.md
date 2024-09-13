@@ -1,5 +1,5 @@
 ---
 title: "Erie Car Care Center"
 url: /syracuse/erie-car-care-center/
-shop: Autowerkstatt
+shop: car repair
 ---

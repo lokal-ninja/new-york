@@ -1,5 +1,5 @@
 ---
 title: "Bathtique"
 url: /lawrence/bathtique/
-shop: Badezimmer
+shop: bathroom
 ---

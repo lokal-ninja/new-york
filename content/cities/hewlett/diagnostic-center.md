@@ -1,5 +1,5 @@
 ---
 title: "Diagnostic Center"
 url: /hewlett/diagnostic-center/
-shop: Autowerkstatt
+shop: car repair
 ---

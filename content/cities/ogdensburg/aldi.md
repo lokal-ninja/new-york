@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ogdensburg/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

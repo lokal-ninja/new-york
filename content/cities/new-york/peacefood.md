@@ -1,5 +1,5 @@
 ---
 title: "Peacefood"
 url: /new-york/peacefood/
-shop: Konditorei
+shop: pastry
 ---

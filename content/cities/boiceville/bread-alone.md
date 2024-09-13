@@ -1,5 +1,5 @@
 ---
 title: "Bread Alone"
 url: /boiceville/bread-alone/
-shop: Bäckerei
+shop: bakery
 ---

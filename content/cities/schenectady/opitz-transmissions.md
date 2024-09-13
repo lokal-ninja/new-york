@@ -1,5 +1,5 @@
 ---
 title: "Opitz Transmissions"
 url: /schenectady/opitz-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

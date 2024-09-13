@@ -1,5 +1,5 @@
 ---
 title: "Brad's Barns"
 url: /kingston/brads-barns/
-shop: Allgemein
+shop: shop
 ---

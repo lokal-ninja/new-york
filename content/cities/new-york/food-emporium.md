@@ -1,5 +1,5 @@
 ---
 title: "Food Emporium"
 url: /new-york/food-emporium/
-shop: Supermarkt
+shop: supermarket
 ---

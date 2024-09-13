@@ -1,5 +1,5 @@
 ---
 title: "Storage R Us West, Inc."
 url: /east-moriches/storage-r-us-west-inc/
-shop: Baumarkt
+shop: doityourself
 ---

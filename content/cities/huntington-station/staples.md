@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /huntington-station/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farrells Auto Service"
 url: /marcellus/farrells-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

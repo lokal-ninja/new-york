@@ -1,5 +1,5 @@
 ---
 title: "ML Graphics"
 url: /new-york/ml-graphics/
-shop: Kunst
+shop: art
 ---

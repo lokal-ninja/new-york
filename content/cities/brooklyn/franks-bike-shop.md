@@ -1,5 +1,5 @@
 ---
 title: "Frank’s Bike Shop"
 url: /brooklyn/franks-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

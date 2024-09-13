@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /mayville/tops/
-shop: Supermarkt
+shop: supermarket
 ---

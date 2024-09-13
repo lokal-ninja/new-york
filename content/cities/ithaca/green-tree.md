@@ -1,5 +1,5 @@
 ---
 title: "Green Tree"
 url: /ithaca/green-tree/
-shop: Garten-Center
+shop: garden centre
 ---

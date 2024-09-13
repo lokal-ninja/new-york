@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /riverhead/torrid/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Telco"
 url: /brooklyn/telco/
-shop: Kleidung
+shop: clothes
 ---

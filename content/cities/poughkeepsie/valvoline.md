@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /poughkeepsie/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /elmont/target/
-shop: Warenhaus
+shop: department store
 ---

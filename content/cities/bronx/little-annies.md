@@ -1,5 +1,5 @@
 ---
 title: "Little Annies"
 url: /bronx/little-annies/
-shop: Feinkost
+shop: deli
 ---

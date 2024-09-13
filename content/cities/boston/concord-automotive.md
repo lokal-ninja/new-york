@@ -1,5 +1,5 @@
 ---
 title: "Concord Automotive"
 url: /boston/concord-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

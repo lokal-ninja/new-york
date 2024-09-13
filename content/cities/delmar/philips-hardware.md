@@ -1,5 +1,5 @@
 ---
 title: "Philips Hardware"
 url: /delmar/philips-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

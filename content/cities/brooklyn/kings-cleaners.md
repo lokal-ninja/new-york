@@ -1,5 +1,5 @@
 ---
 title: "Kings Cleaners"
 url: /brooklyn/kings-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

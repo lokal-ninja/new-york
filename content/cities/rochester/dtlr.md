@@ -1,5 +1,5 @@
 ---
 title: "DTLR"
 url: /rochester/dtlr/
-shop: Kleidung
+shop: clothes
 ---

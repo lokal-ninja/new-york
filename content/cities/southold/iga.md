@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /southold/iga/
-shop: Supermarkt
+shop: supermarket
 ---

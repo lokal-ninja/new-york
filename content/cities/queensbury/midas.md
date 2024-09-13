@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /queensbury/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

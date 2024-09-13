@@ -1,5 +1,5 @@
 ---
 title: "Decorator Fabrcs"
 url: /kingston/decorator-fabrcs/
-shop: Textil
+shop: fabric
 ---

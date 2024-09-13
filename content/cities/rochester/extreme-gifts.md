@@ -1,5 +1,5 @@
 ---
 title: "Extreme Gifts"
 url: /rochester/extreme-gifts/
-shop: Andenken
+shop: gift
 ---

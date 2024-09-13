@@ -1,5 +1,5 @@
 ---
 title: "Storage Units"
 url: /stony-point/storage-units/
-shop: Mieten
+shop: storage rental
 ---

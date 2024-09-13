@@ -1,5 +1,5 @@
 ---
 title: "Lakeville Uniforms"
 url: /new-hyde-park/lakeville-uniforms/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /jamaica/family-dollar-liberty-avenue/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monteman Barber"
 url: /brooklyn/monteman-barber/
-shop: Friseur
+shop: hairdresser
 ---

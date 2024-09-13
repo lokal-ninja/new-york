@@ -1,5 +1,5 @@
 ---
 title: "Salon VMS"
 url: /new-york/salon-vms/
-shop: Friseur
+shop: hairdresser
 ---

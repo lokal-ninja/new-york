@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /hicksville/nissan/
-shop: Autowerkstatt
+shop: car repair
 ---

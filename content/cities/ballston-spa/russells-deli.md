@@ -1,5 +1,5 @@
 ---
 title: "Russell's Deli"
 url: /ballston-spa/russells-deli/
-shop: Feinkost
+shop: deli
 ---

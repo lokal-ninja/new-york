@@ -1,5 +1,5 @@
 ---
 title: "Gotham City Collision East"
 url: /maspeth/gotham-city-collision-east/
-shop: Autowerkstatt
+shop: car repair
 ---

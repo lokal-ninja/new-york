@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /lagrangeville/tops/
-shop: Supermarkt
+shop: supermarket
 ---

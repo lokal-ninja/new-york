@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /riverhead/lacoste/
-shop: Kleidung
+shop: clothes
 ---

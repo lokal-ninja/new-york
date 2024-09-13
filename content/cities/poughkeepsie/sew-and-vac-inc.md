@@ -1,5 +1,5 @@
 ---
 title: "Sew and Vac, Inc"
 url: /poughkeepsie/sew-and-vac-inc/
-shop: Nähzubehör
+shop: sewing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro Mattress"
 url: /johnstown/metro-mattress/
-shop: Betten
+shop: bed
 ---

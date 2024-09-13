@@ -1,5 +1,5 @@
 ---
 title: "Antelli Salon"
 url: /hilton/antelli-salon/
-shop: Friseur
+shop: hairdresser
 ---

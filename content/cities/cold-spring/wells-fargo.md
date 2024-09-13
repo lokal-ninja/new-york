@@ -1,5 +1,5 @@
 ---
 title: "Wells Fargo"
 url: /cold-spring/wells-fargo/
-shop: Wäscherei
+shop: laundry
 ---

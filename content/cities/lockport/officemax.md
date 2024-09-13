@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /lockport/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kountry Kupboard II"
 url: /madison/kountry-kupboard-ii/
-shop: Supermarkt
+shop: supermarket
 ---

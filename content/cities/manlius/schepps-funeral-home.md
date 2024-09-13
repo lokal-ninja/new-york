@@ -1,5 +1,5 @@
 ---
 title: "Schepps Funeral Home"
 url: /manlius/schepps-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

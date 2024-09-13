@@ -1,5 +1,5 @@
 ---
 title: "Key Food"
 url: /jackson-heights/key-food/
-shop: Supermarkt
+shop: supermarket
 ---

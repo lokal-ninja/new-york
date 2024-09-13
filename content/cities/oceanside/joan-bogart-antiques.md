@@ -1,5 +1,5 @@
 ---
 title: "Joan Bogart Antiques"
 url: /oceanside/joan-bogart-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

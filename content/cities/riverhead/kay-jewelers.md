@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /riverhead/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

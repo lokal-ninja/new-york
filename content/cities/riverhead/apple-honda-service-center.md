@@ -1,5 +1,5 @@
 ---
 title: "Apple Honda Service Center"
 url: /riverhead/apple-honda-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

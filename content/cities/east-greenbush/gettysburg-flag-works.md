@@ -1,5 +1,5 @@
 ---
 title: "Gettysburg Flag Works"
 url: /east-greenbush/gettysburg-flag-works/
-shop: Allgemein
+shop: shop
 ---

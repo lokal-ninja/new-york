@@ -1,5 +1,5 @@
 ---
 title: "Dalton"
 url: /levittown/dalton/
-shop: Bestattungen
+shop: funeral directors
 ---

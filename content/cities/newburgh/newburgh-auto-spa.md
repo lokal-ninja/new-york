@@ -1,5 +1,5 @@
 ---
 title: "Newburgh Auto Spa"
 url: /newburgh/newburgh-auto-spa/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /staten-island/party-city/
-shop: Partyzubehör
+shop: party
 ---

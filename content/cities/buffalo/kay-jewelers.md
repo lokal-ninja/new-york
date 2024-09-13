@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /buffalo/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

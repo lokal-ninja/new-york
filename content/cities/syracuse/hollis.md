@@ -1,5 +1,5 @@
 ---
 title: "Hollis"
 url: /syracuse/hollis/
-shop: Bestattungen
+shop: funeral directors
 ---

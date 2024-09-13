@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /brooklyn/staples-ocean-avenue/
-shop: Schreibwaren
+shop: office supplies
 ---

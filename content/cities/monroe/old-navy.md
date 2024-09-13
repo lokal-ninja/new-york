@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /monroe/old-navy/
-shop: Kleidung
+shop: clothes
 ---

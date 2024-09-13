@@ -1,5 +1,5 @@
 ---
 title: "Roberts Digital Lab"
 url: /brooklyn/roberts-digital-lab/
-shop: Foto
+shop: photo
 ---

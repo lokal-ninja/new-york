@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /east-rockaway/laundromat/
-shop: Wäscherei
+shop: laundry
 ---

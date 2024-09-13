@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /kingston/quickchek-washington-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

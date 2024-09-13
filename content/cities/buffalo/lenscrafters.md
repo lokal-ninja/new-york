@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /buffalo/lenscrafters/
-shop: Optiker
+shop: optician
 ---

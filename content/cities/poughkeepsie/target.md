@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /poughkeepsie/target/
-shop: Warenhaus
+shop: department store
 ---

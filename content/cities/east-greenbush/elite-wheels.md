@@ -1,5 +1,5 @@
 ---
 title: "Elite Wheels"
 url: /east-greenbush/elite-wheels/
-shop: Autowerkstatt
+shop: car repair
 ---

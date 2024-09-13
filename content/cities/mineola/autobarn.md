@@ -1,5 +1,5 @@
 ---
 title: "Autobarn"
 url: /mineola/autobarn/
-shop: Autoteile
+shop: car parts
 ---

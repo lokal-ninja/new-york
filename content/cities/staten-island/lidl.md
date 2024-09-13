@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /staten-island/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

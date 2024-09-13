@@ -1,5 +1,5 @@
 ---
 title: "Autobahn Centre"
 url: /albany/autobahn-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

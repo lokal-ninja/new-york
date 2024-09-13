@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /queensbury/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

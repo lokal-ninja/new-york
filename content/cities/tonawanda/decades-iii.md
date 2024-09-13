@@ -1,5 +1,5 @@
 ---
 title: "Decades III"
 url: /tonawanda/decades-iii/
-shop: Tabak
+shop: tobacco
 ---

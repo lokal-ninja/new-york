@@ -1,5 +1,5 @@
 ---
 title: "Fastrac Cafe"
 url: /rochester/fastrac-cafe-scottsville-road/
-shop: Lebensmittel
+shop: convenience
 ---

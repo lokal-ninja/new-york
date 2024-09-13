@@ -1,5 +1,5 @@
 ---
 title: "Matawana"
 url: /brooklyn/matawana/
-shop: Hanf
+shop: cannabis
 ---

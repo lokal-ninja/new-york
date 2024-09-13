@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens Massapequa Park"
 url: /massapequa-park/ifixscreens-massapequa-park/
-shop: Handy
+shop: mobile phone
 ---

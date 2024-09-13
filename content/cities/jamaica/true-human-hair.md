@@ -1,5 +1,5 @@
 ---
 title: "True Human Hair"
 url: /jamaica/true-human-hair/
-shop: Friseur
+shop: hairdresser
 ---

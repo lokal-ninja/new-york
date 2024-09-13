@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /highland/autozone/
-shop: Autoteile
+shop: car parts
 ---

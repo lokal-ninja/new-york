@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /groton/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

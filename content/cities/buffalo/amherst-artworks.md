@@ -1,5 +1,5 @@
 ---
 title: "Amherst Artworks"
 url: /buffalo/amherst-artworks/
-shop: Kunst
+shop: art
 ---

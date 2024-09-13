@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /buffalo/gamestop-thruway-plaza-drive/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /geneva/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

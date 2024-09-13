@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /staten-island/ifixscreens/
-shop: Handy
+shop: mobile phone
 ---

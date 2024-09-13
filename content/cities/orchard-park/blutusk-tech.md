@@ -1,5 +1,5 @@
 ---
 title: "Blutusk Tech"
 url: /orchard-park/blutusk-tech/
-shop: Computer
+shop: computer
 ---

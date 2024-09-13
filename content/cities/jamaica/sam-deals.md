@@ -1,5 +1,5 @@
 ---
 title: "Sam Deals"
 url: /jamaica/sam-deals/
-shop: Kramladen
+shop: variety store
 ---

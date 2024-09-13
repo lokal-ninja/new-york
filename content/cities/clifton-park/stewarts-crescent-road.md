@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /clifton-park/stewarts-crescent-road/
-shop: Lebensmittel
+shop: convenience
 ---

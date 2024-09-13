@@ -1,5 +1,5 @@
 ---
 title: "Chrysler"
 url: /rhinebeck/chrysler-albany-post-road/
-shop: Autohaus
+shop: car
 ---

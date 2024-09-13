@@ -1,5 +1,5 @@
 ---
 title: "Crosby's"
 url: /falconer/crosbys/
-shop: Lebensmittel
+shop: convenience
 ---

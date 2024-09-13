@@ -1,5 +1,5 @@
 ---
 title: "Bristol's Garden Center"
 url: /victor/bristols-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

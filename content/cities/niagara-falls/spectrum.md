@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /niagara-falls/spectrum/
-shop: Handy
+shop: mobile phone
 ---

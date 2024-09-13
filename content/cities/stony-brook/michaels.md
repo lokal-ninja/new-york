@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /stony-brook/michaels/
-shop: Basteln
+shop: craft
 ---

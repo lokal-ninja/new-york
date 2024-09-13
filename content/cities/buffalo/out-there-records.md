@@ -1,5 +1,5 @@
 ---
 title: "Out There Records"
 url: /buffalo/out-there-records/
-shop: Musik
+shop: music
 ---

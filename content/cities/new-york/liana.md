@@ -1,5 +1,5 @@
 ---
 title: "Liana"
 url: /new-york/liana/
-shop: Kleidung
+shop: clothes
 ---

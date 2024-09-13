@@ -1,5 +1,5 @@
 ---
 title: "Crystal Nails Spa"
 url: /bethpage/crystal-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

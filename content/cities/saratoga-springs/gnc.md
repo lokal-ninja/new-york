@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /saratoga-springs/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "West end Superette"
 url: /new-york/west-end-superette/
-shop: Lebensmittel
+shop: convenience
 ---

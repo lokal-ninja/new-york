@@ -1,5 +1,5 @@
 ---
 title: "Seco Designs"
 url: /valley-stream/seco-designs/
-shop: Küchen
+shop: kitchen
 ---

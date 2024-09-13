@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /buffalo/ulta-beauty-transit-road/
-shop: Kosmetik
+shop: beauty
 ---

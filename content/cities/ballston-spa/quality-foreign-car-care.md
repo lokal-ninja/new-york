@@ -1,5 +1,5 @@
 ---
 title: "Quality Foreign Car Care"
 url: /ballston-spa/quality-foreign-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

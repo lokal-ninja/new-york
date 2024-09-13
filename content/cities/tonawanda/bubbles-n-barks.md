@@ -1,5 +1,5 @@
 ---
 title: "Bubbles 'N Barks"
 url: /tonawanda/bubbles-n-barks/
-shop: Tiersalon
+shop: pet grooming
 ---

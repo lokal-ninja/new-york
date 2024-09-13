@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /orchard-park/carters/
-shop: Kleidung
+shop: clothes
 ---

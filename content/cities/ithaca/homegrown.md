@@ -1,5 +1,5 @@
 ---
 title: "Homegrown"
 url: /ithaca/homegrown/
-shop: Sport
+shop: sports
 ---

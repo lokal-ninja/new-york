@@ -1,5 +1,5 @@
 ---
 title: "Hoffman's Jiffy Lube"
 url: /albany/hoffmans-jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

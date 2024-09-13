@@ -1,5 +1,5 @@
 ---
 title: "Shishi Boutique"
 url: /new-york/shishi-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grank and Sons"
 url: /schenectady/grank-and-sons/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Confectionary Corner"
 url: /southold/confectionary-corner/
-shop: Süßwaren
+shop: confectionery
 ---

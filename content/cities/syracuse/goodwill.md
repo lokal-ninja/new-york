@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /syracuse/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

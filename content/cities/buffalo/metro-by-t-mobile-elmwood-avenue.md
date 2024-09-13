@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /buffalo/metro-by-t-mobile-elmwood-avenue/
-shop: Handy
+shop: mobile phone
 ---

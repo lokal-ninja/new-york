@@ -1,5 +1,5 @@
 ---
 title: "Long Island Furniture"
 url: /hempstead/long-island-furniture/
-shop: Möbel
+shop: furniture
 ---

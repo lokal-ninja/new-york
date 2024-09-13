@@ -1,5 +1,5 @@
 ---
 title: "Wendy's"
 url: /middletown/wendys/
-shop: Autowerkstatt
+shop: car repair
 ---

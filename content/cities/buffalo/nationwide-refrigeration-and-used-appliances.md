@@ -1,5 +1,5 @@
 ---
 title: "Nationwide Refrigeration and Used Appliances"
 url: /buffalo/nationwide-refrigeration-and-used-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

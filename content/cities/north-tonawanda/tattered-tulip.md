@@ -1,5 +1,5 @@
 ---
 title: "Tattered Tulip"
 url: /north-tonawanda/tattered-tulip/
-shop: Antiquitäten
+shop: antiques
 ---

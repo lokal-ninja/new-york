@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /fayetteville/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

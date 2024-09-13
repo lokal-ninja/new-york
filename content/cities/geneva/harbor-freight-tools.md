@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /geneva/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

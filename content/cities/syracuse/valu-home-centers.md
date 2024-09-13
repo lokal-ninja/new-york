@@ -1,5 +1,5 @@
 ---
 title: "Valu Home Centers"
 url: /syracuse/valu-home-centers/
-shop: Eisenwaren
+shop: hardware
 ---

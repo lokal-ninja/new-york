@@ -1,5 +1,5 @@
 ---
 title: "GiGi Convenience"
 url: /new-york/gigi-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

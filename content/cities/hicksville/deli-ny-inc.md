@@ -1,5 +1,5 @@
 ---
 title: "Deli NY inc"
 url: /hicksville/deli-ny-inc/
-shop: Feinkost
+shop: deli
 ---

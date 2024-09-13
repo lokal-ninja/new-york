@@ -1,5 +1,5 @@
 ---
 title: "Southern Furniture Mart"
 url: /middletown/southern-furniture-mart/
-shop: Möbel
+shop: furniture
 ---

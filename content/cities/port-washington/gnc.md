@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /port-washington/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

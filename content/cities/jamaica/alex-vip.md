@@ -1,5 +1,5 @@
 ---
 title: "Alex VIP"
 url: /jamaica/alex-vip/
-shop: Friseur
+shop: hairdresser
 ---

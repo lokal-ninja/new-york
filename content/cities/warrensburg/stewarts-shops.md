@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
 url: /warrensburg/stewarts-shops/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vennard's Service Center"
 url: /albany/vennards-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

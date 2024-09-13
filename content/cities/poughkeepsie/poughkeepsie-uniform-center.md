@@ -1,5 +1,5 @@
 ---
 title: "Poughkeepsie Uniform Center"
 url: /poughkeepsie/poughkeepsie-uniform-center/
-shop: Kleidung
+shop: clothes
 ---

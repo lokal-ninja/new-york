@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /flushing/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

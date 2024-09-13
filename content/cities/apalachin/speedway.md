@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /apalachin/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

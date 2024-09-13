@@ -1,5 +1,5 @@
 ---
 title: "Benjamin Moore"
 url: /rocky-point/benjamin-moore/
-shop: Farben
+shop: paint
 ---

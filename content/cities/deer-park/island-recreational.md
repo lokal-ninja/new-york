@@ -1,5 +1,5 @@
 ---
 title: "Island Recreational"
 url: /deer-park/island-recreational/
-shop: Pool
+shop: swimming pool
 ---

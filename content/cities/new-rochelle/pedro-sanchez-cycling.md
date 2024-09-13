@@ -1,5 +1,5 @@
 ---
 title: "Pedro Sanchez Cycling"
 url: /new-rochelle/pedro-sanchez-cycling/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Movado"
 url: /riverhead/movado/
-shop: Uhren
+shop: watches
 ---

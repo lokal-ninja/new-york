@@ -1,5 +1,5 @@
 ---
 title: "The Shop"
 url: /syracuse/the-shop/
-shop: Friseur
+shop: hairdresser
 ---

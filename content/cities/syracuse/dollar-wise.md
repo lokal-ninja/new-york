@@ -1,5 +1,5 @@
 ---
 title: "Dollar Wise"
 url: /syracuse/dollar-wise/
-shop: Kramladen
+shop: variety store
 ---

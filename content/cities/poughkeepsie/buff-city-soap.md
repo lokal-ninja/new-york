@@ -1,5 +1,5 @@
 ---
 title: "Buff City Soap"
 url: /poughkeepsie/buff-city-soap/
-shop: Kramladen
+shop: variety store
 ---

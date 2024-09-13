@@ -1,5 +1,5 @@
 ---
 title: "Midway Garden Center"
 url: /bemus-point/midway-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

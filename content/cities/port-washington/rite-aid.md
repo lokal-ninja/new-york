@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /port-washington/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

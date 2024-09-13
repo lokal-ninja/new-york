@@ -1,5 +1,5 @@
 ---
 title: "Délice Macarons"
 url: /new-york/delice-macarons/
-shop: Konditorei
+shop: pastry
 ---

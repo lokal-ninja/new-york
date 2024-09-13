@@ -1,5 +1,5 @@
 ---
 title: "Everfresh"
 url: /great-neck/everfresh/
-shop: Supermarkt
+shop: supermarket
 ---

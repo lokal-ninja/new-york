@@ -1,5 +1,5 @@
 ---
 title: "Party Perfection"
 url: /maspeth/party-perfection/
-shop: Partyzubehör
+shop: party
 ---

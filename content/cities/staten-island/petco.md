@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /staten-island/petco/
-shop: Tiere
+shop: pet
 ---

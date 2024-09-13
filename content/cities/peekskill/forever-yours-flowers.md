@@ -1,5 +1,5 @@
 ---
 title: "Forever Yours Flowers"
 url: /peekskill/forever-yours-flowers/
-shop: Blumen
+shop: florist
 ---

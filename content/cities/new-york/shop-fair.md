@@ -1,5 +1,5 @@
 ---
 title: "Shop Fair"
 url: /new-york/shop-fair/
-shop: Supermarkt
+shop: supermarket
 ---

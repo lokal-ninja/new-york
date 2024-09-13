@@ -1,5 +1,5 @@
 ---
 title: "C‑Town Supermarkets"
 url: /woodhaven/c-town-supermarkets/
-shop: Supermarkt
+shop: supermarket
 ---

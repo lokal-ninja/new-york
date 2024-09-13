@@ -1,5 +1,5 @@
 ---
 title: "Save-A-Lot"
 url: /watertown/save-a-lot/
-shop: Supermarkt
+shop: supermarket
 ---

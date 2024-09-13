@@ -1,5 +1,5 @@
 ---
 title: "Conley Interiors"
 url: /buffalo/conley-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chapman's General Store"
 url: /granville/chapmans-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

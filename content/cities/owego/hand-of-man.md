@@ -1,5 +1,5 @@
 ---
 title: "Hand of Man"
 url: /owego/hand-of-man/
-shop: Andenken
+shop: gift
 ---

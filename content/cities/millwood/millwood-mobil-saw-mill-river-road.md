@@ -1,5 +1,5 @@
 ---
 title: "Millwood Mobil"
 url: /millwood/millwood-mobil-saw-mill-river-road/
-shop: Autowerkstatt
+shop: car repair
 ---

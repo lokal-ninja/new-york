@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /newburgh/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vitamin World"
 url: /queensbury/vitamin-world/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

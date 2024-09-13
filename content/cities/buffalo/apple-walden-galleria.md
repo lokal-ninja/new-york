@@ -1,5 +1,5 @@
 ---
 title: "Apple Walden Galleria"
 url: /buffalo/apple-walden-galleria/
-shop: Elektronik
+shop: electronics
 ---

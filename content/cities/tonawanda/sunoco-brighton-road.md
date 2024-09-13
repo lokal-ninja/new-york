@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /tonawanda/sunoco-brighton-road/
-shop: Lebensmittel
+shop: convenience
 ---

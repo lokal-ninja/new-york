@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /islandia/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /new-hyde-park/party-city/
-shop: Partyzubehör
+shop: party
 ---

@@ -1,5 +1,5 @@
 ---
 title: "XtraMart"
 url: /craryville/xtramart/
-shop: Lebensmittel
+shop: convenience
 ---

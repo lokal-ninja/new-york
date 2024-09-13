@@ -1,5 +1,5 @@
 ---
 title: "Magical Eyebrows"
 url: /grand-island/magical-eyebrows/
-shop: Kosmetik
+shop: beauty
 ---

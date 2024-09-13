@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /syracuse/michaels/
-shop: Basteln
+shop: craft
 ---

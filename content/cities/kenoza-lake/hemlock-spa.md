@@ -1,5 +1,5 @@
 ---
 title: "Hemlock Spa"
 url: /kenoza-lake/hemlock-spa/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /waterloo/aeropostale/
-shop: Kleidung
+shop: clothes
 ---

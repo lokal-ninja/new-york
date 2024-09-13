@@ -1,5 +1,5 @@
 ---
 title: "Monster's Recycling"
 url: /lindenhurst/monsters-recycling/
-shop: Autowerkstatt
+shop: car repair
 ---

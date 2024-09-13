@@ -1,5 +1,5 @@
 ---
 title: "Organic Skincare NYC"
 url: /brooklyn/organic-skincare-nyc/
-shop: Kosmetik
+shop: beauty
 ---

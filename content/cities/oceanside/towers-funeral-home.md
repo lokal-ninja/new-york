@@ -1,5 +1,5 @@
 ---
 title: "Towers Funeral Home"
 url: /oceanside/towers-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

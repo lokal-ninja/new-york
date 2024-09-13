@@ -1,5 +1,5 @@
 ---
 title: "Supermud Pottery"
 url: /new-york/supermud-pottery/
-shop: Basteln
+shop: craft
 ---

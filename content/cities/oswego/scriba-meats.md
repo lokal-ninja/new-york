@@ -1,5 +1,5 @@
 ---
 title: "Scriba Meats"
 url: /oswego/scriba-meats/
-shop: Metzgerei
+shop: butcher
 ---

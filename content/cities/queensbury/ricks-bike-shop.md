@@ -1,5 +1,5 @@
 ---
 title: "Rick's Bike Shop"
 url: /queensbury/ricks-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

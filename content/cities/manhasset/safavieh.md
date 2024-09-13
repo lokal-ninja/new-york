@@ -1,5 +1,5 @@
 ---
 title: "Safavieh"
 url: /manhasset/safavieh/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /hamburg/tops/
-shop: Supermarkt
+shop: supermarket
 ---

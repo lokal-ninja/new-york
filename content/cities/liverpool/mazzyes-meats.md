@@ -1,5 +1,5 @@
 ---
 title: "Mazzye's Meats"
 url: /liverpool/mazzyes-meats/
-shop: Metzgerei
+shop: butcher
 ---

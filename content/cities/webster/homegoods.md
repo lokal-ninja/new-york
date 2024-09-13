@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /webster/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

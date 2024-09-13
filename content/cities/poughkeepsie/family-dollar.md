@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /poughkeepsie/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prime Storage"
 url: /astoria/prime-storage/
-shop: Mieten
+shop: storage rental
 ---

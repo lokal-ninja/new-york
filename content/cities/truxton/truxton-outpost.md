@@ -1,5 +1,5 @@
 ---
 title: "Truxton Outpost"
 url: /truxton/truxton-outpost/
-shop: Dorfladen
+shop: general
 ---

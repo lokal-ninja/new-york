@@ -1,5 +1,5 @@
 ---
 title: "Countryside Hardware"
 url: /deruyter/countryside-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

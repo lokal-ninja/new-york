@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /dewitt/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

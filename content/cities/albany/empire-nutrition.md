@@ -1,5 +1,5 @@
 ---
 title: "Empire Nutrition"
 url: /albany/empire-nutrition/
-shop: Tee
+shop: tea
 ---

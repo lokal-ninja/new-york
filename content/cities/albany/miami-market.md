@@ -1,5 +1,5 @@
 ---
 title: "Miami Market"
 url: /albany/miami-market/
-shop: Lebensmittel
+shop: convenience
 ---

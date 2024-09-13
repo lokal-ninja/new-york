@@ -1,5 +1,5 @@
 ---
 title: "Mohawk Army Navy"
 url: /latham/mohawk-army-navy/
-shop: Warenhaus
+shop: department store
 ---

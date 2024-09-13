@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /poughkeepsie/stewarts-albany-post-road/
-shop: Lebensmittel
+shop: convenience
 ---

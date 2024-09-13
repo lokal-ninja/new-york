@@ -1,5 +1,5 @@
 ---
 title: "The Hat Shop"
 url: /new-york/the-hat-shop/
-shop: Modehaus
+shop: boutique
 ---

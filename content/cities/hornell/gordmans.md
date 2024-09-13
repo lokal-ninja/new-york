@@ -1,5 +1,5 @@
 ---
 title: "Gordman's"
 url: /hornell/gordmans/
-shop: Leerstehend
+shop: vacant
 ---

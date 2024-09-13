@@ -1,5 +1,5 @@
 ---
 title: "Resolute Tattoo"
 url: /delmar/resolute-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

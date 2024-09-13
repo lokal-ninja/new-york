@@ -1,5 +1,5 @@
 ---
 title: "Field's Hobby"
 url: /buffalo/fields-hobby/
-shop: Sport
+shop: sports
 ---

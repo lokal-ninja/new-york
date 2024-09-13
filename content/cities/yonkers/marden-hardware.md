@@ -1,5 +1,5 @@
 ---
 title: "Marden Hardware"
 url: /yonkers/marden-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

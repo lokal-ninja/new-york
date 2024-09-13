@@ -1,5 +1,5 @@
 ---
 title: "Eataly"
 url: /new-york/eataly/
-shop: Supermarkt
+shop: supermarket
 ---

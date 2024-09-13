@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /hudson-falls/verizon/
-shop: Handy
+shop: mobile phone
 ---

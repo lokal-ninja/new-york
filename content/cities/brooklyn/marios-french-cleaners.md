@@ -1,5 +1,5 @@
 ---
 title: "Mario's French Cleaners"
 url: /brooklyn/marios-french-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

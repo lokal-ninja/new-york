@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /rochester/walgreens-east-ridge-road/
-shop: Drogerie
+shop: chemist
 ---

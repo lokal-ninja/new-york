@@ -1,5 +1,5 @@
 ---
 title: "Country Farms"
 url: /new-paltz/country-farms/
-shop: Lebensmittel
+shop: convenience
 ---

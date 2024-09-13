@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /nanuet/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

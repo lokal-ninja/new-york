@@ -1,5 +1,5 @@
 ---
 title: "Carpenter's Funeral Home"
 url: /corning/carpenters-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

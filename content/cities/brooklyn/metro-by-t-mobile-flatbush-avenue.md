@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /brooklyn/metro-by-t-mobile-flatbush-avenue/
-shop: Handy
+shop: mobile phone
 ---

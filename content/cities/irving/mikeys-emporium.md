@@ -1,5 +1,5 @@
 ---
 title: "Mikey's Emporium"
 url: /irving/mikeys-emporium/
-shop: Tabak
+shop: tobacco
 ---

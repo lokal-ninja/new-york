@@ -1,5 +1,5 @@
 ---
 title: "Lillie Bean"
 url: /cazenovia/lillie-bean/
-shop: Kleidung
+shop: clothes
 ---

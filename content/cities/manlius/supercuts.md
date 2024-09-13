@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /manlius/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

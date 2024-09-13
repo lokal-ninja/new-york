@@ -1,5 +1,5 @@
 ---
 title: "Empire Smoke Shop"
 url: /buffalo/empire-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

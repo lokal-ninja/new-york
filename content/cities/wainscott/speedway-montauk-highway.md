@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /wainscott/speedway-montauk-highway/
-shop: Lebensmittel
+shop: convenience
 ---

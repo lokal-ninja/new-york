@@ -1,5 +1,5 @@
 ---
 title: "Colorant"
 url: /beacon/colorant/
-shop: Kleidung
+shop: clothes
 ---

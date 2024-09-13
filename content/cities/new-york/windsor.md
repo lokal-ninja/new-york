@@ -1,5 +1,5 @@
 ---
 title: "Windsor"
 url: /new-york/windsor/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jarmusz Cotton Funeral Home"
 url: /victor/jarmusz-cotton-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

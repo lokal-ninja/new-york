@@ -1,5 +1,5 @@
 ---
 title: "Larchmont Nurseries"
 url: /larchmont/larchmont-nurseries/
-shop: Garten-Center
+shop: garden centre
 ---

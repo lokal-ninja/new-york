@@ -1,5 +1,5 @@
 ---
 title: "Triebel's Garage"
 url: /red-hook/triebels-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

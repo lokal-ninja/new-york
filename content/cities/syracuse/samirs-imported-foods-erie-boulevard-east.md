@@ -1,5 +1,5 @@
 ---
 title: "Samir's Imported Foods"
 url: /syracuse/samirs-imported-foods-erie-boulevard-east/
-shop: Supermarkt
+shop: supermarket
 ---

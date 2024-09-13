@@ -1,5 +1,5 @@
 ---
 title: "Star Hyundai"
 url: /queens/star-hyundai/
-shop: Autohaus
+shop: car
 ---

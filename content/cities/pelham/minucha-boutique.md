@@ -1,5 +1,5 @@
 ---
 title: "Minucha Boutique"
 url: /pelham/minucha-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EESG Custom Apparel"
 url: /mattituck/eesg-custom-apparel/
-shop: Kleidung
+shop: clothes
 ---

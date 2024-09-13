@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /rochester/best-buy-marketplace-drive/
-shop: Elektronik
+shop: electronics
 ---

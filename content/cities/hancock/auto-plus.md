@@ -1,5 +1,5 @@
 ---
 title: "Auto Plus"
 url: /hancock/auto-plus/
-shop: Autoteile
+shop: car parts
 ---

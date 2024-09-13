@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /syracuse/spectrum/
-shop: Handy
+shop: mobile phone
 ---

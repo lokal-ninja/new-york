@@ -1,5 +1,5 @@
 ---
 title: "Book Culture"
 url: /new-york/book-culture-broadway/
-shop: Bücher
+shop: books
 ---

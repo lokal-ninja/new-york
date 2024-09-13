@@ -1,5 +1,5 @@
 ---
 title: "Giunta's Meat Farms"
 url: /holbrook/giuntas-meat-farms/
-shop: Supermarkt
+shop: supermarket
 ---

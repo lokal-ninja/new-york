@@ -1,5 +1,5 @@
 ---
 title: "Binnacle Books"
 url: /beacon/binnacle-books/
-shop: Bücher
+shop: books
 ---

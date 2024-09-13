@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /colonie/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Secrets"
 url: /geneseo/salon-secrets/
-shop: Friseur
+shop: hairdresser
 ---

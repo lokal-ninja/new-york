@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /fairport/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Happy Earth Tea"
 url: /rochester/happy-earth-tea/
-shop: Tee
+shop: tea
 ---

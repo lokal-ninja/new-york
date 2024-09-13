@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /slingerlands/stewarts/
-shop: Lebensmittel
+shop: convenience
 ---

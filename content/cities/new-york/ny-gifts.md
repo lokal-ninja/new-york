@@ -1,5 +1,5 @@
 ---
 title: "NY Gifts"
 url: /new-york/ny-gifts/
-shop: Andenken
+shop: gift
 ---

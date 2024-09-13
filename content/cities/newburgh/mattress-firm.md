@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /newburgh/mattress-firm/
-shop: Betten
+shop: bed
 ---

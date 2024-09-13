@@ -1,5 +1,5 @@
 ---
 title: "Jewelers"
 url: /brooklyn/jewelers/
-shop: Schmuck
+shop: jewelry
 ---

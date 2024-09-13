@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /poughkeepsie/dollar-tree-south-road/
-shop: Kramladen
+shop: variety store
 ---

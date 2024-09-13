@@ -1,5 +1,5 @@
 ---
 title: "Effy Hair Boutique"
 url: /new-york/effy-hair-boutique/
-shop: Friseur
+shop: hairdresser
 ---

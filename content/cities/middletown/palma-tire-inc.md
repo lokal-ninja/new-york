@@ -1,5 +1,5 @@
 ---
 title: "Palma Tire Inc."
 url: /middletown/palma-tire-inc/
-shop: Reifen
+shop: tyres
 ---

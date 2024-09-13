@@ -1,5 +1,5 @@
 ---
 title: "Quality Service Center"
 url: /montgomery/quality-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

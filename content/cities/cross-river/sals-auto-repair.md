@@ -1,5 +1,5 @@
 ---
 title: "Sal's Auto Repair"
 url: /cross-river/sals-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

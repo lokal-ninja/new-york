@@ -1,5 +1,5 @@
 ---
 title: "Gerry Tull's Store"
 url: /endicott/gerry-tulls-store/
-shop: Lebensmittel
+shop: convenience
 ---

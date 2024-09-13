@@ -1,5 +1,5 @@
 ---
 title: "Indian Fashion"
 url: /syracuse/indian-fashion/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diamond Barbershop"
 url: /centereach/diamond-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

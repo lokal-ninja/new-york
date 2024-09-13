@@ -1,5 +1,5 @@
 ---
 title: "Doogies"
 url: /irving/doogies/
-shop: Tabak
+shop: tobacco
 ---

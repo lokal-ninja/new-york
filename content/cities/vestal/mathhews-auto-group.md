@@ -1,5 +1,5 @@
 ---
 title: "Mathhews Auto Group"
 url: /vestal/mathhews-auto-group/
-shop: Autohaus
+shop: car
 ---

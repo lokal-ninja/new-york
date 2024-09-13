@@ -1,5 +1,5 @@
 ---
 title: "Lavemour New York"
 url: /brooklyn/lavemour-new-york/
-shop: Kleidung
+shop: clothes
 ---

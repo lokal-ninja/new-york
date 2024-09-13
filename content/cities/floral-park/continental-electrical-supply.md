@@ -1,5 +1,5 @@
 ---
 title: "Continental Electrical Supply"
 url: /floral-park/continental-electrical-supply/
-shop: Elektrisch
+shop: electrical
 ---

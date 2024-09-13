@@ -1,5 +1,5 @@
 ---
 title: "Howard Hanna Real Estate Services"
 url: /tonawanda/howard-hanna-real-estate-services/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /rochester/target-greece-ridge-center-drive/
-shop: Warenhaus
+shop: department store
 ---

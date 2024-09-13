@@ -1,5 +1,5 @@
 ---
 title: "Fringed Benefits"
 url: /fayetteville/fringed-benefits/
-shop: Raumausstattung
+shop: interior decoration
 ---

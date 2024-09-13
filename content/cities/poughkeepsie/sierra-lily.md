@@ -1,5 +1,5 @@
 ---
 title: "Sierra Lily"
 url: /poughkeepsie/sierra-lily/
-shop: Andenken
+shop: gift
 ---

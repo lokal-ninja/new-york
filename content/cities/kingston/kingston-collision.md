@@ -1,5 +1,5 @@
 ---
 title: "Kingston Collision"
 url: /kingston/kingston-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

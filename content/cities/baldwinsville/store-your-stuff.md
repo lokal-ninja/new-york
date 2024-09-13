@@ -1,5 +1,5 @@
 ---
 title: "Store Your Stuff"
 url: /baldwinsville/store-your-stuff/
-shop: Mieten
+shop: storage rental
 ---

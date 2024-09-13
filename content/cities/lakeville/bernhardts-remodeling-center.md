@@ -1,5 +1,5 @@
 ---
 title: "Bernhardt's Remodeling Center"
 url: /lakeville/bernhardts-remodeling-center/
-shop: Küchen
+shop: kitchen
 ---

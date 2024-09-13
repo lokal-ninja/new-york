@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /seneca-falls/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

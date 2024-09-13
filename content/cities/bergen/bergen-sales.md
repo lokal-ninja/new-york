@@ -1,5 +1,5 @@
 ---
 title: "Bergen Sales"
 url: /bergen/bergen-sales/
-shop: Autohaus
+shop: car
 ---

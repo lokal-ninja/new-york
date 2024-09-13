@@ -1,5 +1,5 @@
 ---
 title: "Shoe Elegance"
 url: /lynbrook/shoe-elegance/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schuber Liquor Store"
 url: /rochester/schuber-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

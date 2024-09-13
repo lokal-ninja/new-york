@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /hillsdale/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

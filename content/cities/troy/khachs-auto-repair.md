@@ -1,5 +1,5 @@
 ---
 title: "Khach's Auto Repair"
 url: /troy/khachs-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

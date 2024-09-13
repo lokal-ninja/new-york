@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /bronx/target-east-fordham-road/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coccadott's Cake Shop"
 url: /albany/coccadotts-cake-shop/
-shop: Bäckerei
+shop: bakery
 ---

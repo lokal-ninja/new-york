@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /jamestown/dollar-general-winsor-street/
-shop: Kramladen
+shop: variety store
 ---

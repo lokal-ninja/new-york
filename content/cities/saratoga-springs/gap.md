@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /saratoga-springs/gap/
-shop: Kleidung
+shop: clothes
 ---

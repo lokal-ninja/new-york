@@ -1,5 +1,5 @@
 ---
 title: "Shiseido"
 url: /brooklyn/shiseido/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Nails"
 url: /buffalo/city-nails/
-shop: Kosmetik
+shop: beauty
 ---

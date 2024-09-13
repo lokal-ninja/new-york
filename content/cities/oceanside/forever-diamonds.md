@@ -1,5 +1,5 @@
 ---
 title: "Forever Diamonds"
 url: /oceanside/forever-diamonds/
-shop: Schmuck
+shop: jewelry
 ---

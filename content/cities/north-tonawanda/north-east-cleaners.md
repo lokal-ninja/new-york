@@ -1,5 +1,5 @@
 ---
 title: "North East Cleaners"
 url: /north-tonawanda/north-east-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yardsale Cafe"
 url: /brooklyn/yardsale-cafe/
-shop: Antiquitäten
+shop: antiques
 ---

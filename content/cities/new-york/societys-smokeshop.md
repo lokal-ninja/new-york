@@ -1,5 +1,5 @@
 ---
 title: "Society’s SmokeShop"
 url: /new-york/societys-smokeshop/
-shop: Tabak
+shop: tobacco
 ---

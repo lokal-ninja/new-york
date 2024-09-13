@@ -1,5 +1,5 @@
 ---
 title: "Deli Warehouse"
 url: /albany/deli-warehouse/
-shop: Metzgerei
+shop: butcher
 ---

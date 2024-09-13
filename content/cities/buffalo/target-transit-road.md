@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /buffalo/target-transit-road/
-shop: Warenhaus
+shop: department store
 ---

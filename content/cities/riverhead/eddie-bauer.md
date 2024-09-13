@@ -1,5 +1,5 @@
 ---
 title: "Eddie Bauer"
 url: /riverhead/eddie-bauer/
-shop: Kleidung
+shop: clothes
 ---

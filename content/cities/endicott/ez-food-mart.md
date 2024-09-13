@@ -1,5 +1,5 @@
 ---
 title: "Ez Food Mart"
 url: /endicott/ez-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

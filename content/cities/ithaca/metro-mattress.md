@@ -1,5 +1,5 @@
 ---
 title: "Metro Mattress"
 url: /ithaca/metro-mattress/
-shop: Betten
+shop: bed
 ---

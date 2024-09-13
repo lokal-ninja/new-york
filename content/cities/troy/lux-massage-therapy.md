@@ -1,5 +1,5 @@
 ---
 title: "Lux Massage Therapy"
 url: /troy/lux-massage-therapy/
-shop: Massage
+shop: massage
 ---

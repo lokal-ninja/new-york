@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /syracuse/visionworks/
-shop: Optiker
+shop: optician
 ---

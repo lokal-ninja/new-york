@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /buffalo/officemax-orchard-park-road/
-shop: Schreibwaren
+shop: office supplies
 ---

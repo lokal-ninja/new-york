@@ -1,5 +1,5 @@
 ---
 title: "Coster-Heppner Funeral Home"
 url: /cutchogue/coster-heppner-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

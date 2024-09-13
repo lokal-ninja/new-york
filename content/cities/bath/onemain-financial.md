@@ -1,5 +1,5 @@
 ---
 title: "OneMain Financial"
 url: /bath/onemain-financial/
-shop: Leiher
+shop: pawnbroker
 ---

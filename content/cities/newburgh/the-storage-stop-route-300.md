@@ -1,5 +1,5 @@
 ---
 title: "The Storage Stop"
 url: /newburgh/the-storage-stop-route-300/
-shop: Mieten
+shop: storage rental
 ---

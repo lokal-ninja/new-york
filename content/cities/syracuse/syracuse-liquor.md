@@ -1,5 +1,5 @@
 ---
 title: "Syracuse Liquor"
 url: /syracuse/syracuse-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lone Star Moving LLC"
 url: /fresh-meadows/lone-star-moving-llc/
-shop: Mieten
+shop: storage rental
 ---

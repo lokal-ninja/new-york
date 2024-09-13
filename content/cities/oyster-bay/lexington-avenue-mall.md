@@ -1,5 +1,5 @@
 ---
 title: "Lexington Avenue Mall"
 url: /oyster-bay/lexington-avenue-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

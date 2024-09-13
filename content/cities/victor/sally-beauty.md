@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /victor/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

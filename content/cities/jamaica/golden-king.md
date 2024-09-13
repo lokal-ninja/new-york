@@ -1,5 +1,5 @@
 ---
 title: "Golden King"
 url: /jamaica/golden-king/
-shop: Handy
+shop: mobile phone
 ---

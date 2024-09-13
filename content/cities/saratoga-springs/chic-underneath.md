@@ -1,5 +1,5 @@
 ---
 title: "Chic Underneath"
 url: /saratoga-springs/chic-underneath/
-shop: Kleidung
+shop: clothes
 ---

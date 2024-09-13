@@ -1,5 +1,5 @@
 ---
 title: "Naya Nails Boutique Spa"
 url: /ridgewood/naya-nails-boutique-spa/
-shop: Kosmetik
+shop: beauty
 ---

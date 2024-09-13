@@ -1,5 +1,5 @@
 ---
 title: "William J. Jenack Auctioneers"
 url: /chester/william-j-jenack-auctioneers/
-shop: Auktionshaus
+shop: auction house
 ---

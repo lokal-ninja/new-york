@@ -1,5 +1,5 @@
 ---
 title: "Rozum Auto"
 url: /fort-plain/rozum-auto/
-shop: Autohaus
+shop: car
 ---

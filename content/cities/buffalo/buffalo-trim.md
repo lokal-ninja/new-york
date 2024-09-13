@@ -1,5 +1,5 @@
 ---
 title: "Buffalo Trim"
 url: /buffalo/buffalo-trim/
-shop: Friseur
+shop: hairdresser
 ---

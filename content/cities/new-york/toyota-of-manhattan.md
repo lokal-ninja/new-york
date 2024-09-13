@@ -1,5 +1,5 @@
 ---
 title: "Toyota of Manhattan"
 url: /new-york/toyota-of-manhattan/
-shop: Autohaus
+shop: car
 ---

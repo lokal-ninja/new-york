@@ -1,5 +1,5 @@
 ---
 title: "The Bills Store"
 url: /orchard-park/the-bills-store/
-shop: Kleidung
+shop: clothes
 ---

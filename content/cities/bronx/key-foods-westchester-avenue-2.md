@@ -1,5 +1,5 @@
 ---
 title: "Key Foods"
 url: /bronx/key-foods-westchester-avenue-2/
-shop: Supermarkt
+shop: supermarket
 ---

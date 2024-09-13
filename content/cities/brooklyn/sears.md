@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /brooklyn/sears/
-shop: Warenhaus
+shop: department store
 ---

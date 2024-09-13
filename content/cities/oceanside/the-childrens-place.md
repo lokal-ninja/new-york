@@ -1,5 +1,5 @@
 ---
 title: "The Children's Place"
 url: /oceanside/the-childrens-place/
-shop: Kleidung
+shop: clothes
 ---

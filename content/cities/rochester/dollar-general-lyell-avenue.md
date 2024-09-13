@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /rochester/dollar-general-lyell-avenue/
-shop: Kramladen
+shop: variety store
 ---

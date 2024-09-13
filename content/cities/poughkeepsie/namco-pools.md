@@ -1,5 +1,5 @@
 ---
 title: "Namco Pools"
 url: /poughkeepsie/namco-pools/
-shop: Pool
+shop: swimming pool
 ---

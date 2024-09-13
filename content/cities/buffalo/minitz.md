@@ -1,5 +1,5 @@
 ---
 title: "Minitz"
 url: /buffalo/minitz/
-shop: Lebensmittel
+shop: convenience
 ---

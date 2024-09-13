@@ -1,5 +1,5 @@
 ---
 title: "Feel-Rite Fresh Market"
 url: /buffalo/feel-rite-fresh-market/
-shop: Bioladen
+shop: health food
 ---

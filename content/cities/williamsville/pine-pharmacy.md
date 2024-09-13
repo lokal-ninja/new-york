@@ -1,5 +1,5 @@
 ---
 title: "Pine Pharmacy"
 url: /williamsville/pine-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

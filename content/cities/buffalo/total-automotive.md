@@ -1,5 +1,5 @@
 ---
 title: "Total Automotive"
 url: /buffalo/total-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

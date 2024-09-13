@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /macedon/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

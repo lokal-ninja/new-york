@@ -1,5 +1,5 @@
 ---
 title: "Johns Floor Covering"
 url: /herkimer/johns-floor-covering/
-shop: Fußböden
+shop: flooring
 ---

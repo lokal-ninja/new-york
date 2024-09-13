@@ -1,5 +1,5 @@
 ---
 title: "Soundview Service Center"
 url: /mamaroneck/soundview-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

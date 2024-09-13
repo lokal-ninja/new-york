@@ -1,5 +1,5 @@
 ---
 title: "Invicta"
 url: /new-york/invicta/
-shop: Uhren
+shop: watches
 ---

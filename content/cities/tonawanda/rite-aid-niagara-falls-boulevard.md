@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /tonawanda/rite-aid-niagara-falls-boulevard/
-shop: Drogerie
+shop: chemist
 ---

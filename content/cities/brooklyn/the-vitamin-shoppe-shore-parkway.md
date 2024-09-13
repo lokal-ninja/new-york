@@ -1,5 +1,5 @@
 ---
 title: "The Vitamin Shoppe"
 url: /brooklyn/the-vitamin-shoppe-shore-parkway/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

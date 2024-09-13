@@ -1,5 +1,5 @@
 ---
 title: "Pool Brite"
 url: /buffalo/pool-brite/
-shop: Pool
+shop: swimming pool
 ---

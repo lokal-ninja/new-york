@@ -1,5 +1,5 @@
 ---
 title: "Seven Leaves"
 url: /sunnyside/seven-leaves/
-shop: Hanf
+shop: cannabis
 ---

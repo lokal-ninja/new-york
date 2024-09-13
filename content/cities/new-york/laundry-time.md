@@ -1,5 +1,5 @@
 ---
 title: "Laundry Time"
 url: /new-york/laundry-time/
-shop: Wäscherei
+shop: laundry
 ---

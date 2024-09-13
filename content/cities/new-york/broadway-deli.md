@@ -1,5 +1,5 @@
 ---
 title: "Broadway Deli"
 url: /new-york/broadway-deli/
-shop: Lebensmittel
+shop: convenience
 ---

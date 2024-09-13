@@ -1,5 +1,5 @@
 ---
 title: "West End Laundromat"
 url: /new-york/west-end-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pattern Finders"
 url: /port-jefferson/pattern-finders/
-shop: Kleidung
+shop: clothes
 ---

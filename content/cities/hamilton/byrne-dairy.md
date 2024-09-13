@@ -1,5 +1,5 @@
 ---
 title: "Byrne Dairy"
 url: /hamilton/byrne-dairy/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reiss"
 url: /new-york/reiss/
-shop: Kleidung
+shop: clothes
 ---

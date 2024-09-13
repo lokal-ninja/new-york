@@ -1,5 +1,5 @@
 ---
 title: "The Corner Store"
 url: /larchmont/the-corner-store/
-shop: Schreibwaren
+shop: office supplies
 ---

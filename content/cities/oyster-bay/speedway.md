@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /oyster-bay/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

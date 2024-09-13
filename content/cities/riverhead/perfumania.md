@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /riverhead/perfumania/
-shop: Parfümerie
+shop: perfumery
 ---

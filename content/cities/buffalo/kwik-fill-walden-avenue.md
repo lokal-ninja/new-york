@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fill"
 url: /buffalo/kwik-fill-walden-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

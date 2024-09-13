@@ -1,5 +1,5 @@
 ---
 title: "Tom's Cleaners"
 url: /new-york/toms-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

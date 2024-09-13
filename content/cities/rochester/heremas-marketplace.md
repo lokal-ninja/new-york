@@ -1,5 +1,5 @@
 ---
 title: "Herema's Marketplace"
 url: /rochester/heremas-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

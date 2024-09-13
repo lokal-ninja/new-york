@@ -1,5 +1,5 @@
 ---
 title: "Food Universe"
 url: /richmond-hill/food-universe/
-shop: Supermarkt
+shop: supermarket
 ---

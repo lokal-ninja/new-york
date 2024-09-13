@@ -1,5 +1,5 @@
 ---
 title: "Nemer VW"
 url: /latham/nemer-vw/
-shop: Autohaus
+shop: car
 ---

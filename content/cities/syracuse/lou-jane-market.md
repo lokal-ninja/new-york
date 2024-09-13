@@ -1,5 +1,5 @@
 ---
 title: "Lou Jane Market"
 url: /syracuse/lou-jane-market/
-shop: Lebensmittel
+shop: convenience
 ---

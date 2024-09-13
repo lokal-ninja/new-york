@@ -1,5 +1,5 @@
 ---
 title: "VS Nails"
 url: /fayetteville/vs-nails/
-shop: Kosmetik
+shop: beauty
 ---

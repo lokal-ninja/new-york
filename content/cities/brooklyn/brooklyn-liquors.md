@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Liquors"
 url: /brooklyn/brooklyn-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

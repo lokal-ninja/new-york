@@ -1,5 +1,5 @@
 ---
 title: "Battaglia Automotive"
 url: /buffalo/battaglia-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

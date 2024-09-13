@@ -1,5 +1,5 @@
 ---
 title: "Downtown"
 url: /brooklyn/downtown/
-shop: Kleidung
+shop: clothes
 ---

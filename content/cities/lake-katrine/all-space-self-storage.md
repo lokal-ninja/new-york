@@ -1,5 +1,5 @@
 ---
 title: "All Space Self Storage"
 url: /lake-katrine/all-space-self-storage/
-shop: Mieten
+shop: storage rental
 ---

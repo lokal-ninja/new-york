@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /depew/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

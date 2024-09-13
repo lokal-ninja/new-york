@@ -1,5 +1,5 @@
 ---
 title: "Furniture Mattress Wholesaler"
 url: /middletown/furniture-mattress-wholesaler/
-shop: Möbel
+shop: furniture
 ---

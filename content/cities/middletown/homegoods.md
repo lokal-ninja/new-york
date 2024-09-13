@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /middletown/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

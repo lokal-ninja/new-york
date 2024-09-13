@@ -1,5 +1,5 @@
 ---
 title: "Kaplan's"
 url: /hancock/kaplans/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "People's Bakery"
 url: /brooklyn/peoples-bakery/
-shop: Bäckerei
+shop: bakery
 ---

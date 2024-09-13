@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /poughkeepsie/walgreens/
-shop: Drogerie
+shop: chemist
 ---

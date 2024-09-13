@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /fayetteville/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

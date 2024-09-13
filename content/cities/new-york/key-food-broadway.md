@@ -1,5 +1,5 @@
 ---
 title: "Key Food"
 url: /new-york/key-food-broadway/
-shop: Supermarkt
+shop: supermarket
 ---

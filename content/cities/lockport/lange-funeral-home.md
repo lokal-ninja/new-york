@@ -1,5 +1,5 @@
 ---
 title: "Lange Funeral Home"
 url: /lockport/lange-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

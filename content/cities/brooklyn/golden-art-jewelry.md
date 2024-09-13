@@ -1,5 +1,5 @@
 ---
 title: "Golden Art Jewelry"
 url: /brooklyn/golden-art-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

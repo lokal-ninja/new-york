@@ -1,5 +1,5 @@
 ---
 title: "Martine's Service Center Inc"
 url: /middletown/martines-service-center-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

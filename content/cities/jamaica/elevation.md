@@ -1,5 +1,5 @@
 ---
 title: "Elevation"
 url: /jamaica/elevation/
-shop: Hanf
+shop: cannabis
 ---

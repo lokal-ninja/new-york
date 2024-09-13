@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /ronkonkoma/ifixscreens/
-shop: Handy
+shop: mobile phone
 ---

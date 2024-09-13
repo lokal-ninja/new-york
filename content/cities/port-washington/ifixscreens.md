@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /port-washington/ifixscreens/
-shop: Handy
+shop: mobile phone
 ---

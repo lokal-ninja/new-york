@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /schenectady/marshalls/
-shop: Warenhaus
+shop: department store
 ---

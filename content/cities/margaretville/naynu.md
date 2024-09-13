@@ -1,5 +1,5 @@
 ---
 title: "Naynu"
 url: /margaretville/naynu/
-shop: Kleidung
+shop: clothes
 ---

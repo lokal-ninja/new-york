@@ -1,5 +1,5 @@
 ---
 title: "KeyBank"
 url: /middletown/keybank/
-shop: Autowerkstatt
+shop: car repair
 ---

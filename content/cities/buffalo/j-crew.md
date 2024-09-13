@@ -1,5 +1,5 @@
 ---
 title: "J.Crew"
 url: /buffalo/j-crew/
-shop: Kleidung
+shop: clothes
 ---

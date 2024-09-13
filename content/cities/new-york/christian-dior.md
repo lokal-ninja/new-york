@@ -1,5 +1,5 @@
 ---
 title: "Christian Dior"
 url: /new-york/christian-dior/
-shop: Kleidung
+shop: clothes
 ---

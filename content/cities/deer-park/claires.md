@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /deer-park/claires/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Junee"
 url: /lawrence/junee/
-shop: Kleidung
+shop: clothes
 ---

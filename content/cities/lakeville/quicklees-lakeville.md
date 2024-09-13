@@ -1,5 +1,5 @@
 ---
 title: "Quicklee's Lakeville"
 url: /lakeville/quicklees-lakeville/
-shop: Lebensmittel
+shop: convenience
 ---

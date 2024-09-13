@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /downsville/dollar-general/
-shop: Warenhaus
+shop: department store
 ---

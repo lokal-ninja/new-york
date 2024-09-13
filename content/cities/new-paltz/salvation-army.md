@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army"
 url: /new-paltz/salvation-army/
-shop: Gebrauchtwaren
+shop: charity
 ---

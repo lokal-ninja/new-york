@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /liverpool/dollar-tree-state-route-31/
-shop: Kramladen
+shop: variety store
 ---

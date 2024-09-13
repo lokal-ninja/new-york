@@ -1,5 +1,5 @@
 ---
 title: "Autobahn Body Werks"
 url: /buffalo/autobahn-body-werks/
-shop: Autowerkstatt
+shop: car repair
 ---

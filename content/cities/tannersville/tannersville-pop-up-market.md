@@ -1,5 +1,5 @@
 ---
 title: "Tannersville Pop-Up Market"
 url: /tannersville/tannersville-pop-up-market/
-shop: Andenken
+shop: gift
 ---

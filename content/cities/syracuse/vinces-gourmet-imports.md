@@ -1,5 +1,5 @@
 ---
 title: "Vince's Gourmet Imports"
 url: /syracuse/vinces-gourmet-imports/
-shop: Feinkost
+shop: deli
 ---

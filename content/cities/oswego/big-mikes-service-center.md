@@ -1,5 +1,5 @@
 ---
 title: "Big Mike's Service Center"
 url: /oswego/big-mikes-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

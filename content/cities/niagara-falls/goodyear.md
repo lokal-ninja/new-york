@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /niagara-falls/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

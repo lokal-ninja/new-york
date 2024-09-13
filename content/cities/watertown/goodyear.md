@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /watertown/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /manlius/hearinglife/
-shop: Hörgeräte
+shop: hearing aids
 ---

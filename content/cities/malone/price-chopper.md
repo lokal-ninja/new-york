@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /malone/price-chopper/
-shop: Supermarkt
+shop: supermarket
 ---

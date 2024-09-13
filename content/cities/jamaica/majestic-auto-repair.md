@@ -1,5 +1,5 @@
 ---
 title: "Majestic Auto Repair"
 url: /jamaica/majestic-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

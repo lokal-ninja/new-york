@@ -1,5 +1,5 @@
 ---
 title: "Chico's"
 url: /waterloo/chicos/
-shop: Kleidung
+shop: clothes
 ---

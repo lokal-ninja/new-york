@@ -1,5 +1,5 @@
 ---
 title: "Chairmasters Inc"
 url: /middletown/chairmasters-inc/
-shop: Möbel
+shop: furniture
 ---

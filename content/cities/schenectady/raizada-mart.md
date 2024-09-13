@@ -1,5 +1,5 @@
 ---
 title: "Raizada Mart"
 url: /schenectady/raizada-mart/
-shop: Lebensmittel
+shop: convenience
 ---

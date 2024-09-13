@@ -1,5 +1,5 @@
 ---
 title: "Sharp Image"
 url: /buffalo/sharp-image/
-shop: Friseur
+shop: hairdresser
 ---

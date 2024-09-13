@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /depew/target/
-shop: Warenhaus
+shop: department store
 ---

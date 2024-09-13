@@ -1,5 +1,5 @@
 ---
 title: "Monro"
 url: /corning/monro/
-shop: Autowerkstatt
+shop: car repair
 ---

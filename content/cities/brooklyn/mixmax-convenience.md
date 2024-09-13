@@ -1,5 +1,5 @@
 ---
 title: "MixMax Convenience"
 url: /brooklyn/mixmax-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

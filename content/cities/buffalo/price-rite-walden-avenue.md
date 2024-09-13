@@ -1,5 +1,5 @@
 ---
 title: "Price Rite"
 url: /buffalo/price-rite-walden-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

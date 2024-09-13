@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /central-valley/crocs/
-shop: Schuhe
+shop: shoes
 ---

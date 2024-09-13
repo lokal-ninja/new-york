@@ -1,5 +1,5 @@
 ---
 title: "Metro Mattress"
 url: /syracuse/metro-mattress/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oreck"
 url: /vestal/oreck/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

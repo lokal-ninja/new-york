@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /webster/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

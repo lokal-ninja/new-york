@@ -1,5 +1,5 @@
 ---
 title: "Ted's Auto Body"
 url: /peconic/teds-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

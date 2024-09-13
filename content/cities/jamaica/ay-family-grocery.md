@@ -1,5 +1,5 @@
 ---
 title: "AY Family Grocery"
 url: /jamaica/ay-family-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Master"
 url: /troy/auto-master/
-shop: Autowerkstatt
+shop: car repair
 ---

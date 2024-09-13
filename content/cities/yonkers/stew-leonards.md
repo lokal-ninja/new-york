@@ -1,5 +1,5 @@
 ---
 title: "Stew Leonard's"
 url: /yonkers/stew-leonards/
-shop: Supermarkt
+shop: supermarket
 ---

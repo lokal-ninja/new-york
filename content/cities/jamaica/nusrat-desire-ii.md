@@ -1,5 +1,5 @@
 ---
 title: "Nusrat Desire Ⅱ"
 url: /jamaica/nusrat-desire-ii/
-shop: Kleidung
+shop: clothes
 ---

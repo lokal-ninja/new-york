@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /staten-island/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

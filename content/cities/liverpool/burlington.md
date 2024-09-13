@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /liverpool/burlington/
-shop: Warenhaus
+shop: department store
 ---

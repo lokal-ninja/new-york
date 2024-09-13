@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /delhi/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

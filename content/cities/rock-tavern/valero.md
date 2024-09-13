@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /rock-tavern/valero/
-shop: Lebensmittel
+shop: convenience
 ---

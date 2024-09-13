@@ -1,5 +1,5 @@
 ---
 title: "Headlines"
 url: /syracuse/headlines/
-shop: Friseur
+shop: hairdresser
 ---

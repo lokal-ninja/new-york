@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /bay-shore/kohls/
-shop: Warenhaus
+shop: department store
 ---

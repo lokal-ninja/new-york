@@ -1,5 +1,5 @@
 ---
 title: "Exhale Laser"
 url: /queens/exhale-laser/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CK ProCleaners"
 url: /jamaica/ck-procleaners/
-shop: Wäscherei
+shop: laundry
 ---

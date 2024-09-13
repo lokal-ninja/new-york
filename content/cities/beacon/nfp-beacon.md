@@ -1,5 +1,5 @@
 ---
 title: "NFP: Beacon"
 url: /beacon/nfp-beacon/
-shop: Kleidung
+shop: clothes
 ---

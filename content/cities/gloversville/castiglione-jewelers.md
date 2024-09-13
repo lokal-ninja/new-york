@@ -1,5 +1,5 @@
 ---
 title: "Castiglione Jewelers"
 url: /gloversville/castiglione-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

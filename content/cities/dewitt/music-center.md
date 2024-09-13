@@ -1,5 +1,5 @@
 ---
 title: "Music Center"
 url: /dewitt/music-center/
-shop: Instrumente
+shop: musical instrument
 ---

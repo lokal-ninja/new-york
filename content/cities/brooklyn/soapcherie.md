@@ -1,5 +1,5 @@
 ---
 title: "Soapcherie"
 url: /brooklyn/soapcherie/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwood Tile"
 url: /newburgh/sherwood-tile/
-shop: Fliesen
+shop: tiles
 ---

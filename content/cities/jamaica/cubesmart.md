@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /jamaica/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

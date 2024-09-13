@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /staten-island/dsw/
-shop: Schuhe
+shop: shoes
 ---

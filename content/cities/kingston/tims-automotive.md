@@ -1,5 +1,5 @@
 ---
 title: "Tim's Automotive"
 url: /kingston/tims-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

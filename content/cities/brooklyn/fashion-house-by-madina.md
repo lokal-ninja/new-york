@@ -1,5 +1,5 @@
 ---
 title: "Fashion House By Madina"
 url: /brooklyn/fashion-house-by-madina/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Smoke N Save"
 url: /queensbury/super-smoke-n-save/
-shop: Tabak
+shop: tobacco
 ---

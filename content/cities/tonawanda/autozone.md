@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tonawanda/autozone/
-shop: Autoteile
+shop: car parts
 ---

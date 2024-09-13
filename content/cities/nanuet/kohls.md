@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /nanuet/kohls/
-shop: Warenhaus
+shop: department store
 ---

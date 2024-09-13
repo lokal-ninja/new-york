@@ -1,5 +1,5 @@
 ---
 title: "KB Nutrition"
 url: /syracuse/kb-nutrition/
-shop: Bioladen
+shop: health food
 ---

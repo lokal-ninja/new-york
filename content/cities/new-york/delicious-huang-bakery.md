@@ -1,5 +1,5 @@
 ---
 title: "Delicious Huang Bakery"
 url: /new-york/delicious-huang-bakery/
-shop: Bäckerei
+shop: bakery
 ---

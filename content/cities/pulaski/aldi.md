@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pulaski/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

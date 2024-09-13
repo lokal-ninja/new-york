@@ -1,5 +1,5 @@
 ---
 title: "Grooming Tails"
 url: /mamaroneck/grooming-tails/
-shop: Tiersalon
+shop: pet grooming
 ---

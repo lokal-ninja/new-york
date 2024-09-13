@@ -1,5 +1,5 @@
 ---
 title: "Paramount Beauty Supply"
 url: /buffalo/paramount-beauty-supply/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

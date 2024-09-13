@@ -1,5 +1,5 @@
 ---
 title: "Carvel"
 url: /north-syracuse/carvel/
-shop: Eisprodukte
+shop: ice cream
 ---

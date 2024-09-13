@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /dryden/walgreens/
-shop: Drogerie
+shop: chemist
 ---

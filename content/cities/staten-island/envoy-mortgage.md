@@ -1,5 +1,5 @@
 ---
 title: "Envoy Mortgage"
 url: /staten-island/envoy-mortgage/
-shop: Leiher
+shop: pawnbroker
 ---

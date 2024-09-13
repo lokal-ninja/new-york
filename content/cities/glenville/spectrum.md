@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /glenville/spectrum/
-shop: Handy
+shop: mobile phone
 ---

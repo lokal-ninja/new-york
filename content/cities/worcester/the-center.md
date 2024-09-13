@@ -1,5 +1,5 @@
 ---
 title: "The Center"
 url: /worcester/the-center/
-shop: Lebensmittel
+shop: convenience
 ---

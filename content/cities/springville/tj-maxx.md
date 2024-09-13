@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /springville/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

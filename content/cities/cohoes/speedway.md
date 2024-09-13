@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cohoes/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

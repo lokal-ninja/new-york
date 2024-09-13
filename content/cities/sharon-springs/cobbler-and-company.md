@@ -1,5 +1,5 @@
 ---
 title: "Cobbler and Company"
 url: /sharon-springs/cobbler-and-company/
-shop: Andenken
+shop: gift
 ---

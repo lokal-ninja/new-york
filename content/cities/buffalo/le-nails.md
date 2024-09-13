@@ -1,5 +1,5 @@
 ---
 title: "Le Nails"
 url: /buffalo/le-nails/
-shop: Kosmetik
+shop: beauty
 ---

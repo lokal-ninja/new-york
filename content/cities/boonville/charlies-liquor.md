@@ -1,5 +1,5 @@
 ---
 title: "Charlies Liquor"
 url: /boonville/charlies-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Hardware"
 url: /syracuse/city-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vision of Tomorrow"
 url: /larchmont/vision-of-tomorrow/
-shop: Friseur
+shop: hairdresser
 ---

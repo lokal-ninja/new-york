@@ -1,5 +1,5 @@
 ---
 title: "Ide Collision Center"
 url: /east-rochester/ide-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

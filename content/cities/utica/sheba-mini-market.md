@@ -1,5 +1,5 @@
 ---
 title: "Sheba Mini Market"
 url: /utica/sheba-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Legends"
 url: /mechanicville/legends/
-shop: Friseur
+shop: hairdresser
 ---

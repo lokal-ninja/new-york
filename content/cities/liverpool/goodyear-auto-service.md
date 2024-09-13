@@ -1,5 +1,5 @@
 ---
 title: "Goodyear Auto Service"
 url: /liverpool/goodyear-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

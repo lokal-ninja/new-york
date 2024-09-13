@@ -1,5 +1,5 @@
 ---
 title: "Express Brows"
 url: /new-york/express-brows/
-shop: Kosmetik
+shop: beauty
 ---

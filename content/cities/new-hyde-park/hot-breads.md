@@ -1,5 +1,5 @@
 ---
 title: "Hot Breads"
 url: /new-hyde-park/hot-breads/
-shop: Bäckerei
+shop: bakery
 ---

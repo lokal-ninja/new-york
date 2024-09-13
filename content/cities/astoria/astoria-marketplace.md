@@ -1,5 +1,5 @@
 ---
 title: "Astoria Marketplace"
 url: /astoria/astoria-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

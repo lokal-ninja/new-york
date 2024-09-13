@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /rensselaer/autozone/
-shop: Autoteile
+shop: car parts
 ---

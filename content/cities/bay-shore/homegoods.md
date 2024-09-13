@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /bay-shore/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

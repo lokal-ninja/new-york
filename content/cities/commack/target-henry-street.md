@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /commack/target-henry-street/
-shop: Warenhaus
+shop: department store
 ---

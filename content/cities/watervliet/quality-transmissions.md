@@ -1,5 +1,5 @@
 ---
 title: "Quality Transmissions"
 url: /watervliet/quality-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /schenectady/advance-auto-parts-altamont-avenue/
-shop: Autoteile
+shop: car parts
 ---

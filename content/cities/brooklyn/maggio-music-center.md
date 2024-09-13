@@ -1,5 +1,5 @@
 ---
 title: "Maggio Music Center"
 url: /brooklyn/maggio-music-center/
-shop: Instrumente
+shop: musical instrument
 ---

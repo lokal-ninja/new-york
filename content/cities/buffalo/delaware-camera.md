@@ -1,5 +1,5 @@
 ---
 title: "Delaware Camera"
 url: /buffalo/delaware-camera/
-shop: Kamera
+shop: camera
 ---

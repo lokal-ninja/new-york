@@ -1,5 +1,5 @@
 ---
 title: "Duryea’s Florist"
 url: /freeport/duryeas-florist/
-shop: Blumen
+shop: florist
 ---

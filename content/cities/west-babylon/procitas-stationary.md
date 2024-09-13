@@ -1,5 +1,5 @@
 ---
 title: "Procita's Stationary"
 url: /west-babylon/procitas-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

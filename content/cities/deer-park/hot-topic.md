@@ -1,5 +1,5 @@
 ---
 title: "Hot Topic"
 url: /deer-park/hot-topic/
-shop: Kleidung
+shop: clothes
 ---

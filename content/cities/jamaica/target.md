@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /jamaica/target/
-shop: Warenhaus
+shop: department store
 ---

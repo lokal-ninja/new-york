@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /freeport/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

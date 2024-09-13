@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /buffalo/aldi-sheridan-drive/
-shop: Supermarkt
+shop: supermarket
 ---

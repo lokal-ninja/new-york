@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /latham/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

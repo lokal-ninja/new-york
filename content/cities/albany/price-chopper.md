@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /albany/price-chopper/
-shop: Supermarkt
+shop: supermarket
 ---

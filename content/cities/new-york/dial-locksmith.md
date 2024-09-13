@@ -1,5 +1,5 @@
 ---
 title: "Dial Locksmith"
 url: /new-york/dial-locksmith/
-shop: Schlüsseldienst
+shop: locksmith
 ---

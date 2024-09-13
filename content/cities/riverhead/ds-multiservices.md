@@ -1,5 +1,5 @@
 ---
 title: "DS Multiservices"
 url: /riverhead/ds-multiservices/
-shop: Lebensmittel
+shop: convenience
 ---

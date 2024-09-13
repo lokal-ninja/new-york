@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /victor/warhammer/
-shop: Spiele
+shop: games
 ---

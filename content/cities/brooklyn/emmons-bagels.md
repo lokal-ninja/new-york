@@ -1,5 +1,5 @@
 ---
 title: "Emmons Bagels"
 url: /brooklyn/emmons-bagels/
-shop: Lebensmittel
+shop: convenience
 ---

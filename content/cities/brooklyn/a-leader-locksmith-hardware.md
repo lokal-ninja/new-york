@@ -1,5 +1,5 @@
 ---
 title: "A-Leader Locksmith Hardware"
 url: /brooklyn/a-leader-locksmith-hardware/
-shop: Schlüsseldienst
+shop: locksmith
 ---

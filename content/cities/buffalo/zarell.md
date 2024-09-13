@@ -1,5 +1,5 @@
 ---
 title: "Zarell"
 url: /buffalo/zarell/
-shop: Kleidung
+shop: clothes
 ---

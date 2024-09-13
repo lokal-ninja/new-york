@@ -1,5 +1,5 @@
 ---
 title: "Up In Smoke"
 url: /saratoga-springs/up-in-smoke/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

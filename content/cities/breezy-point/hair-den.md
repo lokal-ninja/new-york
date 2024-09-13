@@ -1,5 +1,5 @@
 ---
 title: "Hair Den"
 url: /breezy-point/hair-den/
-shop: Friseur
+shop: hairdresser
 ---

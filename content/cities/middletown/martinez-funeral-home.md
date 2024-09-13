@@ -1,5 +1,5 @@
 ---
 title: "Martinez Funeral Home"
 url: /middletown/martinez-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

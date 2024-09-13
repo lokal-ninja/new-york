@@ -1,5 +1,5 @@
 ---
 title: "Glass America"
 url: /liverpool/glass-america/
-shop: Autowerkstatt
+shop: car repair
 ---

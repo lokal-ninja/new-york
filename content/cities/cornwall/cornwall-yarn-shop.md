@@ -1,5 +1,5 @@
 ---
 title: "Cornwall Yarn Shop"
 url: /cornwall/cornwall-yarn-shop/
-shop: Allgemein
+shop: shop
 ---

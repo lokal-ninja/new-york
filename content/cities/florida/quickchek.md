@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /florida/quickchek/
-shop: Lebensmittel
+shop: convenience
 ---

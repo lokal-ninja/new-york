@@ -1,5 +1,5 @@
 ---
 title: "Mixology"
 url: /hewlett/mixology/
-shop: Kleidung
+shop: clothes
 ---

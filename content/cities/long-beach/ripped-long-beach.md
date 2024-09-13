@@ -1,5 +1,5 @@
 ---
 title: "Ripped Long Beach"
 url: /long-beach/ripped-long-beach/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

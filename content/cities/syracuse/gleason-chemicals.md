@@ -1,5 +1,5 @@
 ---
 title: "Gleason Chemicals"
 url: /syracuse/gleason-chemicals/
-shop: Allgemein
+shop: shop
 ---

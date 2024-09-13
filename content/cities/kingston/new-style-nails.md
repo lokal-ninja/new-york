@@ -1,5 +1,5 @@
 ---
 title: "New Style Nails"
 url: /kingston/new-style-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mister Suds Laundromat"
 url: /brooklyn/mister-suds-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bailey Express Market"
 url: /buffalo/bailey-express-market/
-shop: Supermarkt
+shop: supermarket
 ---

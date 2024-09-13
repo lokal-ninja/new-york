@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /flushing/target/
-shop: Warenhaus
+shop: department store
 ---

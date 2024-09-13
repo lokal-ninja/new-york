@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rochester/aldi-lake-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

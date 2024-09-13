@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /brooklyn/rite-aid-smith-street/
-shop: Drogerie
+shop: chemist
 ---

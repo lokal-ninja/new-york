@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /jamaica/boost-mobile-sutphin-boulevard/
-shop: Handy
+shop: mobile phone
 ---

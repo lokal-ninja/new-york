@@ -1,5 +1,5 @@
 ---
 title: "John's Fine Foods"
 url: /owego/johns-fine-foods/
-shop: Lebensmittel
+shop: convenience
 ---

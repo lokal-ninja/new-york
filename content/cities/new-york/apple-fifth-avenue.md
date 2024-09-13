@@ -1,5 +1,5 @@
 ---
 title: "Apple Fifth Avenue"
 url: /new-york/apple-fifth-avenue/
-shop: Elektronik
+shop: electronics
 ---

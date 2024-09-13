@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /niagara-falls/burlington/
-shop: Warenhaus
+shop: department store
 ---

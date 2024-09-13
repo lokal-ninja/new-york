@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /buffalo/sherwin-williams-transit-road/
-shop: Farben
+shop: paint
 ---

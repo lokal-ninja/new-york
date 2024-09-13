@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /buffalo/valvoline-delaware-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

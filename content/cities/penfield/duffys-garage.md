@@ -1,5 +1,5 @@
 ---
 title: "Duffy's Garage"
 url: /penfield/duffys-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

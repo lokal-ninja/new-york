@@ -1,5 +1,5 @@
 ---
 title: "Google"
 url: /brooklyn/google/
-shop: Allgemein
+shop: shop
 ---

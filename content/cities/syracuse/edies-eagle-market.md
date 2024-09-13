@@ -1,5 +1,5 @@
 ---
 title: "Edie's Eagle Market"
 url: /syracuse/edies-eagle-market/
-shop: Lebensmittel
+shop: convenience
 ---

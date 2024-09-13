@@ -1,5 +1,5 @@
 ---
 title: "Edwards Sporting Goods"
 url: /riverhead/edwards-sporting-goods/
-shop: Sport
+shop: sports
 ---

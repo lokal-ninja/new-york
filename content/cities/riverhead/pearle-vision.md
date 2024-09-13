@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /riverhead/pearle-vision/
-shop: Optiker
+shop: optician
 ---

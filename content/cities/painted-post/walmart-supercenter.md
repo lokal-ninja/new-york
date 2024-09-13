@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /painted-post/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

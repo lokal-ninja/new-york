@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /riverhead/old-navy/
-shop: Kleidung
+shop: clothes
 ---

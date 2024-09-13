@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /phelps/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

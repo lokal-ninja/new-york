@@ -1,5 +1,5 @@
 ---
 title: "Wallkill View Farm Market"
 url: /new-paltz/wallkill-view-farm-market/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

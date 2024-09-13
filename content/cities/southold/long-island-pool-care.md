@@ -1,5 +1,5 @@
 ---
 title: "Long Island Pool Care"
 url: /southold/long-island-pool-care/
-shop: Pool
+shop: swimming pool
 ---

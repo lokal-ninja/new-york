@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /webster/gamestop/
-shop: Videospiele
+shop: video games
 ---

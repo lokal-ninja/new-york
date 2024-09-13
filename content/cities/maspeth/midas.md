@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /maspeth/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

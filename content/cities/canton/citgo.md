@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /canton/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

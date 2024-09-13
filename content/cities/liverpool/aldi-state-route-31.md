@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /liverpool/aldi-state-route-31/
-shop: Supermarkt
+shop: supermarket
 ---

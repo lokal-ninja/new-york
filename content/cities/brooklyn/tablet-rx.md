@@ -1,5 +1,5 @@
 ---
 title: "Tablet Rx"
 url: /brooklyn/tablet-rx/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /dunkirk/tops/
-shop: Supermarkt
+shop: supermarket
 ---

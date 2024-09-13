@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /briarcliff-manor/acme/
-shop: Supermarkt
+shop: supermarket
 ---

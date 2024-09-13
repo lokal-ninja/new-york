@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /sandy-creek/tops/
-shop: Supermarkt
+shop: supermarket
 ---

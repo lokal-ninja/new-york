@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /tonawanda/savers/
-shop: Gebrauchtwaren
+shop: charity
 ---

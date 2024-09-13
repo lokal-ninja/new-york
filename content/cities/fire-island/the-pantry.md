@@ -1,5 +1,5 @@
 ---
 title: "The Pantry"
 url: /fire-island/the-pantry/
-shop: Allgemein
+shop: shop
 ---

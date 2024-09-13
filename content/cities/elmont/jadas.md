@@ -1,5 +1,5 @@
 ---
 title: "Jada’s"
 url: /elmont/jadas/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /liverpool/u-haul/
-shop: Mieten
+shop: storage rental
 ---

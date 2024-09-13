@@ -1,5 +1,5 @@
 ---
 title: "Sajna"
 url: /jamaica/sajna/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /cheektowaga/spectrum/
-shop: Handy
+shop: mobile phone
 ---

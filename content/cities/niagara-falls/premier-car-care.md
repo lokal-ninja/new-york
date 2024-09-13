@@ -1,5 +1,5 @@
 ---
 title: "Premier Car Care"
 url: /niagara-falls/premier-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

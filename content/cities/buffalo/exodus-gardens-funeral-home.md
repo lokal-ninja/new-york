@@ -1,5 +1,5 @@
 ---
 title: "Exodus Gardens Funeral Home"
 url: /buffalo/exodus-gardens-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

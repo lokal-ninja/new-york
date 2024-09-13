@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /huntington-station/7-eleven-depot-road/
-shop: Lebensmittel
+shop: convenience
 ---

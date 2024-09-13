@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /bolton-landing/tops/
-shop: Supermarkt
+shop: supermarket
 ---

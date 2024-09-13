@@ -1,5 +1,5 @@
 ---
 title: "The Shoppe"
 url: /saratoga-springs/the-shoppe/
-shop: Kleidung
+shop: clothes
 ---

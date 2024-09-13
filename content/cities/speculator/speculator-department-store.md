@@ -1,5 +1,5 @@
 ---
 title: "Speculator Department Store"
 url: /speculator/speculator-department-store/
-shop: Warenhaus
+shop: department store
 ---

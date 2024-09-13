@@ -1,5 +1,5 @@
 ---
 title: "FACES of Saratoga"
 url: /saratoga-springs/faces-of-saratoga/
-shop: Kosmetik
+shop: beauty
 ---

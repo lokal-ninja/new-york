@@ -1,5 +1,5 @@
 ---
 title: "DILLIGAF"
 url: /lake-george/dilligaf/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rochester/aldi-spencerport-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MidWestside Convenience"
 url: /new-york/midwestside-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ruge's Subaru"
 url: /rhinebeck/ruges-subaru/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /oakland-gardens/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

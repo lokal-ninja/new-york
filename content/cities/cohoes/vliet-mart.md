@@ -1,5 +1,5 @@
 ---
 title: "Vliet Mart"
 url: /cohoes/vliet-mart/
-shop: Lebensmittel
+shop: convenience
 ---

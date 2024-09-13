@@ -1,5 +1,5 @@
 ---
 title: "CountryMax"
 url: /farmington/countrymax/
-shop: Dorfladen
+shop: general
 ---

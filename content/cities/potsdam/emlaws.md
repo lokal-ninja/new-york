@@ -1,5 +1,5 @@
 ---
 title: "Emlaw's"
 url: /potsdam/emlaws/
-shop: Autowerkstatt
+shop: car repair
 ---

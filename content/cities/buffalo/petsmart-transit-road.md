@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /buffalo/petsmart-transit-road/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kebe's African Fashions"
 url: /brooklyn/kebes-african-fashions/
-shop: Kleidung
+shop: clothes
 ---

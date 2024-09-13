@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /saranac-lake/ford/
-shop: Autohaus
+shop: car
 ---

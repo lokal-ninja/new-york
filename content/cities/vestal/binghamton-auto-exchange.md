@@ -1,5 +1,5 @@
 ---
 title: "Binghamton Auto Exchange"
 url: /vestal/binghamton-auto-exchange/
-shop: Autohaus
+shop: car
 ---

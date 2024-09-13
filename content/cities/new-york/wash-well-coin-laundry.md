@@ -1,5 +1,5 @@
 ---
 title: "Wash Well Coin Laundry"
 url: /new-york/wash-well-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REV Coffee"
 url: /hudson/rev-coffee/
-shop: Kaffee
+shop: coffee
 ---

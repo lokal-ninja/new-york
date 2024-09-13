@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /albany/sherwin-williams/
-shop: Farben
+shop: paint
 ---

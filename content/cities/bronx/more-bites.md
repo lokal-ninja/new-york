@@ -1,5 +1,5 @@
 ---
 title: "More Bites"
 url: /bronx/more-bites/
-shop: Bäckerei
+shop: bakery
 ---

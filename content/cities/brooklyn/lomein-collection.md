@@ -1,5 +1,5 @@
 ---
 title: "LoMein Collection"
 url: /brooklyn/lomein-collection/
-shop: Kleidung
+shop: clothes
 ---

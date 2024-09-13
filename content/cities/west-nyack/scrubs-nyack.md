@@ -1,5 +1,5 @@
 ---
 title: "Scrubs Nyack"
 url: /west-nyack/scrubs-nyack/
-shop: Kleidung
+shop: clothes
 ---

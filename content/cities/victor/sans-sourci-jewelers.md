@@ -1,5 +1,5 @@
 ---
 title: "Sans Sourci Jewelers"
 url: /victor/sans-sourci-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

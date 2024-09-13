@@ -1,5 +1,5 @@
 ---
 title: "Tina’s Day Spa"
 url: /hewlett/tinas-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

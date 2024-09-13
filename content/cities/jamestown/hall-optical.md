@@ -1,5 +1,5 @@
 ---
 title: "Hall Optical"
 url: /jamestown/hall-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAS Shoes"
 url: /riverhead/sas-shoes/
-shop: Schuhe
+shop: shoes
 ---

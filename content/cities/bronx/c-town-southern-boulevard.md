@@ -1,5 +1,5 @@
 ---
 title: "C-Town"
 url: /bronx/c-town-southern-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /flushing/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BS International Auto Body"
 url: /yonkers/bs-international-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

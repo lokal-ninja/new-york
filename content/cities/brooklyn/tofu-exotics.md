@@ -1,5 +1,5 @@
 ---
 title: "Tofu Exotics"
 url: /brooklyn/tofu-exotics/
-shop: Schokolade
+shop: chocolate
 ---

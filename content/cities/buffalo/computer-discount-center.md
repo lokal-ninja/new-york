@@ -1,5 +1,5 @@
 ---
 title: "Computer Discount Center"
 url: /buffalo/computer-discount-center/
-shop: Computer
+shop: computer
 ---

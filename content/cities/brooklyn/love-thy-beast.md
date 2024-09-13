@@ -1,5 +1,5 @@
 ---
 title: "Love Thy Beast"
 url: /brooklyn/love-thy-beast/
-shop: Tiere
+shop: pet
 ---

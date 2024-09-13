@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /lake-placid/marshalls/
-shop: Warenhaus
+shop: department store
 ---

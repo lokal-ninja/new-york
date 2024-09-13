@@ -1,5 +1,5 @@
 ---
 title: "Petite Nails"
 url: /bronx/petite-nails/
-shop: Kosmetik
+shop: beauty
 ---

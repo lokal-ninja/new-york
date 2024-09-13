@@ -1,5 +1,5 @@
 ---
 title: "Express Mart and Tim Hortons"
 url: /buffalo/express-mart-and-tim-hortons/
-shop: Lebensmittel
+shop: convenience
 ---

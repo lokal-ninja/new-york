@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /kingston/advance-auto-parts-albany-avenue/
-shop: Autoteile
+shop: car parts
 ---

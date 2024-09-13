@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /poughkeepsie/gamestop/
-shop: Videospiele
+shop: video games
 ---

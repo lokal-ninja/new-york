@@ -1,5 +1,5 @@
 ---
 title: "Parkway Delicassion"
 url: /bronxville/parkway-delicassion/
-shop: Feinkost
+shop: deli
 ---

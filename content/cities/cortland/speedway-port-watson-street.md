@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cortland/speedway-port-watson-street/
-shop: Lebensmittel
+shop: convenience
 ---

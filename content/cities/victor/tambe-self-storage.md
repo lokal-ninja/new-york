@@ -1,5 +1,5 @@
 ---
 title: "Tambe Self Storage"
 url: /victor/tambe-self-storage/
-shop: Mieten
+shop: storage rental
 ---

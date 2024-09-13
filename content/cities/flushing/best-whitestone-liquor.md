@@ -1,5 +1,5 @@
 ---
 title: "Best Whitestone Liquor"
 url: /flushing/best-whitestone-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

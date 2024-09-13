@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /buffalo/pearle-vision/
-shop: Optiker
+shop: optician
 ---

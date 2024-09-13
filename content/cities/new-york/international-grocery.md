@@ -1,5 +1,5 @@
 ---
 title: "International Grocery"
 url: /new-york/international-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

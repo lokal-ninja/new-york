@@ -1,5 +1,5 @@
 ---
 title: "Calypso St. Barth"
 url: /new-york/calypso-st-barth/
-shop: Allgemein
+shop: shop
 ---

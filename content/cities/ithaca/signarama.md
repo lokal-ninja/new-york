@@ -1,5 +1,5 @@
 ---
 title: "Signarama"
 url: /ithaca/signarama/
-shop: Schreibwaren
+shop: office supplies
 ---

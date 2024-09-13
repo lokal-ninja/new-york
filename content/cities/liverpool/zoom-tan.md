@@ -1,5 +1,5 @@
 ---
 title: "Zoom Tan"
 url: /liverpool/zoom-tan/
-shop: Kosmetik
+shop: beauty
 ---

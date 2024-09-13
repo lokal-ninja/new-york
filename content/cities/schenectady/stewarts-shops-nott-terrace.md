@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
 url: /schenectady/stewarts-shops-nott-terrace/
-shop: Lebensmittel
+shop: convenience
 ---

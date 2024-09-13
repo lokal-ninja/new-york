@@ -1,5 +1,5 @@
 ---
 title: "KRM Supermarket"
 url: /brooklyn/krm-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

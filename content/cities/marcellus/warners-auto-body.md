@@ -1,5 +1,5 @@
 ---
 title: "Warner's Auto Body"
 url: /marcellus/warners-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

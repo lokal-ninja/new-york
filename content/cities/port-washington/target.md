@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /port-washington/target/
-shop: Warenhaus
+shop: department store
 ---

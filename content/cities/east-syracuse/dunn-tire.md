@@ -1,5 +1,5 @@
 ---
 title: "Dunn Tire"
 url: /east-syracuse/dunn-tire/
-shop: Reifen
+shop: tyres
 ---

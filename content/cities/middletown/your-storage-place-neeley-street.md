@@ -1,5 +1,5 @@
 ---
 title: "Your Storage Place"
 url: /middletown/your-storage-place-neeley-street/
-shop: Mieten
+shop: storage rental
 ---

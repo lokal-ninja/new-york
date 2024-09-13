@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /riverhead/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

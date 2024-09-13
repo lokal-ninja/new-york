@@ -1,5 +1,5 @@
 ---
 title: "Beach House Tanning"
 url: /corning/beach-house-tanning/
-shop: Kosmetik
+shop: beauty
 ---

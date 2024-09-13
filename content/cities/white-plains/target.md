@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /white-plains/target/
-shop: Warenhaus
+shop: department store
 ---

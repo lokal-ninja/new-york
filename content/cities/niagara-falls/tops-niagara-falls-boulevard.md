@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /niagara-falls/tops-niagara-falls-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

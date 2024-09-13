@@ -1,5 +1,5 @@
 ---
 title: "Soapy Suds"
 url: /ridgewood/soapy-suds/
-shop: Wäscherei
+shop: laundry
 ---

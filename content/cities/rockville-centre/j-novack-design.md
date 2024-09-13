@@ -1,5 +1,5 @@
 ---
 title: "J Novack Design"
 url: /rockville-centre/j-novack-design/
-shop: Raumausstattung
+shop: interior decoration
 ---

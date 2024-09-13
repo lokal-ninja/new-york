@@ -1,5 +1,5 @@
 ---
 title: "Baxter's Sports Shop"
 url: /valley-stream/baxters-sports-shop/
-shop: Sport
+shop: sports
 ---

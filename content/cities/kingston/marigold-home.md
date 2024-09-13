@@ -1,5 +1,5 @@
 ---
 title: "Marigold Home"
 url: /kingston/marigold-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

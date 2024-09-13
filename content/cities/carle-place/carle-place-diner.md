@@ -1,5 +1,5 @@
 ---
 title: "Carle Place Diner"
 url: /carle-place/carle-place-diner/
-shop: Jalousien
+shop: window blind
 ---

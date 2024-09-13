@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /lake-grove/trader-joes/
-shop: Supermarkt
+shop: supermarket
 ---

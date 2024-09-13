@@ -1,5 +1,5 @@
 ---
 title: "Cat's Cradle Antiques"
 url: /hornell/cats-cradle-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

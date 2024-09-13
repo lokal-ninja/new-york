@@ -1,5 +1,5 @@
 ---
 title: "Northside Laundry"
 url: /ithaca/northside-laundry/
-shop: Wäscherei
+shop: laundry
 ---

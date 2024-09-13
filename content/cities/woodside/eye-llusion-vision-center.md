@@ -1,5 +1,5 @@
 ---
 title: "Eye Llusion Vision Center"
 url: /woodside/eye-llusion-vision-center/
-shop: Optiker
+shop: optician
 ---

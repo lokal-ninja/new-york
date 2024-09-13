@@ -1,5 +1,5 @@
 ---
 title: "Clayton's Toys"
 url: /williamsville/claytons-toys/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /brooklyn/marshalls-avenue-y/
-shop: Warenhaus
+shop: department store
 ---

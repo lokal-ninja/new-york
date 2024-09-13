@@ -1,5 +1,5 @@
 ---
 title: "Adirondack Auto"
 url: /elizabethtown/adirondack-auto/
-shop: Autohaus
+shop: car
 ---

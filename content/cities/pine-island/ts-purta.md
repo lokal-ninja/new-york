@@ -1,5 +1,5 @@
 ---
 title: "TS Purta"
 url: /pine-island/ts-purta/
-shop: Bestattungen
+shop: funeral directors
 ---

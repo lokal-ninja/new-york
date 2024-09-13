@@ -1,5 +1,5 @@
 ---
 title: "The Posie Peddler"
 url: /saratoga-springs/the-posie-peddler/
-shop: Blumen
+shop: florist
 ---

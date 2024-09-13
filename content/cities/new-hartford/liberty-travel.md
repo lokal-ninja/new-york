@@ -1,5 +1,5 @@
 ---
 title: "Liberty Travel"
 url: /new-hartford/liberty-travel/
-shop: Reisebüro
+shop: travel agency
 ---

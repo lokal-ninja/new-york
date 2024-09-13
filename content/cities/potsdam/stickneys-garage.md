@@ -1,5 +1,5 @@
 ---
 title: "Stickney's Garage"
 url: /potsdam/stickneys-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

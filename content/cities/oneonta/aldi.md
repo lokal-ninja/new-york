@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /oneonta/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

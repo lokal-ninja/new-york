@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /plattsburgh/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Young Cleaners"
 url: /new-york/young-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

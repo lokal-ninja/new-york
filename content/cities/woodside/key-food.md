@@ -1,5 +1,5 @@
 ---
 title: "Key Food"
 url: /woodside/key-food/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rallye Collision Center"
 url: /carle-place/rallye-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

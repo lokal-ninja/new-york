@@ -1,5 +1,5 @@
 ---
 title: "Durants Tool Rentals"
 url: /new-windsor/durants-tool-rentals/
-shop: Werkzeuge
+shop: tools
 ---

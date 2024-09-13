@@ -1,5 +1,5 @@
 ---
 title: "The Factory Hairdressing"
 url: /rochester/the-factory-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

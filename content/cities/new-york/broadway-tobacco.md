@@ -1,5 +1,5 @@
 ---
 title: "Broadway Tobacco"
 url: /new-york/broadway-tobacco/
-shop: Tabak
+shop: tobacco
 ---

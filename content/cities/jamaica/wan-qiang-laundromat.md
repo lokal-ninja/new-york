@@ -1,5 +1,5 @@
 ---
 title: "Wan Qiang Laundromat"
 url: /jamaica/wan-qiang-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

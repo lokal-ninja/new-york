@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /orchard-park/supercuts-southwestern-boulevard/
-shop: Friseur
+shop: hairdresser
 ---

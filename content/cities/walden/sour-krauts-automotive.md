@@ -1,5 +1,5 @@
 ---
 title: "Sour Kraut's Automotive"
 url: /walden/sour-krauts-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

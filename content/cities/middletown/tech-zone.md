@@ -1,5 +1,5 @@
 ---
 title: "Tech Zone"
 url: /middletown/tech-zone/
-shop: Allgemein
+shop: shop
 ---

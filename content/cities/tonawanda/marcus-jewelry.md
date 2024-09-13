@@ -1,5 +1,5 @@
 ---
 title: "Marcus Jewelry"
 url: /tonawanda/marcus-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

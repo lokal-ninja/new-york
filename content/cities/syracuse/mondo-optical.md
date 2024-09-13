@@ -1,5 +1,5 @@
 ---
 title: "Mondo Optical"
 url: /syracuse/mondo-optical/
-shop: Optiker
+shop: optician
 ---

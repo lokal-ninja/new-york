@@ -1,5 +1,5 @@
 ---
 title: "JustMila Collection"
 url: /brooklyn/justmila-collection/
-shop: Kleidung
+shop: clothes
 ---

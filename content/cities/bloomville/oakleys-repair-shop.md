@@ -1,5 +1,5 @@
 ---
 title: "Oakley's Repair Shop"
 url: /bloomville/oakleys-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

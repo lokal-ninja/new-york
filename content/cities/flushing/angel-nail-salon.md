@@ -1,5 +1,5 @@
 ---
 title: "Angel Nail Salon"
 url: /flushing/angel-nail-salon/
-shop: Kosmetik
+shop: beauty
 ---

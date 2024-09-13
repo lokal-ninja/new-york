@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /deer-park/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

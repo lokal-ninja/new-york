@@ -1,5 +1,5 @@
 ---
 title: "Monroe Hardware"
 url: /lynbrook/monroe-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seven Os RV Way"
 url: /cicero/seven-os-rv-way/
-shop: Wohnwagen
+shop: caravan
 ---

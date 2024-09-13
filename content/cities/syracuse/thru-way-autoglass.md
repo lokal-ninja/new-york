@@ -1,5 +1,5 @@
 ---
 title: "Thru-Way Autoglass"
 url: /syracuse/thru-way-autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jane NYC"
 url: /new-york/jane-nyc/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millwood Hardware"
 url: /millwood/millwood-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

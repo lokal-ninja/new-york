@@ -1,5 +1,5 @@
 ---
 title: "LL Flooring"
 url: /buffalo/ll-flooring/
-shop: Fußböden
+shop: flooring
 ---

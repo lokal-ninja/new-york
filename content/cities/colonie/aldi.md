@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /colonie/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

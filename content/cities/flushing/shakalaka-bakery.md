@@ -1,5 +1,5 @@
 ---
 title: "Shakalaka Bakery"
 url: /flushing/shakalaka-bakery/
-shop: Bäckerei
+shop: bakery
 ---

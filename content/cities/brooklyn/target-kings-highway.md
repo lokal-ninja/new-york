@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /brooklyn/target-kings-highway/
-shop: Warenhaus
+shop: department store
 ---

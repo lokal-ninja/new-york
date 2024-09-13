@@ -1,5 +1,5 @@
 ---
 title: "Maxara"
 url: /brooklyn/maxara/
-shop: Kleidung
+shop: clothes
 ---

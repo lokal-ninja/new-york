@@ -1,5 +1,5 @@
 ---
 title: "Baked by Melissa"
 url: /new-york/baked-by-melissa/
-shop: Bäckerei
+shop: bakery
 ---

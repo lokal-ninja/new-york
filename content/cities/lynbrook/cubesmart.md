@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /lynbrook/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

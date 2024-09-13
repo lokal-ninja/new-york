@@ -1,5 +1,5 @@
 ---
 title: "Corner Market"
 url: /buffalo/corner-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burns-Garfield Funeral Home"
 url: /syracuse/burns-garfield-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

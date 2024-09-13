@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /valley-stream/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

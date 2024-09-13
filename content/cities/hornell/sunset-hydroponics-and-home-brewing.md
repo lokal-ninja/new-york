@@ -1,5 +1,5 @@
 ---
 title: "Sunset Hydroponics and Home Brewing"
 url: /hornell/sunset-hydroponics-and-home-brewing/
-shop: Garten-Center
+shop: garden centre
 ---

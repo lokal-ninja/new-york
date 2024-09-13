@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /vestal/verizon/
-shop: Handy
+shop: mobile phone
 ---

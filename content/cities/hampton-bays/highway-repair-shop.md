@@ -1,5 +1,5 @@
 ---
 title: "Highway Repair Shop"
 url: /hampton-bays/highway-repair-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

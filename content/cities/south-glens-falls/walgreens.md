@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /south-glens-falls/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bangkok Center Grocery"
 url: /new-york/bangkok-center-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

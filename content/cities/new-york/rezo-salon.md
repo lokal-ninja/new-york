@@ -1,5 +1,5 @@
 ---
 title: "Rezo Salon"
 url: /new-york/rezo-salon/
-shop: Kosmetik
+shop: beauty
 ---

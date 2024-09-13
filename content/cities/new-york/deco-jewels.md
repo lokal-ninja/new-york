@@ -1,5 +1,5 @@
 ---
 title: "Deco Jewels"
 url: /new-york/deco-jewels/
-shop: Schmuck
+shop: jewelry
 ---

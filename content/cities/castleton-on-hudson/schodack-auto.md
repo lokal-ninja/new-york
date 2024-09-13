@@ -1,5 +1,5 @@
 ---
 title: "Schodack Auto"
 url: /castleton-on-hudson/schodack-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

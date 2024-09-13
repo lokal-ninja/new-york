@@ -1,5 +1,5 @@
 ---
 title: "Chris Craft"
 url: /shinnecock-hills/chris-craft/
-shop: Boot
+shop: boat
 ---

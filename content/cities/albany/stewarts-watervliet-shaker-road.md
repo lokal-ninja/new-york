@@ -1,5 +1,5 @@
 ---
 title: "Stewart's"
 url: /albany/stewarts-watervliet-shaker-road/
-shop: Lebensmittel
+shop: convenience
 ---

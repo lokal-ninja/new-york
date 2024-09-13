@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /waterloo/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

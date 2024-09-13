@@ -1,5 +1,5 @@
 ---
 title: "Guthrie Med Supply Depot"
 url: /corning/guthrie-med-supply-depot/
-shop: Sanitätshaus
+shop: medical supply
 ---

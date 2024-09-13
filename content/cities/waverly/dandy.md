@@ -1,5 +1,5 @@
 ---
 title: "Dandy"
 url: /waverly/dandy/
-shop: Lebensmittel
+shop: convenience
 ---

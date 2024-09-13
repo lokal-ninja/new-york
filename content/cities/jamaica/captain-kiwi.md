@@ -1,5 +1,5 @@
 ---
 title: "Captain Kiwi"
 url: /jamaica/captain-kiwi/
-shop: Lebensmittel
+shop: convenience
 ---

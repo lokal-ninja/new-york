@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /arcade/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waterford Beverage Mart"
 url: /waterford/waterford-beverage-mart/
-shop: Spirituosen
+shop: alcohol
 ---

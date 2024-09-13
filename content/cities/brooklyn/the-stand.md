@@ -1,5 +1,5 @@
 ---
 title: "The Stand"
 url: /brooklyn/the-stand/
-shop: Sammler
+shop: collector
 ---

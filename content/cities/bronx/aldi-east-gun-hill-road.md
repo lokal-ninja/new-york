@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bronx/aldi-east-gun-hill-road/
-shop: Supermarkt
+shop: supermarket
 ---

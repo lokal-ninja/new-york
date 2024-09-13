@@ -1,5 +1,5 @@
 ---
 title: "Dollar Up"
 url: /jamaica/dollar-up/
-shop: Lebensmittel
+shop: convenience
 ---

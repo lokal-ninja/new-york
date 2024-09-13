@@ -1,5 +1,5 @@
 ---
 title: "Pinot's Palette"
 url: /mamaroneck/pinots-palette/
-shop: Kunst
+shop: art
 ---

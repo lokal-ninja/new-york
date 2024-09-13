@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /poughkeepsie/verizon/
-shop: Handy
+shop: mobile phone
 ---

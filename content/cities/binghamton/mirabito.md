@@ -1,5 +1,5 @@
 ---
 title: "Mirabito"
 url: /binghamton/mirabito/
-shop: Lebensmittel
+shop: convenience
 ---

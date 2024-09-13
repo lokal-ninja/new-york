@@ -1,5 +1,5 @@
 ---
 title: "The Jewelry Clinic"
 url: /riverhead/the-jewelry-clinic/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aerus Electrolux"
 url: /colonie/aerus-electrolux/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /queensbury/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

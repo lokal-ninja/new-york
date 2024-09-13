@@ -1,5 +1,5 @@
 ---
 title: "Monro Muffler Brake"
 url: /north-tonawanda/monro-muffler-brake/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cliptomania Salon"
 url: /east-syracuse/cliptomania-salon/
-shop: Friseur
+shop: hairdresser
 ---

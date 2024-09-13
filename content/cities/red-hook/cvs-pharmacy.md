@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /red-hook/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

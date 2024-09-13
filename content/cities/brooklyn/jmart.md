@@ -1,5 +1,5 @@
 ---
 title: "Jmart"
 url: /brooklyn/jmart/
-shop: Supermarkt
+shop: supermarket
 ---

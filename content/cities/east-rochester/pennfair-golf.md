@@ -1,5 +1,5 @@
 ---
 title: "Pennfair Golf"
 url: /east-rochester/pennfair-golf/
-shop: Sport
+shop: sports
 ---

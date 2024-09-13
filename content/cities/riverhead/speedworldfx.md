@@ -1,5 +1,5 @@
 ---
 title: "SpeedworldFX"
 url: /riverhead/speedworldfx/
-shop: Autoteile
+shop: car parts
 ---

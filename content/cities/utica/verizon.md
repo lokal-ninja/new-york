@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /utica/verizon/
-shop: Handy
+shop: mobile phone
 ---

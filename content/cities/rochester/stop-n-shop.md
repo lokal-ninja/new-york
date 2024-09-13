@@ -1,5 +1,5 @@
 ---
 title: "Stop-n-Shop"
 url: /rochester/stop-n-shop/
-shop: Lebensmittel
+shop: convenience
 ---

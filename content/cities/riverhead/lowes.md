@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /riverhead/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

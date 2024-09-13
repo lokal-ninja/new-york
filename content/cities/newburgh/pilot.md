@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /newburgh/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

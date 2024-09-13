@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens Centereach"
 url: /centereach/ifixscreens-centereach/
-shop: Handy
+shop: mobile phone
 ---

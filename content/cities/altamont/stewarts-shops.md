@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
 url: /altamont/stewarts-shops/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /riverhead/pandora/
-shop: Schmuck
+shop: jewelry
 ---

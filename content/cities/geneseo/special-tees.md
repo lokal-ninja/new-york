@@ -1,5 +1,5 @@
 ---
 title: "Special Tees"
 url: /geneseo/special-tees/
-shop: Allgemein
+shop: shop
 ---

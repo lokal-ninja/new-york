@@ -1,5 +1,5 @@
 ---
 title: "Millies"
 url: /brooklyn/millies/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Welcome Relief"
 url: /ballston-spa/welcome-relief/
-shop: Massage
+shop: massage
 ---

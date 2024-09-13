@@ -1,5 +1,5 @@
 ---
 title: "Angel Tips"
 url: /jericho/angel-tips/
-shop: Kosmetik
+shop: beauty
 ---

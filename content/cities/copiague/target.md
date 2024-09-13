@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /copiague/target/
-shop: Warenhaus
+shop: department store
 ---

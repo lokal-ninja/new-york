@@ -1,5 +1,5 @@
 ---
 title: "Diva Nail Spa"
 url: /hewlett/diva-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

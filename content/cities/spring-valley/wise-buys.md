@@ -1,5 +1,5 @@
 ---
 title: "Wise Buys"
 url: /spring-valley/wise-buys/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /rochester/wegmans-chili-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

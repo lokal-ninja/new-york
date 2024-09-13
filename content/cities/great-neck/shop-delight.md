@@ -1,5 +1,5 @@
 ---
 title: "Shop Delight"
 url: /great-neck/shop-delight/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /buffalo/dollar-general-seneca-street/
-shop: Kramladen
+shop: variety store
 ---

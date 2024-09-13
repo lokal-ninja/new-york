@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /riverhead/ifixscreens/
-shop: Handy
+shop: mobile phone
 ---

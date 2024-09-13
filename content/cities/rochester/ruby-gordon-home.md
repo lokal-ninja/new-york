@@ -1,5 +1,5 @@
 ---
 title: "Ruby-Gordon Home"
 url: /rochester/ruby-gordon-home/
-shop: Möbel
+shop: furniture
 ---

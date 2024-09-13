@@ -1,5 +1,5 @@
 ---
 title: "Kulture Bike Shop"
 url: /brooklyn/kulture-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

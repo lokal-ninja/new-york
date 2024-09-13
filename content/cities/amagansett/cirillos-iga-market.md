@@ -1,5 +1,5 @@
 ---
 title: "Cirillo's IGA Market"
 url: /amagansett/cirillos-iga-market/
-shop: Supermarkt
+shop: supermarket
 ---

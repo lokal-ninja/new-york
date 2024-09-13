@@ -1,5 +1,5 @@
 ---
 title: "Riverdale-on-Hudson Funeral Home, Inc."
 url: /bronx/riverdale-on-hudson-funeral-home-inc/
-shop: Bestattungen
+shop: funeral directors
 ---

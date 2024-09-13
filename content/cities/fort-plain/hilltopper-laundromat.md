@@ -1,5 +1,5 @@
 ---
 title: "Hilltopper Laundromat"
 url: /fort-plain/hilltopper-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

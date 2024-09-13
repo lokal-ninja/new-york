@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /kingston/speedway-broadway/
-shop: Lebensmittel
+shop: convenience
 ---

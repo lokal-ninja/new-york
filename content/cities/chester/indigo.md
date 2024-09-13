@@ -1,5 +1,5 @@
 ---
 title: "Indigo"
 url: /chester/indigo/
-shop: Kosmetik
+shop: beauty
 ---

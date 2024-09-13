@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /oakland-gardens/metro-by-t-mobile/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Excellent Adventures Comic Books"
 url: /ballston-spa/excellent-adventures-comic-books/
-shop: Sammler
+shop: collector
 ---

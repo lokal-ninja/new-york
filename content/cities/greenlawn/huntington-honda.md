@@ -1,5 +1,5 @@
 ---
 title: "Huntington Honda"
 url: /greenlawn/huntington-honda/
-shop: Autohaus
+shop: car
 ---

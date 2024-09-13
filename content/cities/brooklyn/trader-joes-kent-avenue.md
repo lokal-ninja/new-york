@@ -1,5 +1,5 @@
 ---
 title: "Trader Joe's"
 url: /brooklyn/trader-joes-kent-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

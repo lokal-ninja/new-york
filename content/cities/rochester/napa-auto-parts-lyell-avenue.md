@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /rochester/napa-auto-parts-lyell-avenue/
-shop: Autoteile
+shop: car parts
 ---

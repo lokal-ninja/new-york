@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /jamaica/burlington/
-shop: Warenhaus
+shop: department store
 ---

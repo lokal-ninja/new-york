@@ -1,5 +1,5 @@
 ---
 title: "The Chain"
 url: /saratoga-springs/the-chain/
-shop: Friseur
+shop: hairdresser
 ---

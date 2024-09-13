@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /troy/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

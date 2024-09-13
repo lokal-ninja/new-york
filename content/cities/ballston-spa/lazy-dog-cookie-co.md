@@ -1,5 +1,5 @@
 ---
 title: "Lazy Dog Cookie Co"
 url: /ballston-spa/lazy-dog-cookie-co/
-shop: Bäckerei
+shop: bakery
 ---

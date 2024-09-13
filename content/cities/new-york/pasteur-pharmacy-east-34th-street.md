@@ -1,5 +1,5 @@
 ---
 title: "Pasteur Pharmacy"
 url: /new-york/pasteur-pharmacy-east-34th-street/
-shop: Allgemein
+shop: shop
 ---

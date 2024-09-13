@@ -1,5 +1,5 @@
 ---
 title: "Winchester Delicatessen"
 url: /queens-village/winchester-delicatessen/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phone Store"
 url: /brooklyn/phone-store/
-shop: Allgemein
+shop: shop
 ---

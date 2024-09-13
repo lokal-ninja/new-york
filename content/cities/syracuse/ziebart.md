@@ -1,5 +1,5 @@
 ---
 title: "Ziebart"
 url: /syracuse/ziebart/
-shop: Autowerkstatt
+shop: car repair
 ---

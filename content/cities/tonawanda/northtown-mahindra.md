@@ -1,5 +1,5 @@
 ---
 title: "Northtown Mahindra"
 url: /tonawanda/northtown-mahindra/
-shop: Dorfladen
+shop: general
 ---

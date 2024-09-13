@@ -1,5 +1,5 @@
 ---
 title: "The Shop"
 url: /indian-lake/the-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

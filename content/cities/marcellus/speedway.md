@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /marcellus/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

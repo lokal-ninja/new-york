@@ -1,5 +1,5 @@
 ---
 title: "Selfie Clothing Boutique"
 url: /brooklyn/selfie-clothing-boutique/
-shop: Kleidung
+shop: clothes
 ---

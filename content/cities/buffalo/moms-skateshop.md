@@ -1,5 +1,5 @@
 ---
 title: "Mom's Skateshop"
 url: /buffalo/moms-skateshop/
-shop: Kleidung
+shop: clothes
 ---

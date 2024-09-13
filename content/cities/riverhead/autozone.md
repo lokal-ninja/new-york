@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /riverhead/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Johnstons Subaru"
 url: /middletown/johnstons-subaru/
-shop: Autohaus
+shop: car
 ---

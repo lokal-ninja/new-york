@@ -1,5 +1,5 @@
 ---
 title: "Nic's Village Deli"
 url: /akron/nics-village-deli/
-shop: Lebensmittel
+shop: convenience
 ---

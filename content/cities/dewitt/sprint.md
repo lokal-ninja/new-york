@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /dewitt/sprint/
-shop: Handy
+shop: mobile phone
 ---

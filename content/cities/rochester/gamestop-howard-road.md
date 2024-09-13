@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /rochester/gamestop-howard-road/
-shop: Videospiele
+shop: video games
 ---

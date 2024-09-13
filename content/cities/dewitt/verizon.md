@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /dewitt/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adams Fairacre Farms"
 url: /poughkeepsie/adams-fairacre-farms/
-shop: Supermarkt
+shop: supermarket
 ---

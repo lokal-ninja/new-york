@@ -1,5 +1,5 @@
 ---
 title: "Seaview Liquors"
 url: /seaview/seaview-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

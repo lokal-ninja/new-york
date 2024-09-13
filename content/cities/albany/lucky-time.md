@@ -1,5 +1,5 @@
 ---
 title: "Lucky Time"
 url: /albany/lucky-time/
-shop: Lebensmittel
+shop: convenience
 ---

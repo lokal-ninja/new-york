@@ -1,5 +1,5 @@
 ---
 title: "Robe Galery"
 url: /monsey/robe-galery/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Williston Wellness"
 url: /williston-park/williston-wellness/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

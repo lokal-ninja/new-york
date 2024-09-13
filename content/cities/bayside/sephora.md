@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /bayside/sephora/
-shop: Kosmetik
+shop: beauty
 ---

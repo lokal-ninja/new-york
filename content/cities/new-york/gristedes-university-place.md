@@ -1,5 +1,5 @@
 ---
 title: "Gristedes"
 url: /new-york/gristedes-university-place/
-shop: Supermarkt
+shop: supermarket
 ---

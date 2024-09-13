@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /highland/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

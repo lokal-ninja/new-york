@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /syracuse/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

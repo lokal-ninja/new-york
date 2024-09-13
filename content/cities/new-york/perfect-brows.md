@@ -1,5 +1,5 @@
 ---
 title: "Perfect Brows"
 url: /new-york/perfect-brows/
-shop: Kosmetik
+shop: beauty
 ---

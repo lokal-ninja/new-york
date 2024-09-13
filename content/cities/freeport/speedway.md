@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /freeport/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

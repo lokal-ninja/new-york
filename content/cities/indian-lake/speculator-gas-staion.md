@@ -1,5 +1,5 @@
 ---
 title: "Speculator Gas Staion"
 url: /indian-lake/speculator-gas-staion/
-shop: Lebensmittel
+shop: convenience
 ---

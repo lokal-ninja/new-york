@@ -1,5 +1,5 @@
 ---
 title: "Diyaanaat NY"
 url: /jamaica/diyaanaat-ny/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cicero/speedway-brewerton-road/
-shop: Lebensmittel
+shop: convenience
 ---

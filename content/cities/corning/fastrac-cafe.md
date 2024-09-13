@@ -1,5 +1,5 @@
 ---
 title: "Fastrac Cafe"
 url: /corning/fastrac-cafe/
-shop: Lebensmittel
+shop: convenience
 ---

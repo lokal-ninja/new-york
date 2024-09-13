@@ -1,5 +1,5 @@
 ---
 title: "Ideal Pharmacy"
 url: /brooklyn/ideal-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

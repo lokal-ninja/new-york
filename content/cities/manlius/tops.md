@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /manlius/tops/
-shop: Supermarkt
+shop: supermarket
 ---

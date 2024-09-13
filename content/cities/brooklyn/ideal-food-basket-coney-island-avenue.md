@@ -1,5 +1,5 @@
 ---
 title: "Ideal Food Basket"
 url: /brooklyn/ideal-food-basket-coney-island-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

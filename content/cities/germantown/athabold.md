@@ -1,5 +1,5 @@
 ---
 title: "Athabold"
 url: /germantown/athabold/
-shop: Blumen
+shop: florist
 ---

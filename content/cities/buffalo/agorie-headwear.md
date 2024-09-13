@@ -1,5 +1,5 @@
 ---
 title: "Agorie Headwear"
 url: /buffalo/agorie-headwear/
-shop: Modehaus
+shop: boutique
 ---

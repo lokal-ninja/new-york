@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /east-meadow/mattress-firm/
-shop: Betten
+shop: bed
 ---

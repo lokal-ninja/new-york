@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /cicero/autozone/
-shop: Autoteile
+shop: car parts
 ---

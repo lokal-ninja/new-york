@@ -1,5 +1,5 @@
 ---
 title: "Cedarhurst Auto Repair"
 url: /cedarhurst/cedarhurst-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

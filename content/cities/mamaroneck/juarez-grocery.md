@@ -1,5 +1,5 @@
 ---
 title: "Juarez Grocery"
 url: /mamaroneck/juarez-grocery/
-shop: Dorfladen
+shop: general
 ---

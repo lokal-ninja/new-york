@@ -1,5 +1,5 @@
 ---
 title: "Tong's Cafe"
 url: /flushing/tongs-cafe/
-shop: Bäckerei
+shop: bakery
 ---

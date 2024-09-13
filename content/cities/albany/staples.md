@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /albany/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

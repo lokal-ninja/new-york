@@ -1,5 +1,5 @@
 ---
 title: "Dollar Deals"
 url: /new-york/dollar-deals/
-shop: Kramladen
+shop: variety store
 ---

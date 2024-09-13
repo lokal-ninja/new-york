@@ -1,5 +1,5 @@
 ---
 title: "Genesys Laser Skin Clinic"
 url: /flushing/genesys-laser-skin-clinic/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ROOM"
 url: /buffalo/room/
-shop: Raumausstattung
+shop: interior decoration
 ---

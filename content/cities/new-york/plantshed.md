@@ -1,5 +1,5 @@
 ---
 title: "PlantShed"
 url: /new-york/plantshed/
-shop: Garten-Center
+shop: garden centre
 ---

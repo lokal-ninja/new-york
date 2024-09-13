@@ -1,5 +1,5 @@
 ---
 title: "Superfresh"
 url: /sunnyside/superfresh/
-shop: Supermarkt
+shop: supermarket
 ---

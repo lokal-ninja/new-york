@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /pearl-river/verizon/
-shop: Allgemein
+shop: shop
 ---

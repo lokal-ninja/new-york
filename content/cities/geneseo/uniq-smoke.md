@@ -1,5 +1,5 @@
 ---
 title: "UNIQ SMOKE"
 url: /geneseo/uniq-smoke/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

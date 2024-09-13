@@ -1,5 +1,5 @@
 ---
 title: "Olympia Sports"
 url: /geneseo/olympia-sports/
-shop: Sport
+shop: sports
 ---

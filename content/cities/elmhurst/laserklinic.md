@@ -1,5 +1,5 @@
 ---
 title: "LaserKlinic"
 url: /elmhurst/laserklinic/
-shop: Optiker
+shop: optician
 ---

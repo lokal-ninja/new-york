@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /saratoga-springs/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

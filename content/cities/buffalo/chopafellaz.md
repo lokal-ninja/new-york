@@ -1,5 +1,5 @@
 ---
 title: "Chopafellaz"
 url: /buffalo/chopafellaz/
-shop: Friseur
+shop: hairdresser
 ---

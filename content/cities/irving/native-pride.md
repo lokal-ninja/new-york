@@ -1,5 +1,5 @@
 ---
 title: "Native Pride"
 url: /irving/native-pride/
-shop: Lebensmittel
+shop: convenience
 ---

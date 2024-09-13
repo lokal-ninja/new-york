@@ -1,5 +1,5 @@
 ---
 title: "The Cheese Store"
 url: /cedarhurst/the-cheese-store/
-shop: Käse
+shop: cheese
 ---

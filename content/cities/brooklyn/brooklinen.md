@@ -1,5 +1,5 @@
 ---
 title: "Brooklinen"
 url: /brooklyn/brooklinen/
-shop: Allgemein
+shop: shop
 ---

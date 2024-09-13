@@ -1,5 +1,5 @@
 ---
 title: "C-Town"
 url: /corona/c-town/
-shop: Supermarkt
+shop: supermarket
 ---

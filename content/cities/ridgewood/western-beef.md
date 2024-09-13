@@ -1,5 +1,5 @@
 ---
 title: "Western Beef"
 url: /ridgewood/western-beef/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smoke Paradise"
 url: /stony-brook/smoke-paradise/
-shop: Tabak
+shop: tobacco
 ---

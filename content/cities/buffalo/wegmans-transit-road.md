@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /buffalo/wegmans-transit-road/
-shop: Supermarkt
+shop: supermarket
 ---

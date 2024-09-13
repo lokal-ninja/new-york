@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens Lynbrook"
 url: /lynbrook/ifixscreens-lynbrook/
-shop: Handy
+shop: mobile phone
 ---

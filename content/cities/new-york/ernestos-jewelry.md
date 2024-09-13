@@ -1,5 +1,5 @@
 ---
 title: "Ernesto's Jewelry"
 url: /new-york/ernestos-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

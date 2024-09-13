@@ -1,5 +1,5 @@
 ---
 title: "Reflections Salon"
 url: /buffalo/reflections-salon/
-shop: Friseur
+shop: hairdresser
 ---

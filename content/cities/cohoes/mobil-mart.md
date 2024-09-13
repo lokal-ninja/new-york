@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /cohoes/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

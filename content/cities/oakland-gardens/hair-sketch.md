@@ -1,5 +1,5 @@
 ---
 title: "Hair Sketch"
 url: /oakland-gardens/hair-sketch/
-shop: Friseur
+shop: hairdresser
 ---

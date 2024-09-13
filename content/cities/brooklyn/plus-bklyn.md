@@ -1,5 +1,5 @@
 ---
 title: "Plus Bklyn"
 url: /brooklyn/plus-bklyn/
-shop: Kleidung
+shop: clothes
 ---

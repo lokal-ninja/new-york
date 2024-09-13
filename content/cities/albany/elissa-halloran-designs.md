@@ -1,5 +1,5 @@
 ---
 title: "Elissa Halloran Designs"
 url: /albany/elissa-halloran-designs/
-shop: Andenken
+shop: gift
 ---

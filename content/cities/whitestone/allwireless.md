@@ -1,5 +1,5 @@
 ---
 title: "AllWireless"
 url: /whitestone/allwireless/
-shop: Handy
+shop: mobile phone
 ---

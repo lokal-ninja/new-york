@@ -1,5 +1,5 @@
 ---
 title: "Ramapo Power Tools"
 url: /monsey/ramapo-power-tools/
-shop: Werkzeuge
+shop: tools
 ---

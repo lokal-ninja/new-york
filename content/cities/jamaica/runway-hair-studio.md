@@ -1,5 +1,5 @@
 ---
 title: "Runway Hair Studio"
 url: /jamaica/runway-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

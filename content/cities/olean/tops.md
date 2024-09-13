@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /olean/tops/
-shop: Supermarkt
+shop: supermarket
 ---

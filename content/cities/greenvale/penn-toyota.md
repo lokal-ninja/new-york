@@ -1,5 +1,5 @@
 ---
 title: "Penn Toyota"
 url: /greenvale/penn-toyota/
-shop: Autohaus
+shop: car
 ---

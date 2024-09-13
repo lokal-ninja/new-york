@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /new-hartford/hannaford-commercial-drive/
-shop: Supermarkt
+shop: supermarket
 ---

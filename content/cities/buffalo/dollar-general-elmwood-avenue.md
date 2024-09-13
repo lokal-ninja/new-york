@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /buffalo/dollar-general-elmwood-avenue/
-shop: Kramladen
+shop: variety store
 ---

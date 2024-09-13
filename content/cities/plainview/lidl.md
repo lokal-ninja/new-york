@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /plainview/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

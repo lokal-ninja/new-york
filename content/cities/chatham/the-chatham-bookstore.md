@@ -1,5 +1,5 @@
 ---
 title: "The Chatham Bookstore"
 url: /chatham/the-chatham-bookstore/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /new-york/uniqlo-5th-avenue/
-shop: Kleidung
+shop: clothes
 ---

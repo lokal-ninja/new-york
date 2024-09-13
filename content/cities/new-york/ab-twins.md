@@ -1,5 +1,5 @@
 ---
 title: "AB Twins"
 url: /new-york/ab-twins/
-shop: Lebensmittel
+shop: convenience
 ---

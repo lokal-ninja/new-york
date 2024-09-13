@@ -1,5 +1,5 @@
 ---
 title: "Luxury Pet Spa and Boutique"
 url: /new-hyde-park/luxury-pet-spa-and-boutique/
-shop: Tiersalon
+shop: pet grooming
 ---

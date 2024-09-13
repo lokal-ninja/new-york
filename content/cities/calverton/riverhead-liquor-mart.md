@@ -1,5 +1,5 @@
 ---
 title: "Riverhead Liquor Mart"
 url: /calverton/riverhead-liquor-mart/
-shop: Spirituosen
+shop: alcohol
 ---

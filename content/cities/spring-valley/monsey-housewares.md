@@ -1,5 +1,5 @@
 ---
 title: "Monsey Housewares"
 url: /spring-valley/monsey-housewares/
-shop: Haushaltsartikel
+shop: houseware
 ---

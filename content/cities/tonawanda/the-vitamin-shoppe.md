@@ -1,5 +1,5 @@
 ---
 title: "The Vitamin Shoppe"
 url: /tonawanda/the-vitamin-shoppe/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

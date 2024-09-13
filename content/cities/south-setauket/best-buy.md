@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /south-setauket/best-buy/
-shop: Elektronik
+shop: electronics
 ---

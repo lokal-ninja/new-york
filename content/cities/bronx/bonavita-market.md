@@ -1,5 +1,5 @@
 ---
 title: "Bonavita Market"
 url: /bronx/bonavita-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harbor House East"
 url: /cold-spring-harbor/harbor-house-east/
-shop: Antiquitäten
+shop: antiques
 ---

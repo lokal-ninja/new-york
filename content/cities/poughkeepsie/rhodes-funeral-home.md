@@ -1,5 +1,5 @@
 ---
 title: "Rhodes Funeral Home"
 url: /poughkeepsie/rhodes-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

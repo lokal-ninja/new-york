@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /east-amherst/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

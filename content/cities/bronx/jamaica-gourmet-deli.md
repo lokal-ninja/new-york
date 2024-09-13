@@ -1,5 +1,5 @@
 ---
 title: "Jamaica Gourmet Deli"
 url: /bronx/jamaica-gourmet-deli/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Topka"
 url: /woodstock/topka/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Korn's Bakery"
 url: /brooklyn/korns-bakery/
-shop: Bäckerei
+shop: bakery
 ---

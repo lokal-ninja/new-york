@@ -1,5 +1,5 @@
 ---
 title: "Hannaford"
 url: /walden/hannaford/
-shop: Supermarkt
+shop: supermarket
 ---

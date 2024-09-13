@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens"
 url: /shirley/ifixscreens/
-shop: Handy
+shop: mobile phone
 ---

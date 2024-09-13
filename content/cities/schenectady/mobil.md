@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /schenectady/mobil/
-shop: Lebensmittel
+shop: convenience
 ---

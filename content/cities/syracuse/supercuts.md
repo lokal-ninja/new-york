@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /syracuse/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

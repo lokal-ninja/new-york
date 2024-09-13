@@ -1,5 +1,5 @@
 ---
 title: "CellStop"
 url: /ridgewood/cellstop/
-shop: Handy
+shop: mobile phone
 ---

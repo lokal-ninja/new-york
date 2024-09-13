@@ -1,5 +1,5 @@
 ---
 title: "Hearts Thrift Store"
 url: /buffalo/hearts-thrift-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

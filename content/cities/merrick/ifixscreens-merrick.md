@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens Merrick"
 url: /merrick/ifixscreens-merrick/
-shop: Handy
+shop: mobile phone
 ---

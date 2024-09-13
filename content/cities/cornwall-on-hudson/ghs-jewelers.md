@@ -1,5 +1,5 @@
 ---
 title: "GHS Jewelers"
 url: /cornwall-on-hudson/ghs-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

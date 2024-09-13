@@ -1,5 +1,5 @@
 ---
 title: "Scime's Sausage"
 url: /buffalo/scimes-sausage/
-shop: Metzgerei
+shop: butcher
 ---

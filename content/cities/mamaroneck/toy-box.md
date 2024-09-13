@@ -1,5 +1,5 @@
 ---
 title: "Toy Box"
 url: /mamaroneck/toy-box/
-shop: Spielzeug
+shop: toys
 ---

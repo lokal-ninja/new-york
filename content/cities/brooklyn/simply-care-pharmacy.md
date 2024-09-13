@@ -1,5 +1,5 @@
 ---
 title: "Simply Care Pharmacy"
 url: /brooklyn/simply-care-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

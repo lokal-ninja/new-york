@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /wappingers-falls/verizon/
-shop: Handy
+shop: mobile phone
 ---

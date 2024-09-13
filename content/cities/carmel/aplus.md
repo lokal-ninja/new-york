@@ -1,5 +1,5 @@
 ---
 title: "APlus"
 url: /carmel/aplus/
-shop: Lebensmittel
+shop: convenience
 ---

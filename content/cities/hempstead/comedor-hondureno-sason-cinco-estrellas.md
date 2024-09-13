@@ -1,5 +1,5 @@
 ---
 title: "Comedor Hondureno Sason Cinco Estrellas"
 url: /hempstead/comedor-hondureno-sason-cinco-estrellas/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ziebart"
 url: /albany/ziebart/
-shop: Autowerkstatt
+shop: car repair
 ---

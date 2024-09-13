@@ -1,5 +1,5 @@
 ---
 title: "Tully's Auto Body"
 url: /huntington/tullys-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

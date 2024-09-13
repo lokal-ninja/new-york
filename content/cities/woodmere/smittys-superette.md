@@ -1,5 +1,5 @@
 ---
 title: "Smitty's Superette"
 url: /woodmere/smittys-superette/
-shop: Feinkost
+shop: deli
 ---

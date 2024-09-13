@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cicero/walgreens/
-shop: Drogerie
+shop: chemist
 ---

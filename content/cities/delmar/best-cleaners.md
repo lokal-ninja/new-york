@@ -1,5 +1,5 @@
 ---
 title: "Best Cleaners"
 url: /delmar/best-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

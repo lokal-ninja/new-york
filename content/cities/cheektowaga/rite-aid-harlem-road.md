@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /cheektowaga/rite-aid-harlem-road/
-shop: Drogerie
+shop: chemist
 ---

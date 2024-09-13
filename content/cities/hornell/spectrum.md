@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /hornell/spectrum/
-shop: Handy
+shop: mobile phone
 ---

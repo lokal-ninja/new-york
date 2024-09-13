@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /buffalo/dollar-tree-sheridan-drive-2/
-shop: Kramladen
+shop: variety store
 ---

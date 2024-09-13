@@ -1,5 +1,5 @@
 ---
 title: "Solvay Super Saver"
 url: /syracuse/solvay-super-saver/
-shop: Lebensmittel
+shop: convenience
 ---

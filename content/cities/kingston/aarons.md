@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /kingston/aarons/
-shop: Mieten
+shop: storage rental
 ---

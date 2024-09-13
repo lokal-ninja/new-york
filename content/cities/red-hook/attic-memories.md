@@ -1,5 +1,5 @@
 ---
 title: "Attic Memories"
 url: /red-hook/attic-memories/
-shop: Antiquitäten
+shop: antiques
 ---

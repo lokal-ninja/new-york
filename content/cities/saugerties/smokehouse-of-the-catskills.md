@@ -1,5 +1,5 @@
 ---
 title: "Smokehouse of the Catskills"
 url: /saugerties/smokehouse-of-the-catskills/
-shop: Metzgerei
+shop: butcher
 ---

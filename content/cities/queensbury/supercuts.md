@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /queensbury/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

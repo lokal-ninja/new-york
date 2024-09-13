@@ -1,5 +1,5 @@
 ---
 title: "Alltown Fresh"
 url: /schenectady/alltown-fresh/
-shop: Bioladen
+shop: health food
 ---

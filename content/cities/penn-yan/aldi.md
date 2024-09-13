@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /penn-yan/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

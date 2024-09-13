@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /jamaica/gamestop/
-shop: Videospiele
+shop: video games
 ---

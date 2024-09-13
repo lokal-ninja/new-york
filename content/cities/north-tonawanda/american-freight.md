@@ -1,5 +1,5 @@
 ---
 title: "American Freight"
 url: /north-tonawanda/american-freight/
-shop: Warenhaus
+shop: department store
 ---

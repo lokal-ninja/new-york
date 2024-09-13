@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /ridgewood/gamestop/
-shop: Videospiele
+shop: video games
 ---

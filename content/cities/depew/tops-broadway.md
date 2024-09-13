@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /depew/tops-broadway/
-shop: Supermarkt
+shop: supermarket
 ---

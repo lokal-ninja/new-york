@@ -1,5 +1,5 @@
 ---
 title: "Plato's Closet"
 url: /tonawanda/platos-closet/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lego"
 url: /new-york/lego-5th-avenue/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CardSmart"
 url: /glen-cove/cardsmart/
-shop: Schreibwaren
+shop: office supplies
 ---

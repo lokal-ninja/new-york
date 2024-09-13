@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /colonie/spectrum/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glimmerglass Arts and Antiques"
 url: /cooperstown/glimmerglass-arts-and-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

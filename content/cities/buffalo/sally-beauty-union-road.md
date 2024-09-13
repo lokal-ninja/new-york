@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /buffalo/sally-beauty-union-road/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

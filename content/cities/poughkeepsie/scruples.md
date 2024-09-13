@@ -1,5 +1,5 @@
 ---
 title: "Scruples"
 url: /poughkeepsie/scruples/
-shop: Kleidung
+shop: clothes
 ---

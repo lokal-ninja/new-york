@@ -1,5 +1,5 @@
 ---
 title: "Precision Cabinets"
 url: /west-hempstead/precision-cabinets/
-shop: Küchen
+shop: kitchen
 ---

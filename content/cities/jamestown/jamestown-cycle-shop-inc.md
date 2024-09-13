@@ -1,5 +1,5 @@
 ---
 title: "Jamestown Cycle Shop, Inc"
 url: /jamestown/jamestown-cycle-shop-inc/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Imagination"
 url: /north-tonawanda/salon-imagination/
-shop: Friseur
+shop: hairdresser
 ---

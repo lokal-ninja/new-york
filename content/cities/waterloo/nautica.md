@@ -1,5 +1,5 @@
 ---
 title: "Nautica"
 url: /waterloo/nautica/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunkin'"
 url: /newburgh/dunkin/
-shop: Konditorei
+shop: pastry
 ---

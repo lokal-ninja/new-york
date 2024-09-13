@@ -1,5 +1,5 @@
 ---
 title: "The Hair Palace"
 url: /buffalo/the-hair-palace/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

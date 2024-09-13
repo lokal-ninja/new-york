@@ -1,5 +1,5 @@
 ---
 title: "Five Five Auto Repair"
 url: /queens/five-five-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

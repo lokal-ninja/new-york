@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bainbridge/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

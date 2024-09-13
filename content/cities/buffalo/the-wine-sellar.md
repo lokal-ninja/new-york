@@ -1,5 +1,5 @@
 ---
 title: "The Wine Sellar"
 url: /buffalo/the-wine-sellar/
-shop: Wein
+shop: wine
 ---

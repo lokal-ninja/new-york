@@ -1,5 +1,5 @@
 ---
 title: "Bacione"
 url: /bronxville/bacione/
-shop: Pasta
+shop: pasta
 ---

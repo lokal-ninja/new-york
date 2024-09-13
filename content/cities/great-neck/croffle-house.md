@@ -1,5 +1,5 @@
 ---
 title: "Croffle House"
 url: /great-neck/croffle-house/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magic Jewelry"
 url: /new-york/magic-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

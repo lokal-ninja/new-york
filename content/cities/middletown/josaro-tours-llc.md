@@ -1,5 +1,5 @@
 ---
 title: "Josaro Tours LLC"
 url: /middletown/josaro-tours-llc/
-shop: Reisebüro
+shop: travel agency
 ---

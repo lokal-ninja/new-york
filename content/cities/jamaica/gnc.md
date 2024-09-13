@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /jamaica/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

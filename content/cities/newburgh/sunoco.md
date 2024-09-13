@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /newburgh/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

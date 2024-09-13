@@ -1,5 +1,5 @@
 ---
 title: "Merrell"
 url: /waterloo/merrell/
-shop: Schuhe
+shop: shoes
 ---

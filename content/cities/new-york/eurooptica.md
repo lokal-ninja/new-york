@@ -1,5 +1,5 @@
 ---
 title: "Eurooptica"
 url: /new-york/eurooptica/
-shop: Optiker
+shop: optician
 ---

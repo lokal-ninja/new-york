@@ -1,5 +1,5 @@
 ---
 title: "Kenyon's"
 url: /lockport/kenyons/
-shop: Lebensmittel
+shop: convenience
 ---

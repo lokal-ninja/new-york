@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /lynbrook/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ye Olde Book Shoppe"
 url: /kingston/ye-olde-book-shoppe/
-shop: Bücher
+shop: books
 ---

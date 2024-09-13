@@ -1,5 +1,5 @@
 ---
 title: "Foodtown"
 url: /yonkers/foodtown/
-shop: Supermarkt
+shop: supermarket
 ---

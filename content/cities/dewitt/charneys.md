@@ -1,5 +1,5 @@
 ---
 title: "Charney's"
 url: /dewitt/charneys/
-shop: Kleidung
+shop: clothes
 ---

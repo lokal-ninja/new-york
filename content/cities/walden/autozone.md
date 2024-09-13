@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /walden/autozone/
-shop: Autoteile
+shop: car parts
 ---

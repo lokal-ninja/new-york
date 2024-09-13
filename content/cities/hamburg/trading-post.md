@@ -1,5 +1,5 @@
 ---
 title: "Trading Post"
 url: /hamburg/trading-post/
-shop: Antiquitäten
+shop: antiques
 ---

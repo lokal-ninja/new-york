@@ -1,5 +1,5 @@
 ---
 title: "Dignity Memorial"
 url: /hewlett/dignity-memorial/
-shop: Bestattungen
+shop: funeral directors
 ---

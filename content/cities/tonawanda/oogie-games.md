@@ -1,5 +1,5 @@
 ---
 title: "Oogie Games"
 url: /tonawanda/oogie-games/
-shop: Videospiele
+shop: video games
 ---

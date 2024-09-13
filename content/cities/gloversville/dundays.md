@@ -1,5 +1,5 @@
 ---
 title: "Dundays"
 url: /gloversville/dundays/
-shop: Kleidung
+shop: clothes
 ---

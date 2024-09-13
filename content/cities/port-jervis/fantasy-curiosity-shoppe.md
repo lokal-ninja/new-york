@@ -1,5 +1,5 @@
 ---
 title: "Fantasy Curiosity Shoppe"
 url: /port-jervis/fantasy-curiosity-shoppe/
-shop: Sammler
+shop: collector
 ---

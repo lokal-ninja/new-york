@@ -1,5 +1,5 @@
 ---
 title: "Bassett Furniture"
 url: /victor/bassett-furniture/
-shop: Möbel
+shop: furniture
 ---

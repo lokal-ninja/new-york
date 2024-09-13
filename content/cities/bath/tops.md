@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /bath/tops/
-shop: Supermarkt
+shop: supermarket
 ---

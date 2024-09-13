@@ -1,5 +1,5 @@
 ---
 title: "Perry’s Pet Grooming"
 url: /east-rockaway/perrys-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

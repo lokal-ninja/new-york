@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /niagara-falls/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /queens/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

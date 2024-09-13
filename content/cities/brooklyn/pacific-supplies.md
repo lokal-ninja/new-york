@@ -1,5 +1,5 @@
 ---
 title: "Pacific Supplies"
 url: /brooklyn/pacific-supplies/
-shop: Eisenwaren
+shop: hardware
 ---

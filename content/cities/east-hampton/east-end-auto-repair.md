@@ -1,5 +1,5 @@
 ---
 title: "East End Auto Repair"
 url: /east-hampton/east-end-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

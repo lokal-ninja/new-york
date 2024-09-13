@@ -1,5 +1,5 @@
 ---
 title: "Shobha"
 url: /new-york/shobha/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /niagara-falls/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

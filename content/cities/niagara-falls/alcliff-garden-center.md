@@ -1,5 +1,5 @@
 ---
 title: "Alcliff Garden Center"
 url: /niagara-falls/alcliff-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

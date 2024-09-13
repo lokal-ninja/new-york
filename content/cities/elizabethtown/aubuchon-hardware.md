@@ -1,5 +1,5 @@
 ---
 title: "Aubuchon Hardware"
 url: /elizabethtown/aubuchon-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

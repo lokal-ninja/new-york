@@ -1,5 +1,5 @@
 ---
 title: "Main Street Tires And Repairs"
 url: /buffalo/main-street-tires-and-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Bat Factory"
 url: /hancock/old-bat-factory/
-shop: Lebensmittel
+shop: convenience
 ---

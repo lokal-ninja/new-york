@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /rochester/jcpenney-greece-ridge-center-drive/
-shop: Warenhaus
+shop: department store
 ---

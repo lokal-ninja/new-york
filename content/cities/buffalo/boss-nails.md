@@ -1,5 +1,5 @@
 ---
 title: "Boss Nails"
 url: /buffalo/boss-nails/
-shop: Kosmetik
+shop: beauty
 ---

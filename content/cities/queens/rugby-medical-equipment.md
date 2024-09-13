@@ -1,5 +1,5 @@
 ---
 title: "Rugby Medical Equipment"
 url: /queens/rugby-medical-equipment/
-shop: Sanitätshaus
+shop: medical supply
 ---

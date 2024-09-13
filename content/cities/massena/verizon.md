@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /massena/verizon/
-shop: Handy
+shop: mobile phone
 ---

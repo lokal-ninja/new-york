@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /east-rochester/spectrum/
-shop: Handy
+shop: mobile phone
 ---

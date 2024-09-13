@@ -1,5 +1,5 @@
 ---
 title: "Shampooch Pet Salon"
 url: /mamaroneck/shampooch-pet-salon/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /manhasset/talbots/
-shop: Kleidung
+shop: clothes
 ---

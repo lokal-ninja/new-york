@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /jamaica/marshalls/
-shop: Warenhaus
+shop: department store
 ---

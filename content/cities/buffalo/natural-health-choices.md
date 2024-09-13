@@ -1,5 +1,5 @@
 ---
 title: "Natural Health Choices"
 url: /buffalo/natural-health-choices/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /new-hyde-park/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lad Lady"
 url: /monsey/lad-lady/
-shop: Kleidung
+shop: clothes
 ---

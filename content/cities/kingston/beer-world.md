@@ -1,5 +1,5 @@
 ---
 title: "Beer World"
 url: /kingston/beer-world/
-shop: Spirituosen
+shop: alcohol
 ---

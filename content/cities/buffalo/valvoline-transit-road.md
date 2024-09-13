@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /buffalo/valvoline-transit-road/
-shop: Autowerkstatt
+shop: car repair
 ---

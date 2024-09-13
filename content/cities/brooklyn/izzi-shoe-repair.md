@@ -1,5 +1,5 @@
 ---
 title: "Izzi Shoe Repair"
 url: /brooklyn/izzi-shoe-repair/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Purrfect Cafe and Gallery"
 url: /buffalo/purrfect-cafe-and-gallery/
-shop: Tiere
+shop: pet
 ---

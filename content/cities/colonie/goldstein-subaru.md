@@ -1,5 +1,5 @@
 ---
 title: "Goldstein Subaru"
 url: /colonie/goldstein-subaru/
-shop: Autohaus
+shop: car
 ---

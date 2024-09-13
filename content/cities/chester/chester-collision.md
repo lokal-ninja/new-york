@@ -1,5 +1,5 @@
 ---
 title: "Chester Collision"
 url: /chester/chester-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

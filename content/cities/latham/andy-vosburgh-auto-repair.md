@@ -1,5 +1,5 @@
 ---
 title: "Andy Vosburgh Auto Repair"
 url: /latham/andy-vosburgh-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

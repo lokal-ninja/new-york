@@ -1,5 +1,5 @@
 ---
 title: "Lazyboy"
 url: /middletown/lazyboy/
-shop: Möbel
+shop: furniture
 ---

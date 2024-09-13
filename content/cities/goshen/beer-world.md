@@ -1,5 +1,5 @@
 ---
 title: "Beer World"
 url: /goshen/beer-world/
-shop: Spirituosen
+shop: alcohol
 ---

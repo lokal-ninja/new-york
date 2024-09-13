@@ -1,5 +1,5 @@
 ---
 title: "SunTrac"
 url: /bridgeport/suntrac/
-shop: Lebensmittel
+shop: convenience
 ---

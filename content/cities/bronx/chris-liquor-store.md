@@ -1,5 +1,5 @@
 ---
 title: "Chris Liquor Store"
 url: /bronx/chris-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

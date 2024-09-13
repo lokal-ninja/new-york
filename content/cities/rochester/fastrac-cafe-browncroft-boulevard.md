@@ -1,5 +1,5 @@
 ---
 title: "Fastrac Cafe"
 url: /rochester/fastrac-cafe-browncroft-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

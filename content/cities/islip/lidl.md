@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /islip/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marianne's Alterations"
 url: /schenectady/mariannes-alterations/
-shop: Kleidung
+shop: clothes
 ---

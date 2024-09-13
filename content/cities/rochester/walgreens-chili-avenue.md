@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /rochester/walgreens-chili-avenue/
-shop: Drogerie
+shop: chemist
 ---

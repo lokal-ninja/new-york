@@ -1,5 +1,5 @@
 ---
 title: "Fine Fare Supermarkets"
 url: /brooklyn/fine-fare-supermarkets/
-shop: Supermarkt
+shop: supermarket
 ---

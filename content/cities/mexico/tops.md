@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /mexico/tops/
-shop: Supermarkt
+shop: supermarket
 ---

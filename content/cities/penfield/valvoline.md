@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /penfield/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

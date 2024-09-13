@@ -1,5 +1,5 @@
 ---
 title: "Frontier Glass"
 url: /orchard-park/frontier-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

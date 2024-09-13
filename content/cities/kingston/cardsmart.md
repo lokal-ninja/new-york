@@ -1,5 +1,5 @@
 ---
 title: "CardSmart"
 url: /kingston/cardsmart/
-shop: Schreibwaren
+shop: office supplies
 ---

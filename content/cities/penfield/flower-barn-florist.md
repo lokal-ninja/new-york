@@ -1,5 +1,5 @@
 ---
 title: "Flower Barn Florist"
 url: /penfield/flower-barn-florist/
-shop: Blumen
+shop: florist
 ---

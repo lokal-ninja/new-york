@@ -1,5 +1,5 @@
 ---
 title: "Fuego Coffee Roasters"
 url: /rochester/fuego-coffee-roasters/
-shop: Kaffee
+shop: coffee
 ---

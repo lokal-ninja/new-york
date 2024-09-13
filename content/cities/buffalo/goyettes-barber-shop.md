@@ -1,5 +1,5 @@
 ---
 title: "Goyette's Barber Shop"
 url: /buffalo/goyettes-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

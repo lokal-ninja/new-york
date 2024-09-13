@@ -1,5 +1,5 @@
 ---
 title: "Empire Auto"
 url: /brooklyn/empire-auto/
-shop: Allgemein
+shop: shop
 ---

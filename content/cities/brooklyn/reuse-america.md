@@ -1,5 +1,5 @@
 ---
 title: "Reuse America"
 url: /brooklyn/reuse-america/
-shop: Gebrauchtwaren
+shop: charity
 ---

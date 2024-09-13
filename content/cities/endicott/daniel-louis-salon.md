@@ -1,5 +1,5 @@
 ---
 title: "Daniel Louis Salon"
 url: /endicott/daniel-louis-salon/
-shop: Kosmetik
+shop: beauty
 ---

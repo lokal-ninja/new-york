@@ -1,5 +1,5 @@
 ---
 title: "McCarthy Tyre Service"
 url: /oneonta/mccarthy-tyre-service/
-shop: Reifen
+shop: tyres
 ---

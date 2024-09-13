@@ -1,5 +1,5 @@
 ---
 title: "The Birch Store"
 url: /keene-valley/the-birch-store/
-shop: Raumausstattung
+shop: interior decoration
 ---

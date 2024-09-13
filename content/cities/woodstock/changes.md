@@ -1,5 +1,5 @@
 ---
 title: "Changes"
 url: /woodstock/changes/
-shop: Kleidung
+shop: clothes
 ---

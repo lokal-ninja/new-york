@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /hornell/aarons/
-shop: Möbel
+shop: furniture
 ---

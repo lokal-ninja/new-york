@@ -1,5 +1,5 @@
 ---
 title: "Kwik Shop"
 url: /weedsport/kwik-shop/
-shop: Lebensmittel
+shop: convenience
 ---

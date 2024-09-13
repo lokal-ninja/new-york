@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /malta/price-chopper/
-shop: Supermarkt
+shop: supermarket
 ---

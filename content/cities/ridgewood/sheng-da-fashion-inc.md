@@ -1,5 +1,5 @@
 ---
 title: "Sheng Da Fashion Inc"
 url: /ridgewood/sheng-da-fashion-inc/
-shop: Kramladen
+shop: variety store
 ---

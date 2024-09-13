@@ -1,5 +1,5 @@
 ---
 title: "Bridal Emporium"
 url: /endicott/bridal-emporium/
-shop: Kleidung
+shop: clothes
 ---

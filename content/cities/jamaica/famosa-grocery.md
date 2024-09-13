@@ -1,5 +1,5 @@
 ---
 title: "Famosa Grocery"
 url: /jamaica/famosa-grocery/
-shop: Feinkost
+shop: deli
 ---

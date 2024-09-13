@@ -1,5 +1,5 @@
 ---
-title: "Crate and Barrel"
+title: "Crate & Barrel"
 url: /new-york/crate-and-barrel/
-shop: Haushaltsartikel
+shop: furniture
 ---

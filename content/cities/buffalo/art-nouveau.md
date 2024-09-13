@@ -1,5 +1,5 @@
 ---
 title: "Art Nouveau"
 url: /buffalo/art-nouveau/
-shop: Friseur
+shop: hairdresser
 ---

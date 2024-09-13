@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /ozone-park/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

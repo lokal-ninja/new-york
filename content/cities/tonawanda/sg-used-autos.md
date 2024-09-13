@@ -1,5 +1,5 @@
 ---
 title: "SG Used Autos"
 url: /tonawanda/sg-used-autos/
-shop: Autohaus
+shop: car
 ---

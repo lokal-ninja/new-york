@@ -1,5 +1,5 @@
 ---
 title: "WomanMade Products"
 url: /seneca-falls/womanmade-products/
-shop: Kramladen
+shop: variety store
 ---

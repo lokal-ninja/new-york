@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /tonawanda/family-dollar-sheridan-drive/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "US Food Mart"
 url: /cohoes/us-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

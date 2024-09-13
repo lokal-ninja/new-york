@@ -1,5 +1,5 @@
 ---
 title: "Royale Flower"
 url: /albany/royale-flower/
-shop: Hanf
+shop: cannabis
 ---

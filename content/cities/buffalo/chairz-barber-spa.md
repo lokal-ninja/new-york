@@ -1,5 +1,5 @@
 ---
 title: "Chairz Barber Spa"
 url: /buffalo/chairz-barber-spa/
-shop: Friseur
+shop: hairdresser
 ---

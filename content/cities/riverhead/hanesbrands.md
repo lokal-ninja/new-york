@@ -1,5 +1,5 @@
 ---
 title: "Hanesbrands"
 url: /riverhead/hanesbrands/
-shop: Kleidung
+shop: clothes
 ---

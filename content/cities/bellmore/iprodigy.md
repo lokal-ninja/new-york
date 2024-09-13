@@ -1,5 +1,5 @@
 ---
 title: "iProdigy"
 url: /bellmore/iprodigy/
-shop: Handy
+shop: mobile phone
 ---

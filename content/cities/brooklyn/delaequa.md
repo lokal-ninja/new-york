@@ -1,5 +1,5 @@
 ---
 title: "Delaequa"
 url: /brooklyn/delaequa/
-shop: Kosmetik
+shop: beauty
 ---

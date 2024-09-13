@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /new-hartford/autozone/
-shop: Autoteile
+shop: car parts
 ---

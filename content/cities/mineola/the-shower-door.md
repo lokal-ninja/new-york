@@ -1,5 +1,5 @@
 ---
 title: "The Shower Door"
 url: /mineola/the-shower-door/
-shop: Badezimmer
+shop: bathroom
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valu Home Center"
 url: /lakewood/valu-home-center/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guthrie Med Supply Depot"
 url: /ithaca/guthrie-med-supply-depot/
-shop: Sanitätshaus
+shop: medical supply
 ---

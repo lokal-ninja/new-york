@@ -1,5 +1,5 @@
 ---
 title: "London Boutique"
 url: /astoria/london-boutique/
-shop: Erotik
+shop: erotic
 ---

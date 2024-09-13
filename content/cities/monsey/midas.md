@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /monsey/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

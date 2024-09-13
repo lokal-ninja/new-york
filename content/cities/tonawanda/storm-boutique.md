@@ -1,5 +1,5 @@
 ---
 title: "Storm Boutique"
 url: /tonawanda/storm-boutique/
-shop: Friseur
+shop: hairdresser
 ---

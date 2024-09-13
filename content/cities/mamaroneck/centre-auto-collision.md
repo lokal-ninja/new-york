@@ -1,5 +1,5 @@
 ---
 title: "Centre Auto Collision"
 url: /mamaroneck/centre-auto-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

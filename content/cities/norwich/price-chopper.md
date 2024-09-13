@@ -1,5 +1,5 @@
 ---
 title: "Price Chopper"
 url: /norwich/price-chopper/
-shop: Supermarkt
+shop: supermarket
 ---

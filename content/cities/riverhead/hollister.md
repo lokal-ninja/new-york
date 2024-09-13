@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /riverhead/hollister/
-shop: Kleidung
+shop: clothes
 ---

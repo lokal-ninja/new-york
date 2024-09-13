@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /jamaica/spectrum/
-shop: Handy
+shop: mobile phone
 ---

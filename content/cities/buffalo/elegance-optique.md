@@ -1,5 +1,5 @@
 ---
 title: "Elegance Optique"
 url: /buffalo/elegance-optique/
-shop: Optiker
+shop: optician
 ---

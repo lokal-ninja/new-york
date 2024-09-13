@@ -1,5 +1,5 @@
 ---
 title: "Arctic Glacier Premium Ice"
 url: /mamaroneck/arctic-glacier-premium-ice/
-shop: Tiefkühl
+shop: frozen food
 ---

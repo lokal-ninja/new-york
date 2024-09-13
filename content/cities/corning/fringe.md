@@ -1,5 +1,5 @@
 ---
 title: "Fringe"
 url: /corning/fringe/
-shop: Friseur
+shop: hairdresser
 ---

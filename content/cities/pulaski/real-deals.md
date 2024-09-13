@@ -1,5 +1,5 @@
 ---
 title: "Real Deals"
 url: /pulaski/real-deals/
-shop: Kramladen
+shop: variety store
 ---

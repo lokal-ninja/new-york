@@ -1,5 +1,5 @@
 ---
 title: "Stationary"
 url: /south-valley-stream/stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

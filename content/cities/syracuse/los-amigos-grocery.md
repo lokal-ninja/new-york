@@ -1,5 +1,5 @@
 ---
 title: "Los Amigos Grocery"
 url: /syracuse/los-amigos-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

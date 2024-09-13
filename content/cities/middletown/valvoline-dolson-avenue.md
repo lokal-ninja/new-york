@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /middletown/valvoline-dolson-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

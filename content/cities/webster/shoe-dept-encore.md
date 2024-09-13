@@ -1,5 +1,5 @@
 ---
 title: "Shoe Dept. Encore"
 url: /webster/shoe-dept-encore/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /calverton/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

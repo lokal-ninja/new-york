@@ -1,5 +1,5 @@
 ---
 title: "Lee's"
 url: /boonville/lees/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Natures Harvest"
 url: /poughkeepsie/natures-harvest/
-shop: Bioladen
+shop: health food
 ---

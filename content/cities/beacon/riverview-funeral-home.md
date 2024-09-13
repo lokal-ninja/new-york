@@ -1,5 +1,5 @@
 ---
 title: "Riverview Funeral Home"
 url: /beacon/riverview-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

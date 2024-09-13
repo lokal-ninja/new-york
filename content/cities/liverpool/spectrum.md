@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /liverpool/spectrum/
-shop: Handy
+shop: mobile phone
 ---

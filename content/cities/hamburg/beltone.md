@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /hamburg/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Selwood Monuments"
 url: /fort-plain/selwood-monuments/
-shop: Allgemein
+shop: shop
 ---

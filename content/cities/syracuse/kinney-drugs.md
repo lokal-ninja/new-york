@@ -1,5 +1,5 @@
 ---
 title: "Kinney Drugs"
 url: /syracuse/kinney-drugs/
-shop: Lebensmittel
+shop: convenience
 ---

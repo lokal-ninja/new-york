@@ -1,5 +1,5 @@
 ---
 title: "Sea Flower Spa"
 url: /queens/sea-flower-spa/
-shop: Massage
+shop: massage
 ---

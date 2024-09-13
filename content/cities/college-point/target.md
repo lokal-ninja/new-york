@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /college-point/target/
-shop: Warenhaus
+shop: department store
 ---

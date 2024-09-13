@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /buffalo/sunoco-delaware-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

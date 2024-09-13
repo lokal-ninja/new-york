@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /dewitt/sleep-number/
-shop: Betten
+shop: bed
 ---

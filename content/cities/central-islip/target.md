@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /central-islip/target/
-shop: Warenhaus
+shop: department store
 ---

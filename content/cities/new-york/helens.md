@@ -1,5 +1,5 @@
 ---
 title: "Helen's"
 url: /new-york/helens/
-shop: Wäscherei
+shop: laundry
 ---

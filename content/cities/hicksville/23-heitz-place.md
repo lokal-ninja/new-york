@@ -1,5 +1,5 @@
 ---
 title: "23 Heitz Place"
 url: /hicksville/23-heitz-place/
-shop: Autowerkstatt
+shop: car repair
 ---

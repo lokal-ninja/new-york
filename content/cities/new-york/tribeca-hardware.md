@@ -1,5 +1,5 @@
 ---
 title: "TriBeCa Hardware"
 url: /new-york/tribeca-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

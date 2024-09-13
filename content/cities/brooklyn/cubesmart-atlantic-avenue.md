@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /brooklyn/cubesmart-atlantic-avenue/
-shop: Mieten
+shop: storage rental
 ---

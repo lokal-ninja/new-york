@@ -1,5 +1,5 @@
 ---
 title: "Citi Nails"
 url: /east-rockaway/citi-nails/
-shop: Kosmetik
+shop: beauty
 ---

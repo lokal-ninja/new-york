@@ -1,5 +1,5 @@
 ---
 title: "White's Paint Store"
 url: /watertown/whites-paint-store/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pery Wigs"
 url: /brooklyn/pery-wigs/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Drug Mart"
 url: /millwood/drug-mart/
-shop: Drogerie
+shop: chemist
 ---

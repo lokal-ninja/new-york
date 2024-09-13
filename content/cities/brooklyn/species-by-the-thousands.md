@@ -1,5 +1,5 @@
 ---
 title: "Species By The Thousands"
 url: /brooklyn/species-by-the-thousands/
-shop: Allgemein
+shop: shop
 ---

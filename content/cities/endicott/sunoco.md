@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /endicott/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

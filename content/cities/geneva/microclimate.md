@@ -1,5 +1,5 @@
 ---
 title: "Microclimate"
 url: /geneva/microclimate/
-shop: Wein
+shop: wine
 ---

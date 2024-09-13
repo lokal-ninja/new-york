@@ -1,5 +1,5 @@
 ---
 title: "Barner Books"
 url: /new-paltz/barner-books/
-shop: Bücher
+shop: books
 ---

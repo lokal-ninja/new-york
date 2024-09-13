@@ -1,5 +1,5 @@
 ---
 title: "GreenStar Natural Foods Market"
 url: /ithaca/greenstar-natural-foods-market/
-shop: Supermarkt
+shop: supermarket
 ---

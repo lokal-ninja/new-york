@@ -1,5 +1,5 @@
 ---
 title: "Party World"
 url: /rockville-centre/party-world/
-shop: Partyzubehör
+shop: party
 ---

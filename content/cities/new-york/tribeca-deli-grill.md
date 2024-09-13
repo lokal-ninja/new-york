@@ -1,5 +1,5 @@
 ---
 title: "Tribeca Deli Grill"
 url: /new-york/tribeca-deli-grill/
-shop: Feinkost
+shop: deli
 ---

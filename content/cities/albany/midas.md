@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /albany/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

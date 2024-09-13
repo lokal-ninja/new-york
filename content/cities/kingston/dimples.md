@@ -1,5 +1,5 @@
 ---
 title: "Dimples"
 url: /kingston/dimples/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Northtown Garden Center"
 url: /buffalo/northtown-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

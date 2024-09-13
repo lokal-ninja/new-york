@@ -1,5 +1,5 @@
 ---
 title: "El Jarochito"
 url: /brooklyn/el-jarochito/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MS Jewelers"
 url: /new-hampton/ms-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tinder Box"
 url: /buffalo/tinder-box/
-shop: Tabak
+shop: tobacco
 ---

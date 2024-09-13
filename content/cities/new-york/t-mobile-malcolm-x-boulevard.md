@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /new-york/t-mobile-malcolm-x-boulevard/
-shop: Handy
+shop: mobile phone
 ---

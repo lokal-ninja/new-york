@@ -1,5 +1,5 @@
 ---
 title: "Orville's Home Appliances"
 url: /victor/orvilles-home-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

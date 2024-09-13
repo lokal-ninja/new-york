@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /new-rochelle/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

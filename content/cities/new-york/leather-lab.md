@@ -1,5 +1,5 @@
 ---
 title: "Leather Lab"
 url: /new-york/leather-lab/
-shop: Schuhe
+shop: shoes
 ---

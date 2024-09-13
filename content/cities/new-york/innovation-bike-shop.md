@@ -1,5 +1,5 @@
 ---
 title: "Innovation Bike Shop"
 url: /new-york/innovation-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amin Fabrics"
 url: /new-york/amin-fabrics/
-shop: Textil
+shop: fabric
 ---

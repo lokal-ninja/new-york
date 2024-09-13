@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /castleton-on-hudson/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

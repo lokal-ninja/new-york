@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /latham/petsmart/
-shop: Tiere
+shop: pet
 ---

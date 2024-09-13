@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /bayside/gamestop/
-shop: Videospiele
+shop: video games
 ---

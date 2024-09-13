@@ -1,5 +1,5 @@
 ---
 title: "Kiehl's"
 url: /brooklyn/kiehls/
-shop: Kosmetik
+shop: beauty
 ---

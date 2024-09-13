@@ -1,5 +1,5 @@
 ---
 title: "Craftidious"
 url: /jamaica/craftidious/
-shop: Raumausstattung
+shop: interior decoration
 ---

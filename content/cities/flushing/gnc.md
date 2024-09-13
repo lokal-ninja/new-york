@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /flushing/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

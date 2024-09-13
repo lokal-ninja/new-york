@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /brewster/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

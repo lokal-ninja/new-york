@@ -1,5 +1,5 @@
 ---
 title: "Vape Central"
 url: /west-hempstead/vape-central/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

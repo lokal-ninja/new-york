@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /stony-brook/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

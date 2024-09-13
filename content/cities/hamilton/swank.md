@@ -1,5 +1,5 @@
 ---
 title: "Swank"
 url: /hamilton/swank/
-shop: Raumausstattung
+shop: interior decoration
 ---

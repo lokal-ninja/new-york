@@ -1,5 +1,5 @@
 ---
 title: "Glamorous Jewelers"
 url: /mamaroneck/glamorous-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

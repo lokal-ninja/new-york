@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /rensselaer/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

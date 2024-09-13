@@ -1,5 +1,5 @@
 ---
 title: "Mega Pawn"
 url: /liverpool/mega-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

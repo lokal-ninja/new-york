@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /niagara-falls/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Salvation Army"
 url: /liverpool/the-salvation-army/
-shop: Gebrauchtwaren
+shop: charity
 ---

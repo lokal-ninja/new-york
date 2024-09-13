@@ -1,5 +1,5 @@
 ---
 title: "Etain"
 url: /kingston/etain/
-shop: Hanf
+shop: cannabis
 ---

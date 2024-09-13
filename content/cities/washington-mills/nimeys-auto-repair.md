@@ -1,5 +1,5 @@
 ---
 title: "Nimey's Auto Repair"
 url: /washington-mills/nimeys-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

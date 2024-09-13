@@ -1,5 +1,5 @@
 ---
 title: "Salon V"
 url: /mamaroneck/salon-v/
-shop: Friseur
+shop: hairdresser
 ---

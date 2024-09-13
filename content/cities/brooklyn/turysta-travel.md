@@ -1,5 +1,5 @@
 ---
 title: "Turysta Travel"
 url: /brooklyn/turysta-travel/
-shop: Reisebüro
+shop: travel agency
 ---

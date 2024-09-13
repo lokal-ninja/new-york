@@ -1,5 +1,5 @@
 ---
 title: "Mid-City Opticians"
 url: /north-tonawanda/mid-city-opticians/
-shop: Optiker
+shop: optician
 ---

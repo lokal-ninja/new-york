@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /victor/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

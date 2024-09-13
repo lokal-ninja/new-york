@@ -1,5 +1,5 @@
 ---
 title: "Health Max"
 url: /brooklyn/health-max/
-shop: Drogerie
+shop: chemist
 ---

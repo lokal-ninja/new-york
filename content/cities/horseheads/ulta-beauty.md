@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /horseheads/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Shops"
 url: /watervliet/stewarts-shops/
-shop: Lebensmittel
+shop: convenience
 ---

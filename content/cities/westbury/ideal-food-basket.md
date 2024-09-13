@@ -1,5 +1,5 @@
 ---
 title: "Ideal Food Basket"
 url: /westbury/ideal-food-basket/
-shop: Supermarkt
+shop: supermarket
 ---

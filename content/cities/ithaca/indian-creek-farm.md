@@ -1,5 +1,5 @@
 ---
 title: "Indian Creek Farm"
 url: /ithaca/indian-creek-farm/
-shop: Hofladen
+shop: farm
 ---

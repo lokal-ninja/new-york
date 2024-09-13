@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /schenectady/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

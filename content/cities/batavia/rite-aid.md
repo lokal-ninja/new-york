@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /batavia/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

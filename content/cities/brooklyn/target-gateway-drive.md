@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /brooklyn/target-gateway-drive/
-shop: Warenhaus
+shop: department store
 ---

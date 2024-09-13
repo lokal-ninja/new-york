@@ -1,5 +1,5 @@
 ---
 title: "Quick Stop Auto Repair"
 url: /jamaica/quick-stop-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

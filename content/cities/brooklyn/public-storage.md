@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /brooklyn/public-storage/
-shop: Mieten
+shop: storage rental
 ---

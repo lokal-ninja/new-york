@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /niagara-falls/7-eleven-hyde-park-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

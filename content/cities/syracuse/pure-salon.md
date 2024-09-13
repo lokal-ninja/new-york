@@ -1,5 +1,5 @@
 ---
 title: "Pure Salon"
 url: /syracuse/pure-salon/
-shop: Kosmetik
+shop: beauty
 ---

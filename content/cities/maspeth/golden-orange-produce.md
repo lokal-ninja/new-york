@@ -1,5 +1,5 @@
 ---
 title: "Golden Orange Produce"
 url: /maspeth/golden-orange-produce/
-shop: Supermarkt
+shop: supermarket
 ---

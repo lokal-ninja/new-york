@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /avon/tops/
-shop: Supermarkt
+shop: supermarket
 ---

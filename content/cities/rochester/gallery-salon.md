@@ -1,5 +1,5 @@
 ---
 title: "Gallery Salon"
 url: /rochester/gallery-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lewis Music"
 url: /mineola/lewis-music/
-shop: Instrumente
+shop: musical instrument
 ---

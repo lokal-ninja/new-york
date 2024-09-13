@@ -1,5 +1,5 @@
 ---
 title: "AAA"
 url: /lockport/aaa/
-shop: Reisebüro
+shop: travel agency
 ---

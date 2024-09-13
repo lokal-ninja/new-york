@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /poughkeepsie/autozone-main-street/
-shop: Autoteile
+shop: car parts
 ---

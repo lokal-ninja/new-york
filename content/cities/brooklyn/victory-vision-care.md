@@ -1,5 +1,5 @@
 ---
 title: "Victory Vision Care"
 url: /brooklyn/victory-vision-care/
-shop: Optiker
+shop: optician
 ---

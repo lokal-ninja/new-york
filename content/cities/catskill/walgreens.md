@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /catskill/walgreens/
-shop: Drogerie
+shop: chemist
 ---

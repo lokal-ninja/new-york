@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /schenectady/kia/
-shop: Autohaus
+shop: car
 ---

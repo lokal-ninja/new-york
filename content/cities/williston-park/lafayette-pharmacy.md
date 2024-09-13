@@ -1,5 +1,5 @@
 ---
 title: "Lafayette Pharmacy"
 url: /williston-park/lafayette-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

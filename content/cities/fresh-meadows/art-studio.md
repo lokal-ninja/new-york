@@ -1,5 +1,5 @@
 ---
 title: "Art Studio"
 url: /fresh-meadows/art-studio/
-shop: Basteln
+shop: craft
 ---

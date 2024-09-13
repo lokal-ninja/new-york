@@ -1,5 +1,5 @@
 ---
 title: "eskander"
 url: /new-york/eskander/
-shop: Kleidung
+shop: clothes
 ---

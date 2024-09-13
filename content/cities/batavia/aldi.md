@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /batavia/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

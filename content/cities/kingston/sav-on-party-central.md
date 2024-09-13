@@ -1,5 +1,5 @@
 ---
 title: "Sav-On Party Central"
 url: /kingston/sav-on-party-central/
-shop: Mieten
+shop: storage rental
 ---

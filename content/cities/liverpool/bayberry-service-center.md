@@ -1,5 +1,5 @@
 ---
 title: "Bayberry Service Center"
 url: /liverpool/bayberry-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

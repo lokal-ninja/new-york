@@ -1,5 +1,5 @@
 ---
 title: "Styling Salon"
 url: /montgomery/styling-salon/
-shop: Friseur
+shop: hairdresser
 ---

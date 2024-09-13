@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /hannibal/tops/
-shop: Supermarkt
+shop: supermarket
 ---

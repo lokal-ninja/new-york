@@ -1,5 +1,5 @@
 ---
 title: "AHC Applicances"
 url: /cedarhurst/ahc-applicances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

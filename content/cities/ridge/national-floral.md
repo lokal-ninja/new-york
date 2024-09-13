@@ -1,5 +1,5 @@
 ---
 title: "National Floral"
 url: /ridge/national-floral/
-shop: Blumen
+shop: florist
 ---

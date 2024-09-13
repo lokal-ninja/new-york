@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /depew/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

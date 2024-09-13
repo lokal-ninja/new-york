@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rochester/aldi-mount-read-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

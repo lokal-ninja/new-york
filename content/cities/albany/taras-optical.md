@@ -1,5 +1,5 @@
 ---
 title: "Taras Optical"
 url: /albany/taras-optical/
-shop: Optiker
+shop: optician
 ---

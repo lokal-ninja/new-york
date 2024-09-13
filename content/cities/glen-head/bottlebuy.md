@@ -1,5 +1,5 @@
 ---
 title: "BottleBuy"
 url: /glen-head/bottlebuy/
-shop: Wein
+shop: wine
 ---

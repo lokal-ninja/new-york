@@ -1,5 +1,5 @@
 ---
 title: "Buffalo Beauty Lounge"
 url: /buffalo/buffalo-beauty-lounge/
-shop: Kosmetik
+shop: beauty
 ---

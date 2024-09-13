@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bronx/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

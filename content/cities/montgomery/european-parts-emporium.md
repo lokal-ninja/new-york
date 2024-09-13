@@ -1,5 +1,5 @@
 ---
 title: "European Parts Emporium"
 url: /montgomery/european-parts-emporium/
-shop: Autowerkstatt
+shop: car repair
 ---

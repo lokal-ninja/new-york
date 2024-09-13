@@ -1,5 +1,5 @@
 ---
 title: "Supervacuums"
 url: /tonawanda/supervacuums/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

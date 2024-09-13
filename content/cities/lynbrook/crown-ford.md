@@ -1,5 +1,5 @@
 ---
 title: "Crown Ford"
 url: /lynbrook/crown-ford/
-shop: Autohaus
+shop: car
 ---

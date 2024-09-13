@@ -1,5 +1,5 @@
 ---
 title: "Beauty 21"
 url: /flushing/beauty-21/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /deer-park/kohls/
-shop: Warenhaus
+shop: department store
 ---

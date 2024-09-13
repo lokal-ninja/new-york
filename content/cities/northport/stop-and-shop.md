@@ -1,5 +1,5 @@
 ---
 title: "Stop and Shop"
 url: /northport/stop-and-shop/
-shop: Supermarkt
+shop: supermarket
 ---

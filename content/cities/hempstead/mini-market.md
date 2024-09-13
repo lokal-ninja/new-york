@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /hempstead/mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

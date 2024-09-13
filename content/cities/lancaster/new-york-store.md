@@ -1,5 +1,5 @@
 ---
 title: "New York Store"
 url: /lancaster/new-york-store/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Far East Liquor"
 url: /brooklyn/far-east-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

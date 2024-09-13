@@ -1,5 +1,5 @@
 ---
 title: "XIOS"
 url: /brooklyn/xios/
-shop: Kleidung
+shop: clothes
 ---

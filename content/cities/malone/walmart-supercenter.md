@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /malone/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

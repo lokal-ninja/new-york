@@ -1,5 +1,5 @@
 ---
 title: "Chadwicks Collision"
 url: /chadwicks/chadwicks-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

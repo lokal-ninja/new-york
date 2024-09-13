@@ -1,5 +1,5 @@
 ---
 title: "Artistic Neon, Inc."
 url: /ridgewood/artistic-neon-inc/
-shop: Allgemein
+shop: shop
 ---

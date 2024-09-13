@@ -1,5 +1,5 @@
 ---
 title: "Crest Hardware Store"
 url: /brooklyn/crest-hardware-store-metropolitan-avenue/
-shop: Eisenwaren
+shop: hardware
 ---

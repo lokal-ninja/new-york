@@ -1,5 +1,5 @@
 ---
 title: "Utica Bread"
 url: /new-hartford/utica-bread/
-shop: Bäckerei
+shop: bakery
 ---

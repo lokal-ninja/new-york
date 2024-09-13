@@ -1,5 +1,5 @@
 ---
 title: "Farnsworth Collision"
 url: /shortsville/farnsworth-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

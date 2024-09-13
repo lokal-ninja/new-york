@@ -1,5 +1,5 @@
 ---
 title: "Book Club"
 url: /new-york/book-club/
-shop: Bücher
+shop: books
 ---

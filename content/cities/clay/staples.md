@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /clay/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

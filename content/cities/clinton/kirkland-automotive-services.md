@@ -1,5 +1,5 @@
 ---
 title: "Kirkland Automotive Services"
 url: /clinton/kirkland-automotive-services/
-shop: Autowerkstatt
+shop: car repair
 ---

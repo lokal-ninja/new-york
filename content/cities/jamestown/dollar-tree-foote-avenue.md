@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /jamestown/dollar-tree-foote-avenue/
-shop: Kramladen
+shop: variety store
 ---

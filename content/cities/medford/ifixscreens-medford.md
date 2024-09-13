@@ -1,5 +1,5 @@
 ---
 title: "iFixScreens Medford"
 url: /medford/ifixscreens-medford/
-shop: Handy
+shop: mobile phone
 ---

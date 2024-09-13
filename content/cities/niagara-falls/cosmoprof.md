@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /niagara-falls/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

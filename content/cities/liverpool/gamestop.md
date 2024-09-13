@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /liverpool/gamestop/
-shop: Videospiele
+shop: video games
 ---

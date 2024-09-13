@@ -1,5 +1,5 @@
 ---
 title: "Cuomo Country Pools"
 url: /duanesburg/cuomo-country-pools/
-shop: Pool
+shop: swimming pool
 ---

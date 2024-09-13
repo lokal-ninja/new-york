@@ -1,5 +1,5 @@
 ---
 title: "Dog Days of Buffalo"
 url: /cheektowaga/dog-days-of-buffalo/
-shop: Tiersalon
+shop: pet grooming
 ---

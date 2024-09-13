@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /albany/old-navy/
-shop: Kleidung
+shop: clothes
 ---

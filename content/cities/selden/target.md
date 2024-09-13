@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /selden/target/
-shop: Warenhaus
+shop: department store
 ---

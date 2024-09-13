@@ -1,5 +1,5 @@
 ---
 title: "The Bagel Shoppe"
 url: /beacon/the-bagel-shoppe/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feston Boutique"
 url: /jamaica/feston-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /rochester/wegmans-east-ridge-road/
-shop: Supermarkt
+shop: supermarket
 ---

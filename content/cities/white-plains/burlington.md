@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /white-plains/burlington/
-shop: Warenhaus
+shop: department store
 ---

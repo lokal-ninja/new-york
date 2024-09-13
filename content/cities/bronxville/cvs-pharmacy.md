@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /bronxville/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

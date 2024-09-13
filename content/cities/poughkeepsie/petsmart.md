@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /poughkeepsie/petsmart/
-shop: Tiere
+shop: pet
 ---

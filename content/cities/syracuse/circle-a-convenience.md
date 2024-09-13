@@ -1,5 +1,5 @@
 ---
 title: "Circle A Convenience"
 url: /syracuse/circle-a-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cammps"
 url: /bellerose/cammps/
-shop: Supermarkt
+shop: supermarket
 ---

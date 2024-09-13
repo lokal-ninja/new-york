@@ -1,5 +1,5 @@
 ---
 title: "Kaybirds"
 url: /hancock/kaybirds/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bellissima Hair Studio"
 url: /rockville-centre/bellissima-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tire"
 url: /dewitt/mr-tire/
-shop: Autoteile
+shop: car parts
 ---

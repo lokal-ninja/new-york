@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /depew/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

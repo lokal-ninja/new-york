@@ -1,5 +1,5 @@
 ---
 title: "le joaillier"
 url: /locust-valley/le-joaillier/
-shop: Schmuck
+shop: jewelry
 ---

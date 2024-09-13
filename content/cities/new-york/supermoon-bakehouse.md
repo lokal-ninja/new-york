@@ -1,5 +1,5 @@
 ---
 title: "Supermoon Bakehouse"
 url: /new-york/supermoon-bakehouse/
-shop: Bäckerei
+shop: bakery
 ---

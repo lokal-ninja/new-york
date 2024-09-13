@@ -1,5 +1,5 @@
 ---
 title: "Designing Dish"
 url: /east-aurora/designing-dish/
-shop: Töpferei
+shop: pottery
 ---

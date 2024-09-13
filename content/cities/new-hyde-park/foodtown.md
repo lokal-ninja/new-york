@@ -1,5 +1,5 @@
 ---
 title: "Foodtown"
 url: /new-hyde-park/foodtown/
-shop: Supermarkt
+shop: supermarket
 ---

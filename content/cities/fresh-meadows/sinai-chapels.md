@@ -1,5 +1,5 @@
 ---
 title: "Sinai Chapels"
 url: /fresh-meadows/sinai-chapels/
-shop: Bestattungen
+shop: funeral directors
 ---

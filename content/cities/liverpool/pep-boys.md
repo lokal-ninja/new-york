@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /liverpool/pep-boys/
-shop: Autoteile
+shop: car parts
 ---

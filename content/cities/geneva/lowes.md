@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /geneva/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plainview Auto Care"
 url: /plainview/plainview-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

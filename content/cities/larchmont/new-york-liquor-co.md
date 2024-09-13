@@ -1,5 +1,5 @@
 ---
 title: "New York Liquor Co."
 url: /larchmont/new-york-liquor-co/
-shop: Spirituosen
+shop: alcohol
 ---

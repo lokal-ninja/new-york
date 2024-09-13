@@ -1,5 +1,5 @@
 ---
 title: "Johnny Air Mart"
 url: /jamaica/johnny-air-mart/
-shop: Lebensmittel
+shop: convenience
 ---

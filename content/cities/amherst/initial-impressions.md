@@ -1,5 +1,5 @@
 ---
 title: "Initial Impressions"
 url: /amherst/initial-impressions/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /carthage/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

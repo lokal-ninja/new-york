@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /staten-island/speedway-hylan-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

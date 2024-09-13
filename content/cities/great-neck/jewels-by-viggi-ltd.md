@@ -1,5 +1,5 @@
 ---
 title: "Jewels By Viggi Ltd"
 url: /great-neck/jewels-by-viggi-ltd/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cheapies"
 url: /jamaica/cheapies/
-shop: Kramladen
+shop: variety store
 ---

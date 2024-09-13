@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /stony-brook/marshalls/
-shop: Warenhaus
+shop: department store
 ---

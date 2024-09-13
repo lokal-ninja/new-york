@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /riverhead/costco/
-shop: Großhandel
+shop: wholesale
 ---

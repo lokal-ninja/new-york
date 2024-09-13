@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /waterloo/columbia/
-shop: Kleidung
+shop: clothes
 ---

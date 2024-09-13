@@ -1,5 +1,5 @@
 ---
 title: "Honeygirl Gourmet"
 url: /geneseo/honeygirl-gourmet/
-shop: Allgemein
+shop: shop
 ---

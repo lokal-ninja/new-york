@@ -1,5 +1,5 @@
 ---
 title: "Top Shop Collision"
 url: /tonawanda/top-shop-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

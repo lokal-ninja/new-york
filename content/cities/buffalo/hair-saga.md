@@ -1,5 +1,5 @@
 ---
 title: "Hair Saga"
 url: /buffalo/hair-saga/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

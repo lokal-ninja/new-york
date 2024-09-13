@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /long-island-city/target/
-shop: Warenhaus
+shop: department store
 ---

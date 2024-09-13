@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /oceanside/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "idPearl"
 url: /woodstock/idpearl/
-shop: Kleidung
+shop: clothes
 ---

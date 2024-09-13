@@ -1,5 +1,5 @@
 ---
 title: "Infra Rayz"
 url: /liverpool/infra-rayz/
-shop: Kosmetik
+shop: beauty
 ---

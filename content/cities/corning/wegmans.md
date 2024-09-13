@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /corning/wegmans/
-shop: Supermarkt
+shop: supermarket
 ---

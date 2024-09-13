@@ -1,5 +1,5 @@
 ---
 title: "Milton Rents"
 url: /ithaca/milton-rents/
-shop: Mieten
+shop: storage rental
 ---

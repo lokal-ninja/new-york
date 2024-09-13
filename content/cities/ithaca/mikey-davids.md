@@ -1,5 +1,5 @@
 ---
 title: "Mikey David's"
 url: /ithaca/mikey-davids/
-shop: Friseur
+shop: hairdresser
 ---

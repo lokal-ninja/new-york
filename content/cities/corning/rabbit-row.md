@@ -1,5 +1,5 @@
 ---
 title: "Rabbit Row"
 url: /corning/rabbit-row/
-shop: Nähzubehör
+shop: sewing
 ---

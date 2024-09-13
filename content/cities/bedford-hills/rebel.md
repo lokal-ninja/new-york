@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /bedford-hills/rebel/
-shop: Lebensmittel
+shop: convenience
 ---

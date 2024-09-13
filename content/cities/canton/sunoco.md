@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /canton/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

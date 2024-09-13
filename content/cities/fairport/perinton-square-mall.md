@@ -1,5 +1,5 @@
 ---
 title: "Perinton Square Mall"
 url: /fairport/perinton-square-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

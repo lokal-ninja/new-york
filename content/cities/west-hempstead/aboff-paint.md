@@ -1,5 +1,5 @@
 ---
 title: "Aboff Paint"
 url: /west-hempstead/aboff-paint/
-shop: Farben
+shop: paint
 ---

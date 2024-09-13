@@ -1,5 +1,5 @@
 ---
 title: "Deluxe Cleaners"
 url: /mattituck/deluxe-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

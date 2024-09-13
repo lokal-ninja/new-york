@@ -1,5 +1,5 @@
 ---
 title: "GiantLockBox"
 url: /middletown/giantlockbox/
-shop: Mieten
+shop: storage rental
 ---

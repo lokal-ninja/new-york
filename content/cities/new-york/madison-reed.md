@@ -1,5 +1,5 @@
 ---
 title: "Madison Reed"
 url: /new-york/madison-reed/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brighton Collectibles"
 url: /buffalo/brighton-collectibles/
-shop: Modehaus
+shop: boutique
 ---

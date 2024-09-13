@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /watertown/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

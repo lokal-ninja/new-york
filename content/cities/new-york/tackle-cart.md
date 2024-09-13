@@ -1,5 +1,5 @@
 ---
 title: "Tackle Cart"
 url: /new-york/tackle-cart/
-shop: Außenstelle
+shop: outpost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /richmond-hill/spectrum/
-shop: Handy
+shop: mobile phone
 ---

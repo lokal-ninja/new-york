@@ -1,5 +1,5 @@
 ---
 title: "Napoli's"
 url: /buffalo/napolis/
-shop: Kleidung
+shop: clothes
 ---

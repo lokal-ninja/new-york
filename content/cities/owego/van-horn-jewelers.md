@@ -1,5 +1,5 @@
 ---
 title: "Van Horn Jewelers"
 url: /owego/van-horn-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

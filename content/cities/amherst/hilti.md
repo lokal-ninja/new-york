@@ -1,5 +1,5 @@
 ---
 title: "Hilti"
 url: /amherst/hilti/
-shop: Eisenwaren
+shop: hardware
 ---

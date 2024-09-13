@@ -1,5 +1,5 @@
 ---
 title: "Shoe Fly"
 url: /buffalo/shoe-fly/
-shop: Schuhe
+shop: shoes
 ---

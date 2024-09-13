@@ -1,5 +1,5 @@
 ---
 title: "Danny Boy's Cleaners"
 url: /new-york/danny-boys-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

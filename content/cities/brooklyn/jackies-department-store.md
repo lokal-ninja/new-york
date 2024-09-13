@@ -1,5 +1,5 @@
 ---
 title: "Jackie's Department Store"
 url: /brooklyn/jackies-department-store/
-shop: Kramladen
+shop: variety store
 ---

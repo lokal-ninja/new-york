@@ -1,5 +1,5 @@
 ---
 title: "Finn's Garage"
 url: /webster/finns-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

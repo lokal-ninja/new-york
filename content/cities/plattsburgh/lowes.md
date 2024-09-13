@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /plattsburgh/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

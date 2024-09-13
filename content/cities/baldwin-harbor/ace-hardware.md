@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /baldwin-harbor/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dennis Holzman Antiques"
 url: /cohoes/dennis-holzman-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

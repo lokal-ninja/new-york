@@ -1,5 +1,5 @@
 ---
 title: "The Regal Beagle"
 url: /astoria/the-regal-beagle/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /rochester/gamestop/
-shop: Videospiele
+shop: video games
 ---

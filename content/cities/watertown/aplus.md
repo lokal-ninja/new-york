@@ -1,5 +1,5 @@
 ---
 title: "Aplus"
 url: /watertown/aplus/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aerie"
 url: /riverhead/aerie/
-shop: Kleidung
+shop: clothes
 ---

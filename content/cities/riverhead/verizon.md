@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /riverhead/verizon/
-shop: Handy
+shop: mobile phone
 ---

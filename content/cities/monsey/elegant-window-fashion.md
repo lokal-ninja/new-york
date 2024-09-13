@@ -1,5 +1,5 @@
 ---
 title: "Elegant Window Fashion"
 url: /monsey/elegant-window-fashion/
-shop: Jalousien
+shop: window blind
 ---

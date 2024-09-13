@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Nail Inc."
 url: /bronx/hollywood-nail-inc/
-shop: Kosmetik
+shop: beauty
 ---

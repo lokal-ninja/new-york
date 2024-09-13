@@ -1,5 +1,5 @@
 ---
 title: "Empire Refrigeration"
 url: /lynbrook/empire-refrigeration/
-shop: Haushaltsgeräte
+shop: appliance
 ---

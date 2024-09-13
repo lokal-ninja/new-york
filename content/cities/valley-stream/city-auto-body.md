@@ -1,5 +1,5 @@
 ---
 title: "City Auto Body"
 url: /valley-stream/city-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

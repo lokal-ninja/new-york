@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /mamaroneck/shell/
-shop: Lebensmittel
+shop: convenience
 ---

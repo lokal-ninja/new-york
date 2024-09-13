@@ -1,5 +1,5 @@
 ---
 title: "Eaton-Tubbs Fayetteville Chapel"
 url: /fayetteville/eaton-tubbs-fayetteville-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

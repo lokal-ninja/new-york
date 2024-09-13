@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /buffalo/family-dollar-grant-street/
-shop: Kramladen
+shop: variety store
 ---

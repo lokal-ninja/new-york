@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /new-york/staples-broadway-4/
-shop: Schreibwaren
+shop: office supplies
 ---

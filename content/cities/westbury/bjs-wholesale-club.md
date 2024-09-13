@@ -1,5 +1,5 @@
 ---
 title: "BJ's Wholesale Club"
 url: /westbury/bjs-wholesale-club/
-shop: Großhandel
+shop: wholesale
 ---

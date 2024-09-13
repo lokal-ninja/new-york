@@ -1,5 +1,5 @@
 ---
 title: "Bubie's Garage"
 url: /poestenkill/bubies-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guide Fabrics, Inc."
 url: /new-york/guide-fabrics-inc/
-shop: Textil
+shop: fabric
 ---

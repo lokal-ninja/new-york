@@ -1,5 +1,5 @@
 ---
 title: "Fresh Meadow Natural"
 url: /fresh-meadows/fresh-meadow-natural/
-shop: Supermarkt
+shop: supermarket
 ---

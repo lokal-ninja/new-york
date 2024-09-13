@@ -1,5 +1,5 @@
 ---
 title: "C-Town"
 url: /brooklyn/c-town-18th-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

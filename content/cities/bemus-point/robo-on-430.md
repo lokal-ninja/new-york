@@ -1,5 +1,5 @@
 ---
 title: "Robo on 430"
 url: /bemus-point/robo-on-430/
-shop: Lebensmittel
+shop: convenience
 ---

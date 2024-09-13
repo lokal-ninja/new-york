@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /glenville/visionworks/
-shop: Optiker
+shop: optician
 ---

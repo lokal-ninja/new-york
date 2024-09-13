@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /utica/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

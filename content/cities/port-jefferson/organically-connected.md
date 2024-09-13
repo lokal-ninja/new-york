@@ -1,5 +1,5 @@
 ---
 title: "Organically Connected"
 url: /port-jefferson/organically-connected/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /ithaca/advance-auto-parts-elmira-road/
-shop: Autoteile
+shop: car parts
 ---

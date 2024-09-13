@@ -1,5 +1,5 @@
 ---
 title: "Woodfern Florist"
 url: /binghamton/woodfern-florist/
-shop: Blumen
+shop: florist
 ---

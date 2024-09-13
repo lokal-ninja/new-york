@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cicero/walgreens-state-route-31/
-shop: Drogerie
+shop: chemist
 ---

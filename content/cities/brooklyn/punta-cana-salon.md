@@ -1,5 +1,5 @@
 ---
 title: "Punta Cana Salon"
 url: /brooklyn/punta-cana-salon/
-shop: Friseur
+shop: hairdresser
 ---

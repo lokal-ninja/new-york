@@ -1,5 +1,5 @@
 ---
 title: "European Repairs, Inc."
 url: /albany/european-repairs-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

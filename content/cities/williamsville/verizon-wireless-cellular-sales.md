@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless Cellular Sales"
 url: /williamsville/verizon-wireless-cellular-sales/
-shop: Handy
+shop: mobile phone
 ---

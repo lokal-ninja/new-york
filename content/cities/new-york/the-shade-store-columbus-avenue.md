@@ -1,5 +1,5 @@
 ---
 title: "The Shade Store"
 url: /new-york/the-shade-store-columbus-avenue/
-shop: Jalousien
+shop: window blind
 ---

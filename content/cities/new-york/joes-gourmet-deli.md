@@ -1,5 +1,5 @@
 ---
 title: "Joe's Gourmet Deli"
 url: /new-york/joes-gourmet-deli/
-shop: Lebensmittel
+shop: convenience
 ---

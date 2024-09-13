@@ -1,5 +1,5 @@
 ---
 title: "Abingdon Market"
 url: /new-york/abingdon-market/
-shop: Lebensmittel
+shop: convenience
 ---

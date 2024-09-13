@@ -1,5 +1,5 @@
 ---
 title: "Klopp Transmission"
 url: /corning/klopp-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

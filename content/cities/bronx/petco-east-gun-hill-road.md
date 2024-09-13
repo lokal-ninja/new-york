@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /bronx/petco-east-gun-hill-road/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "East Wind - Landscape Nursery"
 url: /belmont/east-wind-landscape-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

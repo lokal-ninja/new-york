@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /glen-cove/petsmart/
-shop: Tiere
+shop: pet
 ---

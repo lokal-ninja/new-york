@@ -1,5 +1,5 @@
 ---
 title: "Dollar Mart"
 url: /lynbrook/dollar-mart/
-shop: Kramladen
+shop: variety store
 ---

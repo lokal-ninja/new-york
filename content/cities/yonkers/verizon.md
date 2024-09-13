@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /yonkers/verizon/
-shop: Handy
+shop: mobile phone
 ---

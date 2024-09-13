@@ -1,5 +1,5 @@
 ---
 title: "DTLR"
 url: /amherst/dtlr/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Columbus Natural Food"
 url: /new-york/columbus-natural-food/
-shop: Lebensmittel
+shop: convenience
 ---

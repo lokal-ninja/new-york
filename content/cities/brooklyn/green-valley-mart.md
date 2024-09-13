@@ -1,5 +1,5 @@
 ---
 title: "Green Valley Mart"
 url: /brooklyn/green-valley-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALL Farmily Farm"
 url: /middletown/all-farmily-farm/
-shop: Metzgerei
+shop: butcher
 ---

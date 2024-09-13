@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /commack/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

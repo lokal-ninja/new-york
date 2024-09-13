@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /buffalo/firestone-thruway-plaza-drive/
-shop: Autowerkstatt
+shop: car repair
 ---

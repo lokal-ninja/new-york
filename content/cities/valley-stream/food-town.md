@@ -1,5 +1,5 @@
 ---
 title: "Food Town"
 url: /valley-stream/food-town/
-shop: Supermarkt
+shop: supermarket
 ---

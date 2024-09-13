@@ -1,5 +1,5 @@
 ---
 title: "Eisenberg Pharmacy"
 url: /brooklyn/eisenberg-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

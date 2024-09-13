@@ -1,5 +1,5 @@
 ---
 title: "McLaughlin Heppner Funeral Home"
 url: /riverhead/mclaughlin-heppner-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

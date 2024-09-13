@@ -1,5 +1,5 @@
 ---
 title: "Guitar Center"
 url: /new-york/guitar-center/
-shop: Instrumente
+shop: musical instrument
 ---

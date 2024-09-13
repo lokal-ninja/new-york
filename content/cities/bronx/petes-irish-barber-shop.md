@@ -1,5 +1,5 @@
 ---
 title: "Pete's Irish Barber Shop"
 url: /bronx/petes-irish-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

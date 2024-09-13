@@ -1,5 +1,5 @@
 ---
 title: "I Love Books"
 url: /delmar/i-love-books/
-shop: Bücher
+shop: books
 ---

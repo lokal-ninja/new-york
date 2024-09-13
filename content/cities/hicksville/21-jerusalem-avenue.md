@@ -1,5 +1,5 @@
 ---
 title: "21 Jerusalem Avenue"
 url: /hicksville/21-jerusalem-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

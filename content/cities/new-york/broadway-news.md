@@ -1,5 +1,5 @@
 ---
 title: "Broadway News"
 url: /new-york/broadway-news/
-shop: Zeitungen
+shop: newsagent
 ---

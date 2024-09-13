@@ -1,5 +1,5 @@
 ---
 title: "After Hours Auto Repair"
 url: /staten-island/after-hours-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

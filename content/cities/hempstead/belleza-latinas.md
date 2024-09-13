@@ -1,5 +1,5 @@
 ---
 title: "Belleza Latinas"
 url: /hempstead/belleza-latinas/
-shop: Kosmetik
+shop: beauty
 ---

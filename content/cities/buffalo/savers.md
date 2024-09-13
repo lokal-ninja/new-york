@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /buffalo/savers/
-shop: Gebrauchtwaren
+shop: charity
 ---

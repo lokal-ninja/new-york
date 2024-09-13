@@ -1,5 +1,5 @@
 ---
 title: "Basil Toyota"
 url: /lockport/basil-toyota/
-shop: Autohaus
+shop: car
 ---

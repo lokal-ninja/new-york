@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /rochester/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

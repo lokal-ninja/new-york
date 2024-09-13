@@ -1,5 +1,5 @@
 ---
 title: "Otto's Market"
 url: /germantown/ottos-market/
-shop: Feinkost
+shop: deli
 ---

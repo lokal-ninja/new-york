@@ -1,5 +1,5 @@
 ---
 title: "Vitali Auto Exhcange"
 url: /johnson-city/vitali-auto-exhcange/
-shop: Autohaus
+shop: car
 ---

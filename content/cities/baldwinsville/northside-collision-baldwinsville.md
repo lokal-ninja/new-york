@@ -1,5 +1,5 @@
 ---
 title: "Northside Collision Baldwinsville"
 url: /baldwinsville/northside-collision-baldwinsville/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uptown Coffee"
 url: /kingston/uptown-coffee/
-shop: Kaffee
+shop: coffee
 ---

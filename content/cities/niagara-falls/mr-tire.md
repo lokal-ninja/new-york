@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tire"
 url: /niagara-falls/mr-tire/
-shop: Autoteile
+shop: car parts
 ---

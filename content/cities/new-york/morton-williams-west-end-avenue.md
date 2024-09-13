@@ -1,5 +1,5 @@
 ---
 title: "Morton Williams"
 url: /new-york/morton-williams-west-end-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

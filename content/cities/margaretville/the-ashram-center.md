@@ -1,5 +1,5 @@
 ---
 title: "The Ashram Center"
 url: /margaretville/the-ashram-center/
-shop: Massage
+shop: massage
 ---

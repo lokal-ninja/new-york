@@ -1,5 +1,5 @@
 ---
 title: "Fame + Rebel"
 url: /port-jefferson/fame-rebel/
-shop: Kleidung
+shop: clothes
 ---

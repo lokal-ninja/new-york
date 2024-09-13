@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /poughkeepsie/michaels/
-shop: Basteln
+shop: craft
 ---

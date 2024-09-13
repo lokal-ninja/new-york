@@ -1,5 +1,5 @@
 ---
 title: "Xtra Mart"
 url: /fort-edward/xtra-mart/
-shop: Lebensmittel
+shop: convenience
 ---

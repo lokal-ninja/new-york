@@ -1,5 +1,5 @@
 ---
 title: "Caprianis Tailors"
 url: /new-york/caprianis-tailors/
-shop: Schneiderei
+shop: tailor
 ---

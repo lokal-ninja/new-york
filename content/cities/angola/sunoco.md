@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /angola/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

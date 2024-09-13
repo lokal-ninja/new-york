@@ -1,5 +1,5 @@
 ---
 title: "Sacred Realm"
 url: /rochester/sacred-realm/
-shop: Tattoo
+shop: tattoo
 ---

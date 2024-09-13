@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /fayetteville/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

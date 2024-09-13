@@ -1,5 +1,5 @@
 ---
 title: "Threads + Co."
 url: /corning/threads-co/
-shop: Kleidung
+shop: clothes
 ---

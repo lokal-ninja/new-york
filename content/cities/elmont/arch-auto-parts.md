@@ -1,5 +1,5 @@
 ---
 title: "Arch Auto Parts"
 url: /elmont/arch-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

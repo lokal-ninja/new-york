@@ -1,5 +1,5 @@
 ---
 title: "Don't Panic"
 url: /jamaica/dont-panic/
-shop: Schuhe
+shop: shoes
 ---

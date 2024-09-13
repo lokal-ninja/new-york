@@ -1,5 +1,5 @@
 ---
 title: "Hair Queen"
 url: /new-york/hair-queen/
-shop: Friseur
+shop: hairdresser
 ---
