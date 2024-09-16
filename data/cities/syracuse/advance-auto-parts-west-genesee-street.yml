@@ -1,11 +1,11 @@
 id: 193250475
-type: way
+type: node
 latitude: 43.0486
 longitude: -76.2334
 postcode: "13219"
 city: Syracuse
-street: "West Genesee Street"
-housenumber: 3510
+street: West Genesee Street
+housenumber: "3510"
 phone: "3154682250"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-18:00"
-website: "https://stores.advanceautoparts.com/ny/syracuse/3510-w-genesee-st"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-18:00
+website: https://stores.advanceautoparts.com/ny/syracuse/3510-w-genesee-st

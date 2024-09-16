@@ -1,11 +1,11 @@
 id: 629633280
-type: way
+type: node
 latitude: 42.50546
 longitude: -78.68904
 postcode: "14141"
 city: Springville
-street: "South Cascade Drive"
-housenumber: 150
+street: South Cascade Drive
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

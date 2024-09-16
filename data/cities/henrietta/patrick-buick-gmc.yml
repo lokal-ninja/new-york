@@ -1,11 +1,11 @@
 id: 264927208
-type: way
+type: node
 latitude: 43.05987
 longitude: -77.65048
 postcode: "14467"
 city: Henrietta
-street: "West Henrietta Road"
-housenumber: 4700
+street: West Henrietta Road
+housenumber: "4700"
 phone: ""
 opening_hours: ""
 website: ""

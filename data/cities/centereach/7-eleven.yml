@@ -1,11 +1,11 @@
 id: 993352705
-type: way
+type: node
 latitude: 40.86147
 longitude: -73.0656
 postcode: "11720"
 city: Centereach
-street: "Middle Country Road"
-housenumber: 1545
-phone: "+1 800-255-0711"
+street: Middle Country Road
+housenumber: "1545"
+phone: +1 800-255-0711
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/centereach/1545-middle-country-rd-37722"
+website: https://www.7-eleven.com/locations/ny/centereach/1545-middle-country-rd-37722

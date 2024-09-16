@@ -1,11 +1,11 @@
 id: 586080409
-type: way
+type: node
 latitude: 43.11978
 longitude: -76.21546
 postcode: "13090"
 city: Liverpool
-street: "Oswego Road"
-housenumber: 7211
-phone: "+1-315-452-5310"
+street: Oswego Road
+housenumber: "7211"
+phone: +1-315-452-5310
 opening_hours: ""
-website: "https://www.glassusa.com/locations/ny/liverpool/?zip=13090"
+website: https://www.glassusa.com/locations/ny/liverpool/?zip=13090

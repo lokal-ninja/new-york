@@ -4,8 +4,8 @@ latitude: 40.72867
 longitude: -73.98574
 postcode: "10003"
 city: New York
-street: "East 9th Street"
-housenumber: 333
-phone: "+1-585-302-8888"
+street: East 9th Street
+housenumber: "333"
+phone: +1-585-302-8888
 opening_hours: ""
 website: ""

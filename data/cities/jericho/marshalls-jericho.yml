@@ -1,11 +1,11 @@
 id: 775166632
-type: way
+type: node
 latitude: 40.7913
 longitude: -73.53482
 postcode: "11753"
 city: Jericho
-street: "North Broadway"
-housenumber: 499
+street: North Broadway
+housenumber: "499"
 phone: ""
 opening_hours: ""
 website: ""

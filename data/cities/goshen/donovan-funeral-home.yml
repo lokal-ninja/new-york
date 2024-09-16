@@ -1,11 +1,11 @@
 id: 612145953
-type: way
+type: node
 latitude: 41.40099
 longitude: -74.32229
 postcode: "10924"
 city: Goshen
-street: "South Church Street"
-housenumber: 82
+street: South Church Street
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 204612316
-type: way
+type: node
 latitude: 42.67728
 longitude: -73.82441
 postcode: "12203"
 city: Albany
-street: "Western Avenue"
-housenumber: 1227
+street: Western Avenue
+housenumber: "1227"
 phone: ""
 opening_hours: ""
 website: ""

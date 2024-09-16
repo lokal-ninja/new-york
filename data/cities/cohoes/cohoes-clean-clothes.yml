@@ -1,11 +1,11 @@
 id: 1028563787
-type: way
+type: node
 latitude: 42.77835
 longitude: -73.70993
 postcode: "12047"
 city: Cohoes
-street: "Garner Street"
-housenumber: 8
+street: Garner Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

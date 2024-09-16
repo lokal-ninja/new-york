@@ -1,11 +1,11 @@
 id: 436184686
-type: way
+type: node
 latitude: 40.85869
 longitude: -73.41985
 postcode: "11743"
 city: Huntington Station
-street: "New York Avenue"
-housenumber: 839
+street: New York Avenue
+housenumber: "839"
 phone: ""
 opening_hours: ""
 website: ""

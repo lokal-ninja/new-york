@@ -1,11 +1,11 @@
 id: 479210998
-type: way
+type: node
 latitude: 41.6919
 longitude: -73.89858
 postcode: "12603"
 city: Poughkeepsie
-street: "Collegeview Avenue"
-housenumber: 19
+street: Collegeview Avenue
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

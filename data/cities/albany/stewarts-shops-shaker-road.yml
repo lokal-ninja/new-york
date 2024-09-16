@@ -1,11 +1,11 @@
 id: 59766613
-type: way
+type: node
 latitude: 42.67363
 longitude: -73.75141
 postcode: "12204"
 city: Albany
-street: "Shaker Road"
-housenumber: 90
+street: Shaker Road
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

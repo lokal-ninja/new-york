@@ -4,8 +4,8 @@ latitude: 40.67565
 longitude: -73.98082
 postcode: "11215"
 city: Brooklyn
-street: "5th Avenue"
-housenumber: 225
-phone: "+1-203-742-9156"
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://www.aesop.com/us/r/aesop-park-slope"
+street: 5th Avenue
+housenumber: "225"
+phone: +1-203-742-9156
+opening_hours: Mo-Su 11:00-19:00
+website: https://www.aesop.com/us/r/aesop-park-slope

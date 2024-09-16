@@ -1,11 +1,11 @@
 id: 587051778
-type: way
+type: node
 latitude: 43.10416
 longitude: -76.20735
 postcode: "13088"
 city: Liverpool
-street: "Oswego Street"
-housenumber: 612
-phone: "+1-315-399-5995"
+street: Oswego Street
+housenumber: "612"
+phone: +1-315-399-5995
 opening_hours: ""
-website: "https://www.facebook.com/The-Liverpool-Barbershop-99007555817/"
+website: https://www.facebook.com/The-Liverpool-Barbershop-99007555817/

@@ -1,11 +1,11 @@
 id: 264325278
-type: way
+type: node
 latitude: 41.97672
 longitude: -73.98763
 postcode: "12449"
 city: Lake Katrine
-street: "Ulster Avenue"
-housenumber: 1560
-phone: "+1-845-336-6300"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-19:00"
-website: "https://adamsfarms.com/locations/kingston/"
+street: Ulster Avenue
+housenumber: "1560"
+phone: +1-845-336-6300
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-19:00
+website: https://adamsfarms.com/locations/kingston/

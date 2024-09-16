@@ -1,11 +1,11 @@
 id: 118261209
-type: way
+type: node
 latitude: 42.78331
 longitude: -73.94672
 postcode: "12303"
 city: Schenectady
-street: "Altamont Avenue"
-housenumber: 1520
+street: Altamont Avenue
+housenumber: "1520"
 phone: ""
 opening_hours: ""
-website: "https://bensonspet.com/"
+website: https://bensonspet.com/

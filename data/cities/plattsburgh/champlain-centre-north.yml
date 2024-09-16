@@ -1,11 +1,11 @@
 id: 113767198
-type: way
+type: node
 latitude: 44.70469
 longitude: -73.49261
 postcode: "12901"
 city: Plattsburgh
-street: "Smithfield Boulevard"
-housenumber: 60
+street: Smithfield Boulevard
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

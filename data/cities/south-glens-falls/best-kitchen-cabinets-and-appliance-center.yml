@@ -1,11 +1,11 @@
 id: 817027871
-type: way
+type: node
 latitude: 43.29089
 longitude: -73.63759
 postcode: "12803"
 city: South Glens Falls
-street: "Saratoga Avenue"
-housenumber: 110
+street: Saratoga Avenue
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "http://www.bestkitchenandappliances.com/"
+website: http://www.bestkitchenandappliances.com/

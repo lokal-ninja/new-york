@@ -1,11 +1,11 @@
 id: 1183749109
-type: way
+type: node
 latitude: 42.99341
 longitude: -78.82062
 postcode: "14226"
 city: Buffalo
-street: "Meyer Road"
-housenumber: 50
+street: Meyer Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

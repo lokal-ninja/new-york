@@ -1,11 +1,11 @@
 id: 1023708846
-type: way
+type: node
 latitude: 42.59704
 longitude: -76.1793
 postcode: "13045"
 city: Cortland
-street: "Port Watson Street"
-housenumber: 13
+street: Port Watson Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cortland-ny-pharmacies/13-port-watson-street-cortland-ny-13045/storeid=2135"
+website: https://www.cvs.com/store-locator/cortland-ny-pharmacies/13-port-watson-street-cortland-ny-13045/storeid=2135

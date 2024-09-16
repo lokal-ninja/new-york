@@ -1,11 +1,11 @@
 id: 758626168
-type: way
+type: node
 latitude: 43.0884
 longitude: -77.62655
 postcode: "14623"
 city: Rochester
-street: "Jefferson Road"
-housenumber: 660
-phone: "+1 585-272-1888"
+street: Jefferson Road
+housenumber: "660"
+phone: +1 585-272-1888
 opening_hours: ""
-website: "https://www.sierra.com/"
+website: https://www.sierra.com/

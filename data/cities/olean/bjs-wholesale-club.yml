@@ -1,11 +1,11 @@
 id: 600448127
-type: way
+type: node
 latitude: 42.08185
 longitude: -78.46446
 postcode: "14760"
 city: Olean
-street: "Cinema Drive"
-housenumber: 1899
+street: Cinema Drive
+housenumber: "1899"
 phone: ""
 opening_hours: ""
 website: ""

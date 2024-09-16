@@ -1,11 +1,11 @@
 id: 692278207
-type: way
+type: node
 latitude: 43.46456
 longitude: -76.47421
 postcode: "13126"
 city: Oswego
-street: "State Route 104"
-housenumber: 445
-phone: "+1 315-326-5030"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ny-oswego/1908"
+street: State Route 104
+housenumber: "445"
+phone: +1 315-326-5030
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ny-oswego/1908

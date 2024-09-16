@@ -1,11 +1,11 @@
 id: 713477826
-type: way
+type: node
 latitude: 42.09366
 longitude: -79.23884
 postcode: "14701"
 city: Jamestown
-street: "South Main Street"
-housenumber: 19
+street: South Main Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/jamestown-ny-pharmacies/19-s-main-st-jamestown-ny-14701/storeid=5087"
+website: https://www.cvs.com/store-locator/jamestown-ny-pharmacies/19-s-main-st-jamestown-ny-14701/storeid=5087

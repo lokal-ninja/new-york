@@ -1,11 +1,11 @@
 id: 201271957
-type: way
+type: node
 latitude: 43.05262
 longitude: -76.07541
 postcode: "13214"
 city: DeWitt
-street: "Erie Boulevard East"
-housenumber: 3184
+street: Erie Boulevard East
+housenumber: "3184"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-17:00; Su 13:00-17:00"
-website: "https://www.smithinteriors.com/"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-17:00; Su 13:00-17:00
+website: https://www.smithinteriors.com/

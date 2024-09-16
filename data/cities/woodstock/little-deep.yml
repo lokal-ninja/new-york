@@ -4,8 +4,8 @@ latitude: 42.04066
 longitude: -74.11944
 postcode: "12498"
 city: Woodstock
-street: "Tinker Street"
-housenumber: 34
+street: Tinker Street
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Tu,Th-Su 12:00-17:00"
-website: "https://littledeepwoodstock.com"
+opening_hours: Mo-Tu,Th-Su 12:00-17:00
+website: https://littledeepwoodstock.com

@@ -1,11 +1,11 @@
 id: 71416699
-type: way
+type: node
 latitude: 42.69636
 longitude: -73.64167
 postcode: "12198"
 city: Wynantskill
-street: "Main Avenue"
-housenumber: 119
+street: Main Avenue
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

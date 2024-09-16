@@ -1,11 +1,11 @@
 id: 1053936784
-type: way
+type: node
 latitude: 41.75242
 longitude: -73.71118
 postcode: "12545"
 city: Millbrook
-street: "NY-82"
-housenumber: 3684
+street: NY-82
+housenumber: "3684"
 phone: ""
 opening_hours: ""
 website: ""

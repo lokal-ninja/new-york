@@ -4,8 +4,8 @@ latitude: 40.72134
 longitude: -73.99336
 postcode: "10002"
 city: New York
-street: "Bowery"
-housenumber: 209
-phone: "+1-212-674-2960"
-opening_hours: "Mo-Fr 08:30-16:30"
-website: "https://baltersalescompany-ny.com"
+street: Bowery
+housenumber: "209"
+phone: +1-212-674-2960
+opening_hours: Mo-Fr 08:30-16:30
+website: https://baltersalescompany-ny.com

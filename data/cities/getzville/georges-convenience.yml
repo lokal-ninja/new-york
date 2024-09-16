@@ -1,11 +1,11 @@
 id: 639156787
-type: way
+type: node
 latitude: 43.00864
 longitude: -78.774
 postcode: "14068"
 city: Getzville
-street: "Millersport Highway"
-housenumber: 2194
-phone: "+1 716-688-0963"
-opening_hours: "24/7"
-website: "https://georgesmobil.com/"
+street: Millersport Highway
+housenumber: "2194"
+phone: +1 716-688-0963
+opening_hours: 24/7
+website: https://georgesmobil.com/

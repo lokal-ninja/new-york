@@ -1,11 +1,11 @@
 id: 203013602
-type: way
+type: node
 latitude: 40.85779
 longitude: -73.53474
 postcode: "11771"
 city: Oyster Bay
-street: "Pine Hollow Road"
-housenumber: 275
+street: Pine Hollow Road
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

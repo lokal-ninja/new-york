@@ -1,11 +1,11 @@
 id: 150144779
-type: way
+type: node
 latitude: 43.19003
 longitude: -76.23379
 postcode: "13041"
 city: Clay
-street: "Route 31"
-housenumber: 4145
+street: Route 31
+housenumber: "4145"
 phone: ""
 opening_hours: ""
 website: ""

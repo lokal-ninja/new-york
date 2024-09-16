@@ -1,11 +1,11 @@
 id: 992379444
-type: way
+type: node
 latitude: 40.58028
 longitude: -73.9764
 postcode: "11224"
 city: Brooklyn
-street: "Neptune Avenue"
-housenumber: 809
-phone: "+1 929-583-6400"
-opening_hours: "Mo-Sa 09:00-18:00; Su closed"
-website: "https://www.jlrbrooklyn.com/"
+street: Neptune Avenue
+housenumber: "809"
+phone: +1 929-583-6400
+opening_hours: Mo-Sa 09:00-18:00; Su closed
+website: https://www.jlrbrooklyn.com/

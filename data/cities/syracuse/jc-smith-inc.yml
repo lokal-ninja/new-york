@@ -1,11 +1,11 @@
 id: 316955427
-type: way
+type: node
 latitude: 43.05427
 longitude: -76.11685
 postcode: "13210"
 city: Syracuse
-street: "Peat Street"
-housenumber: 345
-phone: "+1-315-428-9903"
+street: Peat Street
+housenumber: "345"
+phone: +1-315-428-9903
 opening_hours: ""
-website: "https://www.jcsmithinc.com"
+website: https://www.jcsmithinc.com

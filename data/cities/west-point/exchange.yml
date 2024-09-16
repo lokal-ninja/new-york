@@ -1,11 +1,11 @@
 id: 736596575
-type: way
+type: node
 latitude: 41.38702
 longitude: -73.97679
 postcode: "10996"
 city: West Point
-street: "Commissary Road"
-housenumber: 1204
+street: Commissary Road
+housenumber: "1204"
 phone: ""
 opening_hours: ""
 website: ""

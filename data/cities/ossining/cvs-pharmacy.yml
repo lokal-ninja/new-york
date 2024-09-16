@@ -1,11 +1,11 @@
 id: 550024033
-type: way
+type: node
 latitude: 41.14534
 longitude: -73.86208
 postcode: "10562"
 city: Ossining
-street: "South Highland Avenue"
+street: South Highland Avenue
 housenumber: 202;210
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/ossining-ny-pharmacies/202-s-highland-ave-ossining-ny-10562/storeid=2080"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/ossining-ny-pharmacies/202-s-highland-ave-ossining-ny-10562/storeid=2080

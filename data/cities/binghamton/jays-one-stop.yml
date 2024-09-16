@@ -4,8 +4,8 @@ latitude: 42.09949
 longitude: -75.9232
 postcode: "13905"
 city: Binghamton
-street: "Main Street"
-housenumber: 77
-phone: "+1 607 296 7689"
-opening_hours: "05:00-23:00"
+street: Main Street
+housenumber: "77"
+phone: +1 607 296 7689
+opening_hours: 05:00-23:00
 website: ""

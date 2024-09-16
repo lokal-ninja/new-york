@@ -4,8 +4,8 @@ latitude: 40.72415
 longitude: -74.00336
 postcode: "10012"
 city: New York
-street: "Thompson Street"
-housenumber: 59
-phone: "+1-646-484-6698"
-opening_hours: "Mo-Th 10:30-20:00; Fr 10:30-19:00; Sa,Su 10:30-17:30"
-website: "https://barberspointny.com"
+street: Thompson Street
+housenumber: "59"
+phone: +1-646-484-6698
+opening_hours: Mo-Th 10:30-20:00; Fr 10:30-19:00; Sa,Su 10:30-17:30
+website: https://barberspointny.com

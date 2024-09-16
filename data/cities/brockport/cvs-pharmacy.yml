@@ -1,11 +1,11 @@
 id: 1133349450
-type: way
+type: node
 latitude: 43.19898
 longitude: -77.94229
 postcode: "14420"
 city: Brockport
-street: "Brockport-Spencerport Road"
-housenumber: 6510
+street: Brockport-Spencerport Road
+housenumber: "6510"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/brockport-ny-pharmacies/6510-brockport-spencerport-rd-brockport-ny-14420/storeid=5123"
+website: https://www.cvs.com/store-locator/brockport-ny-pharmacies/6510-brockport-spencerport-rd-brockport-ny-14420/storeid=5123

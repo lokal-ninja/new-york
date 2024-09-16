@@ -1,11 +1,11 @@
 id: 190593423
-type: way
+type: node
 latitude: 42.90596
 longitude: -73.68742
 postcode: "12118"
 city: Mechanicville
-street: "North Central Avenue"
-housenumber: 80
+street: North Central Avenue
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ny/mechanicville/autoparts-5931.html"
+website: https://locations.oreillyauto.com/ny/mechanicville/autoparts-5931.html

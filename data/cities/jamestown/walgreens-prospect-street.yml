@@ -1,11 +1,11 @@
 id: 820285072
-type: way
+type: node
 latitude: 42.09095
 longitude: -79.2376
 postcode: "14701"
 city: Jamestown
-street: "Prospect Street"
-housenumber: 10
-phone: "+1 716 661 9230"
-opening_hours: "09:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-10+prospect+st-jamestown-ny-14701/id=9937"
+street: Prospect Street
+housenumber: "10"
+phone: +1 716 661 9230
+opening_hours: 09:00-21:00
+website: https://www.walgreens.com/locator/walgreens-10+prospect+st-jamestown-ny-14701/id=9937

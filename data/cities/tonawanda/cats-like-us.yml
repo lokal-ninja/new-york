@@ -4,8 +4,8 @@ latitude: 43.01855
 longitude: -78.87832
 postcode: "14150"
 city: Tonawanda
-street: "Main Street"
-housenumber: 67
+street: Main Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://catslikeus.com"
+website: https://catslikeus.com

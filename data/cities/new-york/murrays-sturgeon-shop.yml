@@ -4,8 +4,8 @@ latitude: 40.7906
 longitude: -73.97509
 postcode: "10024"
 city: New York
-street: "Broadway"
-housenumber: 2429
-phone: "+1 212-724-2650"
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://www.murrayssturgeon.com/"
+street: Broadway
+housenumber: "2429"
+phone: +1 212-724-2650
+opening_hours: Mo-Su 08:00-19:00
+website: https://www.murrayssturgeon.com/

@@ -1,11 +1,11 @@
 id: 91322006
-type: way
+type: node
 latitude: 42.98839
 longitude: -78.70016
 postcode: "14221"
 city: Buffalo
-street: "Maple Road"
-housenumber: 2351
-phone: "+1 716-515-3200"
+street: Maple Road
+housenumber: "2351"
+phone: +1 716-515-3200
 opening_hours: ""
 website: ""

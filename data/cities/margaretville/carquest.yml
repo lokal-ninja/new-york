@@ -1,11 +1,11 @@
 id: 979860831
-type: way
+type: node
 latitude: 42.14608
 longitude: -74.62939
 postcode: "12455"
 city: Margaretville
-street: "State Highway 28"
-housenumber: 42812
-phone: "+1-845-586-4600"
-opening_hours: "Mo-Sa 08:00-17:30; Su 09:30-15:00"
-website: "https://www.carquest.com/stores/ny/arkville/8866"
+street: State Highway 28
+housenumber: "42812"
+phone: +1-845-586-4600
+opening_hours: Mo-Sa 08:00-17:30; Su 09:30-15:00
+website: https://www.carquest.com/stores/ny/arkville/8866

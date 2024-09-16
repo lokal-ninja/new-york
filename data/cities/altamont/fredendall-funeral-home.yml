@@ -1,11 +1,11 @@
 id: 1038140073
-type: way
+type: node
 latitude: 42.70063
 longitude: -74.03456
 postcode: "12009"
 city: Altamont
-street: "Helderberg Avenue"
-housenumber: 104
+street: Helderberg Avenue
+housenumber: "104"
 phone: ""
 opening_hours: ""
-website: "https://www.fredendallfuneralhome.com"
+website: https://www.fredendallfuneralhome.com

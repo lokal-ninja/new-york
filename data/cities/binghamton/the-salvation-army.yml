@@ -1,11 +1,11 @@
 id: 618604019
-type: way
+type: node
 latitude: 42.09808
 longitude: -75.914
 postcode: "13901"
 city: Binghamton
-street: "Washington Street"
-housenumber: 127
+street: Washington Street
+housenumber: "127"
 phone: ""
 opening_hours: ""
 website: ""

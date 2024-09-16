@@ -1,11 +1,11 @@
 id: 649756136
-type: way
+type: node
 latitude: 42.992
 longitude: -78.81108
 postcode: "14226"
 city: Buffalo
-street: "Maple Road"
-housenumber: 4110
+street: Maple Road
+housenumber: "4110"
 phone: ""
 opening_hours: ""
-website: "https://www.solasalonstudios.com/locations/east-amherst"
+website: https://www.solasalonstudios.com/locations/east-amherst

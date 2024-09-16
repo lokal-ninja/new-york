@@ -4,8 +4,8 @@ latitude: 43.05674
 longitude: -76.17119
 postcode: "13204"
 city: Syracuse
-street: "North Geddes Street"
-housenumber: 807
+street: North Geddes Street
+housenumber: "807"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.performancehd.com/"
+opening_hours: Mo-Sa 09:00-18:00; Sa 09:00-16:00
+website: https://www.performancehd.com/

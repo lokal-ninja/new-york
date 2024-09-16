@@ -1,11 +1,11 @@
 id: 1047274041
-type: way
+type: node
 latitude: 40.95399
 longitude: -73.8145
 postcode: "10709"
 city: Eastchester
-street: "White Plains Road"
-housenumber: 375
+street: White Plains Road
+housenumber: "375"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/eastchester-ny-pharmacies/375-white-plains-road-eastchester-ny-10709/storeid=2432"
+website: https://www.cvs.com/store-locator/eastchester-ny-pharmacies/375-white-plains-road-eastchester-ny-10709/storeid=2432

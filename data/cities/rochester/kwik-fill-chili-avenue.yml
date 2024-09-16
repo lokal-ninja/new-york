@@ -1,11 +1,11 @@
 id: 288233112
-type: way
+type: node
 latitude: 43.10548
 longitude: -77.74908
 postcode: "14624"
 city: Rochester
-street: "Chili Avenue"
-housenumber: 3215
+street: Chili Avenue
+housenumber: "3215"
 phone: ""
 opening_hours: ""
 website: ""

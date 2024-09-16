@@ -1,11 +1,11 @@
 id: 533670783
-type: way
+type: node
 latitude: 42.36944
 longitude: -76.86661
 postcode: "14891"
 city: Watkins Glen
-street: "South Franklin Street"
-housenumber: 510
+street: South Franklin Street
+housenumber: "510"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/watkins-glen-ny-pharmacies/506-south-franklin-street-watkins-glen-ny-14891/storeid=5016"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/watkins-glen-ny-pharmacies/506-south-franklin-street-watkins-glen-ny-14891/storeid=5016

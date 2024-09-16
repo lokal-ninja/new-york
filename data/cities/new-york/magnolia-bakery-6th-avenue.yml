@@ -4,8 +4,8 @@ latitude: 40.75928
 longitude: -73.98065
 postcode: "10020"
 city: New York
-street: "6th Avenue"
-housenumber: 1240
-phone: "+1-212-767-1123"
-opening_hours: "Mo-Su 08:30-22:00"
-website: "https://www.magnoliabakery.com/blogs/stores/rockefeller-center"
+street: 6th Avenue
+housenumber: "1240"
+phone: +1-212-767-1123
+opening_hours: Mo-Su 08:30-22:00
+website: https://www.magnoliabakery.com/blogs/stores/rockefeller-center

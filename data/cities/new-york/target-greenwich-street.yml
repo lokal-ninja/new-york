@@ -4,8 +4,8 @@ latitude: 40.71453
 longitude: -74.01127
 postcode: "10007"
 city: New York
-street: "Greenwich Street"
-housenumber: 255
-phone: "+1 917-438-2214"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.target.com/sl/tribeca/3229"
+street: Greenwich Street
+housenumber: "255"
+phone: +1 917-438-2214
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.target.com/sl/tribeca/3229

@@ -4,8 +4,8 @@ latitude: 40.7778
 longitude: -73.97929
 postcode: "10023"
 city: New York
-street: "West 72nd Street"
-housenumber: 111
-phone: "+1-212-988-7766"
-opening_hours: "Mo-Sy 10:00-19:00"
-website: "https://www.lavelisalon.com"
+street: West 72nd Street
+housenumber: "111"
+phone: +1-212-988-7766
+opening_hours: Mo-Sy 10:00-19:00
+website: https://www.lavelisalon.com

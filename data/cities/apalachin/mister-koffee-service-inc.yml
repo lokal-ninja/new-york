@@ -1,11 +1,11 @@
 id: 829505872
-type: way
+type: node
 latitude: 42.06892
 longitude: -76.15075
 postcode: "13732"
 city: Apalachin
-street: "State Route 434"
-housenumber: 6936
-phone: "+1 607 687 8013"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "http://www.misterkoffee.com/"
+street: State Route 434
+housenumber: "6936"
+phone: +1 607 687 8013
+opening_hours: Mo-Fr 08:00-16:30
+website: http://www.misterkoffee.com/

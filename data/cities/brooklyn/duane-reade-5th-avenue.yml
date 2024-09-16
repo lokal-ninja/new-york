@@ -1,11 +1,12 @@
 id: 249572083
-type: way
+type: node
 latitude: 40.64483
 longitude: -74.01078
 postcode: "11220"
 city: Brooklyn
-street: "5th Avenue"
-housenumber: 5008
-phone: "+1-718-439-0514"
-opening_hours: "Mo-Fr 08:00-22:00; Sa 09:00-22:00; Su 09:00-20:00 shop||Mo-Fr 08:00-13:30,14:00-20:00; Sa 09:00-13:30,14:00-18:00; Su 10:00-13:30,14:00-17:00 pharmacy"
-website: "https://www.walgreens.com/locator/duane+reade-5008+5th+ave-brooklyn-ny-11220/id=14432"
+street: 5th Avenue
+housenumber: "5008"
+phone: +1-718-439-0514
+opening_hours: Mo-Fr 08:00-22:00; Sa 09:00-22:00; Su 09:00-20:00 "shop"||Mo-Fr 08:00-13:30,14:00-20:00;
+    Sa 09:00-13:30,14:00-18:00; Su 10:00-13:30,14:00-17:00 "pharmacy"
+website: https://www.walgreens.com/locator/duane+reade-5008+5th+ave-brooklyn-ny-11220/id=14432

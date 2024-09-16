@@ -4,8 +4,8 @@ latitude: 42.68894
 longitude: -73.79983
 postcode: "12205"
 city: Albany
-street: "Central Avenue"
-housenumber: 1101
+street: Central Avenue
+housenumber: "1101"
 phone: ""
 opening_hours: ""
-website: "https://www.albanyalfaromeousa.com/"
+website: https://www.albanyalfaromeousa.com/

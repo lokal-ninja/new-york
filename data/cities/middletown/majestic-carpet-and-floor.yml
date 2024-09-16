@@ -1,11 +1,11 @@
 id: 547787987
-type: way
+type: node
 latitude: 41.44573
 longitude: -74.39721
 postcode: "10940"
 city: Middletown
-street: "Fair Avenue"
-housenumber: 28
+street: Fair Avenue
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

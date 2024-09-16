@@ -1,11 +1,11 @@
 id: 1153350206
-type: way
+type: node
 latitude: 42.97723
 longitude: -78.69401
 postcode: "14221"
 city: Buffalo
-street: "Sheridan Drive"
-housenumber: 8075
+street: Sheridan Drive
+housenumber: "8075"
 phone: ""
 opening_hours: ""
 website: ""

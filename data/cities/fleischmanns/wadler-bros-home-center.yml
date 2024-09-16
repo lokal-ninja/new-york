@@ -1,11 +1,11 @@
 id: 876238740
-type: way
+type: node
 latitude: 42.15569
 longitude: -74.54364
 postcode: "12430"
 city: Fleischmanns
-street: "State Route 28"
-housenumber: 47293
-phone: "+1-845-254-5500"
-opening_hours: "Mo-Fr 07:30-16:00; Sa 07:30-12:00"
-website: "https://wadlerbros.com"
+street: State Route 28
+housenumber: "47293"
+phone: +1-845-254-5500
+opening_hours: Mo-Fr 07:30-16:00; Sa 07:30-12:00
+website: https://wadlerbros.com

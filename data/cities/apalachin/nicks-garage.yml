@@ -1,11 +1,11 @@
 id: 230135478
-type: way
+type: node
 latitude: 42.05964
 longitude: -76.14498
 postcode: "13732"
 city: Apalachin
-street: "Main Street"
-housenumber: 1429
+street: Main Street
+housenumber: "1429"
 phone: ""
 opening_hours: ""
 website: ""

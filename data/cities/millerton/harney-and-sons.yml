@@ -1,11 +1,11 @@
 id: 330733688
-type: way
+type: node
 latitude: 41.95316
 longitude: -73.51215
 postcode: "12546"
 city: Millerton
-street: "Main Street"
-housenumber: 1
+street: Main Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.harney.com/"
+website: https://www.harney.com/

@@ -4,8 +4,8 @@ latitude: 42.94927
 longitude: -78.82831
 postcode: "14214"
 city: Buffalo
-street: "Main Street"
-housenumber: 3100
-phone: "716.832.8100"
+street: Main Street
+housenumber: "3100"
+phone: 716.832.8100
 opening_hours: ""
-website: "http://www.queencityimaging.com/"
+website: http://www.queencityimaging.com/

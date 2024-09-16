@@ -4,8 +4,8 @@ latitude: 40.71373
 longitude: -73.98722
 postcode: "10002"
 city: New York
-street: "Clinton Street;Henry Street"
-housenumber: 207
+street: Clinton Street;Henry Street
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

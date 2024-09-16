@@ -1,11 +1,11 @@
 id: 771980914
-type: way
+type: node
 latitude: 42.7409
 longitude: -78.86973
 postcode: "14075"
 city: Hamburg
-street: "Southwestern Boulevard"
-housenumber: 5363
+street: Southwestern Boulevard
+housenumber: "5363"
 phone: ""
 opening_hours: ""
 website: ""

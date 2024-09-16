@@ -1,11 +1,11 @@
 id: 126308220
-type: way
+type: node
 latitude: 43.08681
 longitude: -77.61314
 postcode: "14623"
 city: Rochester
-street: "Jefferson Road"
-housenumber: 955
+street: Jefferson Road
+housenumber: "955"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ny/henrietta/oil-change-020020.html"
+website: https://store.vioc.com/ny/henrietta/oil-change-020020.html

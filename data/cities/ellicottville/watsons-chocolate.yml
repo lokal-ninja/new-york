@@ -1,11 +1,11 @@
 id: 374041396
-type: way
+type: node
 latitude: 42.2755
 longitude: -78.67149
 postcode: "14731"
 city: Ellicottville
-street: "Washington Street"
-housenumber: 25
+street: Washington Street
+housenumber: "25"
 phone: ""
-opening_hours: "10:00-18:00"
+opening_hours: 10:00-18:00
 website: ""

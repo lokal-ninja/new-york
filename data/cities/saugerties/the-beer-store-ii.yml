@@ -1,11 +1,11 @@
 id: 264666836
-type: way
+type: node
 latitude: 42.05875
 longitude: -73.95277
 postcode: "12477"
 city: Saugerties
-street: "United States Highway 9W"
-housenumber: 3160
+street: United States Highway 9W
+housenumber: "3160"
 phone: ""
 opening_hours: ""
 website: ""

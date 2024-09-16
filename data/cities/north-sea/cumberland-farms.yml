@@ -1,11 +1,11 @@
 id: 473186911
-type: way
+type: node
 latitude: 40.89665
 longitude: -72.39917
 postcode: "11968"
 city: North Sea
-street: "County Road 39"
-housenumber: 13
+street: County Road 39
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

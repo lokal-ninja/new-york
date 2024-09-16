@@ -4,8 +4,8 @@ latitude: 40.73904
 longitude: -73.98917
 postcode: "10010"
 city: New York
-street: "East 20th Street"
-housenumber: 25
-phone: "+1-718-285-6180"
-opening_hours: "Mo-Fr 07:30-17:00; Sa,Su 08:00-17:00"
-website: "https://www.devocion.com/pages/devocion-cafe-flatiron-district-new-york-ny"
+street: East 20th Street
+housenumber: "25"
+phone: +1-718-285-6180
+opening_hours: Mo-Fr 07:30-17:00; Sa,Su 08:00-17:00
+website: https://www.devocion.com/pages/devocion-cafe-flatiron-district-new-york-ny

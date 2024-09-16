@@ -1,11 +1,11 @@
 id: 109194912
-type: way
+type: node
 latitude: 42.86969
 longitude: -73.81992
 postcode: "12065"
 city: Clifton Park
-street: "Route 146"
-housenumber: 1032
+street: Route 146
+housenumber: "1032"
 phone: ""
 opening_hours: ""
 website: ""

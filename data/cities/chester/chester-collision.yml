@@ -1,11 +1,11 @@
 id: 556030530
-type: way
+type: node
 latitude: 41.35409
 longitude: -74.2796
 postcode: "10918"
 city: Chester
-street: "Brookside Avenue"
-housenumber: 63
+street: Brookside Avenue
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

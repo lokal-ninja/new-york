@@ -1,11 +1,11 @@
 id: 292815540
-type: way
+type: node
 latitude: 42.09818
 longitude: -76.23265
 postcode: "13827"
 city: Owego
-street: "State Route 17C"
-housenumber: 1145
+street: State Route 17C
+housenumber: "1145"
 phone: ""
 opening_hours: ""
 website: ""

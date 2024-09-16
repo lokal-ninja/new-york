@@ -1,11 +1,11 @@
 id: 199288143
-type: way
+type: node
 latitude: 43.04622
 longitude: -76.24316
 postcode: "13031"
 city: Camillus
-street: "West Genesee Street"
-housenumber: 4112
+street: West Genesee Street
+housenumber: "4112"
 phone: ""
 opening_hours: ""
 website: ""

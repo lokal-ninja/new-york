@@ -1,11 +1,11 @@
 id: 566181015
-type: way
+type: node
 latitude: 43.07379
 longitude: -77.94856
 postcode: "14416"
 city: Bergen
-street: "Clinton Street Road"
-housenumber: 8073
+street: Clinton Street Road
+housenumber: "8073"
 phone: ""
 opening_hours: ""
 website: ""

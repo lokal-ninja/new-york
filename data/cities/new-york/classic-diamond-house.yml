@@ -4,8 +4,8 @@ latitude: 40.75692
 longitude: -73.97861
 postcode: "10036"
 city: New York
-street: "5th Avenue"
-housenumber: 580
-phone: "+1 212-221-0600"
+street: 5th Avenue
+housenumber: "580"
+phone: +1 212-221-0600
 opening_hours: ""
-website: "https://www.classicdiamondhouse.com/"
+website: https://www.classicdiamondhouse.com/

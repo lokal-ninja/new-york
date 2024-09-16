@@ -1,11 +1,11 @@
 id: 791042460
-type: way
+type: node
 latitude: 43.01981
 longitude: -78.69778
 postcode: "14051"
 city: East Amherst
-street: "Transit Road"
-housenumber: 9200
+street: Transit Road
+housenumber: "9200"
 phone: ""
 opening_hours: ""
 website: ""

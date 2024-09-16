@@ -1,11 +1,11 @@
 id: 156822848
-type: way
+type: node
 latitude: 43.0309
 longitude: -76.02085
 postcode: "13066"
 city: Fayetteville
-street: "Towne Drive"
-housenumber: 340
-phone: "315 637 6205"
-opening_hours: "07:00-23:00"
-website: "https://www.target.com/sl/fayetteveille/1476"
+street: Towne Drive
+housenumber: "340"
+phone: 315 637 6205
+opening_hours: 07:00-23:00
+website: https://www.target.com/sl/fayetteveille/1476

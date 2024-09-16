@@ -1,11 +1,11 @@
 id: 322291145
-type: way
+type: node
 latitude: 42.79969
 longitude: -76.1213
 postcode: "13159"
 city: Tully
-street: "State Route 80"
-housenumber: 5755
+street: State Route 80
+housenumber: "5755"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

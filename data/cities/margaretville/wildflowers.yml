@@ -4,8 +4,8 @@ latitude: 42.14806
 longitude: -74.64887
 postcode: "12455"
 city: Margaretville
-street: "Main Street"
-housenumber: 746
-phone: "+1-845-586-2444"
+street: Main Street
+housenumber: "746"
+phone: +1-845-586-2444
 opening_hours: ""
-website: "https://www.wildflowers-design.com"
+website: https://www.wildflowers-design.com

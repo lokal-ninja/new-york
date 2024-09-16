@@ -1,11 +1,11 @@
 id: 246964281
-type: way
+type: node
 latitude: 43.14199
 longitude: -76.12739
 postcode: "13212"
 city: North Syracuse
-street: "Brewerton Road"
-housenumber: 600
+street: Brewerton Road
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

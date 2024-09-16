@@ -1,11 +1,11 @@
 id: 797996693
-type: way
+type: node
 latitude: 41.52521
 longitude: -74.06822
 postcode: "12550"
 city: Newburgh
-street: "South Plank Road"
-housenumber: 185
+street: South Plank Road
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

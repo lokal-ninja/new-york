@@ -1,11 +1,11 @@
 id: 692666979
-type: way
+type: node
 latitude: 43.13273
 longitude: -77.49031
 postcode: "14526"
 city: Penfield
-street: "Penfield Road"
-housenumber: 1660
+street: Penfield Road
+housenumber: "1660"
 phone: ""
 opening_hours: ""
-website: "https://deltasoniccarwash.com/location/penfield-ny/"
+website: https://deltasoniccarwash.com/location/penfield-ny/

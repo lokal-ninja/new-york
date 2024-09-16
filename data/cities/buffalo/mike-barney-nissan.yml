@@ -1,11 +1,11 @@
 id: 637076939
-type: way
+type: node
 latitude: 42.97984
 longitude: -78.79724
 postcode: "14226"
 city: Buffalo
-street: "Sheridan Drive"
-housenumber: 3676
-phone: "716-833-9888"
-opening_hours: "Mo,Tu,Th 10:00-20:30; We-Fr 09:30-17:30; Sa 09:30-16:30"
-website: "https://www.mikebarneynissan.com/"
+street: Sheridan Drive
+housenumber: "3676"
+phone: 716-833-9888
+opening_hours: Mo,Tu,Th 10:00-20:30; We-Fr 09:30-17:30; Sa 09:30-16:30
+website: https://www.mikebarneynissan.com/

@@ -1,11 +1,11 @@
 id: 686875526
-type: way
+type: node
 latitude: 41.4618
 longitude: -74.42902
 postcode: "10940"
 city: Middletown
-street: "Highland View Place"
-housenumber: 28
-phone: "(203) 718-6877"
+street: Highland View Place
+housenumber: "28"
+phone: (203) 718-6877
 opening_hours: ""
-website: "https://www.josarotours.com"
+website: https://www.josarotours.com

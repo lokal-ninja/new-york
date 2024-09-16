@@ -4,8 +4,8 @@ latitude: 40.72435
 longitude: -73.99734
 postcode: "10012"
 city: New York
-street: "Broadway"
-housenumber: 568
-phone: "+1-877-862-5477"
-opening_hours: "Mo-Fr 12:00-20:00; Sa-Su 10:00-18:00"
+street: Broadway
+housenumber: "568"
+phone: +1-877-862-5477
+opening_hours: Mo-Fr 12:00-20:00; Sa-Su 10:00-18:00
 website: ""

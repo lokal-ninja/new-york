@@ -1,11 +1,11 @@
 id: 679612355
-type: way
+type: node
 latitude: 41.4479
 longitude: -74.41521
 postcode: "10940"
 city: Middletown
-street: "Railroad Avenue"
-housenumber: 39
-phone: "845-775-4849"
+street: Railroad Avenue
+housenumber: "39"
+phone: 845-775-4849
 opening_hours: ""
-website: "https://xoticsproducts.com/"
+website: https://xoticsproducts.com/

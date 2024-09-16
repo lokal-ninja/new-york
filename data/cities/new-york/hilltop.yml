@@ -4,8 +4,8 @@ latitude: 40.71725
 longitude: -73.98589
 postcode: "10002"
 city: New York
-street: "Clinton Street"
-housenumber: 128
+street: Clinton Street
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://www.incycle.com/pages/hilltop-bicycles-new-york-city"
+opening_hours: Mo-Su 11:00-18:00
+website: https://www.incycle.com/pages/hilltop-bicycles-new-york-city

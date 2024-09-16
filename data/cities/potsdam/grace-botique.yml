@@ -1,11 +1,11 @@
 id: 58781962
-type: way
+type: node
 latitude: 44.67243
 longitude: -74.98665
 postcode: "13676"
 city: Potsdam
-street: "Market Street"
-housenumber: 78
+street: Market Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

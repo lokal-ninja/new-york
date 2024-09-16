@@ -1,11 +1,11 @@
 id: 563706969
-type: way
+type: node
 latitude: 40.78337
 longitude: -73.71465
 postcode: "11021"
 city: Great Neck
-street: "Northern Boulevard"
-housenumber: 661
+street: Northern Boulevard
+housenumber: "661"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 792359302
-type: way
+type: node
 latitude: 43.0274
 longitude: -73.37706
 postcode: "12816"
 city: Cambridge
-street: "East Main Street"
-housenumber: 40
-phone: "+1 518-677-3470"
-opening_hours: "Mo-Fr 07:00-18:00; Sa-Su 08:00-17:00"
+street: East Main Street
+housenumber: "40"
+phone: +1 518-677-3470
+opening_hours: Mo-Fr 07:00-18:00; Sa-Su 08:00-17:00
 website: ""

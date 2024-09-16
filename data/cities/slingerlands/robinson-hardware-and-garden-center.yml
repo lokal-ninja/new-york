@@ -1,11 +1,11 @@
 id: 58310888
-type: way
+type: node
 latitude: 42.63129
 longitude: -73.89805
 postcode: "12159"
 city: Slingerlands
-street: "New Scotland Road"
-housenumber: 1900
-phone: "+1 518-475-9483"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: New Scotland Road
+housenumber: "1900"
+phone: +1 518-475-9483
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

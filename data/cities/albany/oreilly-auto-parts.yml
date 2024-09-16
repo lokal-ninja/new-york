@@ -1,11 +1,11 @@
 id: 667987315
-type: way
+type: node
 latitude: 42.70455
 longitude: -73.81951
 postcode: "12205"
 city: Albany
-street: "Central Avenue"
-housenumber: 1390
+street: Central Avenue
+housenumber: "1390"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ny/colonie/autoparts-5861.html"
+website: https://locations.oreillyauto.com/ny/colonie/autoparts-5861.html

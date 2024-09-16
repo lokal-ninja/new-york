@@ -4,8 +4,8 @@ latitude: 40.72219
 longitude: -74.00094
 postcode: "10013"
 city: New York
-street: "Broome Street"
-housenumber: 453
-phone: "+1 917-521-5759"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://suitsupply.com/en-us/stores-detail?storeID=stores-NewYork-Soho"
+street: Broome Street
+housenumber: "453"
+phone: +1 917-521-5759
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: https://suitsupply.com/en-us/stores-detail?storeID=stores-NewYork-Soho

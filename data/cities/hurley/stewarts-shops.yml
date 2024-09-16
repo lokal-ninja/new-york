@@ -1,11 +1,11 @@
 id: 872000167
-type: way
+type: node
 latitude: 41.92625
 longitude: -74.06626
 postcode: "12443"
 city: Hurley
-street: "Main Street"
-housenumber: 6
-phone: "+1-845-331-9700"
-opening_hours: "04:30-23:00"
-website: "https://www.stewartsshops.com"
+street: Main Street
+housenumber: "6"
+phone: +1-845-331-9700
+opening_hours: 04:30-23:00
+website: https://www.stewartsshops.com

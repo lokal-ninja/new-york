@@ -4,8 +4,8 @@ latitude: 40.72572
 longitude: -74.00115
 postcode: "10012"
 city: New York
-street: "West Broadway"
-housenumber: 436
+street: West Broadway
+housenumber: "436"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-18:00
 website: ""

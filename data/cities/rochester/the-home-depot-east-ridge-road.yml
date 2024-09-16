@@ -1,11 +1,11 @@
 id: 551735585
-type: way
+type: node
 latitude: 43.19602
 longitude: -77.58812
 postcode: "14621"
 city: Rochester
-street: "East Ridge Road"
-housenumber: 1111
+street: East Ridge Road
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

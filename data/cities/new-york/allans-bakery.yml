@@ -4,8 +4,8 @@ latitude: 40.72111
 longitude: -73.98912
 postcode: "10002"
 city: New York
-street: "Allen Street"
-housenumber: 166
-phone: "+1-347-988-0157"
-opening_hours: "We-Su 08:30-19:00"
-website: "https://www.allansbakery.com"
+street: Allen Street
+housenumber: "166"
+phone: +1-347-988-0157
+opening_hours: We-Su 08:30-19:00
+website: https://www.allansbakery.com

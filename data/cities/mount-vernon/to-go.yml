@@ -1,11 +1,11 @@
 id: 1148889607
-type: way
+type: node
 latitude: 40.91313
 longitude: -73.8446
 postcode: "10550"
 city: Mount Vernon
-street: "West Lincoln Avenue"
-housenumber: 230
-phone: "+1-914-665-3525"
+street: West Lincoln Avenue
+housenumber: "230"
+phone: +1-914-665-3525
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 250372504
-type: way
+type: node
 latitude: 40.68049
 longitude: -73.93791
 postcode: "11216"
 city: Brooklyn
-street: "Marcus Garvey Boulevard"
-housenumber: 474
+street: Marcus Garvey Boulevard
+housenumber: "474"
 phone: ""
 opening_hours: ""
 website: ""

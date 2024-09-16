@@ -1,11 +1,11 @@
 id: 116391271
-type: way
+type: node
 latitude: 42.44913
 longitude: -76.50709
-postcode: "14850-3208"
+postcode: 14850-3208
 city: Ithaca
-street: "Third Street"
-housenumber: 505
-phone: "+1-833-746-5011"
-opening_hours: "09:00-20:00"
-website: "https://stores.aldi.us/ny/ithaca/505-third-st"
+street: Third Street
+housenumber: "505"
+phone: +1-833-746-5011
+opening_hours: 09:00-20:00
+website: https://stores.aldi.us/ny/ithaca/505-third-st

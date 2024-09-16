@@ -1,11 +1,11 @@
 id: 931152538
-type: way
+type: node
 latitude: 40.80747
 longitude: -73.07321
 postcode: "11741"
 city: Holbrook
-street: "Main Street"
-housenumber: 941
+street: Main Street
+housenumber: "941"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ny/holbrook/941-main-st"
+website: https://stores.advanceautoparts.com/ny/holbrook/941-main-st

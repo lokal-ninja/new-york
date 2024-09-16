@@ -1,11 +1,11 @@
 id: 809245878
-type: way
+type: node
 latitude: 43.8238
 longitude: -76.02331
 postcode: "13605"
 city: Adams
-street: "United States Route 11"
-housenumber: 10757
+street: United States Route 11
+housenumber: "10757"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ny/adams/6375"
+website: https://www.dollargeneral.com/store-directory/ny/adams/6375

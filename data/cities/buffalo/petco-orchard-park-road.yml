@@ -1,11 +1,11 @@
 id: 49343585
-type: way
+type: node
 latitude: 42.83635
 longitude: -78.7862
 postcode: "14224"
 city: Buffalo
-street: "Orchard Park Road"
-housenumber: 370
-phone: "+1 716-826-1500"
-opening_hours: "Mo-Sa 10:30-19:30; Su 10:30-19:00"
-website: "https://stores.petco.com/ny/buffalo/pet-supplies-buffalo-ny-1815.html"
+street: Orchard Park Road
+housenumber: "370"
+phone: +1 716-826-1500
+opening_hours: Mo-Sa 10:30-19:30; Su 10:30-19:00
+website: https://stores.petco.com/ny/buffalo/pet-supplies-buffalo-ny-1815.html

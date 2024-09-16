@@ -4,8 +4,8 @@ latitude: 42.96898
 longitude: -74.18451
 postcode: "12010"
 city: Amsterdam
-street: "State Highway 30"
-housenumber: 4879
-phone: "+1 518-843-6234"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ny/amsterdam/4879-state-highway-30"
+street: State Highway 30
+housenumber: "4879"
+phone: +1 518-843-6234
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ny/amsterdam/4879-state-highway-30

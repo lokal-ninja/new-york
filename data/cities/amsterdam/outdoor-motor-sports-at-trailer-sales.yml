@@ -4,8 +4,8 @@ latitude: 43.03306
 longitude: -74.20226
 postcode: "12010"
 city: Amsterdam
-street: "State Highway 30"
-housenumber: 3953
-phone: "+1 518 842 8812"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off"
-website: "https://www.outdoor-motor-sports.com/"
+street: State Highway 30
+housenumber: "3953"
+phone: +1 518 842 8812
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off
+website: https://www.outdoor-motor-sports.com/

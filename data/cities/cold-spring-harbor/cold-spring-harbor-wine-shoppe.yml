@@ -4,8 +4,8 @@ latitude: 40.87047
 longitude: -73.4587
 postcode: "11724"
 city: Cold Spring Harbor
-street: "West Main Street"
-housenumber: 84
-phone: "+1-631-659-3716"
-opening_hours: "Mo-Sa 11:00-20:00; Su 08:00-17:30"
-website: "https://www.cshwine.com/"
+street: West Main Street
+housenumber: "84"
+phone: +1-631-659-3716
+opening_hours: Mo-Sa 11:00-20:00; Su 08:00-17:30
+website: https://www.cshwine.com/

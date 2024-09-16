@@ -4,8 +4,8 @@ latitude: 40.77361
 longitude: -73.96428
 postcode: "10021"
 city: New York
-street: "Madison Avenue"
-housenumber: 952
-phone: "(212) 249-2008"
+street: Madison Avenue
+housenumber: "952"
+phone: (212) 249-2008
 opening_hours: ""
-website: "https://www.rolandmouret.com/"
+website: https://www.rolandmouret.com/

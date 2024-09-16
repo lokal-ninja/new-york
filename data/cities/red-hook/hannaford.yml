@@ -1,11 +1,11 @@
 id: 314807609
-type: way
+type: node
 latitude: 41.98
 longitude: -73.88195
 postcode: "12571"
 city: Red Hook
-street: "Hannaford Drive"
-housenumber: 35
-phone: "+1 845-758-9330"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.hannaford.com/ny/red-hook/8375"
+street: Hannaford Drive
+housenumber: "35"
+phone: +1 845-758-9330
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.hannaford.com/ny/red-hook/8375

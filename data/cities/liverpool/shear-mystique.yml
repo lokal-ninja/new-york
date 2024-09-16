@@ -1,11 +1,11 @@
 id: 617035559
-type: way
+type: node
 latitude: 43.10213
 longitude: -76.2079
 postcode: "13088"
 city: Liverpool
-street: "1st Street"
-housenumber: 316
-phone: "+1-315-451-2700"
+street: 1st Street
+housenumber: "316"
+phone: +1-315-451-2700
 opening_hours: ""
 website: ""

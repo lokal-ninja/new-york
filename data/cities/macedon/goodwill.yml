@@ -1,11 +1,11 @@
 id: 131490345
-type: way
+type: node
 latitude: 43.0673
 longitude: -77.35265
 postcode: "14502"
 city: Macedon
-street: "North Wilson Road"
-housenumber: 1635
+street: North Wilson Road
+housenumber: "1635"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-18:00
 website: ""

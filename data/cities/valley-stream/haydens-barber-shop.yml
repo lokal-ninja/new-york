@@ -1,11 +1,11 @@
 id: 608007474
-type: way
+type: node
 latitude: 40.67321
 longitude: -73.72491
 postcode: "11580"
 city: Valley Stream
-street: "West Merrick Road"
-housenumber: 790
-phone: "+1-516-285-8400"
+street: West Merrick Road
+housenumber: "790"
+phone: +1-516-285-8400
 opening_hours: ""
 website: ""

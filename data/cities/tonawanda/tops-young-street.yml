@@ -1,11 +1,11 @@
 id: 158851967
-type: way
+type: node
 latitude: 43.00205
 longitude: -78.85821
 postcode: "14150"
 city: Tonawanda
-street: "Young Street"
-housenumber: 890
-phone: "+1 716-692-8254"
-opening_hours: "Mo-Su 06:00-24:00"
+street: Young Street
+housenumber: "890"
+phone: +1 716-692-8254
+opening_hours: Mo-Su 06:00-24:00
 website: ""

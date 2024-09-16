@@ -4,8 +4,8 @@ latitude: 42.48158
 longitude: -76.48744
 postcode: "14850"
 city: Ithaca
-street: "North Triphammer Road"
-housenumber: 2300
-phone: "+1-607-257-4952"
-opening_hours: "06:00-24:00"
-website: "https://www.topsmarkets.com/StoreLocator/Store?L=522"
+street: North Triphammer Road
+housenumber: "2300"
+phone: +1-607-257-4952
+opening_hours: 06:00-24:00
+website: https://www.topsmarkets.com/StoreLocator/Store?L=522

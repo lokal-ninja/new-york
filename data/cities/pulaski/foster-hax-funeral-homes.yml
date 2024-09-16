@@ -1,11 +1,11 @@
 id: 546895378
-type: way
+type: node
 latitude: 43.5701
 longitude: -76.13083
 postcode: "13142"
 city: Pulaski
-street: "Park Street"
-housenumber: 52
+street: Park Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

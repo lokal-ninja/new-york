@@ -1,11 +1,11 @@
 id: 552715747
-type: way
+type: node
 latitude: 41.74204
 longitude: -73.91048
 postcode: "12601"
 city: Poughkeepsie
-street: "Violet Avenue"
-housenumber: 433
+street: Violet Avenue
+housenumber: "433"
 phone: ""
-opening_hours: "Mo-Fr 05:30-24:00; Sa 06:00-24:00; Su 07:00-23:00"
+opening_hours: Mo-Fr 05:30-24:00; Sa 06:00-24:00; Su 07:00-23:00
 website: ""

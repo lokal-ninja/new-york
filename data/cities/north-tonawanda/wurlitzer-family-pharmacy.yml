@@ -1,11 +1,11 @@
 id: 830990992
-type: way
+type: node
 latitude: 43.0371
 longitude: -78.86136
 postcode: "14120"
 city: North Tonawanda
-street: "Division Street"
-housenumber: 521
+street: Division Street
+housenumber: "521"
 phone: ""
 opening_hours: ""
 website: ""

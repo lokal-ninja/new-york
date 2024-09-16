@@ -1,11 +1,11 @@
 id: 233654661
-type: way
+type: node
 latitude: 42.98127
 longitude: -78.8735
 postcode: "14217"
 city: Buffalo
-street: "Sheridan Drive"
-housenumber: 1630
+street: Sheridan Drive
+housenumber: "1630"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3564+delaware+ave-tonawanda-ny-14217/id=10443"
+website: https://www.walgreens.com/locator/walgreens-3564+delaware+ave-tonawanda-ny-14217/id=10443

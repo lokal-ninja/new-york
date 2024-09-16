@@ -1,11 +1,11 @@
 id: 384757942
-type: way
+type: node
 latitude: 42.04087
 longitude: -74.11812
 postcode: "12498"
 city: Woodstock
-street: "Mill Hill Road"
-housenumber: 10
-phone: "(845) 679-2373"
+street: Mill Hill Road
+housenumber: "10"
+phone: (845) 679-2373
 opening_hours: ""
-website: "https://www.pegasusshoes.com/"
+website: https://www.pegasusshoes.com/

@@ -2,10 +2,10 @@ id: 9780127221
 type: node
 latitude: 40.64063
 longitude: -73.60726
-postcode: "11510-4240"
+postcode: 11510-4240
 city: Baldwin Harbor
-street: "Atlantic Avenue"
-housenumber: 923
-phone: "+1 516-600-9110"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-18:00"
+street: Atlantic Avenue
+housenumber: "923"
+phone: +1 516-600-9110
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 342320603
-type: way
+type: node
 latitude: 40.94188
 longitude: -72.98867
 postcode: "11764"
 city: Miller Place
-street: "Route 25A"
-housenumber: 365
-phone: "+1 631-928-2297"
+street: Route 25A
+housenumber: "365"
+phone: +1 631-928-2297
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/miller-place/365-route-25a-26072"
+website: https://www.7-eleven.com/locations/ny/miller-place/365-route-25a-26072

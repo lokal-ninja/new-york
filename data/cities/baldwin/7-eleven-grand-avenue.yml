@@ -1,11 +1,11 @@
 id: 616212391
-type: way
+type: node
 latitude: 40.67927
 longitude: -73.61436
 postcode: "11510"
 city: Baldwin
-street: "Grand Avenue"
-housenumber: 1271
-phone: "+1 516-867-5147"
+street: Grand Avenue
+housenumber: "1271"
+phone: +1 516-867-5147
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/baldwin/1271-grand-ave-32124"
+website: https://www.7-eleven.com/locations/ny/baldwin/1271-grand-ave-32124

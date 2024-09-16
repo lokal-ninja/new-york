@@ -1,11 +1,11 @@
 id: 642354824
-type: way
+type: node
 latitude: 43.0798
 longitude: -75.39008
 postcode: "13323"
 city: Clinton
-street: "Seneca Turnpike"
-housenumber: 7509
-phone: "+1-315-853-8804"
+street: Seneca Turnpike
+housenumber: "7509"
+phone: +1-315-853-8804
 opening_hours: ""
-website: "https://www.precisionunlimited.com/"
+website: https://www.precisionunlimited.com/

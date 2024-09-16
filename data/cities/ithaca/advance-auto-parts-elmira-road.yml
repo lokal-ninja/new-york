@@ -1,11 +1,11 @@
 id: 116421847
-type: way
+type: node
 latitude: 42.42036
 longitude: -76.51986
 postcode: "14850"
 city: Ithaca
-street: "Elmira Road"
-housenumber: 380
+street: Elmira Road
+housenumber: "380"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ny/ithaca/380-384-elmira-road"
+website: https://stores.advanceautoparts.com/ny/ithaca/380-384-elmira-road

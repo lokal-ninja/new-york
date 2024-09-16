@@ -1,11 +1,11 @@
 id: 544627783
-type: way
+type: node
 latitude: 42.92922
 longitude: -74.20395
 postcode: "12010"
 city: Amsterdam
-street: "State Route 5S"
-housenumber: 1455
+street: State Route 5S
+housenumber: "1455"
 phone: ""
 opening_hours: ""
 website: ""

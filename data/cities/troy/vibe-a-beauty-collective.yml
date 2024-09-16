@@ -3,9 +3,9 @@ type: node
 latitude: 42.73086
 longitude: -73.68744
 postcode: "12180"
-city: troy
-street: "broadway"
-housenumber: 501
+city: Troy
+street: broadway
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 403982115
-type: way
+type: node
 latitude: 41.69952
 longitude: -73.93442
 postcode: "12601"
 city: Poughkeepsie
-street: "Pine Street"
-housenumber: 94
-phone: "+1-845-454-3030"
-opening_hours: "24/7"
-website: "http://www.hudsonretina.com/"
+street: Pine Street
+housenumber: "94"
+phone: +1-845-454-3030
+opening_hours: 24/7
+website: http://www.hudsonretina.com/

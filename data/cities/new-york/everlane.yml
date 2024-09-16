@@ -1,11 +1,11 @@
 id: 247866902
-type: way
+type: node
 latitude: 40.72257
 longitude: -73.99482
 postcode: "10012"
 city: New York
-street: "Prince Street"
-housenumber: 28
+street: Prince Street
+housenumber: "28"
 phone: ""
-opening_hours: "09:00-21:00"
-website: "https://www.everlane.com/stores#NYC"
+opening_hours: 09:00-21:00
+website: https://www.everlane.com/stores#NYC

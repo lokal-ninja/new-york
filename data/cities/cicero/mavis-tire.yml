@@ -1,11 +1,11 @@
 id: 248770208
-type: way
+type: node
 latitude: 43.1615
 longitude: -76.1195
 postcode: "13039"
 city: Cicero
-street: "Brewerton Road"
-housenumber: 8066
+street: Brewerton Road
+housenumber: "8066"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 750644529
-type: way
+type: node
 latitude: 42.72768
 longitude: -77.86751
 postcode: "14510"
 city: Mount Morris
-street: "East State Street"
-housenumber: 40
+street: East State Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-21+e+state+st-mount+morris-ny-14510/id=17396"
+website: https://www.walgreens.com/locator/walgreens-21+e+state+st-mount+morris-ny-14510/id=17396

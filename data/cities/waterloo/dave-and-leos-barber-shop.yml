@@ -4,8 +4,8 @@ latitude: 42.90471
 longitude: -76.86209
 postcode: "13165"
 city: Waterloo
-street: "East Main Street"
-housenumber: 21
-phone: "(315) 539-9177"
-opening_hours: "Tu-Fr 08:00-17:30, Sa 07:00-13:00"
+street: East Main Street
+housenumber: "21"
+phone: (315) 539-9177
+opening_hours: Tu-Fr 08:00-17:30, Sa 07:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.71373
 longitude: -73.96194
 postcode: "11249"
 city: Brooklyn
-street: "Bedford Avenue"
-housenumber: 312
-phone: "+1-718-388-0909"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
+street: Bedford Avenue
+housenumber: "312"
+phone: +1-718-388-0909
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
 website: ""

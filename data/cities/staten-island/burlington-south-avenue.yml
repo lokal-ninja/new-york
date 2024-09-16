@@ -2,10 +2,10 @@ id: 7821177564
 type: node
 latitude: 40.60133
 longitude: -74.19173
-postcode: "10314-3646"
+postcode: 10314-3646
 city: Staten Island
-street: "South Avenue"
-housenumber: 1801
-phone: "+1 718-982-0300"
-opening_hours: "Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00; Su 08:00-22:00"
-website: "https://stores.burlington.com/ny/staten-island/477"
+street: South Avenue
+housenumber: "1801"
+phone: +1 718-982-0300
+opening_hours: Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00; Su 08:00-22:00
+website: https://stores.burlington.com/ny/staten-island/477

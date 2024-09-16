@@ -1,11 +1,11 @@
 id: 84868657
-type: way
+type: node
 latitude: 43.01982
 longitude: -78.88394
 postcode: "14150"
 city: Tonawanda
-street: "Niagara Street"
-housenumber: 150
-phone: "+1 716-693-5700"
+street: Niagara Street
+housenumber: "150"
+phone: +1 716-693-5700
 opening_hours: ""
 website: ""

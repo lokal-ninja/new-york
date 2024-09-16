@@ -4,8 +4,8 @@ latitude: 42.94344
 longitude: -78.86868
 postcode: "14216"
 city: Buffalo
-street: "Delaware Avenue"
-housenumber: 2176
-phone: "716-515-4087"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ny/buffalo/1422/"
+street: Delaware Avenue
+housenumber: "2176"
+phone: 716-515-4087
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ny/buffalo/1422/

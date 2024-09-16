@@ -2,10 +2,10 @@ id: 5763963531
 type: node
 latitude: 40.7308
 longitude: -74.00054
-postcode: "10012-1289"
+postcode: 10012-1289
 city: New York
-street: "West 3rd Street"
-housenumber: 125
-phone: "+1 212-777-1500"
-opening_hours: "Mo-We 07:30-20:00; Th, Fr 07:30-21:00; Sa 08:00-20:00; Su 10:00-19:00"
-website: "http://www.hbrickman.com"
+street: West 3rd Street
+housenumber: "125"
+phone: +1 212-777-1500
+opening_hours: Mo-We 07:30-20:00; Th, Fr 07:30-21:00; Sa 08:00-20:00; Su 10:00-19:00
+website: http://www.hbrickman.com

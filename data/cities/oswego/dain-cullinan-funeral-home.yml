@@ -1,11 +1,11 @@
 id: 262574133
-type: way
+type: node
 latitude: 43.45697
 longitude: -76.50673
 postcode: "13126"
 city: Oswego
-street: "East 2nd Street"
-housenumber: 112
+street: East 2nd Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

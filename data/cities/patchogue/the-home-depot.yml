@@ -1,11 +1,11 @@
 id: 468627994
-type: way
+type: node
 latitude: 40.78103
 longitude: -73.04206
 postcode: "11772"
 city: Patchogue
-street: "Gateway Boulevard"
-housenumber: 10
+street: Gateway Boulevard
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

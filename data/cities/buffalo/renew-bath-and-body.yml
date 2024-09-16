@@ -1,11 +1,11 @@
 id: 876603891
-type: way
+type: node
 latitude: 42.92248
 longitude: -78.87687
 postcode: "14222"
 city: Buffalo
-street: "Elmwood Avenue"
-housenumber: 927
-phone: "(716) 881-0177"
+street: Elmwood Avenue
+housenumber: "927"
+phone: (716) 881-0177
 opening_hours: ""
-website: "https://www.renewbathandbody.com/"
+website: https://www.renewbathandbody.com/

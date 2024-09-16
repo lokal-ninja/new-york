@@ -1,11 +1,11 @@
 id: 823035196
-type: way
+type: node
 latitude: 42.14515
 longitude: -76.83077
 postcode: "14903"
 city: Elmira
-street: "Corning Road"
-housenumber: 2410
+street: Corning Road
+housenumber: "2410"
 phone: ""
 opening_hours: ""
 website: ""

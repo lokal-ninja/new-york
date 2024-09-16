@@ -1,11 +1,11 @@
 id: 825422982
-type: way
+type: node
 latitude: 42.78997
 longitude: -77.50037
 postcode: "14471"
 city: Honeoye
-street: "Main Street"
-housenumber: 8486
+street: Main Street
+housenumber: "8486"
 phone: ""
 opening_hours: ""
 website: ""

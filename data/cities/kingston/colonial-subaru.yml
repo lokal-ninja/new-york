@@ -1,11 +1,11 @@
 id: 264325224
-type: way
+type: node
 latitude: 41.95751
 longitude: -73.99151
 postcode: "12401"
 city: Kingston
-street: "East Chester Street"
-housenumber: 761
+street: East Chester Street
+housenumber: "761"
 phone: ""
 opening_hours: ""
 website: ""

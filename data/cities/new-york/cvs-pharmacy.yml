@@ -4,8 +4,8 @@ latitude: 40.73979
 longitude: -73.98693
 postcode: "10010"
 city: New York
-street: "Park Avenue South"
-housenumber: 300
-phone: "+1-212-982-5193"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.cvs.com/store-locator/new-york-ny-pharmacies/300-park-ave-south-new-york-ny-10010/storeid=2962"
+street: Park Avenue South
+housenumber: "300"
+phone: +1-212-982-5193
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.cvs.com/store-locator/new-york-ny-pharmacies/300-park-ave-south-new-york-ny-10010/storeid=2962

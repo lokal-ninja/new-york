@@ -1,11 +1,11 @@
 id: 809812263
-type: way
+type: node
 latitude: 44.69564
 longitude: -73.51669
 postcode: "12901"
 city: Plattsburgh
-street: "Della Drive"
-housenumber: 7
-phone: "+1-877-797-1405"
+street: Della Drive
+housenumber: "7"
+phone: +1-877-797-1405
 opening_hours: ""
-website: "https://www.dellamitsubishi.com/"
+website: https://www.dellamitsubishi.com/

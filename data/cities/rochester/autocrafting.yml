@@ -1,11 +1,11 @@
 id: 870567068
-type: way
+type: node
 latitude: 43.13915
 longitude: -77.67268
 postcode: "14624"
 city: Rochester
-street: "Hinchey Road"
-housenumber: 72
+street: Hinchey Road
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

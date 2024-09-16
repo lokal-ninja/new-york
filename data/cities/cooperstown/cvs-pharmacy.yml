@@ -1,11 +1,11 @@
 id: 1025372484
-type: way
+type: node
 latitude: 42.69427
 longitude: -74.93368
 postcode: "13326"
 city: Cooperstown
-street: "Beaver Street"
-housenumber: 95
+street: Beaver Street
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cooperstown-ny-pharmacies/95-beaver-st-cooperstown-ny-13326/storeid=5034"
+website: https://www.cvs.com/store-locator/cooperstown-ny-pharmacies/95-beaver-st-cooperstown-ny-13326/storeid=5034

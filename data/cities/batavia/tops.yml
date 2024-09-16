@@ -1,11 +1,11 @@
 id: 349928521
-type: way
+type: node
 latitude: 43.00734
 longitude: -78.20459
 postcode: "14020"
 city: Batavia
-street: "West Main Street"
-housenumber: 390
-phone: "+1 585-343-9373"
+street: West Main Street
+housenumber: "390"
+phone: +1 585-343-9373
 opening_hours: ""
 website: ""

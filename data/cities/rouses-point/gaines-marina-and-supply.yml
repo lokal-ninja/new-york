@@ -1,11 +1,11 @@
 id: 480806503
-type: way
+type: node
 latitude: 44.99077
 longitude: -73.364
 postcode: "12979"
 city: Rouses Point
-street: "Lake Street"
-housenumber: 141
+street: Lake Street
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

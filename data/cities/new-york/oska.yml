@@ -4,8 +4,8 @@ latitude: 40.77907
 longitude: -73.97734
 postcode: "10023"
 city: New York
-street: "Columbus Avenue"
-housenumber: 311
-phone: "+1212-799-3757"
+street: Columbus Avenue
+housenumber: "311"
+phone: +1212-799-3757
 opening_hours: ""
-website: "https://us.oska.com"
+website: https://us.oska.com

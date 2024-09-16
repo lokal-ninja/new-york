@@ -1,11 +1,11 @@
 id: 519699957
-type: way
+type: node
 latitude: 43.16985
 longitude: -77.70592
 postcode: "14606"
 city: Rochester
-street: "Spencerport Road"
-housenumber: 527
+street: Spencerport Road
+housenumber: "527"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ny/gates/527-spencerport-rd"
+website: https://stores.advanceautoparts.com/ny/gates/527-spencerport-rd

@@ -1,11 +1,11 @@
 id: 733939521
-type: way
+type: node
 latitude: 42.86414
 longitude: -73.76752
 postcode: "12065"
 city: Clifton Park
-street: "Route 146"
-housenumber: 485
+street: Route 146
+housenumber: "485"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ny/halfmoon/485-route-146.html"
+website: https://www.autozone.com/locations/ny/halfmoon/485-route-146.html

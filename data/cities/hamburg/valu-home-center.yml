@@ -1,11 +1,11 @@
 id: 560544657
-type: way
+type: node
 latitude: 42.72708
 longitude: -78.82408
 postcode: "14075"
 city: Hamburg
-street: "South Park Avenue"
-housenumber: 6170
+street: South Park Avenue
+housenumber: "6170"
 phone: ""
 opening_hours: ""
 website: ""

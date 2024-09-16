@@ -1,11 +1,11 @@
 id: 832656250
-type: way
+type: node
 latitude: 43.10669
 longitude: -78.99288
-postcode: "14304-1524"
+postcode: 14304-1524
 city: Niagara Falls
-street: "Porter Road"
-housenumber: 6035
-phone: "+1 833-746-5083"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/niagara-falls/6035-porter-road"
+street: Porter Road
+housenumber: "6035"
+phone: +1 833-746-5083
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/niagara-falls/6035-porter-road

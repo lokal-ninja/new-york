@@ -1,11 +1,11 @@
 id: 467542667
-type: way
+type: node
 latitude: 40.81003
 longitude: -73.5008
 postcode: "11791"
 city: Syosset
-street: "Jericho Turnpike"
-housenumber: 404
+street: Jericho Turnpike
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 884247120
-type: way
+type: node
 latitude: 42.19562
 longitude: -74.13493
 postcode: "12485"
 city: Tannersville
-street: "Main Street"
-housenumber: 6041
+street: Main Street
+housenumber: "6041"
 phone: ""
 opening_hours: ""
 website: ""

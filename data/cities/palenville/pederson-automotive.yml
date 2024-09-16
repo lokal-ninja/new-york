@@ -1,11 +1,11 @@
 id: 967713387
-type: way
+type: node
 latitude: 42.17555
 longitude: -74.02429
 postcode: "12463"
 city: Palenville
-street: "Route 23A"
-housenumber: 3366
+street: Route 23A
+housenumber: "3366"
 phone: ""
 opening_hours: ""
 website: ""

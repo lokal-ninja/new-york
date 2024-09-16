@@ -1,11 +1,11 @@
 id: 839085412
-type: way
+type: node
 latitude: 44.18224
 longitude: -73.43297
 postcode: "12993"
 city: Westport
-street: "Main Street"
-housenumber: 6472
+street: Main Street
+housenumber: "6472"
 phone: "+15189628281"
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

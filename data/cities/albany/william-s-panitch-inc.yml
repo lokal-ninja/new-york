@@ -4,8 +4,8 @@ latitude: 42.71871
 longitude: -73.80826
 postcode: "12205"
 city: Albany
-street: "Computer Drive West"
-housenumber: 3
-phone: "+1 518-489-4400"
-opening_hours: "24/7"
-website: "https://wspcoin.com"
+street: Computer Drive West
+housenumber: "3"
+phone: +1 518-489-4400
+opening_hours: 24/7
+website: https://wspcoin.com

@@ -1,11 +1,11 @@
 id: 585010223
-type: way
+type: node
 latitude: 42.97909
 longitude: -76.34069
 postcode: "13108"
 city: Marcellus
-street: "South Street"
-housenumber: 22
+street: South Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

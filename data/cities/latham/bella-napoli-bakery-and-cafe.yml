@@ -1,11 +1,11 @@
 id: 111623108
-type: way
+type: node
 latitude: 42.73718
 longitude: -73.76262
 postcode: "12110"
 city: Latham
-street: "Loudon Road"
-housenumber: 672
+street: Loudon Road
+housenumber: "672"
 phone: ""
 opening_hours: ""
 website: ""

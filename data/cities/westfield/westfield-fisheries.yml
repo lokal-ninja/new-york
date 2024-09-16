@@ -1,11 +1,11 @@
 id: 820047507
-type: way
+type: node
 latitude: 42.34169
 longitude: -79.59744
 postcode: "14787"
 city: Westfield
-street: "First Street"
-housenumber: 8252
+street: First Street
+housenumber: "8252"
 phone: ""
 opening_hours: ""
 website: ""

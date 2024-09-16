@@ -1,11 +1,11 @@
 id: 851112208
-type: way
+type: node
 latitude: 40.93965
 longitude: -73.83407
 postcode: "10708"
 city: Bronxville
-street: "Park Place"
-housenumber: 19
+street: Park Place
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

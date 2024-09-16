@@ -1,11 +1,11 @@
 id: 1025383800
-type: way
+type: node
 latitude: 42.92159
 longitude: -78.78376
 postcode: "14225"
 city: Cheektowaga
-street: "Harlem Road"
-housenumber: 2887
+street: Harlem Road
+housenumber: "2887"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 368149427
-type: way
+type: node
 latitude: 42.68185
 longitude: -74.45577
 postcode: "12043"
 city: Cobleskill
-street: "Merchant Place"
-housenumber: 139
-phone: "+1 518-234-1090"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2135/cobleskill-ny/whats-new"
+street: Merchant Place
+housenumber: "139"
+phone: +1 518-234-1090
+opening_hours: 24/7
+website: https://www.walmart.com/store/2135/cobleskill-ny/whats-new

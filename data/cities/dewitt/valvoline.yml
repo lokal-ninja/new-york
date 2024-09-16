@@ -1,11 +1,11 @@
 id: 157474127
-type: way
+type: node
 latitude: 43.04319
 longitude: -76.06869
 postcode: "13214"
 city: DeWitt
-street: "Erie Boulevard East"
-housenumber: 3488
-phone: "315 446 8958"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:30; Su 10:00-16:00"
-website: "https://store.vioc.com/ny/dewitt/oil-change-020005.html"
+street: Erie Boulevard East
+housenumber: "3488"
+phone: 315 446 8958
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:30; Su 10:00-16:00
+website: https://store.vioc.com/ny/dewitt/oil-change-020005.html

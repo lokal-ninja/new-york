@@ -1,11 +1,11 @@
 id: 570496280
-type: way
+type: node
 latitude: 42.41584
 longitude: -74.0233
 postcode: "12083"
 city: Greenville
-street: "Route 81"
-housenumber: 4898
+street: Route 81
+housenumber: "4898"
 phone: ""
 opening_hours: ""
 website: ""

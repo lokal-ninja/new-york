@@ -1,11 +1,11 @@
 id: 288842684
-type: way
+type: node
 latitude: 42.57857
 longitude: -79.07753
 postcode: "14081"
 city: Irving
-street: "Route 20"
-housenumber: 11177
+street: Route 20
+housenumber: "11177"
 phone: ""
 opening_hours: ""
 website: ""

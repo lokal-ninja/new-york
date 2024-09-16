@@ -1,11 +1,11 @@
 id: 1272894033
-type: way
+type: node
 latitude: 42.99813
 longitude: -77.48816
 postcode: "14506"
 city: Mendon
-street: "Victor-Mendon Road"
-housenumber: 180
-phone: "+1 585-624-2938"
+street: Victor-Mendon Road
+housenumber: "180"
+phone: +1 585-624-2938
 opening_hours: ""
-website: "https://saxbyimplement.com/"
+website: https://saxbyimplement.com/

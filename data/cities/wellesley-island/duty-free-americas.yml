@@ -1,11 +1,11 @@
 id: 206886421
-type: way
+type: node
 latitude: 44.34603
 longitude: -75.98166
 postcode: "13640"
 city: Wellesley Island
-street: "United States Route 81"
-housenumber: 46792
+street: United States Route 81
+housenumber: "46792"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.75336
 longitude: -74.00085
 postcode: "10018"
 city: New York
-street: "West 33rd Street"
-housenumber: 500
-phone: "+1 855-486-4756"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://map.uniqlo.com/us/en/detail/10200097"
+street: West 33rd Street
+housenumber: "500"
+phone: +1 855-486-4756
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://map.uniqlo.com/us/en/detail/10200097

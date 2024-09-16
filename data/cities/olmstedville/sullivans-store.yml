@@ -1,11 +1,11 @@
 id: 814416200
-type: way
+type: node
 latitude: 43.7718
 longitude: -73.93117
 postcode: "12857"
 city: Olmstedville
-street: "County Route 29"
-housenumber: 1396
+street: County Route 29
+housenumber: "1396"
 phone: ""
 opening_hours: ""
 website: ""

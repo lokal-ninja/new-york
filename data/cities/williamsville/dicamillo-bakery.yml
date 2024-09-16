@@ -1,11 +1,11 @@
 id: 900163981
-type: way
+type: node
 latitude: 42.9612
 longitude: -78.75405
 postcode: "14221"
 city: Williamsville
-street: "Main Street"
-housenumber: 5329
+street: Main Street
+housenumber: "5329"
 phone: ""
 opening_hours: ""
 website: ""

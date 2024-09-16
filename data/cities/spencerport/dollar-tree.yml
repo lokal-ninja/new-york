@@ -1,11 +1,11 @@
 id: 1115106409
-type: way
+type: node
 latitude: 43.19059
 longitude: -77.79858
 postcode: "14559"
 city: Spencerport
-street: "Slayton Avenue"
-housenumber: 17
+street: Slayton Avenue
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/ny/spencerport/4789/"
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/ny/spencerport/4789/

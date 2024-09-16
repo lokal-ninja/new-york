@@ -4,8 +4,8 @@ latitude: 40.77923
 longitude: -73.98353
 postcode: "10023"
 city: New York
-street: "West 72nd Street"
-housenumber: 244
-phone: "+1-212-724-6505"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
+street: West 72nd Street
+housenumber: "244"
+phone: +1-212-724-6505
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00
 website: ""

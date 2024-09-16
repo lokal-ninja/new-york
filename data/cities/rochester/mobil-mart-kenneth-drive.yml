@@ -1,11 +1,11 @@
 id: 264946296
-type: way
+type: node
 latitude: 43.05945
 longitude: -77.64535
 postcode: "14623"
 city: Rochester
-street: "Kenneth Drive"
-housenumber: 375
+street: Kenneth Drive
+housenumber: "375"
 phone: ""
 opening_hours: ""
 website: ""

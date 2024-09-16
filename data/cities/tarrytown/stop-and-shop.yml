@@ -1,11 +1,11 @@
 id: 605308710
-type: way
+type: node
 latitude: 41.05966
 longitude: -73.83671
 postcode: "10591"
 city: Tarrytown
-street: "White Plains Road"
-housenumber: 610
+street: White Plains Road
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

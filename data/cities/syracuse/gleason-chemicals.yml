@@ -1,11 +1,11 @@
 id: 221061085
-type: way
+type: node
 latitude: 43.05397
 longitude: -76.08382
 postcode: "13214"
 city: Syracuse
-street: "Headson Drive"
-housenumber: 130
+street: Headson Drive
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.74305
 longitude: -73.97737
 postcode: "10016"
 city: New York
-street: "2nd Avenue"
-housenumber: 563
+street: 2nd Avenue
+housenumber: "563"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa-Su 10:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa-Su 10:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.75334
 longitude: -73.98492
 postcode: ""
 city: New York
-street: "West 40th Street"
-housenumber: 80
+street: West 40th Street
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:00; Sa-Su 07:00-20:00"
-website: "https://oleandsteen.us/"
+opening_hours: Mo-Fr 06:30-20:00; Sa-Su 07:00-20:00
+website: https://oleandsteen.us/

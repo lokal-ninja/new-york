@@ -1,11 +1,11 @@
 id: 295557471
-type: way
+type: node
 latitude: 43.12648
 longitude: -77.49433
 postcode: "14625"
 city: Rochester
-street: "Panorama Trail South"
-housenumber: 871
+street: Panorama Trail South
+housenumber: "871"
 phone: ""
 opening_hours: ""
 website: ""

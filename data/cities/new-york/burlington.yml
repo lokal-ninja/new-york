@@ -4,8 +4,8 @@ latitude: 40.74274
 longitude: -73.99319
 postcode: "10011"
 city: New York
-street: "6th Avenue"
-housenumber: 707
-phone: "+1 212-229-1300"
-opening_hours: "08:30-21:30"
-website: "https://stores.burlington.com/ny/new-york/235"
+street: 6th Avenue
+housenumber: "707"
+phone: +1 212-229-1300
+opening_hours: 08:30-21:30
+website: https://stores.burlington.com/ny/new-york/235

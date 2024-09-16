@@ -1,11 +1,11 @@
 id: 245743511
-type: way
+type: node
 latitude: 42.02467
 longitude: -76.38284
 postcode: "13812"
 city: Nichols
-street: "West River Road"
-housenumber: 814
+street: West River Road
+housenumber: "814"
 phone: ""
 opening_hours: ""
 website: ""

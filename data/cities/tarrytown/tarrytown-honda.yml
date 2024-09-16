@@ -1,11 +1,11 @@
 id: 879492187
-type: way
+type: node
 latitude: 41.06122
 longitude: -73.86175
 postcode: "10591"
 city: Tarrytown
-street: "South Broadway"
-housenumber: 460
+street: South Broadway
+housenumber: "460"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 387596911
-type: way
+type: node
 latitude: 42.658
 longitude: -73.7297
 postcode: "12144"
 city: Rensselaer
-street: "Washington Avenue"
-housenumber: 75
+street: Washington Avenue
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

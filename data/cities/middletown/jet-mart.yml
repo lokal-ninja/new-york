@@ -1,11 +1,11 @@
 id: 310990811
-type: way
+type: node
 latitude: 41.44602
 longitude: -74.40964
 postcode: "10940"
 city: Middletown
-street: "East Main Street"
-housenumber: 236
+street: East Main Street
+housenumber: "236"
 phone: ""
 opening_hours: ""
 website: ""

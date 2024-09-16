@@ -1,11 +1,11 @@
 id: 270967894
-type: way
+type: node
 latitude: 40.79067
 longitude: -73.97319
 postcode: "10024"
 city: New York
-street: "Amsterdam Avenue"
-housenumber: 630
+street: Amsterdam Avenue
+housenumber: "630"
 phone: ""
 opening_hours: ""
-website: "https://www.plazajewishcommunitychapel.org/"
+website: https://www.plazajewishcommunitychapel.org/

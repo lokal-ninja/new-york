@@ -1,11 +1,11 @@
 id: 105767590
-type: way
+type: node
 latitude: 44.66174
 longitude: -75.028
 postcode: "13676"
 city: Potsdam
-street: "United States Highway 11"
-housenumber: 7494
-phone: "+1 315-268-6900"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3329/potsdam-ny/whats-new"
+street: United States Highway 11
+housenumber: "7494"
+phone: +1 315-268-6900
+opening_hours: 24/7
+website: https://www.walmart.com/store/3329/potsdam-ny/whats-new

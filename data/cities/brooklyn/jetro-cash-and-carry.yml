@@ -4,8 +4,8 @@ latitude: 40.66716
 longitude: -73.99718
 postcode: "11232"
 city: Brooklyn
-street: "Hamilton Avenue"
-housenumber: 566
-phone: "+1-718-768-0555"
+street: Hamilton Avenue
+housenumber: "566"
+phone: +1-718-768-0555
 opening_hours: ""
-website: "https://www.restaurantdepot.com/jetro"
+website: https://www.restaurantdepot.com/jetro

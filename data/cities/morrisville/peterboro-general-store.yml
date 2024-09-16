@@ -1,11 +1,11 @@
 id: 1213816252
-type: way
+type: node
 latitude: 42.96741
 longitude: -75.68499
 postcode: "13408"
 city: Morrisville
-street: "Peterboro Road"
-housenumber: 4571
-phone: "+1-315-684-3131"
+street: Peterboro Road
+housenumber: "4571"
+phone: +1-315-684-3131
 opening_hours: ""
-website: "https://peterborogeneralstore.com"
+website: https://peterborogeneralstore.com

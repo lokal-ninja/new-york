@@ -1,11 +1,11 @@
 id: 817974194
-type: way
+type: node
 latitude: 43.07132
 longitude: -73.78783
 postcode: "12866"
 city: Saratoga Springs
-street: "South Broadway"
-housenumber: 160
+street: South Broadway
+housenumber: "160"
 phone: ""
 opening_hours: ""
-website: "https://www.cudneys.com/"
+website: https://www.cudneys.com/

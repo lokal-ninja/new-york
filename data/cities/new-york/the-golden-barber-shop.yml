@@ -4,8 +4,8 @@ latitude: 40.79398
 longitude: -73.94485
 postcode: "10029"
 city: New York
-street: "Lexington Avenue"
-housenumber: 1753
-phone: "+1 646-320-9771"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Lexington Avenue
+housenumber: "1753"
+phone: +1 646-320-9771
+opening_hours: Mo-Su 07:00-21:00
 website: ""

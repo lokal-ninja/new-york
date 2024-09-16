@@ -1,11 +1,11 @@
 id: 977746609
-type: way
+type: node
 latitude: 42.06047
 longitude: -75.4263
 postcode: "13754"
 city: Deposit
-street: "Front Street"
-housenumber: 132
+street: Front Street
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.7287
 longitude: -73.98582
 postcode: "10003"
 city: New York
-street: "East 9th Street"
-housenumber: 331
-phone: "+1-212-473-7833"
-opening_hours: "Temporarily closed"
-website: "http://thesourceunltd.com/"
+street: East 9th Street
+housenumber: "331"
+phone: +1-212-473-7833
+opening_hours: '"Temporarily closed"'
+website: http://thesourceunltd.com/

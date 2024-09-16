@@ -1,11 +1,11 @@
 id: 221554174
-type: way
+type: node
 latitude: 43.05995
 longitude: -76.15246
 postcode: "13208"
 city: Syracuse
-street: "North Salina Street"
-housenumber: 622
+street: North Salina Street
+housenumber: "622"
 phone: ""
 opening_hours: ""
 website: ""

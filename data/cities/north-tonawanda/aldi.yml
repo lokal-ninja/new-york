@@ -1,11 +1,11 @@
 id: 923973669
-type: way
+type: node
 latitude: 43.05558
 longitude: -78.82695
-postcode: "14120-1329"
+postcode: 14120-1329
 city: North Tonawanda
-street: "Niagara Falls Boulevard"
-housenumber: 3939
-phone: "+1 833-746-5090"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/n.-tonawanda/3939-niagara-falls-blvd"
+street: Niagara Falls Boulevard
+housenumber: "3939"
+phone: +1 833-746-5090
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/n.-tonawanda/3939-niagara-falls-blvd

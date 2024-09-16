@@ -4,8 +4,8 @@ latitude: 40.71981
 longitude: -74.00219
 postcode: "10013"
 city: New York
-street: "Canal Street"
-housenumber: 307
+street: Canal Street
+housenumber: "307"
 phone: ""
-opening_hours: "11:00-19:00"
-website: "https://www.stadiumgoods.com/"
+opening_hours: 11:00-19:00
+website: https://www.stadiumgoods.com/

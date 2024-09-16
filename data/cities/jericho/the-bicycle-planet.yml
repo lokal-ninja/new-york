@@ -1,11 +1,11 @@
 id: 565878898
-type: way
+type: node
 latitude: 40.7969
 longitude: -73.5173
 postcode: "11753"
 city: Jericho
-street: "Robbins Lane"
-housenumber: 340
+street: Robbins Lane
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 845844758
-type: way
+type: node
 latitude: 43.15981
 longitude: -76.32486
 postcode: "13027"
 city: Baldwinsville
-street: "East Genesee Street"
-housenumber: 74
+street: East Genesee Street
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

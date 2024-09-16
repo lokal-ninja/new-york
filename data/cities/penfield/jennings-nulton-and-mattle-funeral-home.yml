@@ -1,11 +1,11 @@
 id: 946659122
-type: way
+type: node
 latitude: 43.12967
 longitude: -77.48562
 postcode: "14526"
 city: Penfield
-street: "Penfield Road"
-housenumber: 1704
+street: Penfield Road
+housenumber: "1704"
 phone: ""
 opening_hours: ""
 website: ""

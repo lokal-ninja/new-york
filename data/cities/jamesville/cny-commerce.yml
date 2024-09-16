@@ -4,8 +4,8 @@ latitude: 42.90609
 longitude: -76.01685
 postcode: "13078"
 city: Jamesville
-street: "Sweet Road"
-housenumber: 2771
-phone: "+1-315-409-9113"
-opening_hours: "by appointment"
-website: "https://cnycommerce.com"
+street: Sweet Road
+housenumber: "2771"
+phone: +1-315-409-9113
+opening_hours: '"by appointment"'
+website: https://cnycommerce.com

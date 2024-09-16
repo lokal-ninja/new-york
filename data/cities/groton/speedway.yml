@@ -1,11 +1,11 @@
 id: 70863702
-type: way
+type: node
 latitude: 42.58717
 longitude: -76.36721
 postcode: "13073"
 city: Groton
-street: "Main Street"
-housenumber: 202
+street: Main Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Groton/202-Main-Street"
+website: https://www.speedway.com/locations/NY/Groton/202-Main-Street

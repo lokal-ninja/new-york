@@ -4,8 +4,8 @@ latitude: 40.76256
 longitude: -73.9726
 postcode: "10022"
 city: New York
-street: "East 57th Street"
-housenumber: 17
-phone: "(212) 931-2950"
-opening_hours: "Su 12:00-17:00; Mo-Fr 10:00-18:30; Sa 12:00-17:00"
-website: "https://www.dior.com/en_us/mens-fashion/man"
+street: East 57th Street
+housenumber: "17"
+phone: (212) 931-2950
+opening_hours: Su 12:00-17:00; Mo-Fr 10:00-18:30; Sa 12:00-17:00
+website: https://www.dior.com/en_us/mens-fashion/man

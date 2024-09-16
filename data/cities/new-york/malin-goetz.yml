@@ -4,8 +4,8 @@ latitude: 40.77735
 longitude: -73.97909
 postcode: "10023"
 city: New York
-street: "West 72nd Street"
-housenumber: 100
-phone: "+1-917-383-1433"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://www.malinandgoetz.com/uws-columbus-shop"
+street: West 72nd Street
+housenumber: "100"
+phone: +1-917-383-1433
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-18:00
+website: https://www.malinandgoetz.com/uws-columbus-shop

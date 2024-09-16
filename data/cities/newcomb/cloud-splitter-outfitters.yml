@@ -1,11 +1,11 @@
 id: 814413184
-type: way
+type: node
 latitude: 43.9661
 longitude: -74.13083
 postcode: "12852"
 city: Newcomb
-street: "NYS Route 28N"
-housenumber: 5304
+street: NYS Route 28N
+housenumber: "5304"
 phone: ""
 opening_hours: ""
-website: "https://www.cloudsplitteroutfitters.com/"
+website: https://www.cloudsplitteroutfitters.com/

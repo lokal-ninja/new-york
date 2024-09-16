@@ -1,11 +1,11 @@
 id: 264325193
-type: way
+type: node
 latitude: 41.95984
 longitude: -73.99056
 postcode: "12401"
 city: Kingston
-street: "East Chester Street"
-housenumber: 805
-phone: "+1-845-336-7946"
+street: East Chester Street
+housenumber: "805"
+phone: +1-845-336-7946
 opening_hours: ""
-website: "https://www.swimkingpools.com"
+website: https://www.swimkingpools.com

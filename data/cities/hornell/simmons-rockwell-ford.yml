@@ -1,11 +1,11 @@
 id: 822726280
-type: way
+type: node
 latitude: 42.36519
 longitude: -77.67455
 postcode: "14843"
 city: Hornell
-street: "County Route 66"
-housenumber: 1160
+street: County Route 66
+housenumber: "1160"
 phone: ""
 opening_hours: ""
 website: ""

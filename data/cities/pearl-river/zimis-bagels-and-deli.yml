@@ -1,11 +1,11 @@
 id: 451203146
-type: way
+type: node
 latitude: 41.06111
 longitude: -74.01262
 postcode: "10965"
 city: Pearl River
-street: "North Middletown Road"
-housenumber: 38
+street: North Middletown Road
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

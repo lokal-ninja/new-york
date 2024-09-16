@@ -1,11 +1,11 @@
 id: 295106747
-type: way
+type: node
 latitude: 42.09915
 longitude: -76.00834
 postcode: "13850"
 city: Vestal
-street: "Vestal Parkway East"
-housenumber: 2441
-phone: "+1 607-770-6200"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/vestal-ny-sams-club/6366"
+street: Vestal Parkway East
+housenumber: "2441"
+phone: +1 607-770-6200
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/vestal-ny-sams-club/6366

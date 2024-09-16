@@ -4,8 +4,8 @@ latitude: 40.90183
 longitude: -73.82346
 postcode: "10550"
 city: Mount Vernon
-street: "East Sandford Boulevard"
-housenumber: 275
+street: East Sandford Boulevard
+housenumber: "275"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ny/mt-vernon/275-east-sandford-blvd"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://stores.staples.com/ny/mt-vernon/275-east-sandford-blvd

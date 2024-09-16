@@ -4,8 +4,8 @@ latitude: 40.7328
 longitude: -74.0004
 postcode: "10014"
 city: New York
-street: "6th Avenue"
-housenumber: 375
-phone: "+1 212 691 9568"
+street: 6th Avenue
+housenumber: "375"
+phone: +1 212 691 9568
 opening_hours: ""
 website: ""

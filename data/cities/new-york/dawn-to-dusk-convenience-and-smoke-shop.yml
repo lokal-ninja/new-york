@@ -4,8 +4,8 @@ latitude: 40.75839
 longitude: -73.96263
 postcode: "10022"
 city: New York
-street: "East 57th Street"
-housenumber: 401
+street: East 57th Street
+housenumber: "401"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

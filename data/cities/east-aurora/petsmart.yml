@@ -4,8 +4,8 @@ latitude: 42.76548
 longitude: -78.63475
 postcode: "14052"
 city: East Aurora
-street: "Grey Street"
-housenumber: 123
-phone: "+1 716-687-8269"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ny/east-aurora-store2748.html"
+street: Grey Street
+housenumber: "123"
+phone: +1 716-687-8269
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ny/east-aurora-store2748.html

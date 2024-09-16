@@ -4,8 +4,8 @@ latitude: 40.94534
 longitude: -73.06771
 postcode: "11777"
 city: Port Jefferson
-street: "East Main Street"
-housenumber: 250
-phone: "+1-631-509-0504"
+street: East Main Street
+housenumber: "250"
+phone: +1-631-509-0504
 opening_hours: ""
-website: "https://www.lavenderandcompany.com/"
+website: https://www.lavenderandcompany.com/

@@ -1,11 +1,11 @@
 id: 652890756
-type: way
+type: node
 latitude: 42.1144
 longitude: -75.95475
 postcode: "13790"
 city: Johnson City
-street: "Main Street"
-housenumber: 236
+street: Main Street
+housenumber: "236"
 phone: ""
 opening_hours: ""
 website: ""

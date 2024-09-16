@@ -4,8 +4,8 @@ latitude: 40.73292
 longitude: -73.98589
 postcode: "10003"
 city: New York
-street: "East 14th Street"
-housenumber: 229
-phone: "212-228-2888"
-opening_hours: "24/7"
+street: East 14th Street
+housenumber: "229"
+phone: 212-228-2888
+opening_hours: 24/7
 website: ""

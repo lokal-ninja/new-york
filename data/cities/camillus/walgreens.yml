@@ -1,11 +1,11 @@
 id: 188543334
-type: way
+type: node
 latitude: 43.04194
 longitude: -76.26662
 postcode: "13031"
 city: Camillus
-street: "West Genesee Street"
-housenumber: 5206
+street: West Genesee Street
+housenumber: "5206"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5206+w+genesee+st-camillus-ny-13031/id=9413"
+website: https://www.walgreens.com/locator/walgreens-5206+w+genesee+st-camillus-ny-13031/id=9413

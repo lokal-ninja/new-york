@@ -1,11 +1,11 @@
 id: 850475571
-type: way
+type: node
 latitude: 40.97354
 longitude: -73.80406
 postcode: "10583"
 city: Scarsdale
-street: "White Plains Road"
-housenumber: 751
+street: White Plains Road
+housenumber: "751"
 phone: ""
 opening_hours: ""
 website: ""

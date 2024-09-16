@@ -1,11 +1,11 @@
 id: 537844933
-type: way
+type: node
 latitude: 41.12439
 longitude: -73.77897
 postcode: "10532"
 city: Hawthorne
-street: "Westchester Avenue"
-housenumber: 24
+street: Westchester Avenue
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

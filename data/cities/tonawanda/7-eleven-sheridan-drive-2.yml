@@ -1,11 +1,11 @@
 id: 233655228
-type: way
+type: node
 latitude: 42.98035
 longitude: -78.88611
 postcode: "14217"
 city: Tonawanda
-street: "Sheridan Drive"
-housenumber: 1311
-phone: "+1-716-875-5508"
-opening_hours: "24/7"
+street: Sheridan Drive
+housenumber: "1311"
+phone: +1-716-875-5508
+opening_hours: 24/7
 website: ""

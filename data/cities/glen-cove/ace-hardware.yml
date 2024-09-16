@@ -4,8 +4,8 @@ latitude: 40.8748
 longitude: -73.61985
 postcode: "11542"
 city: Glen Cove
-street: "Forest Avenue"
-housenumber: 195
-phone: "+1 516-801-4567"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00"
-website: "https://www.acehardware.com/"
+street: Forest Avenue
+housenumber: "195"
+phone: +1 516-801-4567
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00
+website: https://www.acehardware.com/

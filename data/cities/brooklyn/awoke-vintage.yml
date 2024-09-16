@@ -4,8 +4,8 @@ latitude: 40.71677
 longitude: -73.95919
 postcode: "11249"
 city: Brooklyn
-street: "North 5th Street"
-housenumber: 132
-phone: "+1-718-387-3130"
-opening_hours: "Mo-Su 10:00-21:00"
+street: North 5th Street
+housenumber: "132"
+phone: +1-718-387-3130
+opening_hours: Mo-Su 10:00-21:00
 website: ""

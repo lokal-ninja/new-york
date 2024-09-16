@@ -1,11 +1,11 @@
 id: 545806347
-type: way
+type: node
 latitude: 40.74453
 longitude: -73.60607
 postcode: "11530"
 city: Garden City
-street: "Old Country Road"
-housenumber: 880
+street: Old Country Road
+housenumber: "880"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 60932862
-type: way
+type: node
 latitude: 42.7672
 longitude: -73.81638
 postcode: "12110"
 city: Latham
-street: "Troy Schenectady Road"
-housenumber: 1126
+street: Troy Schenectady Road
+housenumber: "1126"
 phone: ""
 opening_hours: ""
 website: ""

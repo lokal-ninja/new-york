@@ -1,11 +1,11 @@
 id: 547711597
-type: way
+type: node
 latitude: 41.6581
 longitude: -74.11425
 postcode: "12548"
 city: Modena
-street: "Rudolph Road"
-housenumber: 1
+street: Rudolph Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

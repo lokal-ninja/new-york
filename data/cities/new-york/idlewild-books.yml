@@ -4,8 +4,8 @@ latitude: 40.73552
 longitude: -74.00194
 postcode: "10014"
 city: New York
-street: "7th Avenue South"
-housenumber: 170
-phone: "+1-212-414-8888"
+street: 7th Avenue South
+housenumber: "170"
+phone: +1-212-414-8888
 opening_hours: ""
-website: "https://www.idlewildbooks.com/"
+website: https://www.idlewildbooks.com/

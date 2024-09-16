@@ -1,11 +1,11 @@
 id: 1066223324
-type: way
+type: node
 latitude: 43.15249
 longitude: -77.60668
 postcode: "14604"
 city: Rochester
-street: "Woodbury Boulevard"
-housenumber: 1
-phone: "+1 585-369-4141"
+street: Woodbury Boulevard
+housenumber: "1"
+phone: +1 585-369-4141
 opening_hours: ""
-website: "https://fuegocoffee.com/"
+website: https://fuegocoffee.com/

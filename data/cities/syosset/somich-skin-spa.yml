@@ -1,11 +1,11 @@
 id: 772967995
-type: way
+type: node
 latitude: 40.82487
 longitude: -73.50173
 postcode: "11791"
 city: Syosset
-street: "Jackson Avenue"
-housenumber: 47
+street: Jackson Avenue
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

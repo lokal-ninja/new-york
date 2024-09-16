@@ -1,11 +1,11 @@
 id: 1050082665
-type: way
+type: node
 latitude: 41.46596
 longitude: -74.09945
 postcode: "12553"
 city: New Windsor
-street: "Mount Airy Road"
-housenumber: 380
+street: Mount Airy Road
+housenumber: "380"
 phone: ""
 opening_hours: ""
 website: ""

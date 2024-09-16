@@ -1,11 +1,11 @@
 id: 820047605
-type: way
+type: node
 latitude: 42.3302
 longitude: -79.58644
 postcode: "14787"
 city: Westfield
-street: "North Portage Street"
-housenumber: 170
+street: North Portage Street
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

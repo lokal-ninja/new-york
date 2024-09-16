@@ -1,11 +1,11 @@
 id: 683450571
-type: way
+type: node
 latitude: 41.495
 longitude: -74.36279
 postcode: "10941"
 city: Middletown
-street: "Cross Road"
-housenumber: 140
-phone: "(845) 673-5060"
+street: Cross Road
+housenumber: "140"
+phone: (845) 673-5060
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 152369964
-type: way
+type: node
 latitude: 43.13138
 longitude: -77.4939
 postcode: "14625"
 city: Rochester
-street: "Penfield Road"
-housenumber: 1601
+street: Penfield Road
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

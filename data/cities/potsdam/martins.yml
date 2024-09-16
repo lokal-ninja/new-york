@@ -1,11 +1,11 @@
 id: 58867648
-type: way
+type: node
 latitude: 44.66762
 longitude: -74.99316
 postcode: "13676"
 city: Potsdam
-street: "Maple Street"
-housenumber: 61
+street: Maple Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

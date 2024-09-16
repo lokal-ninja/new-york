@@ -4,8 +4,8 @@ latitude: 40.77935
 longitude: -73.95041
 postcode: "10128"
 city: New York
-street: "2nd Avenue"
-housenumber: 1704
-phone: "+1 212-831-1830"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://locations.goodwillnynj.org/goodwill-nynj-store-and-donation-center-2b1865fecf6c"
+street: 2nd Avenue
+housenumber: "1704"
+phone: +1 212-831-1830
+opening_hours: Mo-Su 11:00-18:00
+website: https://locations.goodwillnynj.org/goodwill-nynj-store-and-donation-center-2b1865fecf6c

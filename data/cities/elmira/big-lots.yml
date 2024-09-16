@@ -4,8 +4,8 @@ latitude: 42.10089
 longitude: -76.80526
 postcode: "14901"
 city: Elmira
-street: "Lake Street"
-housenumber: 801
-phone: "+1 607 733 9501"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://local.biglots.com/ny/elmira/801-lake-st"
+street: Lake Street
+housenumber: "801"
+phone: +1 607 733 9501
+opening_hours: Mo-Su 09:00-21:00
+website: https://local.biglots.com/ny/elmira/801-lake-st

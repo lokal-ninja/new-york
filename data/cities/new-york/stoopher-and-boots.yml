@@ -4,8 +4,8 @@ latitude: 40.78277
 longitude: -73.97834
 postcode: "10024"
 city: New York
-street: "Amsterdam Avenue"
-housenumber: 387
-phone: "+1-212-877-2128"
+street: Amsterdam Avenue
+housenumber: "387"
+phone: +1-212-877-2128
 opening_hours: ""
-website: "https://stoopher.com"
+website: https://stoopher.com

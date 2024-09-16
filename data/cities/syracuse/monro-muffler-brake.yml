@@ -1,11 +1,11 @@
 id: 346898768
-type: way
+type: node
 latitude: 43.11326
 longitude: -76.14715
 postcode: "13212"
 city: Syracuse
-street: "Brewerton Road"
-housenumber: 3503
+street: Brewerton Road
+housenumber: "3503"
 phone: ""
 opening_hours: ""
 website: ""

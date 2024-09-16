@@ -4,8 +4,8 @@ latitude: 40.74757
 longitude: -73.99751
 postcode: "10001"
 city: New York
-street: "West 26th Street"
-housenumber: 307
-phone: "+1 212-243-8644"
-opening_hours: "Mo-Sa 06:00-24:00; Su 06:00-23:00"
-website: "https://www.gristedessupermarkets.com/"
+street: West 26th Street
+housenumber: "307"
+phone: +1 212-243-8644
+opening_hours: Mo-Sa 06:00-24:00; Su 06:00-23:00
+website: https://www.gristedessupermarkets.com/

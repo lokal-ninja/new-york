@@ -1,11 +1,11 @@
 id: 329539481
-type: way
+type: node
 latitude: 43.08373
 longitude: -73.78114
 postcode: "12866"
 city: Saratoga Springs
-street: "Henry Street"
-housenumber: 120
+street: Henry Street
+housenumber: "120"
 phone: "5185844670"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.fourseasonsnaturalfoods.com/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.fourseasonsnaturalfoods.com/

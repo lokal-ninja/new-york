@@ -1,11 +1,11 @@
 id: 796554204
-type: way
+type: node
 latitude: 43.83584
 longitude: -73.4231
 postcode: "12883"
 city: Ticonderoga
-street: "The Portage"
-housenumber: 60
-phone: "+1 518-585-2276"
-opening_hours: "Mo-Su 07:00-23:00"
+street: The Portage
+housenumber: "60"
+phone: +1 518-585-2276
+opening_hours: Mo-Su 07:00-23:00
 website: ""

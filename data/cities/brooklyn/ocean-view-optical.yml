@@ -4,8 +4,8 @@ latitude: 40.57662
 longitude: -73.96538
 postcode: "11235"
 city: Brooklyn
-street: "Brighton Beach Avenue"
-housenumber: 254
-phone: "+1 718-769-9800"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 12:00-17:00"
+street: Brighton Beach Avenue
+housenumber: "254"
+phone: +1 718-769-9800
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 12:00-17:00
 website: ""

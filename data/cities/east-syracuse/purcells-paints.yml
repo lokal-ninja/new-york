@@ -1,11 +1,11 @@
 id: 158258265
-type: way
+type: node
 latitude: 43.0555
 longitude: -76.06603
 postcode: "13057"
 city: East Syracuse
-street: "Bridge Street"
-housenumber: 5900
-phone: "315 446 6475"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-16:00; Su 10:00-14:00"
+street: Bridge Street
+housenumber: "5900"
+phone: 315 446 6475
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-16:00; Su 10:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 96169517
-type: way
+type: node
 latitude: 41.61762
 longitude: -73.91977
 postcode: "12601"
 city: Poughkeepsie
-street: "South Road"
-housenumber: 1895
-phone: "+1 732-548-1200"
+street: South Road
+housenumber: "1895"
+phone: +1 732-548-1200
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/new-york/poughkeepsie/7710000324/"
+website: https://stores.ashleyfurniture.com/store/us/new-york/poughkeepsie/7710000324/

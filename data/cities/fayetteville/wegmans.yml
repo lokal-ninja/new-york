@@ -1,11 +1,11 @@
 id: 156723660
-type: way
+type: node
 latitude: 43.03304
 longitude: -76.05446
 postcode: "13066"
 city: Fayetteville
-street: "East Genesee Street"
-housenumber: 6789
-phone: "+1 315-446-1180"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.wegmans.com/stores/dewitt-ny.html"
+street: East Genesee Street
+housenumber: "6789"
+phone: +1 315-446-1180
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.wegmans.com/stores/dewitt-ny.html

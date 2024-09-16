@@ -1,11 +1,11 @@
 id: 469097882
-type: way
+type: node
 latitude: 40.74014
 longitude: -73.26322
 postcode: "11706"
 city: Bay Shore
-street: "5th Avenue"
-housenumber: 1373
+street: 5th Avenue
+housenumber: "1373"
 phone: ""
 opening_hours: ""
 website: ""

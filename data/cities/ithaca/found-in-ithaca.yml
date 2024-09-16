@@ -1,11 +1,11 @@
 id: 545333213
-type: way
+type: node
 latitude: 42.43553
 longitude: -76.51538
 postcode: "14850"
 city: Ithaca
-street: "Cherry Street"
-housenumber: 227
-phone: "+1-607-319-5078"
+street: Cherry Street
+housenumber: "227"
+phone: +1-607-319-5078
 opening_hours: ""
-website: "http://foundinithaca.com/"
+website: http://foundinithaca.com/

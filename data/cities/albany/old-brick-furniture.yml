@@ -1,11 +1,11 @@
 id: 110845743
-type: way
+type: node
 latitude: 42.70373
 longitude: -73.82795
 postcode: "12205"
 city: Albany
-street: "Warehouse Row"
-housenumber: 33
+street: Warehouse Row
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

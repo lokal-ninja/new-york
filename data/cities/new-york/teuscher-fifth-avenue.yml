@@ -4,8 +4,8 @@ latitude: 40.75845
 longitude: -73.97772
 postcode: ""
 city: New York
-street: "5th Avenue"
-housenumber: 620
+street: 5th Avenue
+housenumber: "620"
 phone: ""
 opening_hours: ""
-website: "https://teuschernyc.com/"
+website: https://teuschernyc.com/

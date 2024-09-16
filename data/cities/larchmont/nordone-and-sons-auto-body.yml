@@ -1,11 +1,11 @@
 id: 800850856
-type: way
+type: node
 latitude: 40.9222
 longitude: -73.76347
 postcode: "10538"
 city: Larchmont
-street: "Boston Post Road"
-housenumber: 2430
+street: Boston Post Road
+housenumber: "2430"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 221177527
-type: way
+type: node
 latitude: 43.30261
 longitude: -73.66161
 postcode: "12801"
 city: Glens Falls
-street: "Broad Street"
-housenumber: 202
+street: Broad Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-202+broad+st-glens+falls-ny-12801/id=12733"
+website: https://www.walgreens.com/locator/walgreens-202+broad+st-glens+falls-ny-12801/id=12733

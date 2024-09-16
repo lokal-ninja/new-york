@@ -4,8 +4,8 @@ latitude: 40.8058
 longitude: -73.96698
 postcode: "10025"
 city: New York
-street: "Riverside Drive"
-housenumber: 395
-phone: "+1-646-708-2311"
-opening_hours: "07:00-23:00; We 11:00-23:00; Th 12:00-23:30; Sa 07:00-00:00"
-website: "https://lizgreenphotography.com"
+street: Riverside Drive
+housenumber: "395"
+phone: +1-646-708-2311
+opening_hours: 07:00-23:00; We 11:00-23:00; Th 12:00-23:30; Sa 07:00-00:00
+website: https://lizgreenphotography.com

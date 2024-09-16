@@ -1,11 +1,11 @@
 id: 61512154
-type: way
+type: node
 latitude: 42.69962
 longitude: -73.68852
 postcode: "12180"
 city: Troy
-street: "Vandenburgh Avenue"
-housenumber: 64
+street: Vandenburgh Avenue
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

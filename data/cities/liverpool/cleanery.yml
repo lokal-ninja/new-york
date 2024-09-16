@@ -1,11 +1,11 @@
 id: 566828158
-type: way
+type: node
 latitude: 43.12224
 longitude: -76.23705
 postcode: "13090"
 city: Liverpool
-street: "Cold Springs Road"
-housenumber: 1801
-phone: "+1-315-453-3051"
+street: Cold Springs Road
+housenumber: "1801"
+phone: +1-315-453-3051
 opening_hours: ""
 website: ""

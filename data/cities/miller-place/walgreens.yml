@@ -1,11 +1,11 @@
 id: 1021324637
-type: way
+type: node
 latitude: 40.94079
 longitude: -72.99008
 postcode: "11764"
 city: Miller Place
-street: "Route 25A"
-housenumber: 302
+street: Route 25A
+housenumber: "302"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-302+route+25a-miller+place-ny-11764/id=13866"
+website: https://www.walgreens.com/locator/walgreens-302+route+25a-miller+place-ny-11764/id=13866

@@ -4,8 +4,8 @@ latitude: 40.59039
 longitude: -73.9727
 postcode: "11223"
 city: Brooklyn
-street: "Avenue X"
-housenumber: 273
-phone: "+1 718-946-3160"
-opening_hours: "10:00-20:00"
+street: Avenue X
+housenumber: "273"
+phone: +1 718-946-3160
+opening_hours: 10:00-20:00
 website: ""

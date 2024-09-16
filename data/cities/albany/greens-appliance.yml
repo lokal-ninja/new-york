@@ -1,11 +1,11 @@
 id: 851594958
-type: way
+type: node
 latitude: 42.69538
 longitude: -73.80721
 postcode: "12205"
 city: Albany
-street: "Central Avenue"
-housenumber: 1207
-phone: "+1 518 4587994"
+street: Central Avenue
+housenumber: "1207"
+phone: +1 518 4587994
 opening_hours: ""
-website: "https://www.greenshasgonegreen.com/"
+website: https://www.greenshasgonegreen.com/

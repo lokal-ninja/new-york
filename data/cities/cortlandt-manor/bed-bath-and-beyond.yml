@@ -1,11 +1,11 @@
 id: 279494007
-type: way
+type: node
 latitude: 41.30808
 longitude: -73.87278
 postcode: "10567"
 city: Cortlandt Manor
-street: "East Main Street"
-housenumber: 3061
+street: East Main Street
+housenumber: "3061"
 phone: ""
 opening_hours: ""
 website: ""

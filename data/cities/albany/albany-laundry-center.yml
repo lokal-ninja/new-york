@@ -1,11 +1,11 @@
 id: 204562629
-type: way
+type: node
 latitude: 42.66532
 longitude: -73.77415
 postcode: "12206"
 city: Albany
-street: "Quail Street"
-housenumber: 121
+street: Quail Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

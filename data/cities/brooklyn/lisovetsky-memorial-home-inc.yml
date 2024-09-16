@@ -1,11 +1,11 @@
 id: 249784460
-type: way
+type: node
 latitude: 40.62651
 longitude: -73.96496
 postcode: "11230"
 city: Brooklyn
-street: "Coney Island Avenue"
-housenumber: 1283
+street: Coney Island Avenue
+housenumber: "1283"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 729404719
-type: way
+type: node
 latitude: 41.23436
 longitude: -73.86175
 postcode: "10520"
 city: Croton-on-Hudson
-street: "Yorktown Road"
-housenumber: 451
-phone: "+1-914-271-9831"
+street: Yorktown Road
+housenumber: "451"
+phone: +1-914-271-9831
 opening_hours: ""
 website: ""

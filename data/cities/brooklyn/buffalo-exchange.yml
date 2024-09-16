@@ -4,8 +4,8 @@ latitude: 40.71832
 longitude: -73.95524
 postcode: "11211"
 city: Brooklyn
-street: "Driggs Avenue"
-housenumber: 504
-phone: "+1-718-384-6901"
-opening_hours: "Mo-Sa 11:00-20:00; Su 12:00-19:00"
-website: "https://www.buffaloexchange.com/locations/new-york-city/brooklyn-williamsburg/"
+street: Driggs Avenue
+housenumber: "504"
+phone: +1-718-384-6901
+opening_hours: Mo-Sa 11:00-20:00; Su 12:00-19:00
+website: https://www.buffaloexchange.com/locations/new-york-city/brooklyn-williamsburg/

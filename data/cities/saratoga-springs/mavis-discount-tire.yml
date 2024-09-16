@@ -1,11 +1,11 @@
 id: 817974382
-type: way
+type: node
 latitude: 43.07085
 longitude: -73.78869
 postcode: "12866"
 city: Saratoga Springs
-street: "South Broadway"
-housenumber: 145
+street: South Broadway
+housenumber: "145"
 phone: ""
 opening_hours: ""
-website: "https://www.mavistire.com/locations/saratoga-ny.asp"
+website: https://www.mavistire.com/locations/saratoga-ny.asp

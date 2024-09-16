@@ -1,11 +1,11 @@
 id: 256657100
-type: way
+type: node
 latitude: 40.8511
 longitude: -73.41196
 postcode: "11746"
 city: Huntington Station
-street: "New York Avenue"
-housenumber: 1297
-phone: "+1 631-470-9665"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ny/huntington-station/1297-new-york-avenue-33545"
+street: New York Avenue
+housenumber: "1297"
+phone: +1 631-470-9665
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ny/huntington-station/1297-new-york-avenue-33545

@@ -1,11 +1,11 @@
 id: 562153231
-type: way
+type: node
 latitude: 40.75324
 longitude: -73.62847
 postcode: "11501"
 city: Mineola
-street: "East Jericho Turnpike"
-housenumber: 175
+street: East Jericho Turnpike
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

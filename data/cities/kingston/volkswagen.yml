@@ -1,11 +1,11 @@
 id: 264332967
-type: way
+type: node
 latitude: 41.96736
 longitude: -73.98923
 postcode: "12401"
 city: Kingston
-street: "Ulster Avenue"
-housenumber: 1249
+street: Ulster Avenue
+housenumber: "1249"
 phone: ""
 opening_hours: ""
 website: ""

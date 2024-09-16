@@ -1,11 +1,11 @@
 id: 607472277
-type: way
+type: node
 latitude: 41.45231
 longitude: -74.05677
 postcode: "12553"
 city: New Windsor
-street: "State Route 32"
-housenumber: 2636
-phone: "+1 845-562-5169"
-opening_hours: "Mo-Su 06:00-00:00"
-website: "https://stores.hannaford.com/ny/new-windsor/8331"
+street: State Route 32
+housenumber: "2636"
+phone: +1 845-562-5169
+opening_hours: Mo-Su 06:00-00:00
+website: https://stores.hannaford.com/ny/new-windsor/8331

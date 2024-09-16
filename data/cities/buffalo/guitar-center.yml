@@ -1,11 +1,11 @@
 id: 1103635121
-type: way
+type: node
 latitude: 42.90602
 longitude: -78.75404
 postcode: "14225"
 city: Buffalo
-street: "Union Road"
-housenumber: 3385
+street: Union Road
+housenumber: "3385"
 phone: ""
 opening_hours: ""
 website: ""

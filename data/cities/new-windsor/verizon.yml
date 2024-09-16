@@ -1,11 +1,11 @@
 id: 607472278
-type: way
+type: node
 latitude: 41.45379
 longitude: -74.05689
 postcode: "12553"
 city: New Windsor
-street: "State Route 32"
-housenumber: 2644
+street: State Route 32
+housenumber: "2644"
 phone: ""
 opening_hours: ""
 website: ""

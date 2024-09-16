@@ -4,8 +4,8 @@ latitude: 42.95555
 longitude: -78.87101
 postcode: "14216"
 city: Buffalo
-street: "Delaware Avenue"
-housenumber: 2640
-phone: "+1 716-271-0073"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/ny/buffalo/1342"
+street: Delaware Avenue
+housenumber: "2640"
+phone: +1 716-271-0073
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/ny/buffalo/1342

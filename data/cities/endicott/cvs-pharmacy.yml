@@ -1,11 +1,11 @@
 id: 1221645062
-type: way
+type: node
 latitude: 42.12884
 longitude: -76.02903
 postcode: "13760"
 city: Endicott
-street: "Hooper Road"
-housenumber: 840
-phone: "+1-607-757-2618"
-opening_hours: "Mo-Sa 08:00-22:00,Su 09:00-20:00"
-website: "https://www.cvs.com/store-locator/endwell-ny-pharmacies/800-hooper-rd-suite-500-endwell-ny-13760/storeid=168"
+street: Hooper Road
+housenumber: "840"
+phone: +1-607-757-2618
+opening_hours: Mo-Sa 08:00-22:00,Su 09:00-20:00
+website: https://www.cvs.com/store-locator/endwell-ny-pharmacies/800-hooper-rd-suite-500-endwell-ny-13760/storeid=168

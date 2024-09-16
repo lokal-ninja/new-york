@@ -1,11 +1,11 @@
 id: 263878058
-type: way
+type: node
 latitude: 41.92606
 longitude: -73.99254
 postcode: "12401"
 city: Kingston
-street: "Broadway"
-housenumber: 336
-phone: "+1-845-334-8918"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.bobsautomotiverepair.net"
+street: Broadway
+housenumber: "336"
+phone: +1-845-334-8918
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.bobsautomotiverepair.net

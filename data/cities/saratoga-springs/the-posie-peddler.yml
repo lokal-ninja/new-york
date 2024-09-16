@@ -1,11 +1,11 @@
 id: 817969550
-type: way
+type: node
 latitude: 43.07879
 longitude: -73.80351
 postcode: "12866"
 city: Saratoga Springs
-street: "West Avenue"
-housenumber: 92
+street: West Avenue
+housenumber: "92"
 phone: ""
 opening_hours: ""
-website: "https://posiepeddler.com"
+website: https://posiepeddler.com

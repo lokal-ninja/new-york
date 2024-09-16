@@ -1,11 +1,11 @@
 id: 285107126
-type: way
+type: node
 latitude: 40.60341
 longitude: -73.91508
 postcode: "11234"
 city: Brooklyn
-street: "Flatbush Avenue"
-housenumber: 2777
-phone: "+1 718 253-7117"
+street: Flatbush Avenue
+housenumber: "2777"
+phone: +1 718 253-7117
 opening_hours: ""
-website: "http://nickslobster.com/"
+website: http://nickslobster.com/

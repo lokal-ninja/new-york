@@ -1,11 +1,11 @@
 id: 318664410
-type: way
+type: node
 latitude: 43.0385
 longitude: -76.14584
 postcode: "13202"
 city: Syracuse
-street: "Oakwood Avenue"
-housenumber: 140
+street: Oakwood Avenue
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

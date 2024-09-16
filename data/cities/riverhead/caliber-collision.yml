@@ -1,11 +1,11 @@
 id: 463001924
-type: way
+type: node
 latitude: 40.9268
 longitude: -72.6835
 postcode: "11901"
 city: Riverhead
-street: "Raynor Avenue"
-housenumber: 827
+street: Raynor Avenue
+housenumber: "827"
 phone: ""
 opening_hours: ""
 website: ""

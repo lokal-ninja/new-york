@@ -1,11 +1,11 @@
 id: 1245829596
-type: way
+type: node
 latitude: 42.99692
 longitude: -78.50263
 postcode: "14001"
 city: Akron
-street: "Main Road"
-housenumber: 12983
-phone: "+1 716-542-9761"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/ny/akron/12983-main-road.html"
+street: Main Road
+housenumber: "12983"
+phone: +1 716-542-9761
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.riteaid.com/locations/ny/akron/12983-main-road.html

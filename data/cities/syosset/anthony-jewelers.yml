@@ -1,11 +1,11 @@
 id: 772967992
-type: way
+type: node
 latitude: 40.82571
 longitude: -73.50112
 postcode: "11791"
 city: Syosset
-street: "Cold Spring Road"
-housenumber: 30
+street: Cold Spring Road
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

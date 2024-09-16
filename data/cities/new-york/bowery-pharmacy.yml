@@ -4,8 +4,8 @@ latitude: 40.71732
 longitude: -73.9952
 postcode: "10002"
 city: New York
-street: "Bowery"
-housenumber: 95
-phone: "+1 212-219-0449"
-opening_hours: "Mo-Su 10:00-17:00"
+street: Bowery
+housenumber: "95"
+phone: +1 212-219-0449
+opening_hours: Mo-Su 10:00-17:00
 website: ""

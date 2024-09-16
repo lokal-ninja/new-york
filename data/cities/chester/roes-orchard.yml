@@ -1,11 +1,11 @@
 id: 402225951
-type: way
+type: node
 latitude: 41.37894
 longitude: -74.23961
 postcode: "10918"
 city: Chester
-street: "State Route 94"
-housenumber: 3276
+street: State Route 94
+housenumber: "3276"
 phone: ""
 opening_hours: ""
 website: ""

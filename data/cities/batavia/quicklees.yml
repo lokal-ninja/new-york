@@ -1,11 +1,11 @@
 id: 266468618
-type: way
+type: node
 latitude: 43.01519
 longitude: -78.19164
 postcode: "14020"
 city: Batavia
-street: "Oak Street"
-housenumber: 196
+street: Oak Street
+housenumber: "196"
 phone: ""
-opening_hours: "Mo-Su 05:00-20:00"
+opening_hours: Mo-Su 05:00-20:00
 website: ""

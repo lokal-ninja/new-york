@@ -1,11 +1,11 @@
 id: 294422676
-type: way
+type: node
 latitude: 43.1894
 longitude: -76.24485
 postcode: "13090"
 city: Liverpool
-street: "Dell Center Drive"
-housenumber: 8775
+street: Dell Center Drive
+housenumber: "8775"
 phone: ""
 opening_hours: ""
 website: ""

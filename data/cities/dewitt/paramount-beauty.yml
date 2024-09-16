@@ -1,11 +1,11 @@
 id: 156652093
-type: way
+type: node
 latitude: 43.05428
 longitude: -76.0829
 postcode: "13214"
 city: DeWitt
-street: "Thompson Road"
-housenumber: 5861
-phone: "+1-315-449-8400"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.paramountbeauty.com"
+street: Thompson Road
+housenumber: "5861"
+phone: +1-315-449-8400
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.paramountbeauty.com

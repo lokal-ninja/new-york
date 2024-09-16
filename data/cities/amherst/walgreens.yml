@@ -1,11 +1,11 @@
 id: 396852069
-type: way
+type: node
 latitude: 43.03549
 longitude: -78.82394
 postcode: "14228"
 city: Amherst
-street: "Niagara Falls Boulevard"
-housenumber: 2970
-phone: "+1 716 692 3704"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-2970+niagara+falls+blvd-amherst-ny-14228/id=12408"
+street: Niagara Falls Boulevard
+housenumber: "2970"
+phone: +1 716 692 3704
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-2970+niagara+falls+blvd-amherst-ny-14228/id=12408

@@ -1,11 +1,11 @@
 id: 160286395
-type: way
+type: node
 latitude: 43.06404
 longitude: -76.0594
 postcode: "13057"
 city: East Syracuse
-street: "Manlius Center Road"
-housenumber: 6633
-phone: "+1 833-746-5047"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/e.-syracuse/6633-manlius-center-road"
+street: Manlius Center Road
+housenumber: "6633"
+phone: +1 833-746-5047
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/e.-syracuse/6633-manlius-center-road

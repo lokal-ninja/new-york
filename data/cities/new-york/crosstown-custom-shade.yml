@@ -4,8 +4,8 @@ latitude: 40.78769
 longitude: -73.97548
 postcode: "10024"
 city: New York
-street: "West 86th Street"
-housenumber: 200
-phone: "+1-212-787-8040"
+street: West 86th Street
+housenumber: "200"
+phone: +1-212-787-8040
 opening_hours: ""
-website: "https://crosstownshadeandglass.com"
+website: https://crosstownshadeandglass.com

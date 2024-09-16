@@ -1,11 +1,11 @@
 id: 744205050
-type: way
+type: node
 latitude: 42.89912
 longitude: -78.68416
 postcode: "14043"
 city: Depew
-street: "Broadway"
-housenumber: 5175
-phone: "+1 716-515-3440"
+street: Broadway
+housenumber: "5175"
+phone: +1 716-515-3440
 opening_hours: ""
 website: ""

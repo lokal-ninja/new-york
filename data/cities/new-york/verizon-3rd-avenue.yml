@@ -4,8 +4,8 @@ latitude: 40.74208
 longitude: -73.98053
 postcode: "10016"
 city: New York
-street: "3rd Avenue"
-housenumber: 395
-phone: "+1-212-481-6088"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 11:00-20:00; Su 11:00-18:00"
-website: "https://www.verizon.com/stores/details/new-york/new-york/tcc-nyc-3rd-ave-1767222/"
+street: 3rd Avenue
+housenumber: "395"
+phone: +1-212-481-6088
+opening_hours: Mo-Fr 10:00-20:00; Sa 11:00-20:00; Su 11:00-18:00
+website: https://www.verizon.com/stores/details/new-york/new-york/tcc-nyc-3rd-ave-1767222/

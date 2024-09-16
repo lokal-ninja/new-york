@@ -1,11 +1,11 @@
 id: 1023817117
-type: way
+type: node
 latitude: 43.15139
 longitude: -76.3432
 postcode: "13027"
 city: Baldwinsville
-street: "Downer Street"
-housenumber: 113
+street: Downer Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

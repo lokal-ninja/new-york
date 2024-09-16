@@ -1,11 +1,11 @@
 id: 273253613
-type: way
+type: node
 latitude: 43.126
 longitude: -77.59233
 postcode: "14620"
 city: Rochester
-street: "Elmwood Avenue"
-housenumber: 1660
-phone: "+1 585-271-8463"
+street: Elmwood Avenue
+housenumber: "1660"
+phone: +1 585-271-8463
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/rochester/1660-elmwood-ave-23893"
+website: https://www.7-eleven.com/locations/ny/rochester/1660-elmwood-ave-23893

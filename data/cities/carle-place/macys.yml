@@ -1,11 +1,11 @@
 id: 83275414
-type: way
+type: node
 latitude: 40.74561
 longitude: -73.61663
 postcode: "11514"
 city: Carle Place
-street: "Glen Cove Road"
-housenumber: 155
+street: Glen Cove Road
+housenumber: "155"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/ny/carleplace/carle-place-furniture-and-mattress-gallery_124.html"
+website: https://www.macys.com/stores/ny/carleplace/carle-place-furniture-and-mattress-gallery_124.html

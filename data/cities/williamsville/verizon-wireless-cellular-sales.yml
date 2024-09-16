@@ -1,11 +1,11 @@
 id: 894075604
-type: way
+type: node
 latitude: 42.96046
 longitude: -78.75795
-postcode: "14221-5323"
+postcode: 14221-5323
 city: Williamsville
-street: "Main Street"
-housenumber: 5221
-phone: "716-580-7608"
-opening_hours: "Su 11:00-18:00, Mo-Sa 09:00-20:00"
-website: "https://www.verizon.com"
+street: Main Street
+housenumber: "5221"
+phone: 716-580-7608
+opening_hours: Su 11:00-18:00, Mo-Sa 09:00-20:00
+website: https://www.verizon.com

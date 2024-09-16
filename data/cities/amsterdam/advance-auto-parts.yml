@@ -1,11 +1,11 @@
 id: 124813139
-type: way
+type: node
 latitude: 42.96098
 longitude: -74.18559
 postcode: "12010"
 city: Amsterdam
-street: "Town Square Drive"
-housenumber: 110
+street: Town Square Drive
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-19:00"
-website: "https://stores.advanceautoparts.com/ny/amsterdam/110-town-square-dr"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-19:00
+website: https://stores.advanceautoparts.com/ny/amsterdam/110-town-square-dr

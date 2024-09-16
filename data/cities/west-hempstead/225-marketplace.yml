@@ -1,11 +1,11 @@
 id: 609067345
-type: way
+type: node
 latitude: 40.70492
 longitude: -73.64704
 postcode: "11552"
 city: West Hempstead
-street: "Hempstead Turnpike"
-housenumber: 225
+street: Hempstead Turnpike
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

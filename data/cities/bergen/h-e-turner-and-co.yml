@@ -1,11 +1,11 @@
 id: 566209409
-type: way
+type: node
 latitude: 43.08099
 longitude: -77.94355
 postcode: "14416"
 city: Bergen
-street: "South Lake Avenue"
-housenumber: 51
+street: South Lake Avenue
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

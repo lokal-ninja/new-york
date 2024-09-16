@@ -1,11 +1,11 @@
 id: 689384368
-type: way
+type: node
 latitude: 42.81448
 longitude: -73.89223
 postcode: "12309"
 city: Niskayuna
-street: "Balltown Road"
-housenumber: 1448
-phone: "+1 518-300-1588"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00"
+street: Balltown Road
+housenumber: "1448"
+phone: +1 518-300-1588
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00
 website: ""

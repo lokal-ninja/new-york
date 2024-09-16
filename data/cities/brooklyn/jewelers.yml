@@ -4,8 +4,8 @@ latitude: 40.66752
 longitude: -73.98087
 postcode: "11215"
 city: Brooklyn
-street: "7th Avenue"
-housenumber: 307
-phone: "+1-718-788-3131"
+street: 7th Avenue
+housenumber: "307"
+phone: +1-718-788-3131
 opening_hours: ""
 website: ""

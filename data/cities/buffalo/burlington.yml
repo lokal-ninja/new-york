@@ -4,8 +4,8 @@ latitude: 42.90547
 longitude: -78.76442
 postcode: "14225"
 city: Buffalo
-street: "Walden Avenue"
-housenumber: 2001
-phone: "+1 716-685-3133"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00"
-website: "https://stores.burlington.com/ny/cheektowaga/331"
+street: Walden Avenue
+housenumber: "2001"
+phone: +1 716-685-3133
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-23:30; Su 09:00-23:00
+website: https://stores.burlington.com/ny/cheektowaga/331

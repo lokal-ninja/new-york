@@ -1,11 +1,11 @@
 id: 886239965
-type: way
+type: node
 latitude: 42.70409
 longitude: -73.7142
 postcode: "12204"
 city: Menands
-street: "Broadway"
-housenumber: 591
+street: Broadway
+housenumber: "591"
 phone: ""
 opening_hours: ""
 website: ""

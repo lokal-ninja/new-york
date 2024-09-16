@@ -1,11 +1,11 @@
 id: 84964865
-type: way
+type: node
 latitude: 43.05024
 longitude: -78.87446
 postcode: "14120"
 city: North Tonawanda
-street: "Meadow Drive"
-housenumber: 301
-phone: "+1 716-743-4350"
+street: Meadow Drive
+housenumber: "301"
+phone: +1 716-743-4350
 opening_hours: ""
 website: ""

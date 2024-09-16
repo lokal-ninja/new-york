@@ -1,11 +1,11 @@
 id: 263880984
-type: way
+type: node
 latitude: 41.92516
 longitude: -73.9915
 postcode: "12401"
 city: Kingston
-street: "Broadway"
-housenumber: 307
-phone: "+1-845-339-7375"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/NY/Kingston/307-BROADWAY"
+street: Broadway
+housenumber: "307"
+phone: +1-845-339-7375
+opening_hours: 24/7
+website: https://www.speedway.com/locations/NY/Kingston/307-BROADWAY

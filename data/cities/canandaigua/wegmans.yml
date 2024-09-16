@@ -1,11 +1,11 @@
 id: 89598600
-type: way
+type: node
 latitude: 42.87604
 longitude: -77.25595
 postcode: "14424"
 city: Canandaigua
-street: "Eastern Boulevard"
-housenumber: 345
-phone: "+1 585-394-4820"
-opening_hours: "24/7"
-website: "https://www.wegmans.com/stores/canandaigua-ny/"
+street: Eastern Boulevard
+housenumber: "345"
+phone: +1 585-394-4820
+opening_hours: 24/7
+website: https://www.wegmans.com/stores/canandaigua-ny/

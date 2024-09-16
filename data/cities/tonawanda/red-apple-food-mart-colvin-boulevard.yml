@@ -1,11 +1,11 @@
 id: 1107791154
-type: way
+type: node
 latitude: 42.99761
 longitude: -78.85184
 postcode: "14150"
 city: Tonawanda
-street: "Colvin Boulevard"
-housenumber: 2209
+street: Colvin Boulevard
+housenumber: "2209"
 phone: ""
 opening_hours: ""
 website: ""

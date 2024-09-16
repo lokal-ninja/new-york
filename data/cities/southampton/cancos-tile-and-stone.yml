@@ -1,11 +1,11 @@
 id: 945349588
-type: way
+type: node
 latitude: 40.89958
 longitude: -72.38686
 postcode: "11968"
 city: Southampton
-street: "County Road 39A"
-housenumber: 346
+street: County Road 39A
+housenumber: "346"
 phone: ""
 opening_hours: ""
 website: ""

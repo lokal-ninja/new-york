@@ -1,11 +1,11 @@
 id: 558853752
-type: way
+type: node
 latitude: 43.23369
 longitude: -78.22518
 postcode: "14411"
 city: Albion
-street: "Route 31"
-housenumber: 13858
-phone: "+1 585-589-0608"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/3607/albion-ny/whats-new"
+street: Route 31
+housenumber: "13858"
+phone: +1 585-589-0608
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/3607/albion-ny/whats-new

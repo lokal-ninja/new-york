@@ -1,11 +1,11 @@
 id: 439772603
-type: way
+type: node
 latitude: 41.7473
 longitude: -74.08266
 postcode: "12561"
 city: New Paltz
-street: "Main Street"
-housenumber: 140
+street: Main Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

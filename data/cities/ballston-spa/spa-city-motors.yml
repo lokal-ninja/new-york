@@ -1,11 +1,11 @@
 id: 817691280
-type: way
+type: node
 latitude: 43.01665
 longitude: -73.84484
 postcode: "12020"
 city: Ballston Spa
-street: "Doubleday Avenue"
-housenumber: 2109
+street: Doubleday Avenue
+housenumber: "2109"
 phone: ""
 opening_hours: ""
-website: "https://spacitymotors.net/"
+website: https://spacitymotors.net/

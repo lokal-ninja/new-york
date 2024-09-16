@@ -1,11 +1,11 @@
 id: 496366795
-type: way
+type: node
 latitude: 42.88083
 longitude: -73.90861
 postcode: "12302"
 city: Glenville
-street: "Hetcheltown Road"
-housenumber: 98
-phone: "+1-518-399-9023"
+street: Hetcheltown Road
+housenumber: "98"
+phone: +1-518-399-9023
 opening_hours: ""
 website: ""

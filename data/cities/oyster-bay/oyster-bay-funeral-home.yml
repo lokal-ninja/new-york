@@ -1,11 +1,11 @@
 id: 565990107
-type: way
+type: node
 latitude: 40.86735
 longitude: -73.53157
 postcode: "11771"
 city: Oyster Bay
-street: "South Street"
-housenumber: 261
+street: South Street
+housenumber: "261"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.96456
 longitude: -78.73642
 postcode: "14221"
 city: Buffalo
-street: "Main Street"
-housenumber: 5820
+street: Main Street
+housenumber: "5820"
 phone: "7162041297"
-opening_hours: "We-Sa 10:00-17:00"
+opening_hours: We-Sa 10:00-17:00
 website: ""

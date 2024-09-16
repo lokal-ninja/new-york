@@ -1,11 +1,11 @@
 id: 473202323
-type: way
+type: node
 latitude: 40.89412
 longitude: -72.44955
 postcode: "11968"
 city: Shinnecock Hills
-street: "County Road 39"
-housenumber: 1530
+street: County Road 39
+housenumber: "1530"
 phone: ""
 opening_hours: ""
 website: ""

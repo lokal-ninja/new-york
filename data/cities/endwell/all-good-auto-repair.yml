@@ -1,11 +1,11 @@
 id: 979447919
-type: way
+type: node
 latitude: 42.108
 longitude: -76.02352
 postcode: "13760"
 city: Endwell
-street: "Pearl Street"
-housenumber: 3217
-phone: "+1 607 203 1267"
-opening_hours: "Mo-Th 08:30-17:00; Fr 08:30-16:30"
-website: "https://all-good-auto-repair.business.site/"
+street: Pearl Street
+housenumber: "3217"
+phone: +1 607 203 1267
+opening_hours: Mo-Th 08:30-17:00; Fr 08:30-16:30
+website: https://all-good-auto-repair.business.site/

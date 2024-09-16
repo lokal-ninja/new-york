@@ -1,11 +1,11 @@
 id: 819918768
-type: way
+type: node
 latitude: 42.98405
 longitude: -77.4121
 postcode: "14564"
 city: Victor
-street: "West Main Street"
-housenumber: 86
+street: West Main Street
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

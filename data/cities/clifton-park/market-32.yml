@@ -1,11 +1,11 @@
 id: 141294720
-type: way
+type: node
 latitude: 42.86605
 longitude: -73.78325
 postcode: "12065"
 city: Clifton Park
-street: "Park Avenue"
-housenumber: 15
-phone: "+1 518 383 6780"
-opening_hours: "24/7"
-website: "http://locations.pricechopper.com/ll/US/NY/Clifton-Park/Route-146-and-Plank-Road"
+street: Park Avenue
+housenumber: "15"
+phone: +1 518 383 6780
+opening_hours: 24/7
+website: http://locations.pricechopper.com/ll/US/NY/Clifton-Park/Route-146-and-Plank-Road

@@ -1,11 +1,11 @@
 id: 140350389
-type: way
+type: node
 latitude: 42.90335
 longitude: -73.68898
 postcode: "12118"
 city: Mechanicville
-street: "Park Avenue"
-housenumber: 221
+street: Park Avenue
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

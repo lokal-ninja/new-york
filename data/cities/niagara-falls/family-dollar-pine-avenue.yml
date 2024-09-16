@@ -1,11 +1,11 @@
 id: 396673325
-type: way
+type: node
 latitude: 43.09479
 longitude: -79.0463
 postcode: "14301"
 city: Niagara Falls
-street: "Pine Avenue"
-housenumber: 1309
+street: Pine Avenue
+housenumber: "1309"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 772627064
-type: way
+type: node
 latitude: 42.04023
 longitude: -74.11986
 postcode: "12498"
 city: Woodstock
-street: "Tannery Brook Road"
-housenumber: 2
+street: Tannery Brook Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

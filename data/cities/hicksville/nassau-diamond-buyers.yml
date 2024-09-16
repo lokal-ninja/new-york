@@ -1,11 +1,11 @@
 id: 558357218
-type: way
+type: node
 latitude: 40.76553
 longitude: -73.52198
 postcode: "11801"
 city: Hicksville
-street: "West Cherry Street"
-housenumber: 10
+street: West Cherry Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 323368427
-type: way
+type: node
 latitude: 41.10305
 longitude: -72.36113
 postcode: "11944"
 city: Greenport
-street: "South Street"
-housenumber: 101
-phone: "+1 631-368-1661"
+street: South Street
+housenumber: "101"
+phone: +1 631-368-1661
 opening_hours: ""
 website: ""

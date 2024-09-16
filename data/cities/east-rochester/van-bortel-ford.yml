@@ -1,11 +1,11 @@
 id: 293721028
-type: way
+type: node
 latitude: 43.10068
 longitude: -77.48331
 postcode: "14445"
 city: East Rochester
-street: "Marsh Road"
-housenumber: 71
+street: Marsh Road
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

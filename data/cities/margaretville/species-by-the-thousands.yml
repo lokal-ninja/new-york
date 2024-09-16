@@ -4,8 +4,8 @@ latitude: 42.14865
 longitude: -74.64791
 postcode: "12455"
 city: Margaretville
-street: "Main Street"
-housenumber: 798
+street: Main Street
+housenumber: "798"
 phone: ""
-opening_hours: "We 11:00-15:00; Th-Sa 11:00-17:00; Su 11:00-15:00"
-website: "https://speciesbythethousands.com"
+opening_hours: We 11:00-15:00; Th-Sa 11:00-17:00; Su 11:00-15:00
+website: https://speciesbythethousands.com

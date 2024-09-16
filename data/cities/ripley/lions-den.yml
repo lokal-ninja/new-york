@@ -1,11 +1,11 @@
 id: 818168653
-type: way
+type: node
 latitude: 42.26351
 longitude: -79.74508
 postcode: "14775"
 city: Ripley
-street: "Shortman Road"
-housenumber: 6306
+street: Shortman Road
+housenumber: "6306"
 phone: ""
 opening_hours: ""
 website: ""

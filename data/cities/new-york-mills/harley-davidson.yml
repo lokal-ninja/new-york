@@ -1,11 +1,11 @@
 id: 768018852
-type: way
+type: node
 latitude: 43.09932
 longitude: -75.30043
 postcode: "13417"
 city: New York Mills
-street: "Commercial Drive"
-housenumber: 4870
+street: Commercial Drive
+housenumber: "4870"
 phone: ""
 opening_hours: ""
 website: ""

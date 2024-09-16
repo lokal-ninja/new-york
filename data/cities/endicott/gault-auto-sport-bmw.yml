@@ -1,11 +1,11 @@
 id: 960877418
-type: way
+type: node
 latitude: 42.10729
 longitude: -76.03527
 postcode: "13760"
 city: Endicott
-street: "North Street"
-housenumber: 2311
-phone: "+1 607 748 9875"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 09:00-17:00"
-website: "https://www.gaultautosportbmw.com/"
+street: North Street
+housenumber: "2311"
+phone: +1 607 748 9875
+opening_hours: Mo-Fr 07:30-19:00; Sa 09:00-17:00
+website: https://www.gaultautosportbmw.com/

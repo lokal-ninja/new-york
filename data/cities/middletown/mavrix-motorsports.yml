@@ -1,11 +1,11 @@
 id: 306048728
-type: way
+type: node
 latitude: 41.44681
 longitude: -74.38179
 postcode: "10940"
 city: Middletown
-street: "Dunning Road"
-housenumber: 21
+street: Dunning Road
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

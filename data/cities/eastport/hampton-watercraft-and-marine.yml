@@ -1,11 +1,11 @@
 id: 471548949
-type: way
+type: node
 latitude: 40.8155
 longitude: -72.72541
 postcode: "11941"
 city: Eastport
-street: "South Bay Avenue"
-housenumber: 50
+street: South Bay Avenue
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

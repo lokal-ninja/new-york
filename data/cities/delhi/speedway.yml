@@ -4,8 +4,8 @@ latitude: 42.27643
 longitude: -74.91766
 postcode: "13753"
 city: Delhi
-street: "Main Street"
-housenumber: 77
+street: Main Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Delhi/77-Main-St"
+website: https://www.speedway.com/locations/NY/Delhi/77-Main-St

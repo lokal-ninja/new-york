@@ -1,11 +1,11 @@
 id: 188284489
-type: way
+type: node
 latitude: 43.05416
 longitude: -76.2649
 postcode: "13031"
 city: Camillus
-street: "Milton Avenue"
-housenumber: 3756
+street: Milton Avenue
+housenumber: "3756"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
 website: ""

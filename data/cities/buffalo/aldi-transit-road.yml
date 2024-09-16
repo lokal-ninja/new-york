@@ -4,8 +4,8 @@ latitude: 42.96368
 longitude: -78.69477
 postcode: "14221"
 city: Buffalo
-street: "Transit Road"
-housenumber: 4259
-phone: "+1 833-746-5089"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/ny/williamsville/4259-transit-rd"
+street: Transit Road
+housenumber: "4259"
+phone: +1 833-746-5089
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/ny/williamsville/4259-transit-rd

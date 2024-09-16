@@ -1,11 +1,11 @@
 id: 266932807
-type: way
+type: node
 latitude: 40.77928
 longitude: -73.96015
 postcode: "10028"
 city: New York
-street: "Madison Avenue"
-housenumber: 1122
+street: Madison Avenue
+housenumber: "1122"
 phone: ""
 opening_hours: ""
-website: "https://www.anikny.com/"
+website: https://www.anikny.com/

@@ -4,8 +4,8 @@ latitude: 40.75162
 longitude: -73.9904
 postcode: "10001"
 city: New York
-street: "7th Avenue"
-housenumber: 460
-phone: "+1-212-695-7111"
+street: 7th Avenue
+housenumber: "460"
+phone: +1-212-695-7111
 opening_hours: ""
 website: ""

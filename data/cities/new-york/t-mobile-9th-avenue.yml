@@ -4,8 +4,8 @@ latitude: 40.74144
 longitude: -74.00474
 postcode: "10011"
 city: New York
-street: "9th Avenue"
-housenumber: 66
+street: 9th Avenue
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

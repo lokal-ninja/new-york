@@ -4,8 +4,8 @@ latitude: 40.72085
 longitude: -73.98922
 postcode: "10002"
 city: New York
-street: "Allen Street"
-housenumber: 158
-phone: "(212) 614-0361"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://saleathers.com"
+street: Allen Street
+housenumber: "158"
+phone: (212) 614-0361
+opening_hours: Mo-Su 10:00-18:00
+website: https://saleathers.com

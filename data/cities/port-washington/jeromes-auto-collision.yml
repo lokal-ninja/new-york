@@ -1,11 +1,11 @@
 id: 612857248
-type: way
+type: node
 latitude: 40.82722
 longitude: -73.68513
 postcode: "11050"
 city: Port Washington
-street: "Munson Street"
-housenumber: 16
+street: Munson Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

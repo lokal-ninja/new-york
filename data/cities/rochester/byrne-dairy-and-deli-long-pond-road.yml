@@ -1,11 +1,11 @@
 id: 1292578301
-type: way
+type: node
 latitude: 43.17051
 longitude: -77.702
 postcode: "14606"
 city: Rochester
-street: "Long Pond Road"
-housenumber: 2155
-phone: "+1 585-247-7780"
+street: Long Pond Road
+housenumber: "2155"
+phone: +1 585-247-7780
 opening_hours: ""
-website: "https://byrnedairystores.com/locations/gates-long-pond-rd"
+website: https://byrnedairystores.com/locations/gates-long-pond-rd

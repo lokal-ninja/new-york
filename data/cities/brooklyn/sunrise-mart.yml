@@ -4,8 +4,8 @@ latitude: 40.65607
 longitude: -74.00632
 postcode: "11232"
 city: Brooklyn
-street: "3rd Avenue"
-housenumber: 934
-phone: "+1-347-584-4579"
-opening_hours: "11:00-20:00"
-website: "https://sunrisemart.com/"
+street: 3rd Avenue
+housenumber: "934"
+phone: +1-347-584-4579
+opening_hours: 11:00-20:00
+website: https://sunrisemart.com/

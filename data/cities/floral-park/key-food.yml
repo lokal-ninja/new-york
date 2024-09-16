@@ -1,11 +1,11 @@
 id: 613955249
-type: way
+type: node
 latitude: 40.71912
 longitude: -73.68958
 postcode: "11001"
 city: Floral Park
-street: "Covert Avenue"
-housenumber: 151
-phone: "+1 516-616-1808"
-opening_hours: "Mo-Fr 07:30-21:00; Sa 07:00-21:00; Su 07:30-20:00"
+street: Covert Avenue
+housenumber: "151"
+phone: +1 516-616-1808
+opening_hours: Mo-Fr 07:30-21:00; Sa 07:00-21:00; Su 07:30-20:00
 website: ""

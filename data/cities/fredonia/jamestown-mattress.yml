@@ -4,8 +4,8 @@ latitude: 42.43964
 longitude: -79.33167
 postcode: "14063"
 city: Fredonia
-street: "West Main Street"
-housenumber: 10
-phone: "+1 716 672 4140"
+street: West Main Street
+housenumber: "10"
+phone: +1 716 672 4140
 opening_hours: ""
-website: "https://www.jamestownmattress.com"
+website: https://www.jamestownmattress.com

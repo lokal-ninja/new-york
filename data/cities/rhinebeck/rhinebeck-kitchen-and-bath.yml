@@ -1,11 +1,11 @@
 id: 325326768
-type: way
+type: node
 latitude: 41.95093
 longitude: -73.89921
 postcode: "12572"
 city: Rhinebeck
-street: "Albany Post Road"
-housenumber: 6783
+street: Albany Post Road
+housenumber: "6783"
 phone: ""
 opening_hours: ""
 website: ""

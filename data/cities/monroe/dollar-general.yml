@@ -1,11 +1,11 @@
 id: 402455525
-type: way
+type: node
 latitude: 41.3281
 longitude: -74.19172
 postcode: "10950"
 city: Monroe
-street: "Lakes Road"
-housenumber: 2
+street: Lakes Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ny/monroe/12222"
+website: https://www.dollargeneral.com/store-directory/ny/monroe/12222

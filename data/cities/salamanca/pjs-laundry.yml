@@ -1,11 +1,11 @@
 id: 690674589
-type: way
+type: node
 latitude: 42.15775
 longitude: -78.73179
 postcode: "14779"
 city: Salamanca
-street: "Broad Street"
-housenumber: 440
+street: Broad Street
+housenumber: "440"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 841114994
-type: way
+type: node
 latitude: 40.93211
 longitude: -73.76051
 postcode: "10538"
 city: Larchmont
-street: "East Avenue"
-housenumber: 6
+street: East Avenue
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

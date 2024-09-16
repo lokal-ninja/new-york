@@ -4,8 +4,8 @@ latitude: 40.7737
 longitude: -73.98924
 postcode: "10023"
 city: New York
-street: "West End Avenue"
-housenumber: 75
+street: West End Avenue
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.brooklynfare.com/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.brooklynfare.com/

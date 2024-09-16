@@ -1,11 +1,11 @@
 id: 148536877
-type: way
+type: node
 latitude: 42.86138
 longitude: -73.76465
 postcode: "12065"
 city: Clifton Park
-street: "Route 146"
-housenumber: 476
-phone: "+1 518-348-2940"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ny-halfmoon/1740"
+street: Route 146
+housenumber: "476"
+phone: +1 518-348-2940
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ny-halfmoon/1740

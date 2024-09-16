@@ -1,11 +1,11 @@
 id: 230397211
-type: way
+type: node
 latitude: 43.46714
 longitude: -76.48426
 postcode: "13126"
 city: Oswego
-street: "East Seneca Street"
-housenumber: 500
-phone: "+1 315 343 6030"
+street: East Seneca Street
+housenumber: "500"
+phone: +1 315 343 6030
 opening_hours: ""
 website: ""

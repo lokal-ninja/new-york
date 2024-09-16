@@ -4,8 +4,8 @@ latitude: 40.71172
 longitude: -74.01157
 postcode: "10007"
 city: New York
-street: "Greenwich Street"
-housenumber: 185
-phone: "+1-646-802-3800"
-opening_hours: "08:00-21:00; Dec 25 off; Dec 24 10:00-18:00"
-website: "https://www.apple.com/retail/worldtradecenter/"
+street: Greenwich Street
+housenumber: "185"
+phone: +1-646-802-3800
+opening_hours: 08:00-21:00; Dec 25 off; Dec 24 10:00-18:00
+website: https://www.apple.com/retail/worldtradecenter/

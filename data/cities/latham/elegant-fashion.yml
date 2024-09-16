@@ -1,11 +1,11 @@
 id: 879967301
-type: way
+type: node
 latitude: 42.74318
 longitude: -73.74445
 postcode: "12110"
 city: Latham
-street: "Troy Schenectady Road"
-housenumber: 303
-phone: "+1 518 7835146"
+street: Troy Schenectady Road
+housenumber: "303"
+phone: +1 518 7835146
 opening_hours: ""
-website: "http://elegantfashion1.com/"
+website: http://elegantfashion1.com/

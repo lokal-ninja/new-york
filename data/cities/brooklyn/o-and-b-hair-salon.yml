@@ -4,8 +4,8 @@ latitude: 40.67887
 longitude: -74.01133
 postcode: "11231"
 city: Brooklyn
-street: "Van Brunt Street"
-housenumber: 324
-phone: "+1-718-953-1612"
-opening_hours: "Mo-Sa 10:00-19:00; Su closed"
+street: Van Brunt Street
+housenumber: "324"
+phone: +1-718-953-1612
+opening_hours: Mo-Sa 10:00-19:00; Su closed
 website: ""

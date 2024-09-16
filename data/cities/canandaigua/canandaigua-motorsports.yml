@@ -1,11 +1,11 @@
 id: 617850437
-type: way
+type: node
 latitude: 42.91656
 longitude: -77.30481
 postcode: "14424"
 city: Canandaigua
-street: "State Route 332"
-housenumber: 2366
-phone: "+1 585-394-7490"
-opening_hours: "Mo,Th,Fr 09:00-18:00; Tu,We 09:00-17:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.canandaiguamotorsports.com"
+street: State Route 332
+housenumber: "2366"
+phone: +1 585-394-7490
+opening_hours: Mo,Th,Fr 09:00-18:00; Tu,We 09:00-17:00; Sa 09:00-16:00; Su,PH off
+website: https://www.canandaiguamotorsports.com

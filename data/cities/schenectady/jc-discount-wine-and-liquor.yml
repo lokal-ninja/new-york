@@ -1,11 +1,11 @@
 id: 140471421
-type: way
+type: node
 latitude: 42.77201
 longitude: -73.94797
 postcode: "12303"
 city: Schenectady
-street: "Curry Road"
-housenumber: 2315
-phone: "(518) 952-7933"
-opening_hours: "Mo-Sa 09:00-21:00; Su 12:00-21:00"
-website: "https://www.jcwineandliquor.com/"
+street: Curry Road
+housenumber: "2315"
+phone: (518) 952-7933
+opening_hours: Mo-Sa 09:00-21:00; Su 12:00-21:00
+website: https://www.jcwineandliquor.com/

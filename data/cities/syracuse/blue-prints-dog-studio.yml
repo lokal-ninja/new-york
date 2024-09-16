@@ -4,8 +4,8 @@ latitude: 43.02893
 longitude: -76.11079
 postcode: "13210"
 city: Syracuse
-street: "Nottingham Road"
-housenumber: 303
-phone: "+1-315-446-2070"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 09:00-14:00"
-website: "https://blueprintsdogstudio.com/"
+street: Nottingham Road
+housenumber: "303"
+phone: +1-315-446-2070
+opening_hours: Mo-Fr 07:00-18:30; Sa 09:00-14:00
+website: https://blueprintsdogstudio.com/

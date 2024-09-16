@@ -4,8 +4,8 @@ latitude: 42.93139
 longitude: -74.62303
 postcode: "13339"
 city: Fort Plain
-street: "Canal Street"
-housenumber: 30
+street: Canal Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.medicineshoppe.com/find-a-pharmacy"
+website: https://www.medicineshoppe.com/find-a-pharmacy

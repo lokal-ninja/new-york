@@ -1,11 +1,11 @@
 id: 558646355
-type: way
+type: node
 latitude: 40.80591
 longitude: -73.41029
 postcode: "11747"
 city: Melville
-street: "Walt Whitman Road"
-housenumber: 680
+street: Walt Whitman Road
+housenumber: "680"
 phone: ""
 opening_hours: ""
 website: ""

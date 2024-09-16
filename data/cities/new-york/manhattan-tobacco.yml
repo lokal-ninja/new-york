@@ -4,8 +4,8 @@ latitude: 40.76816
 longitude: -73.98576
 postcode: "10019"
 city: New York
-street: "9th Avenue"
-housenumber: 881
-phone: "+1-646-478-7452"
-opening_hours: "24/7"
+street: 9th Avenue
+housenumber: "881"
+phone: +1-646-478-7452
+opening_hours: 24/7
 website: ""

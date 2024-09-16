@@ -1,11 +1,11 @@
 id: 304981228
-type: way
+type: node
 latitude: 41.73823
 longitude: -73.96171
 postcode: "12528"
 city: Highland
-street: "Upper Grand Street"
-housenumber: 3930
-phone: "+1-845-691-8648"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su off"
-website: "https://www.troysautobody.com/"
+street: Upper Grand Street
+housenumber: "3930"
+phone: +1-845-691-8648
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su off
+website: https://www.troysautobody.com/

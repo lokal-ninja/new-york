@@ -1,11 +1,11 @@
 id: 658313188
-type: way
+type: node
 latitude: 40.69166
 longitude: -73.62279
 postcode: "11550"
 city: Hempstead
-street: "South Franklin Street"
-housenumber: 445
+street: South Franklin Street
+housenumber: "445"
 phone: ""
 opening_hours: ""
 website: ""

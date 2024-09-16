@@ -4,8 +4,8 @@ latitude: 40.80638
 longitude: -73.96543
 postcode: "10025"
 city: New York
-street: "Broadway"
-housenumber: 2903
-phone: "+1-212-280-1850"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12:00-21:00"
-website: "https://internationalwinesnyc.com/"
+street: Broadway
+housenumber: "2903"
+phone: +1-212-280-1850
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12:00-21:00
+website: https://internationalwinesnyc.com/

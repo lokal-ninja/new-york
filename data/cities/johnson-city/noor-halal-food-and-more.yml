@@ -1,11 +1,11 @@
 id: 650259151
-type: way
+type: node
 latitude: 42.11028
 longitude: -75.95474
 postcode: "13790"
 city: Johnson City
-street: "Grand Avenue"
-housenumber: 144
+street: Grand Avenue
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Fr 07:00-23:00, Sa-Su 08:00-23:00"
+opening_hours: Mo-Fr 07:00-23:00, Sa-Su 08:00-23:00
 website: ""

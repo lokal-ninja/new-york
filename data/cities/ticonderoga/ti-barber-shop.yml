@@ -1,11 +1,11 @@
 id: 798418811
-type: way
+type: node
 latitude: 43.84817
 longitude: -73.42315
 postcode: "12883"
 city: Ticonderoga
-street: "Champlain Avenue"
-housenumber: 172
+street: Champlain Avenue
+housenumber: "172"
 phone: ""
-opening_hours: "Tu-Th 08:30-16:30, Sa 08:30-12:00"
+opening_hours: Tu-Th 08:30-16:30, Sa 08:30-12:00
 website: ""

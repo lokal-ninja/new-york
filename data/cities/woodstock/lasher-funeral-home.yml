@@ -1,11 +1,11 @@
 id: 304846569
-type: way
+type: node
 latitude: 42.04048
 longitude: -74.12326
 postcode: "12498"
 city: Woodstock
-street: "Tinker Street"
-housenumber: 100
-phone: "+1-845-679-7381"
+street: Tinker Street
+housenumber: "100"
+phone: +1-845-679-7381
 opening_hours: ""
-website: "https://www.lasherfh.com"
+website: https://www.lasherfh.com

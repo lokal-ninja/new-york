@@ -1,11 +1,11 @@
 id: 250311010
-type: way
+type: node
 latitude: 40.67482
 longitude: -73.94955
 postcode: "11216"
 city: Brooklyn
-street: "Nostrand Avenue"
-housenumber: 643
-phone: "+1 718-774-0200"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-20:00"
-website: "https://keyfoodstores.keyfood.com/store/keyFood/en/store/1370"
+street: Nostrand Avenue
+housenumber: "643"
+phone: +1 718-774-0200
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-20:00
+website: https://keyfoodstores.keyfood.com/store/keyFood/en/store/1370

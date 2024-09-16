@@ -1,11 +1,11 @@
 id: 330733638
-type: way
+type: node
 latitude: 41.95202
 longitude: -73.5012
 postcode: "12546"
 city: Millerton
-street: "US 44"
-housenumber: 138
+street: US 44
+housenumber: "138"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 73674349
-type: way
+type: node
 latitude: 40.92627
 longitude: -73.85235
 postcode: "10704"
 city: Yonkers
-street: "Vredenburgh Avenue"
-housenumber: 111
-phone: "+1 914-378-9312"
-opening_hours: "Mo-Su 07:00-00:00"
-website: "https://stores.stopandshop.com/ny/yonkers/111-vredenburgh-avenue"
+street: Vredenburgh Avenue
+housenumber: "111"
+phone: +1 914-378-9312
+opening_hours: Mo-Su 07:00-00:00
+website: https://stores.stopandshop.com/ny/yonkers/111-vredenburgh-avenue

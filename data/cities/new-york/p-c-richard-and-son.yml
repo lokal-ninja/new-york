@@ -1,11 +1,11 @@
 id: 269313803
-type: way
+type: node
 latitude: 40.78398
 longitude: -73.97916
 postcode: "10024"
 city: New York
-street: "Broadway"
-housenumber: 2220
-phone: "+1-212-579-5200"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.pcrichard.com/stores/new-york/manhattan/upper-west-side.html"
+street: Broadway
+housenumber: "2220"
+phone: +1-212-579-5200
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.pcrichard.com/stores/new-york/manhattan/upper-west-side.html

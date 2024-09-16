@@ -4,8 +4,8 @@ latitude: 40.77916
 longitude: -73.9822
 postcode: "10023"
 city: New York
-street: "Broadway"
-housenumber: 2085
-phone: "+1-212-634-3190"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://locations.bloomingdales.com/upper-west-side-outlet"
+street: Broadway
+housenumber: "2085"
+phone: +1-212-634-3190
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://locations.bloomingdales.com/upper-west-side-outlet

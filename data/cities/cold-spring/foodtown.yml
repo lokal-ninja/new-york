@@ -1,11 +1,11 @@
 id: 317820144
-type: way
+type: node
 latitude: 41.4179
 longitude: -73.95261
 postcode: "10516"
 city: Cold Spring
-street: "Chestnut Street"
-housenumber: 49
+street: Chestnut Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

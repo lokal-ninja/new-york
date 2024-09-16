@@ -1,11 +1,11 @@
 id: 562503188
-type: way
+type: node
 latitude: 43.97888
 longitude: -75.9162
 postcode: "13601"
 city: Watertown
-street: "North Massey Street"
-housenumber: 229
+street: North Massey Street
+housenumber: "229"
 phone: ""
 opening_hours: ""
 website: ""

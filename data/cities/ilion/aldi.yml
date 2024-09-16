@@ -1,11 +1,11 @@
 id: 816043081
-type: way
+type: node
 latitude: 43.01817
 longitude: -75.03103
-postcode: "13357-1206"
+postcode: 13357-1206
 city: Ilion
-street: "Central Avenue"
-housenumber: 166
-phone: "+1 833-746-5031"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/ilion/166-central-avenue"
+street: Central Avenue
+housenumber: "166"
+phone: +1 833-746-5031
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/ilion/166-central-avenue

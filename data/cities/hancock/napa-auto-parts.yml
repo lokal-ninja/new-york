@@ -1,11 +1,11 @@
 id: 1148912258
-type: way
+type: node
 latitude: 41.95583
 longitude: -75.29084
 postcode: "13783"
 city: Hancock
-street: "West Main Street"
-housenumber: 465
+street: West Main Street
+housenumber: "465"
 phone: ""
 opening_hours: ""
 website: ""

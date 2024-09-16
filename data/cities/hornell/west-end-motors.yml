@@ -1,11 +1,11 @@
 id: 822760581
-type: way
+type: node
 latitude: 42.33394
 longitude: -77.67586
 postcode: "14843"
 city: Hornell
-street: "State Route 21"
-housenumber: 1117
+street: State Route 21
+housenumber: "1117"
 phone: ""
 opening_hours: ""
 website: ""

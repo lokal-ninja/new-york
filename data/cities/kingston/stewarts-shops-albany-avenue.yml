@@ -1,11 +1,11 @@
 id: 263880188
-type: way
+type: node
 latitude: 41.93989
 longitude: -74.00094
 postcode: "12401"
 city: Kingston
-street: "Albany Avenue"
-housenumber: 420
-phone: "+1-845-338-9516"
-opening_hours: "04:30-23:00"
-website: "https://www.stewartsshops.com/"
+street: Albany Avenue
+housenumber: "420"
+phone: +1-845-338-9516
+opening_hours: 04:30-23:00
+website: https://www.stewartsshops.com/

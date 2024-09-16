@@ -1,11 +1,11 @@
 id: 250171994
-type: way
+type: node
 latitude: 40.65352
 longitude: -73.96009
 postcode: "11226"
 city: Brooklyn
-street: "Flatbush Avenue"
-housenumber: 786
-phone: "+1 718-462-5890"
-opening_hours: "Su-Th 08:00-21:00; Fr-Sa 08:00-22:00"
+street: Flatbush Avenue
+housenumber: "786"
+phone: +1 718-462-5890
+opening_hours: Su-Th 08:00-21:00; Fr-Sa 08:00-22:00
 website: ""

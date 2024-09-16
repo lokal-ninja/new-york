@@ -4,8 +4,8 @@ latitude: 40.79931
 longitude: -73.96257
 postcode: "10025"
 city: New York
-street: "Columbus Avenue"
-housenumber: 941
-phone: "+1-212-666-0109"
-opening_hours: "Mo-Su 09:00-09:00"
-website: "https://freshysdeli.com/"
+street: Columbus Avenue
+housenumber: "941"
+phone: +1-212-666-0109
+opening_hours: Mo-Su 09:00-09:00
+website: https://freshysdeli.com/

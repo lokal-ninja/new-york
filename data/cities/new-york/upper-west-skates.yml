@@ -4,8 +4,8 @@ latitude: 40.80166
 longitude: -73.96756
 postcode: "10025"
 city: New York
-street: "Broadway"
-housenumber: 2768
-phone: "+1-917-563-3760"
-opening_hours: "Mo-Su 12:30-19:30"
-website: "https://www.upperwestskates.com"
+street: Broadway
+housenumber: "2768"
+phone: +1-917-563-3760
+opening_hours: Mo-Su 12:30-19:30
+website: https://www.upperwestskates.com

@@ -1,11 +1,11 @@
 id: 459394927
-type: way
+type: node
 latitude: 41.44445
 longitude: -74.01637
 postcode: "12520"
 city: Cornwall-on-Hudson
-street: "Hudson Street"
-housenumber: 263
+street: Hudson Street
+housenumber: "263"
 phone: ""
 opening_hours: ""
 website: ""

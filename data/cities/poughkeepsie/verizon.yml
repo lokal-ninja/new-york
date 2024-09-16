@@ -1,11 +1,11 @@
 id: 199417594
-type: way
+type: node
 latitude: 41.66236
 longitude: -73.92952
 postcode: "12601"
 city: Poughkeepsie
-street: "South Road"
-housenumber: 2544
+street: South Road
+housenumber: "2544"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1109748368
-type: way
+type: node
 latitude: 41.50405
 longitude: -74.22048
 postcode: "12549"
 city: Montgomery
-street: "Neelytown Road"
-housenumber: 125
+street: Neelytown Road
+housenumber: "125"
 phone: "+18454573163"
-opening_hours: "24/7"
-website: "https://www.ta-petro.com/"
+opening_hours: 24/7
+website: https://www.ta-petro.com/

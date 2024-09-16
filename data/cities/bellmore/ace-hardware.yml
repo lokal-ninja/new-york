@@ -1,11 +1,11 @@
 id: 607107994
-type: way
+type: node
 latitude: 40.68845
 longitude: -73.54135
 postcode: "11710"
 city: Bellmore
-street: "Newbridge Road"
-housenumber: 1305
-phone: "+1 516-308-7941"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-18:00"
+street: Newbridge Road
+housenumber: "1305"
+phone: +1 516-308-7941
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-18:00
 website: ""

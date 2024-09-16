@@ -1,11 +1,11 @@
 id: 921538147
-type: way
+type: node
 latitude: 42.29295
 longitude: -73.98923
 postcode: "12413"
 city: Cairo
-street: "Route 32"
-housenumber: 7555
+street: Route 32
+housenumber: "7555"
 phone: ""
 opening_hours: ""
-website: "https://slaterspellets.com"
+website: https://slaterspellets.com

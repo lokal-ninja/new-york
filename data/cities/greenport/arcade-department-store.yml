@@ -1,11 +1,11 @@
 id: 323368432
-type: way
+type: node
 latitude: 41.10283
 longitude: -72.35986
 postcode: "11944"
 city: Greenport
-street: "Front Street"
-housenumber: 14
+street: Front Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

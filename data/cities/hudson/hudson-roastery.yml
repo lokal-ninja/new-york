@@ -1,11 +1,11 @@
 id: 319450973
-type: way
+type: node
 latitude: 42.24706
 longitude: -73.78284
 postcode: "12534"
 city: Hudson
-street: "Park Street"
-housenumber: 4
+street: Park Street
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-15:00; Sa,Su 07:00-17:00"
-website: "https://hudsonroastery.com/"
+opening_hours: Mo-Fr 07:00-15:00; Sa,Su 07:00-17:00
+website: https://hudsonroastery.com/

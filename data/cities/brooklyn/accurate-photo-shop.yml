@@ -4,8 +4,8 @@ latitude: 40.66279
 longitude: -73.99147
 postcode: "11215"
 city: Brooklyn
-street: "5th Avenue"
-housenumber: 639
-phone: "+1-718-832-8899"
-opening_hours: "Mo-Sa 10:00-18:00; Su off"
-website: "https://www.accuratephotoshop.com/"
+street: 5th Avenue
+housenumber: "639"
+phone: +1-718-832-8899
+opening_hours: Mo-Sa 10:00-18:00; Su off
+website: https://www.accuratephotoshop.com/

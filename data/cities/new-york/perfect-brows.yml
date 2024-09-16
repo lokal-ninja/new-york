@@ -4,8 +4,8 @@ latitude: 40.76802
 longitude: -73.98541
 postcode: "10019"
 city: New York
-street: "9th Avenue"
-housenumber: 880
-phone: "+1-212-713-0055"
-opening_hours: "09:00-16:00"
-website: "https://www.perfectbrowsnyc.com/"
+street: 9th Avenue
+housenumber: "880"
+phone: +1-212-713-0055
+opening_hours: 09:00-16:00
+website: https://www.perfectbrowsnyc.com/

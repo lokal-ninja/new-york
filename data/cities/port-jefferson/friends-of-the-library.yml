@@ -4,8 +4,8 @@ latitude: 40.94671
 longitude: -73.06721
 postcode: "11777"
 city: Port Jefferson
-street: "East Main Street"
-housenumber: 150
-phone: "+1-631-509-5706"
+street: East Main Street
+housenumber: "150"
+phone: +1-631-509-5706
 opening_hours: ""
-website: "https://portjefflibrary.org/"
+website: https://portjefflibrary.org/

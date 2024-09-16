@@ -4,8 +4,8 @@ latitude: 40.764
 longitude: -73.9851
 postcode: "10019"
 city: New York
-street: "8th Avenue"
-housenumber: 881
-phone: "+1 212-247-9379"
+street: 8th Avenue
+housenumber: "881"
+phone: +1 212-247-9379
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/new-york/881-8th-ave-36477"
+website: https://www.7-eleven.com/locations/ny/new-york/881-8th-ave-36477

@@ -1,11 +1,12 @@
 id: 249054014
-type: way
+type: node
 latitude: 40.6119
 longitude: -74.0269
 postcode: "11252"
 city: Brooklyn
-street: "White Avenue"
-housenumber: 115
+street: White Avenue
+housenumber: "115"
 phone: ""
-opening_hours: "Tu-We 10:00-19:00; Th 09:00-19:00; Fr 10:00-19:00, Sa 09:00-18:00, Su 10:00-18:00, Mo off"
-website: "https://www.commissaries.com/shopping/store-locations/fort-hamilton"
+opening_hours: Tu-We 10:00-19:00; Th 09:00-19:00; Fr 10:00-19:00, Sa 09:00-18:00,
+    Su 10:00-18:00, Mo off
+website: https://www.commissaries.com/shopping/store-locations/fort-hamilton

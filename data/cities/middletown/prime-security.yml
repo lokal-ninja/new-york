@@ -1,11 +1,11 @@
 id: 546783251
-type: way
+type: node
 latitude: 41.4525
 longitude: -74.40279
 postcode: "10940"
 city: Middletown
-street: "Fairlawn Avenue"
-housenumber: 20
+street: Fairlawn Avenue
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.6557
 longitude: -73.7642
 postcode: ""
 city: Albany
-street: "State Street"
-housenumber: 348
-phone: "518.689.0160"
-opening_hours: "Mo-Fr 12:00-21:00; Sa 11:00-21:00; Su 12:00-21:00"
-website: "http://www.capitalwinestore.com/"
+street: State Street
+housenumber: "348"
+phone: 518.689.0160
+opening_hours: Mo-Fr 12:00-21:00; Sa 11:00-21:00; Su 12:00-21:00
+website: http://www.capitalwinestore.com/

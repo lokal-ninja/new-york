@@ -1,11 +1,11 @@
 id: 282409117
-type: way
+type: node
 latitude: 40.67275
 longitude: -73.7885
 postcode: "11436"
 city: Jamaica
-street: "Rockaway Boulevard"
-housenumber: 14920
+street: Rockaway Boulevard
+housenumber: "14920"
 phone: "+17186412693"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

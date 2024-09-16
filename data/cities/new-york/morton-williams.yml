@@ -4,8 +4,8 @@ latitude: 40.76888
 longitude: -73.98523
 postcode: ""
 city: New York
-street: "9th Avenue"
-housenumber: 917
-phone: "+1-212-586-8784"
-opening_hours: "24/7"
-website: "https://www.mortonwilliams.com/"
+street: 9th Avenue
+housenumber: "917"
+phone: +1-212-586-8784
+opening_hours: 24/7
+website: https://www.mortonwilliams.com/

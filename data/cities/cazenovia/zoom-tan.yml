@@ -4,8 +4,8 @@ latitude: 42.92666
 longitude: -75.84108
 postcode: "13035"
 city: Cazenovia
-street: "Nelson Street"
-housenumber: 75
+street: Nelson Street
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 12:00-18:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 12:00-18:00
 website: ""

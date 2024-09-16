@@ -1,11 +1,11 @@
 id: 397015561
-type: way
+type: node
 latitude: 43.02642
 longitude: -77.44424
 postcode: "14564"
 city: Victor
-street: "Eastview Mall Drive"
-housenumber: 60
+street: Eastview Mall Drive
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

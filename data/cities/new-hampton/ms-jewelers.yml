@@ -1,11 +1,11 @@
 id: 629113681
-type: way
+type: node
 latitude: 41.41104
 longitude: -74.41741
 postcode: "10558"
 city: New Hampton
-street: "Route 17M"
-housenumber: 5050
-phone: "(845)374-4653"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.msjewelers.com/"
+street: Route 17M
+housenumber: "5050"
+phone: (845)374-4653
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.msjewelers.com/

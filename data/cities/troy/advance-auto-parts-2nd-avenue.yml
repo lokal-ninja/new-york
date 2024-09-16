@@ -1,11 +1,11 @@
 id: 109003688
-type: way
+type: node
 latitude: 42.76892
 longitude: -73.68113
 postcode: "12182"
 city: Troy
-street: "2nd Avenue"
-housenumber: 405
+street: 2nd Avenue
+housenumber: "405"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ny/troy/405-2nd-ave"
+website: https://stores.advanceautoparts.com/ny/troy/405-2nd-ave

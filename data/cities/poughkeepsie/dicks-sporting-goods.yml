@@ -1,11 +1,11 @@
 id: 96172471
-type: way
+type: node
 latitude: 41.62561
 longitude: -73.92142
 postcode: "12601"
 city: Poughkeepsie
-street: "South Road"
-housenumber: 2001
-phone: "+1 845-297-4767"
-opening_hours: "Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ny/poughkeepsie/16/"
+street: South Road
+housenumber: "2001"
+phone: +1 845-297-4767
+opening_hours: Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ny/poughkeepsie/16/

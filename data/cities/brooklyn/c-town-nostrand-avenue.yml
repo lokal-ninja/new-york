@@ -1,11 +1,11 @@
 id: 250127061
-type: way
+type: node
 latitude: 40.64273
 longitude: -73.94856
 postcode: "11226"
 city: Brooklyn
-street: "Nostrand Avenue"
-housenumber: 1761
+street: Nostrand Avenue
+housenumber: "1761"
 phone: ""
 opening_hours: ""
 website: ""

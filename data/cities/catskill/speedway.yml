@@ -1,11 +1,11 @@
 id: 1021800680
-type: way
+type: node
 latitude: 42.21457
 longitude: -73.88301
 postcode: "12414"
 city: Catskill
-street: "West Bridge Street"
-housenumber: 272
+street: West Bridge Street
+housenumber: "272"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Catskill/272W-BRIDGE-ST"
+website: https://www.speedway.com/locations/NY/Catskill/272W-BRIDGE-ST

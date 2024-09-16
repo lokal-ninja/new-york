@@ -1,11 +1,11 @@
 id: 839689131
-type: way
+type: node
 latitude: 44.25606
 longitude: -73.79207
 postcode: "12942"
 city: Keene
-street: "State Highway 9N"
-housenumber: 10923
+street: State Highway 9N
+housenumber: "10923"
 phone: "+15185764360"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://www.dartbrookrustic.com/"
+opening_hours: Mo-Su 10:00-17:00
+website: https://www.dartbrookrustic.com/

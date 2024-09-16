@@ -1,11 +1,11 @@
 id: 240666345
-type: way
+type: node
 latitude: 40.74324
 longitude: -73.59952
 postcode: "11590"
 city: Westbury
-street: "Old Country Road"
-housenumber: 1240
+street: Old Country Road
+housenumber: "1240"
 phone: ""
 opening_hours: ""
 website: ""

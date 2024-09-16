@@ -1,11 +1,11 @@
 id: 264325186
-type: way
+type: node
 latitude: 41.94855
 longitude: -74.03161
 postcode: "12401"
 city: Kingston
-street: "NY-28"
-housenumber: 128
-phone: "845-338-7800"
+street: NY-28
+housenumber: "128"
+phone: 845-338-7800
 opening_hours: ""
-website: "https://www.romeofordofkingston.com/xtime-service.html"
+website: https://www.romeofordofkingston.com/xtime-service.html

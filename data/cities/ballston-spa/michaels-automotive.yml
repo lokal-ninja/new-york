@@ -1,11 +1,11 @@
 id: 817691824
-type: way
+type: node
 latitude: 43.00688
 longitude: -73.84901
 postcode: "12020"
 city: Ballston Spa
-street: "Milton Avenue"
-housenumber: 240
+street: Milton Avenue
+housenumber: "240"
 phone: ""
 opening_hours: ""
-website: "https://www.michaelsautomotiveny.com"
+website: https://www.michaelsautomotiveny.com

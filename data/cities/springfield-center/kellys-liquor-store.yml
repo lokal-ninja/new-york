@@ -1,11 +1,11 @@
 id: 675696539
-type: way
+type: node
 latitude: 42.82961
 longitude: -74.87273
 postcode: "13468"
 city: Springfield Center
-street: "County Highway 29A"
-housenumber: 141
+street: County Highway 29A
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

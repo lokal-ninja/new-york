@@ -1,11 +1,11 @@
 id: 959604475
-type: way
+type: node
 latitude: 42.50856
 longitude: -74.99098
 postcode: "13820"
 city: Oneonta
-street: "State Highway 28"
-housenumber: 2341
+street: State Highway 28
+housenumber: "2341"
 phone: ""
 opening_hours: ""
 website: ""

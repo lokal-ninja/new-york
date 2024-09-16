@@ -1,11 +1,11 @@
 id: 506142612
-type: way
+type: node
 latitude: 44.9178
 longitude: -74.88914
 postcode: "13662"
 city: Massena
-street: "South Main Street"
-housenumber: 434
+street: South Main Street
+housenumber: "434"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 978845683
-type: way
+type: node
 latitude: 42.06091
 longitude: -75.42613
 postcode: "13754"
 city: Deposit
-street: "Front Street"
-housenumber: 139
-phone: "+1 607 467 4003"
+street: Front Street
+housenumber: "139"
+phone: +1 607 467 4003
 opening_hours: ""
 website: ""

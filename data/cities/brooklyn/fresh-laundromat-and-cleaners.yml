@@ -4,8 +4,8 @@ latitude: 40.59887
 longitude: -73.95479
 postcode: "11229"
 city: Brooklyn
-street: "Avenue U"
-housenumber: 1618
-phone: "+1-718-675 5656"
-opening_hours: "24/7"
-website: "https://www.freshlaundry.nyc/brooklyn"
+street: Avenue U
+housenumber: "1618"
+phone: +1-718-675 5656
+opening_hours: 24/7
+website: https://www.freshlaundry.nyc/brooklyn

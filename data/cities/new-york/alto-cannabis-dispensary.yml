@@ -4,8 +4,8 @@ latitude: 40.71483
 longitude: -74.0083
 postcode: "10007"
 city: New York
-street: "Chambers Street"
-housenumber: 110
-phone: "212-933-4737"
-opening_hours: "Mon-Thur:11am – 9pm|Fri - Sat:11am – 11pm|Sun: 11am – 5pm"
-website: "https://altocanna.nyc/"
+street: Chambers Street
+housenumber: "110"
+phone: 212-933-4737
+opening_hours: 'Mon-Thur:11am – 9pm|Fri - Sat:11am – 11pm|Sun: 11am – 5pm'
+website: https://altocanna.nyc/

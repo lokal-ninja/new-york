@@ -1,11 +1,11 @@
 id: 258296330
-type: way
+type: node
 latitude: 43.12941
 longitude: -77.44712
 postcode: "14526"
 city: Penfield
-street: "Penfield Road"
-housenumber: 2157
-phone: "+1 585-248-3200"
+street: Penfield Road
+housenumber: "2157"
+phone: +1 585-248-3200
 opening_hours: ""
-website: "https://www.wegmans.com/stores/penfield-ny"
+website: https://www.wegmans.com/stores/penfield-ny

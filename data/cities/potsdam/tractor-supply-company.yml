@@ -1,11 +1,11 @@
 id: 105767601
-type: way
+type: node
 latitude: 44.66508
 longitude: -75.02993
 postcode: "13676"
 city: Potsdam
-street: "United States Highway 11"
-housenumber: 7483
-phone: "+1 315-265-3101"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Potsdam-NY-13676_1138"
+street: United States Highway 11
+housenumber: "7483"
+phone: +1 315-265-3101
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Potsdam-NY-13676_1138

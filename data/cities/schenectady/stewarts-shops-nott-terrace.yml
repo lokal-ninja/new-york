@@ -1,11 +1,11 @@
 id: 111049211
-type: way
+type: node
 latitude: 42.81195
 longitude: -73.9362
 postcode: "12308"
 city: Schenectady
-street: "Nott Terrace"
-housenumber: 120
+street: Nott Terrace
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

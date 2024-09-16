@@ -4,8 +4,8 @@ latitude: 40.74756
 longitude: -73.99712
 postcode: "10001"
 city: New York
-street: "8th Avenue"
-housenumber: 339
+street: 8th Avenue
+housenumber: "339"
 phone: ""
 opening_hours: ""
 website: ""

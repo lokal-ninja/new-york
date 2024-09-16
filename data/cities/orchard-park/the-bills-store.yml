@@ -1,11 +1,11 @@
 id: 1092231369
-type: way
+type: node
 latitude: 42.77487
 longitude: -78.7888
 postcode: "14127"
 city: Orchard Park
-street: "Bills Road"
-housenumber: 1
+street: Bills Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

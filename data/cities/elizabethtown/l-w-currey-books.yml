@@ -1,11 +1,11 @@
 id: 839411335
-type: way
+type: node
 latitude: 44.21756
 longitude: -73.59231
 postcode: "12932"
 city: Elizabethtown
-street: "Water Street"
-housenumber: 203
+street: Water Street
+housenumber: "203"
 phone: "+15188736477"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.lwcurrey.com/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.lwcurrey.com/

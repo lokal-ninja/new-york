@@ -4,8 +4,8 @@ latitude: 40.77059
 longitude: -73.99157
 postcode: "10019"
 city: New York
-street: "West 57th Street"
-housenumber: 601
-phone: "+1-212-757-2893"
-opening_hours: "Mo-Fr 06:00-22:00; Sa-Su 6:30-22:00"
+street: West 57th Street
+housenumber: "601"
+phone: +1-212-757-2893
+opening_hours: Mo-Fr 06:00-22:00; Sa-Su 6:30-22:00
 website: ""

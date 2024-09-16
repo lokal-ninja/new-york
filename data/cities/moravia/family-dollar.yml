@@ -1,11 +1,11 @@
 id: 827965736
-type: way
+type: node
 latitude: 42.71496
 longitude: -76.4305
 postcode: "13118"
 city: Moravia
-street: "West Cayuga Street"
-housenumber: 79
+street: West Cayuga Street
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

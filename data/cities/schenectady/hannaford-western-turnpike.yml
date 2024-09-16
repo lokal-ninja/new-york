@@ -1,11 +1,11 @@
 id: 139746298
-type: way
+type: node
 latitude: 42.71612
 longitude: -73.93322
 postcode: "12303"
 city: Schenectady
-street: "Western Turnpike"
-housenumber: 5239
-phone: "+1 518-355-5814"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.hannaford.com/ny/altamont/8393"
+street: Western Turnpike
+housenumber: "5239"
+phone: +1 518-355-5814
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.hannaford.com/ny/altamont/8393

@@ -1,11 +1,11 @@
 id: 249732221
-type: way
+type: node
 latitude: 40.59347
 longitude: -73.94005
 postcode: "11235"
 city: Brooklyn
-street: "Nostrand Avenue"
-housenumber: 3707
-phone: "+1-718-743-0909"
-opening_hours: "Mo-Fr 09:00-18:00; Su 11:00-17:00"
-website: "https://www.klearview.com/"
+street: Nostrand Avenue
+housenumber: "3707"
+phone: +1-718-743-0909
+opening_hours: Mo-Fr 09:00-18:00; Su 11:00-17:00
+website: https://www.klearview.com/

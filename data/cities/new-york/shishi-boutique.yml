@@ -4,8 +4,8 @@ latitude: 40.79223
 longitude: -73.9732
 postcode: "10025"
 city: New York
-street: "Broadway"
-housenumber: 2488
-phone: "+1-646-692-4510"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-18:00; Su 12:00-17:00"
-website: "https://www.shishiboutique.com"
+street: Broadway
+housenumber: "2488"
+phone: +1-646-692-4510
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-18:00; Su 12:00-17:00
+website: https://www.shishiboutique.com

@@ -1,11 +1,11 @@
 id: 110694353
-type: way
+type: node
 latitude: 42.70579
 longitude: -73.77695
 postcode: "12211"
 city: Loudonville
-street: "Albany Shaker Road"
-housenumber: 482
+street: Albany Shaker Road
+housenumber: "482"
 phone: ""
 opening_hours: ""
 website: ""

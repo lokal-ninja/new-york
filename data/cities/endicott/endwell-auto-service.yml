@@ -1,11 +1,11 @@
 id: 960877431
-type: way
+type: node
 latitude: 42.11094
 longitude: -76.02516
 postcode: "13760"
 city: Endicott
-street: "Watson Boulevard"
-housenumber: 3101
-phone: "+1 607 748 3522"
-opening_hours: "Mo-Th 07:00-17:30"
+street: Watson Boulevard
+housenumber: "3101"
+phone: +1 607 748 3522
+opening_hours: Mo-Th 07:00-17:30
 website: ""

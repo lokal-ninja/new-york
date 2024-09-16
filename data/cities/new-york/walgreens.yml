@@ -4,8 +4,8 @@ latitude: 40.7405
 longitude: -73.9865
 postcode: "10010"
 city: New York
-street: "East 23rd Street"
-housenumber: 33
-phone: "+1-212-685-2047"
+street: East 23rd Street
+housenumber: "33"
+phone: +1-212-685-2047
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-33+e+23rd+st-new+york-ny-10010/id=7675"
+website: https://www.walgreens.com/locator/walgreens-33+e+23rd+st-new+york-ny-10010/id=7675

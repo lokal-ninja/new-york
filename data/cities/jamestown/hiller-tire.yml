@@ -1,11 +1,11 @@
 id: 820255959
-type: way
+type: node
 latitude: 42.12144
 longitude: -79.26641
 postcode: "14701"
 city: Jamestown
-street: "Fluvanna Avenue Extension"
-housenumber: 3140
+street: Fluvanna Avenue Extension
+housenumber: "3140"
 phone: ""
 opening_hours: ""
 website: ""

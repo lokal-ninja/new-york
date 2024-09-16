@@ -4,8 +4,8 @@ latitude: 42.13261
 longitude: -73.88108
 postcode: "12526"
 city: Germantown
-street: "Main Street"
-housenumber: 214
-phone: "+1-518-537-4215"
-opening_hours: "We-Fr 12:00-17:00; Sa-Su 09:00-17:00"
-website: "https://www.athabold.com"
+street: Main Street
+housenumber: "214"
+phone: +1-518-537-4215
+opening_hours: We-Fr 12:00-17:00; Sa-Su 09:00-17:00
+website: https://www.athabold.com

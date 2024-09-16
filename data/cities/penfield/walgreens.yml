@@ -1,11 +1,11 @@
 id: 695971850
-type: way
+type: node
 latitude: 43.13148
 longitude: -77.44238
 postcode: "14526"
 city: Penfield
-street: "Penfield Road"
-housenumber: 2172
+street: Penfield Road
+housenumber: "2172"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2172+penfield+rd-penfield-ny-14526/id=19816"
+website: https://www.walgreens.com/locator/walgreens-2172+penfield+rd-penfield-ny-14526/id=19816

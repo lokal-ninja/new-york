@@ -1,11 +1,11 @@
 id: 429382089
-type: way
+type: node
 latitude: 43.11911
 longitude: -77.80852
 postcode: "14514"
 city: North Chili
-street: "Buffalo Road"
-housenumber: 4411
+street: Buffalo Road
+housenumber: "4411"
 phone: ""
 opening_hours: ""
 website: ""

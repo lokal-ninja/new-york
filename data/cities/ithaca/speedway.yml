@@ -1,11 +1,11 @@
 id: 698046252
-type: way
+type: node
 latitude: 42.42303
 longitude: -76.51667
 postcode: "14850"
 city: Ithaca
-street: "Elmira Road"
-housenumber: 366
+street: Elmira Road
+housenumber: "366"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Ithaca/366-ELMIRA-RD"
+website: https://www.speedway.com/locations/NY/Ithaca/366-ELMIRA-RD

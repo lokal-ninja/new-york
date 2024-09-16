@@ -4,8 +4,8 @@ latitude: 40.78259
 longitude: -73.98155
 postcode: "10024"
 city: New York
-street: "West 77th Street"
-housenumber: 262
-phone: "+1 212-633-2311"
-opening_hours: "Mo-Sa 07:30-19:00"
+street: West 77th Street
+housenumber: "262"
+phone: +1 212-633-2311
+opening_hours: Mo-Sa 07:30-19:00
 website: ""

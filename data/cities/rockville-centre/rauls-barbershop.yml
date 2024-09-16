@@ -1,11 +1,11 @@
 id: 588249430
-type: way
+type: node
 latitude: 40.65476
 longitude: -73.63573
 postcode: "11570"
 city: Rockville Centre
-street: "Merrick Road"
-housenumber: 492
-phone: "+1-516-665-3117"
+street: Merrick Road
+housenumber: "492"
+phone: +1-516-665-3117
 opening_hours: ""
 website: ""

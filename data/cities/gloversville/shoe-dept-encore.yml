@@ -1,11 +1,11 @@
 id: 798988792
-type: way
+type: node
 latitude: 43.03333
 longitude: -74.34141
 postcode: "12078"
 city: Gloversville
-street: "Hales Mills Road"
-housenumber: 353
-phone: "+1(518)332-9317"
+street: Hales Mills Road
+housenumber: "353"
+phone: +1(518)332-9317
 opening_hours: ""
-website: "https://www.shoeshowmega.com/"
+website: https://www.shoeshowmega.com/

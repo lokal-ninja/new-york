@@ -1,11 +1,11 @@
 id: 701327881
-type: way
+type: node
 latitude: 42.70426
 longitude: -74.02249
 postcode: "12009"
 city: Altamont
-street: "Main Street"
-housenumber: 98
+street: Main Street
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

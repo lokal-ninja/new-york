@@ -4,8 +4,8 @@ latitude: 40.68005
 longitude: -73.9409
 postcode: "11216"
 city: Brooklyn
-street: "Fulton Street"
-housenumber: 1511
-phone: "+1-347-770-8100"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://eyes.nyc/"
+street: Fulton Street
+housenumber: "1511"
+phone: +1-347-770-8100
+opening_hours: Mo-Sa 10:00-19:00
+website: https://eyes.nyc/

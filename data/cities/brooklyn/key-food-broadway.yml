@@ -1,11 +1,11 @@
 id: 249930096
-type: way
+type: node
 latitude: 40.68637
 longitude: -73.91634
 postcode: "11221"
 city: Brooklyn
-street: "Broadway"
-housenumber: 1533
-phone: "+1 718-453-7000"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
+street: Broadway
+housenumber: "1533"
+phone: +1 718-453-7000
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
 website: ""

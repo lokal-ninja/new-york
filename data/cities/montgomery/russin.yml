@@ -1,11 +1,11 @@
 id: 1111620783
-type: way
+type: node
 latitude: 41.52007
 longitude: -74.19617
 postcode: "12549"
 city: Montgomery
-street: "Leonards Drive"
-housenumber: 21
+street: Leonards Drive
+housenumber: "21"
 phone: "+18454574000"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://russin.com/"
+opening_hours: Mo-Fr 07:00-17:00
+website: https://russin.com/

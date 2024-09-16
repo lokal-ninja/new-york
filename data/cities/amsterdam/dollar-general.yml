@@ -1,11 +1,11 @@
 id: 143330817
-type: way
+type: node
 latitude: 42.94385
 longitude: -74.19827
 postcode: "12010"
 city: Amsterdam
-street: "Guy Park Avenue"
-housenumber: 140
+street: Guy Park Avenue
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ny/amsterdam/9357"
+website: https://www.dollargeneral.com/store-directory/ny/amsterdam/9357

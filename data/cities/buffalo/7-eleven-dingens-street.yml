@@ -1,11 +1,11 @@
 id: 1094379818
-type: way
+type: node
 latitude: 42.87815
 longitude: -78.80102
 postcode: "14206"
 city: Buffalo
-street: "Dingens Street"
-housenumber: 398
-phone: "+1 716-822-3378"
+street: Dingens Street
+housenumber: "398"
+phone: +1 716-822-3378
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/buffalo/398-dingens-35127"
+website: https://www.7-eleven.com/locations/ny/buffalo/398-dingens-35127

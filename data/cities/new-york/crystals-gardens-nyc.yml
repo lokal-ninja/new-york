@@ -4,8 +4,8 @@ latitude: 40.72872
 longitude: -73.98403
 postcode: "10009"
 city: New York
-street: "East 10th Street"
-housenumber: 247
+street: East 10th Street
+housenumber: "247"
 phone: ""
 opening_hours: ""
-website: "https://crystalsgardennyc.com/"
+website: https://crystalsgardennyc.com/

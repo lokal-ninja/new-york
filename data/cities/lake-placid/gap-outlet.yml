@@ -1,11 +1,11 @@
 id: 133272255
-type: way
+type: node
 latitude: 44.28965
 longitude: -73.98511
 postcode: "12946"
 city: Lake Placid
-street: "Main Street"
-housenumber: 2457
+street: Main Street
+housenumber: "2457"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 834670553
-type: way
+type: node
 latitude: 40.75551
 longitude: -73.68861
 postcode: "11042"
 city: New Hyde Park
-street: "New Hyde Park Road"
-housenumber: 2201
+street: New Hyde Park Road
+housenumber: "2201"
 phone: ""
 opening_hours: ""
 website: ""

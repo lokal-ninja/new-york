@@ -1,11 +1,11 @@
 id: 561656430
-type: way
+type: node
 latitude: 40.78048
 longitude: -73.56214
 postcode: "11753"
 city: Jericho
-street: "Jericho Turnpike"
-housenumber: 86
-phone: "+1 516-997-9595"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/jericho/ny/jericho/11753/1213"
+street: Jericho Turnpike
+housenumber: "86"
+phone: +1 516-997-9595
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/jericho/ny/jericho/11753/1213

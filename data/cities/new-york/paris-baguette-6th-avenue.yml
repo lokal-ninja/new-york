@@ -4,8 +4,8 @@ latitude: 40.75149
 longitude: -73.98628
 postcode: "10018"
 city: New York
-street: "6th Avenue"
-housenumber: 990
-phone: "+1 631-651-0404"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.parisbaguette.com/"
+street: 6th Avenue
+housenumber: "990"
+phone: +1 631-651-0404
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.parisbaguette.com/

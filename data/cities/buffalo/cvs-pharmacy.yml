@@ -1,11 +1,11 @@
 id: 178325082
-type: way
+type: node
 latitude: 42.95761
 longitude: -78.83245
 postcode: "14223"
 city: Buffalo
-street: "Kenmore Avenue"
-housenumber: 392
+street: Kenmore Avenue
+housenumber: "392"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/buffalo-ny-pharmacies/392-kenmore-avenue-buffalo-ny-14223/storeid=725"
+website: https://www.cvs.com/store-locator/buffalo-ny-pharmacies/392-kenmore-avenue-buffalo-ny-14223/storeid=725

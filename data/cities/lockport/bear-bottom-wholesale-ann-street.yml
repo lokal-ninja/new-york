@@ -1,11 +1,11 @@
 id: 830866816
-type: way
+type: node
 latitude: 43.17418
 longitude: -78.68424
 postcode: "14094"
 city: Lockport
-street: "Ann Street"
-housenumber: 20
+street: Ann Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.7964
 longitude: -73.9684
 postcode: "10025"
 city: New York
-street: "Amsterdam Avenue"
-housenumber: 801
-phone: "+1 212-222-7492"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ny/new-york/801-amsterdam-ave-37539"
+street: Amsterdam Avenue
+housenumber: "801"
+phone: +1 212-222-7492
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ny/new-york/801-amsterdam-ave-37539

@@ -1,11 +1,11 @@
 id: 319424307
-type: way
+type: node
 latitude: 42.81169
 longitude: -73.94426
 postcode: "12305"
 city: Schenectady
-street: "Broadway"
-housenumber: 226
+street: Broadway
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

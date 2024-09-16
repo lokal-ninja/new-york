@@ -1,11 +1,11 @@
 id: 281354492
-type: way
+type: node
 latitude: 40.77127
 longitude: -73.91596
 postcode: "11102"
 city: New York
-street: "31st Street"
+street: 31st Street
 housenumber: 24-41
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ny/astoria/24-41-31st-street"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/ny/astoria/24-41-31st-street

@@ -1,11 +1,11 @@
 id: 730879049
-type: way
+type: node
 latitude: 43.10288
 longitude: -77.62795
 postcode: "14623"
 city: Rochester
-street: "West Henrietta Road"
-housenumber: 2440
+street: West Henrietta Road
+housenumber: "2440"
 phone: ""
 opening_hours: ""
-website: "https://www.ziebart.com/find-my-local-ziebart/location/2440-w-henrietta-rd-rochester-ny-14623"
+website: https://www.ziebart.com/find-my-local-ziebart/location/2440-w-henrietta-rd-rochester-ny-14623

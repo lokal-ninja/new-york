@@ -2,10 +2,10 @@ id: 2810080143
 type: node
 latitude: 40.88385
 longitude: -73.90113
-postcode: "10463-4140"
+postcode: 10463-4140
 city: Bronx
-street: "Broadway"
-housenumber: 5760
-phone: "+1 718-543-3400"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.acehardware.com/store-details/15423"
+street: Broadway
+housenumber: "5760"
+phone: +1 718-543-3400
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.acehardware.com/store-details/15423

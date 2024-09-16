@@ -1,11 +1,11 @@
 id: 565189937
-type: way
+type: node
 latitude: 42.05351
 longitude: -79.16093
 postcode: "14738"
 city: Frewsburg
-street: "Center Street"
-housenumber: 20
-phone: "+1 716-569-6460"
+street: Center Street
+housenumber: "20"
+phone: +1 716-569-6460
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1213659135
-type: way
+type: node
 latitude: 43.2462
 longitude: -73.8366
-postcode: "12822-1041"
+postcode: 12822-1041
 city: Corinth
-street: "Hamilton Avenue"
-housenumber: 2
-phone: "+1 518-654-2331"
-opening_hours: "Mo-Sa 07:00-17:00; Su 09:00-14:00"
+street: Hamilton Avenue
+housenumber: "2"
+phone: +1 518-654-2331
+opening_hours: Mo-Sa 07:00-17:00; Su 09:00-14:00
 website: ""

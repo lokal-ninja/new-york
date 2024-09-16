@@ -4,8 +4,8 @@ latitude: 42.95072
 longitude: -76.54908
 postcode: "13021"
 city: Auburn
-street: "Grant Avenue"
-housenumber: 217
+street: Grant Avenue
+housenumber: "217"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

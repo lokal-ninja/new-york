@@ -1,11 +1,11 @@
 id: 1124452591
-type: way
+type: node
 latitude: 41.10986
 longitude: -74.02496
 postcode: "10954"
 city: Nanuet
-street: "Overlook Boulevard"
-housenumber: 100
-phone: "+1 845-351-3500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ny-nanuet/2249"
+street: Overlook Boulevard
+housenumber: "100"
+phone: +1 845-351-3500
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ny-nanuet/2249

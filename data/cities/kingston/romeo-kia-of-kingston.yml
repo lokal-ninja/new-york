@@ -1,11 +1,11 @@
 id: 263868214
-type: way
+type: node
 latitude: 41.93612
 longitude: -74.02162
 postcode: "12401"
 city: Kingston
-street: "Schwenk Drive"
-housenumber: 111
-phone: "+1-845-477-5400"
+street: Schwenk Drive
+housenumber: "111"
+phone: +1-845-477-5400
 opening_hours: ""
 website: ""

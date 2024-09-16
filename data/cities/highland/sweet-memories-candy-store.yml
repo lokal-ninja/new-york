@@ -1,11 +1,11 @@
 id: 412842205
-type: way
+type: node
 latitude: 41.71939
 longitude: -73.96453
 postcode: "12528"
 city: Highland
-street: "Main Street"
-housenumber: 8
+street: Main Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

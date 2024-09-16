@@ -1,11 +1,11 @@
 id: 109338606
-type: way
+type: node
 latitude: 42.91251
 longitude: -78.69061
 postcode: "14043"
 city: Depew
-street: "Walden Avenue"
-housenumber: 3317
+street: Walden Avenue
+housenumber: "3317"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 832814335
-type: way
+type: node
 latitude: 42.76559
 longitude: -78.63059
 postcode: "14052"
 city: East Aurora
-street: "Hamburg Street"
-housenumber: 96
+street: Hamburg Street
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

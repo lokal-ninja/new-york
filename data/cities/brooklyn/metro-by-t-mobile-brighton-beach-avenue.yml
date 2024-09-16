@@ -4,8 +4,8 @@ latitude: 40.57683
 longitude: -73.96433
 postcode: "11235"
 city: Brooklyn
-street: "Brighton Beach Avenue"
-housenumber: 292
+street: Brighton Beach Avenue
+housenumber: "292"
 phone: ""
-opening_hours: "10:00-20:00"
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-brooklyn-ny-10218677/"
+opening_hours: 10:00-20:00
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-brooklyn-ny-10218677/

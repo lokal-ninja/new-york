@@ -4,8 +4,8 @@ latitude: 40.71995
 longitude: -74.00236
 postcode: "10013"
 city: New York
-street: "Howard Street"
-housenumber: 53
+street: Howard Street
+housenumber: "53"
 phone: ""
-opening_hours: "10:00-19:00"
-website: "https://rwguild.com/"
+opening_hours: 10:00-19:00
+website: https://rwguild.com/

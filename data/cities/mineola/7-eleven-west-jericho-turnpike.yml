@@ -1,11 +1,11 @@
 id: 562156656
-type: way
+type: node
 latitude: 40.74783
 longitude: -73.6442
 postcode: "11501"
 city: Mineola
-street: "West Jericho Turnpike"
-housenumber: 207
-phone: "+1 516-747-0568"
+street: West Jericho Turnpike
+housenumber: "207"
+phone: +1 516-747-0568
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/mineola/207-jericho-turnpike-32770"
+website: https://www.7-eleven.com/locations/ny/mineola/207-jericho-turnpike-32770

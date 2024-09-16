@@ -1,11 +1,11 @@
 id: 904477055
-type: way
+type: node
 latitude: 44.69768
 longitude: -73.51645
 postcode: "12901"
 city: Plattsburgh
-street: "Della Drive"
-housenumber: 32
-phone: "+1-518-563-4131"
+street: Della Drive
+housenumber: "32"
+phone: +1-518-563-4131
 opening_hours: ""
-website: "https://www.dellatoyota.com/"
+website: https://www.dellatoyota.com/

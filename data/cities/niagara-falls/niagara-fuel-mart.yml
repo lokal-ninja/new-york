@@ -1,11 +1,11 @@
 id: 1225761960
-type: way
+type: node
 latitude: 43.07632
 longitude: -78.99169
 postcode: "14304"
 city: Niagara Falls
-street: "Buffalo Avenue"
-housenumber: 6302
+street: Buffalo Avenue
+housenumber: "6302"
 phone: ""
 opening_hours: ""
 website: ""

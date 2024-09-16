@@ -1,11 +1,11 @@
 id: 45847658
-type: way
+type: node
 latitude: 41.70413
 longitude: -73.96587
 postcode: "12528"
 city: Highland
-street: "Highway 9 West"
-housenumber: 3650
-phone: "+1 845-691-4950"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/"
+street: Highway 9 West
+housenumber: "3650"
+phone: +1 845-691-4950
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/

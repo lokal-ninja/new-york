@@ -1,11 +1,11 @@
 id: 847226000
-type: way
+type: node
 latitude: 40.95492
 longitude: -73.74035
 postcode: "10543"
 city: Mamaroneck
-street: "Old White Plains Road"
-housenumber: 712
+street: Old White Plains Road
+housenumber: "712"
 phone: ""
 opening_hours: ""
 website: ""

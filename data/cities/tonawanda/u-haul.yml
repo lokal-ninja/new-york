@@ -1,11 +1,11 @@
 id: 215499716
-type: way
+type: node
 latitude: 42.97974
 longitude: -78.91097
 postcode: "14150"
 city: Tonawanda
-street: "Kenmore Avenue"
-housenumber: 2843
+street: Kenmore Avenue
+housenumber: "2843"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 561690690
-type: way
+type: node
 latitude: 43.20579
 longitude: -77.69321
 postcode: "14626"
 city: Rochester
-street: "Greece Ridge Center Drive"
-housenumber: 296
-phone: "+1 585-227-4960"
-opening_hours: "09:00-22:00"
-website: "https://stores.burlington.com/ny/rochester/257"
+street: Greece Ridge Center Drive
+housenumber: "296"
+phone: +1 585-227-4960
+opening_hours: 09:00-22:00
+website: https://stores.burlington.com/ny/rochester/257

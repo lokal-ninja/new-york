@@ -1,10 +1,10 @@
 id: 111834481
-type: way
+type: node
 latitude: 42.70149
 longitude: -73.71764
 postcode: "12204"
 city: Albany
-street: "Broadway"
+street: Broadway
 housenumber: 444-A
 phone: ""
 opening_hours: ""

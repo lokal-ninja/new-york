@@ -1,11 +1,11 @@
 id: 1185339597
-type: way
+type: node
 latitude: 43.05201
 longitude: -76.06935
 postcode: "13057"
 city: East Syracuse
-street: "Bridge Street"
-housenumber: 5802
+street: Bridge Street
+housenumber: "5802"
 phone: ""
 opening_hours: ""
-website: "https://www.jiffylube.com/locations/ny/east-syracuse/4055"
+website: https://www.jiffylube.com/locations/ny/east-syracuse/4055

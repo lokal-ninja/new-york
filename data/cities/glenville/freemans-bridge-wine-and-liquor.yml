@@ -1,11 +1,11 @@
 id: 545023987
-type: way
+type: node
 latitude: 42.84012
 longitude: -73.93813
 postcode: "12302"
 city: Glenville
-street: "Freemans Bridge Road"
-housenumber: 100
+street: Freemans Bridge Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

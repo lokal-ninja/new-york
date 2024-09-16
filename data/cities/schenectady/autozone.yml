@@ -4,8 +4,8 @@ latitude: 42.80044
 longitude: -73.92614
 postcode: "12307"
 city: Schenectady
-street: "State Street"
-housenumber: 1129
+street: State Street
+housenumber: "1129"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ny/schenectady/1129-state-st.html"
+website: https://www.autozone.com/locations/ny/schenectady/1129-state-st.html

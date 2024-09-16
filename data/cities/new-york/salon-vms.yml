@@ -4,8 +4,8 @@ latitude: 40.79078
 longitude: -73.97411
 postcode: "10025"
 city: New York
-street: "West 90th Street"
-housenumber: 217
-phone: "+1-646-882-0042"
-opening_hours: "Mo-Fr 9:30-19:00; Sa 9:30-18:00; Su 10:00-17:00"
-website: "https://www.salonvms.com"
+street: West 90th Street
+housenumber: "217"
+phone: +1-646-882-0042
+opening_hours: Mo-Fr 9:30-19:00; Sa 9:30-18:00; Su 10:00-17:00
+website: https://www.salonvms.com

@@ -1,11 +1,11 @@
 id: 584069257
-type: way
+type: node
 latitude: 40.66067
 longitude: -73.56043
 postcode: "11566"
 city: Merrick
-street: "Sunrise Highway"
-housenumber: 203
-phone: "+1 516-623-1735"
+street: Sunrise Highway
+housenumber: "203"
+phone: +1 516-623-1735
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/merrick/203-sunrise-hwy-30338"
+website: https://www.7-eleven.com/locations/ny/merrick/203-sunrise-hwy-30338

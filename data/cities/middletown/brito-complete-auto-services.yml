@@ -1,11 +1,11 @@
 id: 545598530
-type: way
+type: node
 latitude: 41.44689
 longitude: -74.41623
 postcode: "10940"
 city: Middletown
-street: "Cottage Street"
-housenumber: 12
+street: Cottage Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

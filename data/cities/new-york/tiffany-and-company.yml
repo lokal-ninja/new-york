@@ -1,11 +1,11 @@
 id: 265345382
-type: way
+type: node
 latitude: 40.76241
 longitude: -73.97366
 postcode: ""
 city: New York
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tiffany.com/"
+website: https://www.tiffany.com/

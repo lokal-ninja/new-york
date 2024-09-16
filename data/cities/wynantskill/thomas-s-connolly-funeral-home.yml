@@ -1,11 +1,11 @@
 id: 62096848
-type: way
+type: node
 latitude: 42.69156
 longitude: -73.64826
 postcode: "12198"
 city: Wynantskill
-street: "Whiteview Road"
-housenumber: 294
+street: Whiteview Road
+housenumber: "294"
 phone: ""
 opening_hours: ""
 website: ""

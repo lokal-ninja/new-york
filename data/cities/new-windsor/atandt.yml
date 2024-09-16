@@ -1,11 +1,11 @@
 id: 607472284
-type: way
+type: node
 latitude: 41.4595
 longitude: -74.05481
 postcode: "12553"
 city: New Windsor
-street: "Windsor Highway"
-housenumber: 374
-phone: "(845) 562-1201"
+street: Windsor Highway
+housenumber: "374"
+phone: (845) 562-1201
 opening_hours: ""
 website: ""

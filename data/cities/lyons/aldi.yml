@@ -1,11 +1,11 @@
 id: 829019006
-type: way
+type: node
 latitude: 43.05937
 longitude: -77.00272
-postcode: "14489-9166"
+postcode: 14489-9166
 city: Lyons
-street: "State Route 31"
-housenumber: 20
-phone: "+1 833-465-1007"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/lyons/20-state-route-31"
+street: State Route 31
+housenumber: "20"
+phone: +1 833-465-1007
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/lyons/20-state-route-31

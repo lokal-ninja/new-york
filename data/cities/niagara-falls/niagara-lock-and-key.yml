@@ -1,11 +1,11 @@
 id: 1174065704
-type: way
+type: node
 latitude: 43.0988
 longitude: -78.97605
 postcode: "14304"
 city: Niagara Falls
-street: "Military Road"
-housenumber: 2035
+street: Military Road
+housenumber: "2035"
 phone: ""
 opening_hours: ""
 website: ""

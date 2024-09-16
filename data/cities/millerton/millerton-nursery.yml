@@ -1,11 +1,11 @@
 id: 1150760938
-type: way
+type: node
 latitude: 41.92415
 longitude: -73.53664
 postcode: "12546"
 city: Millerton
-street: "Route 22"
-housenumber: 5600
+street: Route 22
+housenumber: "5600"
 phone: ""
 opening_hours: ""
 website: ""

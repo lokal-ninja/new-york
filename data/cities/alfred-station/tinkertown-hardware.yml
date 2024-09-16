@@ -1,11 +1,11 @@
 id: 821688697
-type: way
+type: node
 latitude: 42.26715
 longitude: -77.77136
 postcode: "14803"
 city: Alfred Station
-street: "State Highway 244"
-housenumber: 833
+street: State Highway 244
+housenumber: "833"
 phone: "+16075878500"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-13:00"
-website: "https://www.tinkertownhardware.com/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 09:00-13:00
+website: https://www.tinkertownhardware.com/

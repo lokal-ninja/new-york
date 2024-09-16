@@ -1,11 +1,11 @@
 id: 629519688
-type: way
+type: node
 latitude: 43.05253
 longitude: -75.37483
 postcode: "13323"
 city: Clinton
-street: "Taylor Avenue"
-housenumber: 4
+street: Taylor Avenue
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

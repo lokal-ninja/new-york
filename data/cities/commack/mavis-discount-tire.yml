@@ -1,11 +1,11 @@
 id: 466101108
-type: way
+type: node
 latitude: 40.84275
 longitude: -73.28845
 postcode: "11725"
 city: Commack
-street: "Jericho Turnpike"
-housenumber: 2205
+street: Jericho Turnpike
+housenumber: "2205"
 phone: "+16314624442"
 opening_hours: ""
-website: "https://www.mavis.com/locations/commack-ny.asp"
+website: https://www.mavis.com/locations/commack-ny.asp

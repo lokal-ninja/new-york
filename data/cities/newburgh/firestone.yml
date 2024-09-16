@@ -1,11 +1,11 @@
 id: 96345441
-type: way
+type: node
 latitude: 41.52233
 longitude: -74.02875
 postcode: "12550"
 city: Newburgh
-street: "North Plank Road"
-housenumber: 41
+street: North Plank Road
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

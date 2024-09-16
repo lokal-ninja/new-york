@@ -4,8 +4,8 @@ latitude: 40.77987
 longitude: -73.98196
 postcode: "10023"
 city: New York
-street: "Broadway"
-housenumber: 2103
-phone: "+1-917-441-4760"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.sephora.com/happening/stores/new-york-ansonia"
+street: Broadway
+housenumber: "2103"
+phone: +1-917-441-4760
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.sephora.com/happening/stores/new-york-ansonia

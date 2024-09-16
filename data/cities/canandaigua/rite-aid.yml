@@ -1,11 +1,11 @@
 id: 89611766
-type: way
+type: node
 latitude: 42.87905
 longitude: -77.26267
 postcode: "14424"
 city: Canandaigua
-street: "Eastern Boulevard"
-housenumber: 170
-phone: "+1 585-394-2987"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/ny/canandaigua/170-eastern-blvd.html"
+street: Eastern Boulevard
+housenumber: "170"
+phone: +1 585-394-2987
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-18:00
+website: https://www.riteaid.com/locations/ny/canandaigua/170-eastern-blvd.html

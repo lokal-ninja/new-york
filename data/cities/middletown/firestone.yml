@@ -1,11 +1,11 @@
 id: 546705751
-type: way
+type: node
 latitude: 41.45267
 longitude: -74.38364
 postcode: "10940"
 city: Middletown
-street: "Gibbs Court"
-housenumber: 5
+street: Gibbs Court
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

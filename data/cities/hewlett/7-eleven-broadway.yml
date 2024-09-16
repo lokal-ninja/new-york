@@ -1,11 +1,11 @@
 id: 459269307
-type: way
+type: node
 latitude: 40.64743
 longitude: -73.68999
 postcode: "11557"
 city: Hewlett
-street: "Broadway"
-housenumber: 1700
-phone: "+1 516-593-3268"
+street: Broadway
+housenumber: "1700"
+phone: +1 516-593-3268
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/hewlett/1700-broadway-34757"
+website: https://www.7-eleven.com/locations/ny/hewlett/1700-broadway-34757

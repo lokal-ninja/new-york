@@ -4,8 +4,8 @@ latitude: 42.66351
 longitude: -73.73918
 postcode: "12204"
 city: Albany
-street: "Erie Boulevard"
-housenumber: 25
-phone: "518-465-3373"
+street: Erie Boulevard
+housenumber: "25"
+phone: 518-465-3373
 opening_hours: ""
-website: "https://www.huckfinnhome.com/"
+website: https://www.huckfinnhome.com/

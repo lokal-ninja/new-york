@@ -1,11 +1,11 @@
 id: 1204964825
-type: way
+type: node
 latitude: 43.09473
 longitude: -77.60678
 postcode: "14623"
 city: Rochester
-street: "Brighton-Henrietta Town Line Road"
-housenumber: 2585
+street: Brighton-Henrietta Town Line Road
+housenumber: "2585"
 phone: ""
 opening_hours: ""
 website: ""

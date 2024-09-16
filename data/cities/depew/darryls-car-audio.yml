@@ -1,11 +1,11 @@
 id: 1118968086
-type: way
+type: node
 latitude: 42.91622
 longitude: -78.73641
 postcode: "14043"
 city: Depew
-street: "Dick Road"
-housenumber: 530
+street: Dick Road
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

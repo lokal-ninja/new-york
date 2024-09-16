@@ -1,11 +1,11 @@
 id: 820050024
-type: way
+type: node
 latitude: 42.35386
 longitude: -79.5175
 postcode: "14787"
 city: Westfield
-street: "Route 20"
-housenumber: 7031
+street: Route 20
+housenumber: "7031"
 phone: ""
 opening_hours: ""
 website: ""

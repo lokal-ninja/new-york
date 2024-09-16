@@ -1,11 +1,11 @@
 id: 468800980
-type: way
+type: node
 latitude: 40.73146
 longitude: -73.19182
 postcode: "11730"
 city: East Islip
-street: "Main Street"
-housenumber: 39
+street: Main Street
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/east-islip-ny-pharmacies/15-west-main-street-east-islip-ny-11730/storeid=146"
+website: https://www.cvs.com/store-locator/east-islip-ny-pharmacies/15-west-main-street-east-islip-ny-11730/storeid=146

@@ -1,11 +1,11 @@
 id: 448419794
-type: way
+type: node
 latitude: 43.12189
 longitude: -77.61908
 postcode: "14620"
 city: Rochester
-street: "Mount Hope Avenue"
-housenumber: 1431
-phone: "+1-585-271-5031"
-opening_hours: "08:00-23:00"
-website: "https://www.cvs.com/store-locator/rochester-ny-pharmacies/1431-mt-hope-ave-rochester-ny-14620/storeid=547"
+street: Mount Hope Avenue
+housenumber: "1431"
+phone: +1-585-271-5031
+opening_hours: 08:00-23:00
+website: https://www.cvs.com/store-locator/rochester-ny-pharmacies/1431-mt-hope-ave-rochester-ny-14620/storeid=547

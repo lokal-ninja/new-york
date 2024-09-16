@@ -1,11 +1,11 @@
 id: 280081415
-type: way
+type: node
 latitude: 40.72304
 longitude: -73.95086
 postcode: "11222"
 city: Brooklyn
-street: "Manhattan Avenue"
-housenumber: 601
-phone: "718 349 3528"
+street: Manhattan Avenue
+housenumber: "601"
+phone: 718 349 3528
 opening_hours: ""
 website: ""

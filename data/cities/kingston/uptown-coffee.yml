@@ -1,11 +1,11 @@
 id: 323898044
-type: way
+type: node
 latitude: 41.93349
 longitude: -74.01947
 postcode: "12401"
 city: Kingston
-street: "Wall Street"
-housenumber: 288
+street: Wall Street
+housenumber: "288"
 phone: ""
 opening_hours: ""
 website: ""

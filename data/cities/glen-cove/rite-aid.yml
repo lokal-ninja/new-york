@@ -1,11 +1,11 @@
 id: 772459234
-type: way
+type: node
 latitude: 40.87461
 longitude: -73.61912
 postcode: "11542"
 city: Glen Cove
-street: "Forest Avenue"
-housenumber: 225
-phone: "(516) 759-1201"
+street: Forest Avenue
+housenumber: "225"
+phone: (516) 759-1201
 opening_hours: ""
-website: "https://www.riteaid.com/"
+website: https://www.riteaid.com/

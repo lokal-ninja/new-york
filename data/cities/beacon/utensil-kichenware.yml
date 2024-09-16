@@ -4,8 +4,8 @@ latitude: 41.50826
 longitude: -73.97652
 postcode: "12508"
 city: Beacon
-street: "Main Street"
-housenumber: 143
-phone: "1-845-202-7181"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://utensilkitchenware.com"
+street: Main Street
+housenumber: "143"
+phone: 1-845-202-7181
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-19:00; Su 11:00-18:00
+website: https://utensilkitchenware.com

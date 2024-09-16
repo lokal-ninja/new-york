@@ -1,11 +1,11 @@
 id: 958542838
-type: way
+type: node
 latitude: 42.10343
 longitude: -76.05509
 postcode: "13760"
 city: Endicott
-street: "North Street"
-housenumber: 707
-phone: "+1 607 748 6957"
-opening_hours: "Mo-Th 08:30-16:30; Fr 08:30-16:00"
-website: "https://www.gownpreservation.com/"
+street: North Street
+housenumber: "707"
+phone: +1 607 748 6957
+opening_hours: Mo-Th 08:30-16:30; Fr 08:30-16:00
+website: https://www.gownpreservation.com/

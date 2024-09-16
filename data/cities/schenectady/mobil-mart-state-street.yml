@@ -1,11 +1,11 @@
 id: 62047818
-type: way
+type: node
 latitude: 42.77169
 longitude: -73.89381
 postcode: "12304"
 city: Schenectady
-street: "State Street"
-housenumber: 3497
+street: State Street
+housenumber: "3497"
 phone: ""
 opening_hours: ""
 website: ""

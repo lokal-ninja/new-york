@@ -4,8 +4,8 @@ latitude: 40.77142
 longitude: -73.95964
 postcode: "10021"
 city: New York
-street: "3rd Avenue"
-housenumber: 1294
-phone: "+1-212-633-2253"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.breadsbakery.com/location/ues/"
+street: 3rd Avenue
+housenumber: "1294"
+phone: +1-212-633-2253
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.breadsbakery.com/location/ues/

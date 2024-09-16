@@ -1,11 +1,11 @@
 id: 249734868
-type: way
+type: node
 latitude: 40.59958
 longitude: -73.94606
 postcode: "11229"
 city: Brooklyn
-street: "Avenue U"
-housenumber: 2518
+street: Avenue U
+housenumber: "2518"
 phone: ""
 opening_hours: ""
 website: ""

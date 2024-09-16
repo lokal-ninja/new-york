@@ -1,11 +1,11 @@
 id: 798988796
-type: way
+type: node
 latitude: 43.03488
 longitude: -74.3405
 postcode: "12078"
 city: Gloversville
-street: "Van Road"
-housenumber: 104
+street: Van Road
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

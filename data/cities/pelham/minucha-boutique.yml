@@ -1,11 +1,11 @@
 id: 884907340
-type: way
+type: node
 latitude: 40.90857
 longitude: -73.8113
 postcode: "10803"
 city: Pelham
-street: "Wolfs Lane"
-housenumber: 135
+street: Wolfs Lane
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

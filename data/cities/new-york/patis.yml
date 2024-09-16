@@ -4,8 +4,8 @@ latitude: 40.7921
 longitude: -73.97205
 postcode: "10025"
 city: New York
-street: "Amsterdam Avenue"
-housenumber: 676
-phone: "+1-646-449-8730"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-15:00; Su 08:00-18:00"
-website: "https://patis.com/"
+street: Amsterdam Avenue
+housenumber: "676"
+phone: +1-646-449-8730
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-15:00; Su 08:00-18:00
+website: https://patis.com/

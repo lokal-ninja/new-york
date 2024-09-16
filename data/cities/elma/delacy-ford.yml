@@ -1,11 +1,11 @@
 id: 393878645
-type: way
+type: node
 latitude: 42.85141
 longitude: -78.69603
 postcode: "14059"
 city: Elma
-street: "Transit Road"
-housenumber: 3061
-phone: "(888) 416-2770"
+street: Transit Road
+housenumber: "3061"
+phone: (888) 416-2770
 opening_hours: ""
-website: "https://www.delacyford.com/"
+website: https://www.delacyford.com/

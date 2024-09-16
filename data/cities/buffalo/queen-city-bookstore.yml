@@ -4,8 +4,8 @@ latitude: 42.95112
 longitude: -78.82629
 postcode: "14214"
 city: Buffalo
-street: "Main Street"
-housenumber: 3184
+street: Main Street
+housenumber: "3184"
 phone: "+17168336220"
 opening_hours: ""
-website: "https://queencitybook.com/"
+website: https://queencitybook.com/

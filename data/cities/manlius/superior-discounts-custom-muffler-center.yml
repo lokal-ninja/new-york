@@ -1,11 +1,11 @@
 id: 263440937
-type: way
+type: node
 latitude: 43.00178
 longitude: -75.97562
 postcode: "13104"
 city: Manlius
-street: "East Seneca Street"
-housenumber: 300
+street: East Seneca Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.65901
 longitude: -73.69965
 postcode: "11581"
 city: Valley Stream
-street: "Brooklyn Avenue"
-housenumber: 20
+street: Brooklyn Avenue
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-15:00"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-15:00
 website: ""

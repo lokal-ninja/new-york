@@ -1,11 +1,11 @@
 id: 862111467
-type: way
+type: node
 latitude: 41.98351
 longitude: -74.08731
 postcode: "12401"
 city: Kingston
-street: "State Route 28"
-housenumber: 949
-phone: "+1-845-338-2800"
+street: State Route 28
+housenumber: "949"
+phone: +1-845-338-2800
 opening_hours: ""
-website: "https://woodstockharley.com"
+website: https://woodstockharley.com

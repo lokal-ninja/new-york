@@ -1,11 +1,11 @@
 id: 248178546
-type: way
+type: node
 latitude: 40.68101
 longitude: -73.9572
 postcode: "11238"
 city: Brooklyn
-street: "Fulton Street"
-housenumber: 1090
-phone: "+1-718-312-6999"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.familydollar.com/locations/ny/brooklyn/26208/"
+street: Fulton Street
+housenumber: "1090"
+phone: +1-718-312-6999
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.familydollar.com/locations/ny/brooklyn/26208/

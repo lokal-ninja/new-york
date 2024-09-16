@@ -1,11 +1,11 @@
 id: 369948224
-type: way
+type: node
 latitude: 43.01571
 longitude: -78.20751
 postcode: "14020"
 city: Batavia
-street: "Veterans Memorial Drive"
-housenumber: 4181
+street: Veterans Memorial Drive
+housenumber: "4181"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1205895566
-type: way
+type: node
 latitude: 41.56189
 longitude: -73.90316
 postcode: "12524"
 city: Fishkill
-street: "US-9"
-housenumber: 1078
+street: US-9
+housenumber: "1078"
 phone: ""
 opening_hours: ""
 website: ""

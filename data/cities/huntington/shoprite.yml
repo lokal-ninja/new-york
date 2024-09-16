@@ -1,11 +1,11 @@
 id: 1117489627
-type: way
+type: node
 latitude: 40.85656
 longitude: -73.4195
 postcode: "11743"
 city: Huntington
-street: "New York Avenue"
-housenumber: 839
-phone: "+1-631-760-9080"
-opening_hours: "Mo-Su 06:00-22:00"
+street: New York Avenue
+housenumber: "839"
+phone: +1-631-760-9080
+opening_hours: Mo-Su 06:00-22:00
 website: ""

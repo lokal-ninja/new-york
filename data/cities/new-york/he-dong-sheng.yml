@@ -4,8 +4,8 @@ latitude: 40.71219
 longitude: -73.99449
 postcode: "10002"
 city: New York
-street: "Madison Street"
-housenumber: 122
-phone: "(212) 732-1764"
+street: Madison Street
+housenumber: "122"
+phone: (212) 732-1764
 opening_hours: ""
 website: ""

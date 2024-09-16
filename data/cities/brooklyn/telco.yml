@@ -4,8 +4,8 @@ latitude: 40.57648
 longitude: -73.96799
 postcode: "11235"
 city: Brooklyn
-street: "Brighton Beach Avenue"
-housenumber: 105
-phone: "+1-718-853-5050"
-opening_hours: "Mo-Sa 10:00-20:30; Su 10:00-20:00"
-website: "https://telcostores.com/"
+street: Brighton Beach Avenue
+housenumber: "105"
+phone: +1-718-853-5050
+opening_hours: Mo-Sa 10:00-20:30; Su 10:00-20:00
+website: https://telcostores.com/

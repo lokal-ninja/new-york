@@ -1,11 +1,11 @@
 id: 240658874
-type: way
+type: node
 latitude: 40.75145
 longitude: -73.61823
 postcode: "11514"
 city: Carle Place
-street: "Glen Cove Road"
-housenumber: 265
+street: Glen Cove Road
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

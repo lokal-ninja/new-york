@@ -1,11 +1,11 @@
 id: 739652439
-type: way
+type: node
 latitude: 43.00783
 longitude: -78.22323
 postcode: "14020"
 city: Batavia
-street: "West Main Street Road"
-housenumber: 3899
+street: West Main Street Road
+housenumber: "3899"
 phone: ""
 opening_hours: ""
 website: ""

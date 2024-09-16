@@ -1,11 +1,11 @@
 id: 61234563
-type: way
+type: node
 latitude: 42.61028
 longitude: -73.72643
 postcode: "12144"
 city: Rensselaer
-street: "Columbia Turnpike"
-housenumber: 330
+street: Columbia Turnpike
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

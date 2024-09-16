@@ -4,8 +4,8 @@ latitude: 40.77658
 longitude: -73.95584
 postcode: "10028"
 city: New York
-street: "3rd Avenue"
-housenumber: 1454
-phone: "(212) 570-5025"
+street: 3rd Avenue
+housenumber: "1454"
+phone: (212) 570-5025
 opening_hours: ""
 website: ""

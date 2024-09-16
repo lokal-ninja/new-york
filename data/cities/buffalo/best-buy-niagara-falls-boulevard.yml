@@ -1,11 +1,11 @@
 id: 167540737
-type: way
+type: node
 latitude: 42.99832
 longitude: -78.81601
 postcode: "14228"
 city: Buffalo
-street: "Niagara Falls Boulevard"
-housenumber: 1585
-phone: "+1 716-837-9080"
+street: Niagara Falls Boulevard
+housenumber: "1585"
+phone: +1 716-837-9080
 opening_hours: ""
-website: "https://stores.bestbuy.com/ny/amherst/1585-niagara-falls-blvd-459.html"
+website: https://stores.bestbuy.com/ny/amherst/1585-niagara-falls-blvd-459.html

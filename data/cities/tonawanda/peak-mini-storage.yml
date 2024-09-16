@@ -1,11 +1,11 @@
 id: 1130696161
-type: way
+type: node
 latitude: 42.98883
 longitude: -78.90673
 postcode: "14150"
 city: Tonawanda
-street: "Ensminger Road"
-housenumber: 625
+street: Ensminger Road
+housenumber: "625"
 phone: ""
 opening_hours: ""
 website: ""

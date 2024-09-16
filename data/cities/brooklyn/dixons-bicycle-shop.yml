@@ -4,8 +4,8 @@ latitude: 40.67467
 longitude: -73.97636
 postcode: "11215"
 city: Brooklyn
-street: "Union Street"
-housenumber: 792
-phone: "+1-718-636-0067"
-opening_hours: "Tu-Sa 10:00-18:00; Su 11:00-18:00"
+street: Union Street
+housenumber: "792"
+phone: +1-718-636-0067
+opening_hours: Tu-Sa 10:00-18:00; Su 11:00-18:00
 website: ""

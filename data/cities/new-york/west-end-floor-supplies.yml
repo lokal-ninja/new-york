@@ -4,8 +4,8 @@ latitude: 40.799
 longitude: -73.96184
 postcode: "10025"
 city: New York
-street: "West 106th Street"
-housenumber: 57
-phone: "+1-212-222-9115"
-opening_hours: "Mo-Fr 07:00-16:30; Sa 07:00-12:00"
-website: "https://www.westendfloorsupply.com"
+street: West 106th Street
+housenumber: "57"
+phone: +1-212-222-9115
+opening_hours: Mo-Fr 07:00-16:30; Sa 07:00-12:00
+website: https://www.westendfloorsupply.com

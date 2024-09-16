@@ -1,11 +1,11 @@
 id: 817974496
-type: way
+type: node
 latitude: 43.07277
 longitude: -73.7882
 postcode: "12866"
 city: Saratoga Springs
-street: "South Broadway"
-housenumber: 177
+street: South Broadway
+housenumber: "177"
 phone: ""
 opening_hours: ""
 website: ""

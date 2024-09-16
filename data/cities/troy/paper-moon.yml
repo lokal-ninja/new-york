@@ -4,8 +4,8 @@ latitude: 42.73218
 longitude: -73.68865
 postcode: "12180"
 city: Troy
-street: "4th Street"
-housenumber: 42
+street: 4th Street
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

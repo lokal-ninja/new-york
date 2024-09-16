@@ -1,11 +1,11 @@
 id: 473183031
-type: way
+type: node
 latitude: 40.89611
 longitude: -72.39745
 postcode: "11968"
 city: Southampton
-street: "County Road 39A"
-housenumber: 10
-phone: "+1 631-283-8511"
+street: County Road 39A
+housenumber: "10"
+phone: +1 631-283-8511
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/southampton/10-county-rd-39a-23754"
+website: https://www.7-eleven.com/locations/ny/southampton/10-county-rd-39a-23754

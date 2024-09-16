@@ -1,11 +1,11 @@
 id: 306050531
-type: way
+type: node
 latitude: 41.45734
 longitude: -74.38457
 postcode: "10941"
 city: Middletown
-street: "Bert Crawford Road"
-housenumber: 9
+street: Bert Crawford Road
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

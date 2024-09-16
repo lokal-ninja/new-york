@@ -4,8 +4,8 @@ latitude: 40.74334
 longitude: -73.98949
 postcode: "10010"
 city: New York
-street: "West 25th Street"
-housenumber: 7
-phone: "+1-212-627-1750"
+street: West 25th Street
+housenumber: "7"
+phone: +1-212-627-1750
 opening_hours: ""
-website: "http://noiretblancbis.com"
+website: http://noiretblancbis.com

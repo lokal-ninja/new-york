@@ -1,11 +1,11 @@
 id: 420094238
-type: way
+type: node
 latitude: 42.9618
 longitude: -78.75044
 postcode: "14221"
 city: Williamsville
-street: "Main Street"
-housenumber: 5447
-phone: "+1 716 632 8608"
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.riteaid.com/locations/ny/williamsville/5447-main-street.html"
+street: Main Street
+housenumber: "5447"
+phone: +1 716 632 8608
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.riteaid.com/locations/ny/williamsville/5447-main-street.html

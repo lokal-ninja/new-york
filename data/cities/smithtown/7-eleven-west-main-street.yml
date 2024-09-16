@@ -4,8 +4,8 @@ latitude: 40.8568
 longitude: -73.20306
 postcode: "11787"
 city: Smithtown
-street: "West Main Street"
-housenumber: 221
-phone: "+1 631-366-0854"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ny/smithtown/221-w-main-st-33189"
+street: West Main Street
+housenumber: "221"
+phone: +1 631-366-0854
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ny/smithtown/221-w-main-st-33189

@@ -1,11 +1,11 @@
 id: 1126363941
-type: way
+type: node
 latitude: 42.34302
 longitude: -77.33547
 postcode: "14810"
 city: Bath
-street: "West Morris Street"
-housenumber: 400
-phone: "+1-607-776-2632"
-opening_hours: "08:00-20:00"
-website: "https://savealot.com/grocery-stores/bath-14810-24890/"
+street: West Morris Street
+housenumber: "400"
+phone: +1-607-776-2632
+opening_hours: 08:00-20:00
+website: https://savealot.com/grocery-stores/bath-14810-24890/

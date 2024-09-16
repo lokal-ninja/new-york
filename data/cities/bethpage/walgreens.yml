@@ -1,11 +1,11 @@
 id: 560592609
-type: way
+type: node
 latitude: 40.72523
 longitude: -73.48347
 postcode: "11714"
 city: Bethpage
-street: "Hempstead Turnpike"
-housenumber: 4120
+street: Hempstead Turnpike
+housenumber: "4120"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4120+hempstead+tpke-bethpage-ny-11714/id=4116"
+website: https://www.walgreens.com/locator/walgreens-4120+hempstead+tpke-bethpage-ny-11714/id=4116

@@ -4,8 +4,8 @@ latitude: 40.77829
 longitude: -73.98164
 postcode: "10023"
 city: New York
-street: "Broadway"
-housenumber: 2086
-phone: "+1-212-580-7620"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 10:00-19:00; Su 11:00-19:00"
-website: "https://www.vitaminshoppe.com/sl/newyork-2"
+street: Broadway
+housenumber: "2086"
+phone: +1-212-580-7620
+opening_hours: Mo-Fr 08:00-21:00; Sa 10:00-19:00; Su 11:00-19:00
+website: https://www.vitaminshoppe.com/sl/newyork-2

@@ -1,11 +1,11 @@
 id: 59912332
-type: way
+type: node
 latitude: 42.81612
 longitude: -73.89365
 postcode: "12309"
 city: Schenectady
-street: "Nott Street"
-housenumber: 2227
+street: Nott Street
+housenumber: "2227"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 313183490
-type: way
+type: node
 latitude: 43.06128
 longitude: -76.08702
 postcode: "13206"
 city: Syracuse
-street: "Burnet Avenue"
-housenumber: 3451
+street: Burnet Avenue
+housenumber: "3451"
 phone: ""
 opening_hours: ""
-website: "https://www.billrappsubaru.com/"
+website: https://www.billrappsubaru.com/

@@ -1,11 +1,11 @@
 id: 140341910
-type: way
+type: node
 latitude: 42.79378
 longitude: -73.94511
 postcode: "12303"
 city: Schenectady
-street: "Crane Street"
-housenumber: 1305
+street: Crane Street
+housenumber: "1305"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 612139672
-type: way
+type: node
 latitude: 41.40273
 longitude: -74.32565
 postcode: "10924"
 city: Goshen
-street: "North Church Street"
-housenumber: 75
+street: North Church Street
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

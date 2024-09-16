@@ -1,11 +1,11 @@
 id: 88315655
-type: way
+type: node
 latitude: 42.69784
 longitude: -73.79157
 postcode: "12205"
 city: Albany
-street: "Sand Creek Road"
-housenumber: 219
-phone: "518-435-0653"
+street: Sand Creek Road
+housenumber: "219"
+phone: 518-435-0653
 opening_hours: ""
 website: ""

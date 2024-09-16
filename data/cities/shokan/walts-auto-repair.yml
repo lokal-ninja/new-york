@@ -1,11 +1,11 @@
 id: 840597329
-type: way
+type: node
 latitude: 41.97856
 longitude: -74.19012
 postcode: "12481"
 city: Shokan
-street: "Route 28"
-housenumber: 2902
+street: Route 28
+housenumber: "2902"
 phone: ""
 opening_hours: ""
 website: ""

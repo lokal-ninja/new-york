@@ -1,11 +1,11 @@
 id: 817688270
-type: way
+type: node
 latitude: 43.00328
 longitude: -73.84939
 postcode: "12020"
 city: Ballston Spa
-street: "Milton Avenue"
-housenumber: 75
+street: Milton Avenue
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

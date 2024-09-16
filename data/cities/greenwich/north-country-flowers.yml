@@ -1,11 +1,11 @@
 id: 393071934
-type: way
+type: node
 latitude: 43.08982
 longitude: -73.49919
 postcode: "12834"
 city: Greenwich
-street: "Main Street"
-housenumber: 94
+street: Main Street
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

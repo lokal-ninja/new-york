@@ -1,11 +1,11 @@
 id: 540569062
-type: way
+type: node
 latitude: 43.974
 longitude: -75.95623
 postcode: "13601"
 city: Watertown
-street: "State Route 3"
-housenumber: 20886
+street: State Route 3
+housenumber: "20886"
 phone: ""
 opening_hours: ""
 website: ""

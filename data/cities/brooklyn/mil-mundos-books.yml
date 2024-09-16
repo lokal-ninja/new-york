@@ -4,8 +4,8 @@ latitude: 40.69875
 longitude: -73.91432
 postcode: "11237"
 city: Brooklyn
-street: "Irving Avenue"
-housenumber: 308
+street: Irving Avenue
+housenumber: "308"
 phone: ""
-opening_hours: "Su 11:00-20:00; Tu-Sa 10:00-20:00"
-website: "https://milmundosbooks.com/"
+opening_hours: Su 11:00-20:00; Tu-Sa 10:00-20:00
+website: https://milmundosbooks.com/

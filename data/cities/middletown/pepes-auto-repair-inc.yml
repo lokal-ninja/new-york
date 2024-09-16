@@ -1,11 +1,11 @@
 id: 690351503
-type: way
+type: node
 latitude: 41.4538
 longitude: -74.40399
 postcode: "10940"
 city: Middletown
-street: "Wickham Avenue"
-housenumber: 233
-phone: "(845) 343-6349"
+street: Wickham Avenue
+housenumber: "233"
+phone: (845) 343-6349
 opening_hours: ""
-website: "http://pepesautorepair.com/"
+website: http://pepesautorepair.com/

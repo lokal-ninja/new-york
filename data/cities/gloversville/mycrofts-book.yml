@@ -1,11 +1,11 @@
 id: 966330154
-type: way
+type: node
 latitude: 43.04954
 longitude: -74.34698
 postcode: "12078"
 city: Gloversville
-street: "South Main Street"
-housenumber: 46
+street: South Main Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.biblio.com/bookstore/mycrofts-books-gloversville"
+website: https://www.biblio.com/bookstore/mycrofts-books-gloversville

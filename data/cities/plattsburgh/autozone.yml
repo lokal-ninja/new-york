@@ -1,11 +1,11 @@
 id: 755357979
-type: way
+type: node
 latitude: 44.69772
 longitude: -73.49415
 postcode: "12901"
 city: Plattsburgh
-street: "Smithfield Boulevard"
-housenumber: 17
+street: Smithfield Boulevard
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ny/plattsburgh/17-smithfield-blvd.html"
+website: https://www.autozone.com/locations/ny/plattsburgh/17-smithfield-blvd.html

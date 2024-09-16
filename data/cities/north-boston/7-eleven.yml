@@ -1,11 +1,11 @@
 id: 1046405284
-type: way
+type: node
 latitude: 42.68621
 longitude: -78.77655
 postcode: "14075"
 city: North Boston
-street: "Boston State Road"
-housenumber: 7185
-phone: "+1 716-648-9741"
+street: Boston State Road
+housenumber: "7185"
+phone: +1 716-648-9741
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/hamburg/7185-boston-state-rd-34666"
+website: https://www.7-eleven.com/locations/ny/hamburg/7185-boston-state-rd-34666

@@ -1,11 +1,11 @@
 id: 784956478
-type: way
+type: node
 latitude: 43.03311
 longitude: -77.4417
 postcode: "14564"
 city: Victor
-street: "Square Drive"
-housenumber: 60
-phone: "+1 585-223-9950"
+street: Square Drive
+housenumber: "60"
+phone: +1 585-223-9950
 opening_hours: ""
-website: "https://www.verizon.com/stores/details/new-york/victor/victor-1088002/?INTCMP=INT-LOS-NON-EN-MAKEAPPT-06212015-1LOS1-RE"
+website: https://www.verizon.com/stores/details/new-york/victor/victor-1088002/?INTCMP=INT-LOS-NON-EN-MAKEAPPT-06212015-1LOS1-RE

@@ -1,11 +1,11 @@
 id: 257816473
-type: way
+type: node
 latitude: 40.92833
 longitude: -72.69581
 postcode: "11901"
 city: Riverhead
-street: "Old Country Road"
-housenumber: 1510
-phone: "+1 631-369-6010"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.shoprite.com/sm/planning/rsid/819"
+street: Old Country Road
+housenumber: "1510"
+phone: +1 631-369-6010
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.shoprite.com/sm/planning/rsid/819

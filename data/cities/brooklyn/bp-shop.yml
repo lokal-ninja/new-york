@@ -1,11 +1,11 @@
 id: 248925636
-type: way
+type: node
 latitude: 40.61375
 longitude: -73.9959
 postcode: "11204"
 city: Brooklyn
-street: "Bay Ridge Parkway"
-housenumber: 1781
-phone: "+1-718-331-1128"
-opening_hours: "24/7"
+street: Bay Ridge Parkway
+housenumber: "1781"
+phone: +1-718-331-1128
+opening_hours: 24/7
 website: ""

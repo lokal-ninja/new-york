@@ -4,8 +4,8 @@ latitude: 40.77096
 longitude: -73.98184
 postcode: "10023"
 city: New York
-street: "Broadway"
-housenumber: 1890
+street: Broadway
+housenumber: "1890"
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.breadsbakery.com/"
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.breadsbakery.com/

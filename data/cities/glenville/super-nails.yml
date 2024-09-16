@@ -4,8 +4,8 @@ latitude: 42.86778
 longitude: -73.92985
 postcode: "12302"
 city: Glenville
-street: "Glenridge Road"
-housenumber: 10
-phone: "518-399-6666"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://supernail.net/"
+street: Glenridge Road
+housenumber: "10"
+phone: 518-399-6666
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
+website: https://supernail.net/

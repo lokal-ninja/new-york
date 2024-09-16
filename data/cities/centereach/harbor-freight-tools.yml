@@ -1,11 +1,11 @@
 id: 83521081
-type: way
+type: node
 latitude: 40.85739
 longitude: -73.07998
 postcode: "11720"
 city: Centereach
-street: "Middle Country Road"
-housenumber: 1932
-phone: "+1 631-585-2374"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1932-middle-country-road-centereach-11720?number=376"
+street: Middle Country Road
+housenumber: "1932"
+phone: +1 631-585-2374
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1932-middle-country-road-centereach-11720?number=376

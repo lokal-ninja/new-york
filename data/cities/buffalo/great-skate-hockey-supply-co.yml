@@ -1,11 +1,11 @@
 id: 900173591
-type: way
+type: node
 latitude: 42.97957
 longitude: -78.8068
 postcode: "14226"
 city: Buffalo
-street: "Sheridan Drive"
-housenumber: 3395
-phone: "1-800-828-7496"
-opening_hours: "Su 11:00-16:00, Mo-Fr 10:00-19:00, Sa 10:00-17:00"
-website: "https://www.greatskate.com/"
+street: Sheridan Drive
+housenumber: "3395"
+phone: 1-800-828-7496
+opening_hours: Su 11:00-16:00, Mo-Fr 10:00-19:00, Sa 10:00-17:00
+website: https://www.greatskate.com/

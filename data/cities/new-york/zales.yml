@@ -4,8 +4,8 @@ latitude: 40.7507
 longitude: -73.98265
 postcode: "10016"
 city: New York
-street: "5th Avenue"
-housenumber: 417
-phone: "+1-212-679-3626"
-opening_hours: "Mo-Fr 11:00-19:00; Su 12:00-18:00"
+street: 5th Avenue
+housenumber: "417"
+phone: +1-212-679-3626
+opening_hours: Mo-Fr 11:00-19:00; Su 12:00-18:00
 website: ""

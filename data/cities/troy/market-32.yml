@@ -1,11 +1,11 @@
 id: 884259720
-type: way
+type: node
 latitude: 42.69746
 longitude: -73.69144
 postcode: "12180"
 city: Troy
-street: "Vandenburgh Avenue"
-housenumber: 79
+street: Vandenburgh Avenue
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

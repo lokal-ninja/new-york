@@ -4,8 +4,8 @@ latitude: 42.10678
 longitude: -76.02282
 postcode: "13760"
 city: Endicott
-street: "East Main Street"
-housenumber: 3215
-phone: "+1 607 296 0748"
+street: East Main Street
+housenumber: "3215"
+phone: +1 607 296 0748
 opening_hours: ""
-website: "https://www.thecalmcenter.com/"
+website: https://www.thecalmcenter.com/

@@ -1,11 +1,11 @@
 id: 833338478
-type: way
+type: node
 latitude: 43.30636
 longitude: -76.39477
 postcode: "13069"
 city: Fulton
-street: "South 1st Street"
-housenumber: 947
+street: South 1st Street
+housenumber: "947"
 phone: ""
 opening_hours: ""
 website: ""

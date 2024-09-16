@@ -4,8 +4,8 @@ latitude: 43.08027
 longitude: -73.78552
 postcode: "12866"
 city: Saratoga Springs
-street: "Broadway"
-housenumber: 358
-phone: "+1 518 226 0268"
-opening_hours: "Mo-Sa 10:00-20:00,Su 11:00-18:00"
-website: "https://www.josbank.com/store-locator/saratoga-springs-ny-782"
+street: Broadway
+housenumber: "358"
+phone: +1 518 226 0268
+opening_hours: Mo-Sa 10:00-20:00,Su 11:00-18:00
+website: https://www.josbank.com/store-locator/saratoga-springs-ny-782

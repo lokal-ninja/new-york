@@ -1,11 +1,11 @@
 id: 1213903443
-type: way
+type: node
 latitude: 42.94236
 longitude: -78.71611
 postcode: "14225"
 city: Buffalo
-street: "Aero Drive"
-housenumber: 700
+street: Aero Drive
+housenumber: "700"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

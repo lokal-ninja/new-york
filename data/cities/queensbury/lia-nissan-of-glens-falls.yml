@@ -1,11 +1,11 @@
 id: 694621271
-type: way
+type: node
 latitude: 43.31533
 longitude: -73.60931
 postcode: "12804"
 city: Queensbury
-street: "Dix Avenue"
-housenumber: 373
+street: Dix Avenue
+housenumber: "373"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1009851089
-type: way
+type: node
 latitude: 42.95138
 longitude: -78.86943
 postcode: "14216"
 city: Buffalo
-street: "Delaware Avenue"
-housenumber: 2458
-phone: "+1 716-873-4478"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ny/buffalo/2458-delaware-35162"
+street: Delaware Avenue
+housenumber: "2458"
+phone: +1 716-873-4478
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ny/buffalo/2458-delaware-35162

@@ -1,11 +1,11 @@
 id: 1023717723
-type: way
+type: node
 latitude: 42.98439
 longitude: -76.14395
 postcode: "13205"
 city: Syracuse
-street: "South Salina Street"
-housenumber: 5942
+street: South Salina Street
+housenumber: "5942"
 phone: ""
 opening_hours: ""
 website: ""

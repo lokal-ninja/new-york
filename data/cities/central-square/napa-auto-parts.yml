@@ -1,11 +1,11 @@
 id: 200193567
-type: way
+type: node
 latitude: 43.28767
 longitude: -76.1301
 postcode: "13036"
 city: Central Square
-street: "East Avenue"
-housenumber: 3034
+street: East Avenue
+housenumber: "3034"
 phone: ""
 opening_hours: ""
 website: ""

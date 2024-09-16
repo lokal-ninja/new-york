@@ -1,11 +1,11 @@
 id: 541795847
-type: way
+type: node
 latitude: 40.63902
 longitude: -73.70182
 postcode: "11557"
 city: Hewlett
-street: "West Broadway"
-housenumber: 1280
-phone: "+1 516-569-7191"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ny/hewlett/554/"
+street: West Broadway
+housenumber: "1280"
+phone: +1 516-569-7191
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ny/hewlett/554/

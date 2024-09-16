@@ -4,8 +4,8 @@ latitude: 42.68712
 longitude: -73.85861
 postcode: "12203"
 city: Albany
-street: "Western Avenue"
-housenumber: 1704
-phone: "+1-518-456-8822"
+street: Western Avenue
+housenumber: "1704"
+phone: +1-518-456-8822
 opening_hours: ""
-website: "https://aniahairstudio.com/"
+website: https://aniahairstudio.com/

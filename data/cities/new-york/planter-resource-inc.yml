@@ -4,8 +4,8 @@ latitude: 40.74685
 longitude: -73.99275
 postcode: "10001"
 city: New York
-street: "West 28th Street"
-housenumber: 150
-phone: "+1-212-206-7687"
-opening_hours: "Mo 07:00-15:00; Tu-Fr 06:00-15:00; Sa 07:30-14:00"
-website: "https://planterresource.com"
+street: West 28th Street
+housenumber: "150"
+phone: +1-212-206-7687
+opening_hours: Mo 07:00-15:00; Tu-Fr 06:00-15:00; Sa 07:30-14:00
+website: https://planterresource.com

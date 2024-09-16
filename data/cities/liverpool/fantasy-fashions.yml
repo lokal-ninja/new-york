@@ -1,11 +1,11 @@
 id: 587051775
-type: way
+type: node
 latitude: 43.10427
 longitude: -76.20865
 postcode: "13088"
 city: Liverpool
-street: "3rd Street"
-housenumber: 103
-phone: "+1-315-457-7660"
+street: 3rd Street
+housenumber: "103"
+phone: +1-315-457-7660
 opening_hours: ""
 website: ""

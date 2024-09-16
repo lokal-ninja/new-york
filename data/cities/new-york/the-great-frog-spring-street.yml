@@ -4,8 +4,8 @@ latitude: 40.7246
 longitude: -74.00226
 postcode: "10012"
 city: New York
-street: "Spring Street"
-housenumber: 172
-phone: "+1-646-370-5727"
-opening_hours: "11:00-19:00"
-website: "https://www.thegreatfroglondon.com/information/#nyc-store"
+street: Spring Street
+housenumber: "172"
+phone: +1-646-370-5727
+opening_hours: 11:00-19:00
+website: https://www.thegreatfroglondon.com/information/#nyc-store

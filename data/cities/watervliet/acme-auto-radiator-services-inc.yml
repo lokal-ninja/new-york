@@ -1,11 +1,11 @@
 id: 878064949
-type: way
+type: node
 latitude: 42.731
 longitude: -73.70419
 postcode: "12189"
 city: Watervliet
-street: "19th Street"
-housenumber: 411
-phone: "+1 518 2736061"
+street: 19th Street
+housenumber: "411"
+phone: +1 518 2736061
 opening_hours: ""
-website: "https://www.acmeautoradiatorservice.com/"
+website: https://www.acmeautoradiatorservice.com/

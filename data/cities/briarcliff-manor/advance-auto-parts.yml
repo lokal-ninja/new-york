@@ -1,11 +1,11 @@
 id: 550987331
-type: way
+type: node
 latitude: 41.14445
 longitude: -73.86093
 postcode: "10510"
 city: Briarcliff Manor
-street: "South Highland Avenue"
-housenumber: 231
+street: South Highland Avenue
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

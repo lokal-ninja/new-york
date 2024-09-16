@@ -1,11 +1,11 @@
 id: 94509284
-type: way
+type: node
 latitude: 41.5015
 longitude: -74.06272
 postcode: "12550"
 city: Newburgh
-street: "Auto Park Place"
-housenumber: 600
+street: Auto Park Place
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

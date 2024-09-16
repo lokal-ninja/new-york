@@ -4,8 +4,8 @@ latitude: 40.7187
 longitude: -74.00009
 postcode: "10013"
 city: New York
-street: "Lafayette Street"
-housenumber: 123
-phone: "+1 (212) 256-0781"
-opening_hours: "Mo-Fr 12:00-20:00; Sa 11:00-19:00; Su 11:00-18:00"
-website: "https://www.glossier.com/"
+street: Lafayette Street
+housenumber: "123"
+phone: +1 (212) 256-0781
+opening_hours: Mo-Fr 12:00-20:00; Sa 11:00-19:00; Su 11:00-18:00
+website: https://www.glossier.com/

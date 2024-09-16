@@ -1,11 +1,11 @@
 id: 361651334
-type: way
+type: node
 latitude: 43.14131
 longitude: -76.18668
 postcode: "13088"
 city: Liverpool
-street: "Buckley Road"
-housenumber: 4744
+street: Buckley Road
+housenumber: "4744"
 phone: ""
 opening_hours: ""
 website: ""

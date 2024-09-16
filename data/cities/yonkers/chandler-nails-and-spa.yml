@@ -4,8 +4,8 @@ latitude: 40.94678
 longitude: -73.88647
 postcode: "10703"
 city: Yonkers
-street: "Lake Avenue"
-housenumber: 136
-phone: "+1-914-964-5507"
-opening_hours: "Tu,We 10:00-19:00; Th,Fr 10:00-19:30; Sa 09:30-19:00; Su 10:00-18:00"
+street: Lake Avenue
+housenumber: "136"
+phone: +1-914-964-5507
+opening_hours: Tu,We 10:00-19:00; Th,Fr 10:00-19:30; Sa 09:30-19:00; Su 10:00-18:00
 website: ""

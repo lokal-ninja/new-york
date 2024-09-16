@@ -1,11 +1,11 @@
 id: 141294797
-type: way
+type: node
 latitude: 42.86407
 longitude: -73.78237
 postcode: "12065"
 city: Clifton Park
-street: "Park Avenue"
-housenumber: 24
+street: Park Avenue
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

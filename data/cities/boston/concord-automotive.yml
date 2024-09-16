@@ -1,11 +1,11 @@
 id: 832802606
-type: way
+type: node
 latitude: 42.60598
 longitude: -78.72124
 postcode: "14025"
 city: Boston
-street: "Springville Boston Road"
-housenumber: 10096
+street: Springville Boston Road
+housenumber: "10096"
 phone: ""
 opening_hours: ""
 website: ""

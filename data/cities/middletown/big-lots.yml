@@ -4,8 +4,8 @@ latitude: 41.45423
 longitude: -74.38794
 postcode: "10940"
 city: Middletown
-street: "Route 211 East"
-housenumber: 400
-phone: "+1 845-341-0023"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ny/middletown/400-route-211-e"
+street: Route 211 East
+housenumber: "400"
+phone: +1 845-341-0023
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ny/middletown/400-route-211-e

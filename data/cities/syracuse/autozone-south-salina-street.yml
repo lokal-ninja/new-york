@@ -1,11 +1,11 @@
 id: 268756098
-type: way
+type: node
 latitude: 43.0095
 longitude: -76.14307
 postcode: "13205"
 city: Syracuse
-street: "South Salina Street"
-housenumber: 4004
+street: South Salina Street
+housenumber: "4004"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-19:00"
-website: "https://www.autozone.com/locations/ny/syracuse/4004-s-salina-st.html"
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-19:00
+website: https://www.autozone.com/locations/ny/syracuse/4004-s-salina-st.html

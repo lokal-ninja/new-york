@@ -1,11 +1,11 @@
 id: 1015870611
-type: way
+type: node
 latitude: 41.60485
 longitude: -74.2973
 postcode: "12566"
 city: Pine Bush
-street: "Ted Drive"
-housenumber: 31
-phone: "+1 845-744-2113"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.hannaford.com/ny/pine-bush/8344"
+street: Ted Drive
+housenumber: "31"
+phone: +1 845-744-2113
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.hannaford.com/ny/pine-bush/8344

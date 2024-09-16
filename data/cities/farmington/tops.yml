@@ -1,11 +1,11 @@
 id: 88260327
-type: way
+type: node
 latitude: 42.97322
 longitude: -77.36242
 postcode: "14425"
 city: Farmington
-street: "State Route 96"
-housenumber: 6179
+street: State Route 96
+housenumber: "6179"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

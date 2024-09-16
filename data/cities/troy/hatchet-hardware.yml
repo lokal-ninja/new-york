@@ -4,8 +4,8 @@ latitude: 42.72996
 longitude: -73.69076
 postcode: "12180"
 city: Troy
-street: "3rd Street"
-housenumber: 63
-phone: "+1 518-687-0014"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00"
+street: 3rd Street
+housenumber: "63"
+phone: +1 518-687-0014
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00
 website: ""

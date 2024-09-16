@@ -1,11 +1,11 @@
 id: 418084075
-type: way
+type: node
 latitude: 42.9523
 longitude: -78.87911
 postcode: "14207"
 city: Buffalo
-street: "Elmwood Avenue"
-housenumber: 1996
+street: Elmwood Avenue
+housenumber: "1996"
 phone: ""
 opening_hours: ""
 website: ""

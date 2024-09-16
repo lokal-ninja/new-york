@@ -1,11 +1,11 @@
 id: 739555590
-type: way
+type: node
 latitude: 40.66578
 longitude: -73.60695
 postcode: "11510"
 city: Baldwin
-street: "Grand Avenue"
-housenumber: 1849
+street: Grand Avenue
+housenumber: "1849"
 phone: ""
 opening_hours: ""
 website: ""

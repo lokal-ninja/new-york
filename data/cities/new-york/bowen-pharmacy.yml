@@ -4,8 +4,8 @@ latitude: 40.76762
 longitude: -73.98943
 postcode: "10019"
 city: New York
-street: "10th Avenue"
-housenumber: 826
+street: 10th Avenue
+housenumber: "826"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00
 website: ""

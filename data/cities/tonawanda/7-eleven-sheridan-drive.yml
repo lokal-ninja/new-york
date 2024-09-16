@@ -1,11 +1,11 @@
 id: 238990572
-type: way
+type: node
 latitude: 42.97803
 longitude: -78.9049
 postcode: "14150"
 city: Tonawanda
-street: "Sheridan Drive"
-housenumber: 749
-phone: "+1 716-392-2008"
+street: Sheridan Drive
+housenumber: "749"
+phone: +1 716-392-2008
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/tonawanda/749-sheridan-ave-11270"
+website: https://www.7-eleven.com/locations/ny/tonawanda/749-sheridan-ave-11270

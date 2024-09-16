@@ -1,11 +1,11 @@
 id: 1092245092
-type: way
+type: node
 latitude: 41.10336
 longitude: -74.02069
 postcode: "10954"
 city: Nanuet
-street: "Hutton Avenue"
-housenumber: 43
-phone: "+1-845-627-2038"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/Nanuet/NY/Nanuet/10954/1261"
+street: Hutton Avenue
+housenumber: "43"
+phone: +1-845-627-2038
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/Nanuet/NY/Nanuet/10954/1261

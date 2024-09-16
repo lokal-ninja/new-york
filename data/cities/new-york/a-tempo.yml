@@ -4,8 +4,8 @@ latitude: 40.7789
 longitude: -73.97792
 postcode: "10023"
 city: New York
-street: "Columbus Avenue"
-housenumber: 300
-phone: "+1 212-769-0368"
-opening_hours: "Mo-Sa 11:30-18:30; Su 12:00-18:00"
-website: "https://www.atemponewyork.com/"
+street: Columbus Avenue
+housenumber: "300"
+phone: +1 212-769-0368
+opening_hours: Mo-Sa 11:30-18:30; Su 12:00-18:00
+website: https://www.atemponewyork.com/

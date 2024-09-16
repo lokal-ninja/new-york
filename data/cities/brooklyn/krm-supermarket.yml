@@ -1,11 +1,11 @@
 id: 249611204
-type: way
+type: node
 latitude: 40.6404
 longitude: -73.98513
 postcode: "11218"
 city: Brooklyn
-street: "39th Street"
-housenumber: 1325
+street: 39th Street
+housenumber: "1325"
 phone: ""
 opening_hours: ""
 website: ""

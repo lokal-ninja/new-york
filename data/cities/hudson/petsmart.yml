@@ -4,8 +4,8 @@ latitude: 42.27985
 longitude: -73.75472
 postcode: "12534"
 city: Hudson
-street: "Fairview Avenue"
-housenumber: 450
-phone: "+1 518-828-2963"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ny/hudson-store2238.html"
+street: Fairview Avenue
+housenumber: "450"
+phone: +1 518-828-2963
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ny/hudson-store2238.html

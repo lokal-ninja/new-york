@@ -1,11 +1,11 @@
 id: 438894207
-type: way
+type: node
 latitude: 40.86151
 longitude: -73.62215
 postcode: "11542"
 city: Glen Cove
-street: "Glen Street"
-housenumber: 219
+street: Glen Street
+housenumber: "219"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

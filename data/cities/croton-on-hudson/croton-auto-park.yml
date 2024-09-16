@@ -1,11 +1,11 @@
 id: 60082525
-type: way
+type: node
 latitude: 41.2024
 longitude: -73.88706
 postcode: "10520"
 city: Croton-on-Hudson
-street: "Municipal Place"
-housenumber: 1
-phone: "(877) 451-4917"
+street: Municipal Place
+housenumber: "1"
+phone: (877) 451-4917
 opening_hours: ""
-website: "https://www.crotonautopark.com/"
+website: https://www.crotonautopark.com/

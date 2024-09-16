@@ -4,8 +4,8 @@ latitude: 40.76353
 longitude: -73.92211
 postcode: "11102"
 city: Astoria
-street: "30th Avenue"
-housenumber: 3224
-phone: "718-932-9876"
-opening_hours: "24/7"
-website: "https://www.unitedbrothersfruitmarkets.com/"
+street: 30th Avenue
+housenumber: "3224"
+phone: 718-932-9876
+opening_hours: 24/7
+website: https://www.unitedbrothersfruitmarkets.com/

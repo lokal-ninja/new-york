@@ -1,11 +1,11 @@
 id: 1252123735
-type: way
+type: node
 latitude: 40.71381
 longitude: -73.99452
 postcode: "10002"
 city: New York
-street: "East Broadway"
-housenumber: 88
+street: East Broadway
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

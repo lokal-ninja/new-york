@@ -1,11 +1,11 @@
 id: 545598535
-type: way
+type: node
 latitude: 41.44623
 longitude: -74.41611
 postcode: "10940"
 city: Middletown
-street: "Montgomery Street"
-housenumber: 3
+street: Montgomery Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

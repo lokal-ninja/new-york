@@ -1,11 +1,11 @@
 id: 1096290147
-type: way
+type: node
 latitude: 41.37576
 longitude: -74.69246
 postcode: "12771"
 city: Port Jervis
-street: "Pike Street"
-housenumber: 128
+street: Pike Street
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

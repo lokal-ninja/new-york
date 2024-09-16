@@ -4,8 +4,8 @@ latitude: 42.4284
 longitude: -76.51023
 postcode: "14850"
 city: Ithaca
-street: "South Meadow Street"
-housenumber: 744
-phone: "+1 607-257-2361"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/ithaca-ny-1503"
+street: South Meadow Street
+housenumber: "744"
+phone: +1 607-257-2361
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/ithaca-ny-1503

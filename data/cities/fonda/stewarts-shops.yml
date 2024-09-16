@@ -1,11 +1,11 @@
 id: 346477688
-type: way
+type: node
 latitude: 42.95466
 longitude: -74.37797
 postcode: "12068"
 city: Fonda
-street: "West Main Street"
-housenumber: 42
+street: West Main Street
+housenumber: "42"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

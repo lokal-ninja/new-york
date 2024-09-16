@@ -4,8 +4,8 @@ latitude: 40.77497
 longitude: -73.98035
 postcode: "10023"
 city: New York
-street: "Columbus Avenue"
-housenumber: 185
-phone: "+1 646-867-2947"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.warbyparker.com/"
+street: Columbus Avenue
+housenumber: "185"
+phone: +1 646-867-2947
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.warbyparker.com/

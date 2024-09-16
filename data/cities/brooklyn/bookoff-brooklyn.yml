@@ -4,8 +4,8 @@ latitude: 40.65601
 longitude: -74.00663
 postcode: "11232"
 city: Brooklyn
-street: "3rd Avenue"
-housenumber: 934
+street: 3rd Avenue
+housenumber: "934"
 phone: ""
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://industrycity.com/visit/shop/book-off/"
+opening_hours: Mo-Su 11:00-19:00
+website: https://industrycity.com/visit/shop/book-off/

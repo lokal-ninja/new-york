@@ -1,11 +1,11 @@
 id: 1086521445
-type: way
+type: node
 latitude: 42.76741
 longitude: -78.62818
 postcode: "14052"
 city: East Aurora
-street: "Main Street"
-housenumber: 179
+street: Main Street
+housenumber: "179"
 phone: ""
 opening_hours: ""
 website: ""

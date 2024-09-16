@@ -1,11 +1,11 @@
 id: 1212615676
-type: way
+type: node
 latitude: 42.95363
 longitude: -78.86866
 postcode: "14216"
 city: Buffalo
-street: "Delaware Avenue"
-housenumber: 2543
+street: Delaware Avenue
+housenumber: "2543"
 phone: ""
 opening_hours: ""
 website: ""

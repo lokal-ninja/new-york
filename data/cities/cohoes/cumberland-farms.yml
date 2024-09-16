@@ -1,11 +1,11 @@
 id: 903542241
-type: way
+type: node
 latitude: 42.78271
 longitude: -73.74428
 postcode: "12047"
 city: Cohoes
-street: "Loudon Road"
-housenumber: 1093
+street: Loudon Road
+housenumber: "1093"
 phone: ""
 opening_hours: ""
 website: ""

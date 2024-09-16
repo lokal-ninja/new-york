@@ -4,8 +4,8 @@ latitude: 42.46922
 longitude: -76.40868
 postcode: "14850"
 city: Ithaca
-street: "Hall Road"
-housenumber: 4
-phone: "+1-607-227-6569"
-opening_hours: "Mo,We,Fr 10:00-17:00; Sa 10:00-14:00"
-website: "http://terrapintileithaca.com/"
+street: Hall Road
+housenumber: "4"
+phone: +1-607-227-6569
+opening_hours: Mo,We,Fr 10:00-17:00; Sa 10:00-14:00
+website: http://terrapintileithaca.com/

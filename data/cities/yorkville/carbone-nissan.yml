@@ -1,11 +1,11 @@
 id: 882362373
-type: way
+type: node
 latitude: 43.1041
 longitude: -75.29919
 postcode: "13495"
 city: Yorkville
-street: "Commercial Drive"
-housenumber: 1967
-phone: "(315) 864-7500"
+street: Commercial Drive
+housenumber: "1967"
+phone: (315) 864-7500
 opening_hours: ""
-website: "https://www.carbonenissanyorkville.com/"
+website: https://www.carbonenissanyorkville.com/

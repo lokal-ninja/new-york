@@ -3,9 +3,9 @@ type: node
 latitude: 42.73078
 longitude: -73.69385
 postcode: "12180"
-city: troy
-street: "River Street"
-housenumber: 199
+city: Troy
+street: River Street
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

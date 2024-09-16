@@ -1,11 +1,11 @@
 id: 273253488
-type: way
+type: node
 latitude: 43.12529
 longitude: -77.59263
 postcode: "14620"
 city: Rochester
-street: "Elmwood Avenue"
-housenumber: 1677
+street: Elmwood Avenue
+housenumber: "1677"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Brighton/1677-ELMWOOD-AVE"
+website: https://www.speedway.com/locations/NY/Brighton/1677-ELMWOOD-AVE

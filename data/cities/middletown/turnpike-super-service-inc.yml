@@ -1,11 +1,11 @@
 id: 550188424
-type: way
+type: node
 latitude: 41.4663
 longitude: -74.41373
 postcode: "10940"
 city: Middletown
-street: "Route 17M"
-housenumber: 495
-phone: "(845) 343-2224"
+street: Route 17M
+housenumber: "495"
+phone: (845) 343-2224
 opening_hours: ""
 website: ""

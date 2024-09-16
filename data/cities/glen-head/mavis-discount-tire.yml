@@ -1,11 +1,11 @@
 id: 614293879
-type: way
+type: node
 latitude: 40.83778
 longitude: -73.61539
 postcode: "11545"
 city: Glen Head
-street: "Glen Cove Road"
-housenumber: 677
+street: Glen Cove Road
+housenumber: "677"
 phone: ""
 opening_hours: ""
 website: ""

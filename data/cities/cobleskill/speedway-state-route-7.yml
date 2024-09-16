@@ -1,11 +1,11 @@
 id: 1022447106
-type: way
+type: node
 latitude: 42.66804
 longitude: -74.50332
 postcode: "12043"
 city: Cobleskill
-street: "State Route 7"
-housenumber: 1723
+street: State Route 7
+housenumber: "1723"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Cobleskill/1723-STATE-ROUTE-7"
+website: https://www.speedway.com/locations/NY/Cobleskill/1723-STATE-ROUTE-7

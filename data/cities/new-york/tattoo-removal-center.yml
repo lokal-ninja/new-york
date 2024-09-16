@@ -4,8 +4,8 @@ latitude: 40.74801
 longitude: -73.98459
 postcode: "10016"
 city: New York
-street: "5th Avenue"
-housenumber: 347
-phone: "+1 212-358-7500"
+street: 5th Avenue
+housenumber: "347"
+phone: +1 212-358-7500
 opening_hours: ""
-website: "tattooremovalcenter.com"
+website: tattooremovalcenter.com

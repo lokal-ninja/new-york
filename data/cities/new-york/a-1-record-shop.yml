@@ -4,8 +4,8 @@ latitude: 40.72579
 longitude: -73.98446
 postcode: "10003"
 city: New York
-street: "East 6th Street"
-housenumber: 439
+street: East 6th Street
+housenumber: "439"
 phone: "2126770675"
-opening_hours: "Mo-Su 12:00-20:00"
+opening_hours: Mo-Su 12:00-20:00
 website: ""

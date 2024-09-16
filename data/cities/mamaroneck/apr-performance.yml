@@ -1,11 +1,11 @@
 id: 850560612
-type: way
+type: node
 latitude: 40.95959
 longitude: -73.73879
 postcode: "10543"
 city: Mamaroneck
-street: "Gertrude Avenue"
-housenumber: 125
+street: Gertrude Avenue
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.71402
 longitude: -73.99212
 postcode: "10002"
 city: New York
-street: "East Broadway"
-housenumber: 124
-phone: "+1-646-669-8990"
-opening_hours: "Mo-Su 09:00-22:00"
+street: East Broadway
+housenumber: "124"
+phone: +1-646-669-8990
+opening_hours: Mo-Su 09:00-22:00
 website: ""

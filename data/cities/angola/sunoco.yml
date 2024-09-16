@@ -1,11 +1,11 @@
 id: 320092757
-type: way
+type: node
 latitude: 42.63581
 longitude: -78.98738
 postcode: "14006"
 city: Angola
-street: "New York State Thruway"
-housenumber: 447
+street: New York State Thruway
+housenumber: "447"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 613239314
-type: way
+type: node
 latitude: 40.78664
 longitude: -73.73029
 postcode: "11021"
 city: Great Neck
-street: "Cuttermill Road"
-housenumber: 43
+street: Cuttermill Road
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

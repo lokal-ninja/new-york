@@ -1,11 +1,11 @@
 id: 600466234
-type: way
+type: node
 latitude: 42.0773
 longitude: -78.46677
 postcode: "14760"
 city: Olean
-street: "West State Street"
-housenumber: 3138
+street: West State Street
+housenumber: "3138"
 phone: ""
 opening_hours: ""
 website: ""

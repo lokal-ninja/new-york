@@ -1,11 +1,11 @@
 id: 445907105
-type: way
+type: node
 latitude: 42.1508
 longitude: -75.89922
 postcode: "13905"
 city: Binghamton
-street: "Upper Front Street"
-housenumber: 1149
-phone: "+1 866-465-1049"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/ny/chenango-bridge/1149-upper-front-street"
+street: Upper Front Street
+housenumber: "1149"
+phone: +1 866-465-1049
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/ny/chenango-bridge/1149-upper-front-street

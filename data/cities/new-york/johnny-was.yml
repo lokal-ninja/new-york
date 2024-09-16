@@ -4,8 +4,8 @@ latitude: 40.77793
 longitude: -73.97864
 postcode: "10023"
 city: New York
-street: "Columbus Avenue"
-housenumber: 270
+street: Columbus Avenue
+housenumber: "270"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa 11:00-19:00; Su 12:00-19:00"
+opening_hours: Mo-Fr 11:00-20:00; Sa 11:00-19:00; Su 12:00-19:00
 website: ""

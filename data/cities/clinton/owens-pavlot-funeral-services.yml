@@ -1,11 +1,11 @@
 id: 626925106
-type: way
+type: node
 latitude: 43.04776
 longitude: -75.38012
 postcode: "13323"
 city: Clinton
-street: "College Street"
-housenumber: 35
-phone: "+1-315-853-5746"
+street: College Street
+housenumber: "35"
+phone: +1-315-853-5746
 opening_hours: ""
 website: ""

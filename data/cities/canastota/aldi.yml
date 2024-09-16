@@ -1,11 +1,11 @@
 id: 164465264
-type: way
+type: node
 latitude: 43.06844
 longitude: -75.75525
-postcode: "13032-4930"
+postcode: 13032-4930
 city: Canastota
-street: "Seneca Turnpike"
-housenumber: 3348
-phone: "+1 877-465-1034"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/canastota/3348-seneca-turnpike"
+street: Seneca Turnpike
+housenumber: "3348"
+phone: +1 877-465-1034
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/canastota/3348-seneca-turnpike

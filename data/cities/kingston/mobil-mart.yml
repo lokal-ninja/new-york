@@ -1,11 +1,11 @@
 id: 264348987
-type: way
+type: node
 latitude: 41.92948
 longitude: -74.00575
 postcode: "12401"
 city: Kingston
-street: "Broadway"
-housenumber: 625
-phone: "+1-845-338-2895"
-opening_hours: "Su-Th 06:00-24:00; Fr-Sa 06:00-01:00"
-website: "https://www.exxon.com"
+street: Broadway
+housenumber: "625"
+phone: +1-845-338-2895
+opening_hours: Su-Th 06:00-24:00; Fr-Sa 06:00-01:00
+website: https://www.exxon.com

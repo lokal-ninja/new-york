@@ -1,11 +1,11 @@
 id: 832801519
-type: way
+type: node
 latitude: 42.63895
 longitude: -78.73974
 postcode: "14025"
 city: Boston
-street: "Boston State Road"
-housenumber: 9000
+street: Boston State Road
+housenumber: "9000"
 phone: ""
 opening_hours: ""
 website: ""

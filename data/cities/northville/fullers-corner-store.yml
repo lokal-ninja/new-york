@@ -1,11 +1,11 @@
 id: 238275194
-type: way
+type: node
 latitude: 43.21749
 longitude: -74.10371
 postcode: "12134"
 city: Northville
-street: "Northville Road"
-housenumber: 72
+street: Northville Road
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

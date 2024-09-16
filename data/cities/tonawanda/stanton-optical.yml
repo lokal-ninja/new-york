@@ -1,11 +1,11 @@
 id: 1064440660
-type: way
+type: node
 latitude: 42.98052
 longitude: -78.82362
 postcode: "14150"
 city: Tonawanda
-street: "Sheridan Drive"
-housenumber: 2965
+street: Sheridan Drive
+housenumber: "2965"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 335724102
-type: way
+type: node
 latitude: 42.53086
 longitude: -78.47812
 postcode: "14030"
 city: Chaffee
-street: "State Route 39"
-housenumber: 3242
+street: State Route 39
+housenumber: "3242"
 phone: ""
 opening_hours: ""
 website: ""

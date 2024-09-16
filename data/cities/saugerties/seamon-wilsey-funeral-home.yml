@@ -1,11 +1,11 @@
 id: 264468830
-type: way
+type: node
 latitude: 42.08007
 longitude: -73.95174
 postcode: "12477"
 city: Saugerties
-street: "John Street"
-housenumber: 45
+street: John Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

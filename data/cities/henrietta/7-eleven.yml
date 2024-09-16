@@ -1,11 +1,11 @@
 id: 133786199
-type: way
+type: node
 latitude: 43.05899
 longitude: -77.61193
 postcode: "14467"
 city: Henrietta
-street: "East Henrietta Road"
-housenumber: 3100
-phone: "+1 585-353-1398"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ny/henrietta/3100-e-henrietta-rd-11279"
+street: East Henrietta Road
+housenumber: "3100"
+phone: +1 585-353-1398
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ny/henrietta/3100-e-henrietta-rd-11279

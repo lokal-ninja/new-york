@@ -1,11 +1,11 @@
 id: 779415299
-type: way
+type: node
 latitude: 40.77716
 longitude: -73.65087
 postcode: "11577"
 city: Roslyn Heights
-street: "Willis Avenue"
-housenumber: 1181
+street: Willis Avenue
+housenumber: "1181"
 phone: ""
 opening_hours: ""
 website: ""

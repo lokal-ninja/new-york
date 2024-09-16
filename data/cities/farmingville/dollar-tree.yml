@@ -1,11 +1,11 @@
 id: 470826419
-type: way
+type: node
 latitude: 40.83658
 longitude: -73.05119
 postcode: "11738"
 city: Farmingville
-street: "Horseblock Road"
-housenumber: 326
+street: Horseblock Road
+housenumber: "326"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/ny/farmingville/7081/"
+website: https://www.dollartree.com/locations/ny/farmingville/7081/

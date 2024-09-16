@@ -1,11 +1,11 @@
 id: 828511171
-type: way
+type: node
 latitude: 42.69267
 longitude: -73.87496
 postcode: "12203"
 city: Albany
-street: "Western Avenue"
-housenumber: 1874
-phone: "+1 518-456-7383"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: Western Avenue
+housenumber: "1874"
+phone: +1 518-456-7383
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

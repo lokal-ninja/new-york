@@ -1,11 +1,11 @@
 id: 1091790236
-type: way
+type: node
 latitude: 42.08599
 longitude: -76.05156
 postcode: "13850"
 city: Vestal
-street: "Vestal Parkway East"
-housenumber: 140
+street: Vestal Parkway East
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

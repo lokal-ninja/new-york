@@ -4,8 +4,8 @@ latitude: 43.05343
 longitude: -76.10231
 postcode: "13224"
 city: Syracuse
-street: "Erie Boulevard East"
-housenumber: 2540
-phone: "315 446 6816"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.syracusebicycle.com/"
+street: Erie Boulevard East
+housenumber: "2540"
+phone: 315 446 6816
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.syracusebicycle.com/

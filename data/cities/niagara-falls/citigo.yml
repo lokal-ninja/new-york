@@ -1,11 +1,11 @@
 id: 832728633
-type: way
+type: node
 latitude: 43.09499
 longitude: -79.05655
 postcode: "14301"
 city: Niagara Falls
-street: "Main Street"
-housenumber: 700
+street: Main Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

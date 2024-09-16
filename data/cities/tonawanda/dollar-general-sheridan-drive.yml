@@ -1,11 +1,11 @@
 id: 951275125
-type: way
+type: node
 latitude: 42.98042
 longitude: -78.89366
 postcode: "14150"
 city: Tonawanda
-street: "Sheridan Drive"
-housenumber: 1107
+street: Sheridan Drive
+housenumber: "1107"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ny/tonawanda/21543"
+website: https://www.dollargeneral.com/store-directory/ny/tonawanda/21543

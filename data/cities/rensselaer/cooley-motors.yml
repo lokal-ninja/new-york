@@ -1,11 +1,11 @@
 id: 89529131
-type: way
+type: node
 latitude: 42.66612
 longitude: -73.69115
-postcode: "12144-9435"
+postcode: 12144-9435
 city: Rensselaer
-street: "North Greenbush Road"
-housenumber: 401
-phone: "+1-518-283-2902"
+street: North Greenbush Road
+housenumber: "401"
+phone: +1-518-283-2902
 opening_hours: ""
-website: "https://www.cooleyvw.com/"
+website: https://www.cooleyvw.com/

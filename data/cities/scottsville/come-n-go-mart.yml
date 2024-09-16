@@ -1,11 +1,11 @@
 id: 319346764
-type: way
+type: node
 latitude: 43.02791
 longitude: -77.74398
 postcode: "14546"
 city: Scottsville
-street: "Rochester Street"
-housenumber: 69
+street: Rochester Street
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

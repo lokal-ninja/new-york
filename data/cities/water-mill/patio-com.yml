@@ -1,11 +1,11 @@
 id: 473177978
-type: way
+type: node
 latitude: 40.89861
 longitude: -72.37206
 postcode: "11976"
 city: Water Mill
-street: "Montauk Highway"
-housenumber: 1
+street: Montauk Highway
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

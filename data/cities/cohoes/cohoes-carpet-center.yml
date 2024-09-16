@@ -1,11 +1,11 @@
 id: 1007187725
-type: way
+type: node
 latitude: 42.77128
 longitude: -73.7005
 postcode: "12047"
 city: Cohoes
-street: "Remsen Street"
-housenumber: 205
+street: Remsen Street
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

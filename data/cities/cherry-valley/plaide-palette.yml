@@ -1,11 +1,11 @@
 id: 1176087855
-type: way
+type: node
 latitude: 42.7976
 longitude: -74.75161
 postcode: "13320"
 city: Cherry Valley
-street: "Main Street"
-housenumber: 45
+street: Main Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

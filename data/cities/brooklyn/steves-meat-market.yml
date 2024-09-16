@@ -1,11 +1,11 @@
 id: 280081126
-type: way
+type: node
 latitude: 40.72391
 longitude: -73.94951
 postcode: "11222"
 city: Brooklyn
-street: "Nassau Avenue"
-housenumber: 104
-phone: "718 383 1780"
+street: Nassau Avenue
+housenumber: "104"
+phone: 718 383 1780
 opening_hours: ""
 website: ""

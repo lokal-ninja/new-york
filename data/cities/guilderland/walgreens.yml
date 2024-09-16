@@ -1,11 +1,11 @@
 id: 58039047
-type: way
+type: node
 latitude: 42.69832
 longitude: -73.88904
 postcode: "12084"
 city: Guilderland
-street: "Western Avenue"
-housenumber: 2061
+street: Western Avenue
+housenumber: "2061"
 phone: ""
 opening_hours: ""
 website: ""

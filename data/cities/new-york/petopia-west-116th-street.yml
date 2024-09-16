@@ -4,8 +4,8 @@ latitude: 40.80358
 longitude: -73.95387
 postcode: "10026"
 city: New York
-street: "West 116th Street"
-housenumber: 226
-phone: "+1-212-222-7089"
-opening_hours: "Mo-Su 11:00-20:00"
-website: "https://www.nycpetopia.com/petopia-1/"
+street: West 116th Street
+housenumber: "226"
+phone: +1-212-222-7089
+opening_hours: Mo-Su 11:00-20:00
+website: https://www.nycpetopia.com/petopia-1/

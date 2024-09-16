@@ -1,11 +1,11 @@
 id: 1020481789
-type: way
+type: node
 latitude: 42.94114
 longitude: -78.81396
 postcode: "14215"
 city: Buffalo
-street: "Bailey Avenue"
-housenumber: 3172
+street: Bailey Avenue
+housenumber: "3172"
 phone: "+17162752589"
 opening_hours: ""
-website: "https://rainbow-mart-inc.business.site/"
+website: https://rainbow-mart-inc.business.site/

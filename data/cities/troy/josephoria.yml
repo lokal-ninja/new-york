@@ -1,11 +1,11 @@
 id: 89907193
-type: way
+type: node
 latitude: 42.70701
 longitude: -73.66216
 postcode: "12180"
 city: Troy
-street: "Pawling Avenue"
-housenumber: 498
+street: Pawling Avenue
+housenumber: "498"
 phone: ""
 opening_hours: ""
 website: ""

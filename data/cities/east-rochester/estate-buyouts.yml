@@ -1,11 +1,11 @@
 id: 688657209
-type: way
+type: node
 latitude: 43.11363
 longitude: -77.48696
 postcode: "14445"
 city: East Rochester
-street: "West Commercial Street"
-housenumber: 145
+street: West Commercial Street
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

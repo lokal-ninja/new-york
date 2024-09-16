@@ -4,8 +4,8 @@ latitude: 42.44066
 longitude: -76.48505
 postcode: "14850"
 city: Ithaca
-street: "College Avenue"
-housenumber: 307
-phone: "+1-607-882-2667"
-opening_hours: "10:00-18:00"
-website: "https://greenstar.coop/collegetown/"
+street: College Avenue
+housenumber: "307"
+phone: +1-607-882-2667
+opening_hours: 10:00-18:00
+website: https://greenstar.coop/collegetown/

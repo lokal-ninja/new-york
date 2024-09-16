@@ -1,11 +1,11 @@
 id: 159931587
-type: way
+type: node
 latitude: 42.92968
 longitude: -75.85065
 postcode: "13035"
 city: Cazenovia
-street: "Albany Street"
-housenumber: 122
+street: Albany Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

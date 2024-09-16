@@ -1,11 +1,11 @@
 id: 881751064
-type: way
+type: node
 latitude: 42.64341
 longitude: -73.69997
 postcode: "12144"
 city: Rensselaer
-street: "Third Avenue Extension"
-housenumber: 612
-phone: "+1 518-286-1090"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ny/rensselaer-store1589.html"
+street: Third Avenue Extension
+housenumber: "612"
+phone: +1 518-286-1090
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ny/rensselaer-store1589.html

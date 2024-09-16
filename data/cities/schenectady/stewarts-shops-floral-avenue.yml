@@ -1,11 +1,11 @@
 id: 1176939269
-type: way
+type: node
 latitude: 42.78191
 longitude: -73.9703
 postcode: "12306"
 city: Schenectady
-street: "Floral Avenue"
-housenumber: 1180
-phone: "+1 518-557-4950"
+street: Floral Avenue
+housenumber: "1180"
+phone: +1 518-557-4950
 opening_hours: ""
-website: "https://locations.stewartsshops.com/ll/US/NY/Rotterdam/2970-Guilderland-Avenue"
+website: https://locations.stewartsshops.com/ll/US/NY/Rotterdam/2970-Guilderland-Avenue

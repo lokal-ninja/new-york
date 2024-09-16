@@ -1,11 +1,11 @@
 id: 618604028
-type: way
+type: node
 latitude: 42.09882
 longitude: -75.91507
 postcode: "13901"
 city: Binghamton
-street: "Court Street"
-housenumber: 11
-phone: "(607) 722-4220"
+street: Court Street
+housenumber: "11"
+phone: (607) 722-4220
 opening_hours: ""
 website: ""

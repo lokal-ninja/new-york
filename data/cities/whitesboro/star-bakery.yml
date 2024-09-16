@@ -4,8 +4,8 @@ latitude: 43.12232
 longitude: -75.29155
 postcode: "13492"
 city: Whitesboro
-street: "Main Street"
-housenumber: 103
-phone: "+1-315-768-1462"
+street: Main Street
+housenumber: "103"
+phone: +1-315-768-1462
 opening_hours: ""
-website: "https://www.facebook.com/StarBakeryWhitesboro/"
+website: https://www.facebook.com/StarBakeryWhitesboro/

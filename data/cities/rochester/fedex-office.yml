@@ -1,11 +1,11 @@
 id: 126308214
-type: way
+type: node
 latitude: 43.08678
 longitude: -77.61556
 postcode: "14623"
 city: Rochester
-street: "Jefferson Road"
-housenumber: 941
+street: Jefferson Road
+housenumber: "941"
 phone: ""
 opening_hours: ""
 website: ""

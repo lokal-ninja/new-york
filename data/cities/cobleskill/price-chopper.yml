@@ -1,11 +1,11 @@
 id: 730913453
-type: way
+type: node
 latitude: 42.68271
 longitude: -74.4711
 postcode: "12043"
 city: Cobleskill
-street: "Plaza Lane"
-housenumber: 105
+street: Plaza Lane
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

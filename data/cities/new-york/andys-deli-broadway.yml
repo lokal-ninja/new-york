@@ -4,8 +4,8 @@ latitude: 40.73796
 longitude: -73.99024
 postcode: "10003"
 city: New York
-street: "Broadway"
-housenumber: 873
-phone: "+1-212-477-1110"
-opening_hours: "24/7"
+street: Broadway
+housenumber: "873"
+phone: +1-212-477-1110
+opening_hours: 24/7
 website: ""

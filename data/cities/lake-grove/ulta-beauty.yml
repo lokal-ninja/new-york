@@ -4,8 +4,8 @@ latitude: 40.86836
 longitude: -73.13029
 postcode: "11755"
 city: Lake Grove
-street: "Burr Lane"
-housenumber: 2005
-phone: "+1 631-979-3473"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/lake-grove-ny-55"
+street: Burr Lane
+housenumber: "2005"
+phone: +1 631-979-3473
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/lake-grove-ny-55

@@ -1,11 +1,11 @@
 id: 1022525066
-type: way
+type: node
 latitude: 42.94087
 longitude: -78.83709
 postcode: "14214"
 city: Buffalo
-street: "Main Street"
-housenumber: 2711
+street: Main Street
+housenumber: "2711"
 phone: "+17164795397"
 opening_hours: ""
-website: "https://www.heritagelocksmith.com/"
+website: https://www.heritagelocksmith.com/

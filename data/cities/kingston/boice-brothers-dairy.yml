@@ -1,11 +1,11 @@
 id: 263880990
-type: way
+type: node
 latitude: 41.93156
 longitude: -74.00341
 postcode: "12401"
 city: Kingston
-street: "ONeil Street"
-housenumber: 62
+street: ONeil Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

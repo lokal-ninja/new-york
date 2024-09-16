@@ -1,11 +1,11 @@
 id: 575106910
-type: way
+type: node
 latitude: 42.66316
 longitude: -78.89025
 postcode: "14057"
 city: Eden
-street: "North Main Street"
-housenumber: 8229
-phone: "+1-716-992-9364"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/ny/eden/9631"
+street: North Main Street
+housenumber: "8229"
+phone: +1-716-992-9364
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/ny/eden/9631

@@ -1,11 +1,11 @@
 id: 556594911
-type: way
+type: node
 latitude: 43.06108
 longitude: -74.34029
 postcode: "12078"
 city: Gloversville
-street: "North Main Street"
-housenumber: 335
+street: North Main Street
+housenumber: "335"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.77084
 longitude: -73.98247
 postcode: "10023"
 city: New York
-street: "Broadway"
-housenumber: 1881
-phone: "+1-212-586-1723"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "https://branches.northeast.aaa.com/ny/manhattan"
+street: Broadway
+housenumber: "1881"
+phone: +1-212-586-1723
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
+website: https://branches.northeast.aaa.com/ny/manhattan

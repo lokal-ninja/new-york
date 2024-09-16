@@ -1,11 +1,11 @@
 id: 823227036
-type: way
+type: node
 latitude: 42.6592
 longitude: -77.05639
-postcode: "14527-1644"
+postcode: 14527-1644
 city: Penn Yan
-street: "Liberty Street"
-housenumber: 204
-phone: "+1 888-465-1039"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/penn-yan/204-liberty-street"
+street: Liberty Street
+housenumber: "204"
+phone: +1 888-465-1039
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/penn-yan/204-liberty-street

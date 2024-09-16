@@ -4,8 +4,8 @@ latitude: 40.78343
 longitude: -73.97995
 postcode: "10024"
 city: New York
-street: "Broadway"
-housenumber: 2212
-phone: "+1-212-288-7773"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su 10:00-17:00"
-website: "https://www.skylocksmith.com/"
+street: Broadway
+housenumber: "2212"
+phone: +1-212-288-7773
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su 10:00-17:00
+website: https://www.skylocksmith.com/

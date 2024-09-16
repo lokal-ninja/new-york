@@ -4,8 +4,8 @@ latitude: 40.72052
 longitude: -73.98516
 postcode: "10002"
 city: New York
-street: "Stanton Street"
-housenumber: 154
-phone: "212.627.3276"
+street: Stanton Street
+housenumber: "154"
+phone: 212.627.3276
 opening_hours: ""
-website: "http://www.nystudiogallery.com/"
+website: http://www.nystudiogallery.com/

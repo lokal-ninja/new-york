@@ -1,11 +1,11 @@
 id: 1024754131
-type: way
+type: node
 latitude: 42.91766
 longitude: -78.86293
 postcode: "14209"
 city: Buffalo
-street: "Main Street"
-housenumber: 1618
+street: Main Street
+housenumber: "1618"
 phone: "+17169368370"
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ny/buffalo/14652"
+website: https://www.dollargeneral.com/store-directory/ny/buffalo/14652

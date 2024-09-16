@@ -4,8 +4,8 @@ latitude: 40.72246
 longitude: -73.9999
 postcode: "10012"
 city: New York
-street: "Mercer Street"
-housenumber: 86
+street: Mercer Street
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://lascava.com/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://lascava.com/

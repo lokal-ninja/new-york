@@ -1,11 +1,11 @@
 id: 876392415
-type: way
+type: node
 latitude: 42.72235
 longitude: -73.70156
 postcode: "12189"
 city: Watervliet
-street: "Broadway"
-housenumber: 1261
-phone: "+1 518 2720333"
+street: Broadway
+housenumber: "1261"
+phone: +1 518 2720333
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 761363775
-type: way
+type: node
 latitude: 41.19638
 longitude: -73.97191
 postcode: "10927"
 city: Haverstraw
-street: "North Route 9W"
-housenumber: 62
+street: North Route 9W
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

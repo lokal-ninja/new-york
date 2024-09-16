@@ -1,11 +1,11 @@
 id: 830987982
-type: way
+type: node
 latitude: 43.02608
 longitude: -78.87919
 postcode: "14120"
 city: North Tonawanda
-street: "Island Street"
-housenumber: 65
+street: Island Street
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

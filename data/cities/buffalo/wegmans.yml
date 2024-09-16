@@ -1,11 +1,11 @@
 id: 84831663
-type: way
+type: node
 latitude: 42.93838
 longitude: -78.88292
 postcode: "14207"
 city: Buffalo
-street: "Amherst Street"
-housenumber: 601
-phone: "+1 716-877-0500"
+street: Amherst Street
+housenumber: "601"
+phone: +1 716-877-0500
 opening_hours: ""
-website: "https://www.wegmans.com/stores/amherst-st-ny"
+website: https://www.wegmans.com/stores/amherst-st-ny

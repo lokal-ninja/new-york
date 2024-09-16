@@ -4,8 +4,8 @@ latitude: 40.75451
 longitude: -73.97321
 postcode: "10017"
 city: New York
-street: "East 47th Street"
-housenumber: 129
-phone: "+1-212-755-7380"
-opening_hours: "08:00-22:00"
-website: "http://www.dainobu.us/store/#anchor01"
+street: East 47th Street
+housenumber: "129"
+phone: +1-212-755-7380
+opening_hours: 08:00-22:00
+website: http://www.dainobu.us/store/#anchor01

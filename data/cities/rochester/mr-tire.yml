@@ -1,11 +1,11 @@
 id: 186845598
-type: way
+type: node
 latitude: 43.20939
 longitude: -77.68936
 postcode: "14626"
 city: Rochester
-street: "Ridge Road West"
-housenumber: 2318
+street: Ridge Road West
+housenumber: "2318"
 phone: ""
 opening_hours: ""
 website: ""

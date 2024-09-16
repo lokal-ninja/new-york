@@ -4,8 +4,8 @@ latitude: 40.75479
 longitude: -73.97967
 postcode: "10017"
 city: New York
-street: "5th Avenue"
-housenumber: 531
-phone: "+1 212-808-0309"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://stores.bestbuy.com/ny/new-york/531-5th-ave-1028.html"
+street: 5th Avenue
+housenumber: "531"
+phone: +1 212-808-0309
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://stores.bestbuy.com/ny/new-york/531-5th-ave-1028.html

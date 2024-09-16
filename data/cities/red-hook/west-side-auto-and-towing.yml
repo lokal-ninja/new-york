@@ -1,11 +1,11 @@
 id: 317967618
-type: way
+type: node
 latitude: 41.9996
 longitude: -73.90393
 postcode: "12571"
 city: Red Hook
-street: "West Market Street"
-housenumber: 308
+street: West Market Street
+housenumber: "308"
 phone: ""
 opening_hours: ""
 website: ""

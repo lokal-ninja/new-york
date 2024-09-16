@@ -4,8 +4,8 @@ latitude: 40.75146
 longitude: -73.97129
 postcode: "10017"
 city: New York
-street: "2nd Avenue"
-housenumber: 833
-phone: "+1 212-883-8383"
+street: 2nd Avenue
+housenumber: "833"
+phone: +1 212-883-8383
 opening_hours: ""
 website: ""

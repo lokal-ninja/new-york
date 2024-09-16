@@ -1,11 +1,11 @@
 id: 88463000
-type: way
+type: node
 latitude: 42.60015
 longitude: -73.70961
 postcode: "12061"
 city: East Greenbush
-street: "Troy Road"
-housenumber: 7
+street: Troy Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

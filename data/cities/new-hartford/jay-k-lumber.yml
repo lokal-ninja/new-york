@@ -1,11 +1,11 @@
 id: 832250270
-type: way
+type: node
 latitude: 43.08169
 longitude: -75.32375
 postcode: "13413"
 city: New Hartford
-street: "Seneca Turnpike"
-housenumber: 8448
+street: Seneca Turnpike
+housenumber: "8448"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.80389
 longitude: -73.96655
 postcode: "10025"
 city: New York
-street: "Broadway"
-housenumber: 2828
+street: Broadway
+housenumber: "2828"
 phone: "+16469520442"
-opening_hours: "Mo-Su 07:30-23:00"
+opening_hours: Mo-Su 07:30-23:00
 website: ""

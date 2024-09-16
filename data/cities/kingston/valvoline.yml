@@ -1,11 +1,11 @@
 id: 264330317
-type: way
+type: node
 latitude: 41.95222
 longitude: -73.99381
 postcode: "12401"
 city: Kingston
-street: "Ulster Avenue"
-housenumber: 802
+street: Ulster Avenue
+housenumber: "802"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ny/kingston/oil-change-ae6407.html"
+website: https://store.vioc.com/ny/kingston/oil-change-ae6407.html

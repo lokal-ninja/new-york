@@ -4,8 +4,8 @@ latitude: 40.5907
 longitude: -73.97005
 postcode: "11223"
 city: Brooklyn
-street: "Avenue X"
-housenumber: 347
+street: Avenue X
+housenumber: "347"
 phone: "+17187145475"
-opening_hours: "Tu-Th 09:30-19:00; Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.hairsolutionsbk.com"
+opening_hours: Tu-Th 09:30-19:00; Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.hairsolutionsbk.com

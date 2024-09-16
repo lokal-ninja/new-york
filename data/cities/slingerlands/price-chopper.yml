@@ -1,11 +1,11 @@
 id: 58120223
-type: way
+type: node
 latitude: 42.63934
 longitude: -73.85779
 postcode: "12159"
 city: Slingerlands
-street: "New Scotland Road"
-housenumber: 1395
+street: New Scotland Road
+housenumber: "1395"
 phone: ""
 opening_hours: ""
 website: ""

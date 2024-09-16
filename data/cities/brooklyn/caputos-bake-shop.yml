@@ -1,11 +1,11 @@
 id: 241825833
-type: way
+type: node
 latitude: 40.68275
 longitude: -73.99527
 postcode: "11231"
 city: Brooklyn
-street: "Court Street"
-housenumber: 329
-phone: "+1 718 875-6871"
+street: Court Street
+housenumber: "329"
+phone: +1 718 875-6871
 opening_hours: ""
 website: ""

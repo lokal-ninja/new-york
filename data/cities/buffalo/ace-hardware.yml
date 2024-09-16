@@ -1,11 +1,11 @@
 id: 419490398
-type: way
+type: node
 latitude: 42.96248
 longitude: -78.74271
 postcode: "14221"
 city: Buffalo
-street: "Main Street"
-housenumber: 5641
+street: Main Street
+housenumber: "5641"
 phone: ""
 opening_hours: ""
 website: ""

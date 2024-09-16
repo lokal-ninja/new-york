@@ -4,8 +4,8 @@ latitude: 42.24765
 longitude: -73.78127
 postcode: "12534"
 city: Hudson
-street: "Green Street"
-housenumber: 6
+street: Green Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Hudson/6-GREEN-STREET"
+website: https://www.speedway.com/locations/NY/Hudson/6-GREEN-STREET

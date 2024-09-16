@@ -1,11 +1,11 @@
 id: 826515172
-type: way
+type: node
 latitude: 40.64557
 longitude: -73.66565
 postcode: "11518"
 city: East Rockaway
-street: "Atlantic Avenue"
-housenumber: 395
-phone: "516-393-1170"
+street: Atlantic Avenue
+housenumber: "395"
+phone: 516-393-1170
 opening_hours: ""
 website: ""

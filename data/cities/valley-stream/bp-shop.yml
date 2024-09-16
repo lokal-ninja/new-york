@@ -1,11 +1,11 @@
 id: 554565818
-type: way
+type: node
 latitude: 40.66516
 longitude: -73.72606
 postcode: "11581"
 city: Valley Stream
-street: "West Sunrise Highway"
-housenumber: 700
+street: West Sunrise Highway
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 140071264
-type: way
+type: node
 latitude: 42.78351
 longitude: -73.94909
 postcode: "12303"
 city: Schenectady
-street: "Altamont Avenue"
-housenumber: 1599
+street: Altamont Avenue
+housenumber: "1599"
 phone: ""
 opening_hours: ""
 website: ""

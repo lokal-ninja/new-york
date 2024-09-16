@@ -1,11 +1,11 @@
 id: 817969450
-type: way
+type: node
 latitude: 43.0796
 longitude: -73.7996
 postcode: "12866"
 city: Saratoga Springs
-street: "Washington Street"
-housenumber: 228
+street: Washington Street
+housenumber: "228"
 phone: ""
 opening_hours: ""
-website: "http://wp.saratogadrycleaners.com"
+website: http://wp.saratogadrycleaners.com

@@ -1,11 +1,11 @@
 id: 548932800
-type: way
+type: node
 latitude: 41.45247
 longitude: -74.40895
 postcode: "10940"
 city: Middletown
-street: "Wickham Avenue"
-housenumber: 181
-phone: "(845) 775-4025"
+street: Wickham Avenue
+housenumber: "181"
+phone: (845) 775-4025
 opening_hours: ""
 website: ""

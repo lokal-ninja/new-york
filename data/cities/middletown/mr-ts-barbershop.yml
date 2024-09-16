@@ -1,11 +1,11 @@
 id: 547583166
-type: way
+type: node
 latitude: 41.45268
 longitude: -74.40696
 postcode: "10940"
 city: Middletown
-street: "Wickham Avenue"
-housenumber: 202
+street: Wickham Avenue
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

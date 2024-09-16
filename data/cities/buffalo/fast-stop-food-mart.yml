@@ -1,11 +1,11 @@
 id: 1215451986
-type: way
+type: node
 latitude: 42.94588
 longitude: -78.89173
 postcode: "14207"
 city: Buffalo
-street: "Military Road"
-housenumber: 326
+street: Military Road
+housenumber: "326"
 phone: ""
 opening_hours: ""
 website: ""

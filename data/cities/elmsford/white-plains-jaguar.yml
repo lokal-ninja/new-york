@@ -1,11 +1,11 @@
 id: 343040415
-type: way
+type: node
 latitude: 41.04838
 longitude: -73.80914
 postcode: "10523"
 city: Elmsford
-street: "East Main Street"
-housenumber: 258
-phone: "(877) 370-8692"
+street: East Main Street
+housenumber: "258"
+phone: (877) 370-8692
 opening_hours: ""
-website: "http://www.whiteplainsjaguar.com/"
+website: http://www.whiteplainsjaguar.com/

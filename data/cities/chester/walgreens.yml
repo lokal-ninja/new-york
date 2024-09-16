@@ -1,11 +1,11 @@
 id: 326603770
-type: way
+type: node
 latitude: 41.35749
 longitude: -74.2856
 postcode: "10918"
 city: Chester
-street: "Brookside Avenue"
-housenumber: 89
+street: Brookside Avenue
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-89+brookside+ave-chester-ny-10918/id=19578"
+website: https://www.walgreens.com/locator/walgreens-89+brookside+ave-chester-ny-10918/id=19578

@@ -4,8 +4,8 @@ latitude: 40.73936
 longitude: -73.99515
 postcode: "10011"
 city: New York
-street: "7th Avenue"
-housenumber: 92
-phone: "+1 212-627-9373"
+street: 7th Avenue
+housenumber: "92"
+phone: +1 212-627-9373
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ny/new-york/167010/"
+website: https://www.mattressfirm.com/en-us/stores/ny/new-york/167010/

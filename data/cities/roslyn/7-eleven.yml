@@ -1,11 +1,11 @@
 id: 770384323
-type: way
+type: node
 latitude: 40.79322
 longitude: -73.64388
 postcode: "11576"
 city: Roslyn
-street: "Railroad Avenue"
-housenumber: 3
-phone: "+1 516-621-4008"
+street: Railroad Avenue
+housenumber: "3"
+phone: +1 516-621-4008
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/roslyn/3-railroad-ave-17750"
+website: https://www.7-eleven.com/locations/ny/roslyn/3-railroad-ave-17750

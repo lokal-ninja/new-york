@@ -1,11 +1,11 @@
 id: 7024236394
 type: node
 latitude: 40.80327
-longitude: -73.96703
+longitude: -73.96701
 postcode: "10025"
 city: New York
-street: "Broadway"
-housenumber: 2812
+street: Broadway
+housenumber: "2812"
 phone: ""
 opening_hours: ""
 website: ""

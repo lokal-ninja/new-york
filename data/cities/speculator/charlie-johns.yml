@@ -1,11 +1,11 @@
 id: 232204071
-type: way
+type: node
 latitude: 43.50282
 longitude: -74.36422
 postcode: "12164"
 city: Speculator
-street: "Elm Lake Road"
-housenumber: 111
+street: Elm Lake Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

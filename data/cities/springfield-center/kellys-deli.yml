@@ -1,11 +1,11 @@
 id: 675701496
-type: way
+type: node
 latitude: 42.83744
 longitude: -74.87
 postcode: "13468"
 city: Springfield Center
-street: "United States Highway 20"
-housenumber: 4964
+street: United States Highway 20
+housenumber: "4964"
 phone: ""
 opening_hours: ""
 website: ""

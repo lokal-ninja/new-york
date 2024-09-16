@@ -4,8 +4,8 @@ latitude: 40.64195
 longitude: -74.0138
 postcode: "11220"
 city: Brooklyn
-street: "5th Avenue"
-housenumber: 5522
-phone: "+1-718-567-3556"
+street: 5th Avenue
+housenumber: "5522"
+phone: +1-718-567-3556
 opening_hours: ""
 website: ""

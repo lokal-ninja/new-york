@@ -4,8 +4,8 @@ latitude: 43.08217
 longitude: -73.78499
 postcode: "12866"
 city: Saratoga Springs
-street: "Broadway"
-housenumber: 436
-phone: "+1 518 584 4665"
-opening_hours: "Su-Th 10:00-18:00,Fr-Sa 10:00-19:00"
-website: "https://lifestylesofsaratoga.com"
+street: Broadway
+housenumber: "436"
+phone: +1 518 584 4665
+opening_hours: Su-Th 10:00-18:00,Fr-Sa 10:00-19:00
+website: https://lifestylesofsaratoga.com

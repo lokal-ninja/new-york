@@ -1,11 +1,11 @@
 id: 167540850
-type: way
+type: node
 latitude: 42.99832
 longitude: -78.81675
 postcode: "14228"
 city: Buffalo
-street: "Niagara Falls Boulevard"
-housenumber: 1581
-phone: "+1 716-249-3197"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ny/amherst-store2479.html"
+street: Niagara Falls Boulevard
+housenumber: "1581"
+phone: +1 716-249-3197
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ny/amherst-store2479.html

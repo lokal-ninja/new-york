@@ -1,11 +1,11 @@
 id: 461619999
-type: way
+type: node
 latitude: 41.01999
 longitude: -72.4796
 postcode: "11935"
 city: Cutchogue
-street: "Main Road"
-housenumber: 31855
-phone: "+1-631-765-8929"
+street: Main Road
+housenumber: "31855"
+phone: +1-631-765-8929
 opening_hours: ""
-website: "https://www.coffeepotcellars.com/"
+website: https://www.coffeepotcellars.com/

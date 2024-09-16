@@ -4,8 +4,8 @@ latitude: 40.76152
 longitude: -73.96036
 postcode: "10065"
 city: New York
-street: "1st Avenue"
-housenumber: 1130
-phone: "+1 212-486-3040"
-opening_hours: "24/7"
+street: 1st Avenue
+housenumber: "1130"
+phone: +1 212-486-3040
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 646211434
-type: way
+type: node
 latitude: 40.99425
 longitude: -73.88237
 postcode: "10706"
 city: Hastings-on-Hudson
-street: "Main Street"
-housenumber: 2
+street: Main Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

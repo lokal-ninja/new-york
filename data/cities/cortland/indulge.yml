@@ -4,8 +4,8 @@ latitude: 42.5984
 longitude: -76.18008
 postcode: "13045"
 city: Cortland
-street: "Main Street"
-housenumber: 89
-phone: "1-607-753-0388"
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://indulgelisa.com/"
+street: Main Street
+housenumber: "89"
+phone: 1-607-753-0388
+opening_hours: Mo-Fr 07:00-16:00
+website: https://indulgelisa.com/

@@ -1,11 +1,11 @@
 id: 264827534
-type: way
+type: node
 latitude: 43.07326
 longitude: -77.645
 postcode: "14623"
 city: Rochester
-street: "West Henrietta Road"
-housenumber: 3995
+street: West Henrietta Road
+housenumber: "3995"
 phone: ""
 opening_hours: ""
 website: ""

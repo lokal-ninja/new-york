@@ -1,11 +1,11 @@
 id: 801458793
-type: way
+type: node
 latitude: 42.08956
 longitude: -76.80997
 postcode: "14901"
 city: Elmira
-street: "West Church Street"
-housenumber: 222
+street: West Church Street
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

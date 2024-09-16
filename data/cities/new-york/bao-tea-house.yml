@@ -4,8 +4,8 @@ latitude: 40.7313
 longitude: -74.00037
 postcode: "10012"
 city: New York
-street: "West 4th Street"
-housenumber: 140
-phone: "+1-646-429-9981"
+street: West 4th Street
+housenumber: "140"
+phone: +1-646-429-9981
 opening_hours: ""
-website: "https://baoteahouse.store"
+website: https://baoteahouse.store

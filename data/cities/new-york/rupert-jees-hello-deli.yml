@@ -4,8 +4,8 @@ latitude: 40.7636
 longitude: -73.98313
 postcode: "10019"
 city: New York
-street: "West 53rd Street"
-housenumber: 213
+street: West 53rd Street
+housenumber: "213"
 phone: "+12124897832"
-opening_hours: "Mo-Fr 7:00-17:30; Sa 8:00-15:00"
-website: "https://www.hello-deli.com/"
+opening_hours: Mo-Fr 7:00-17:30; Sa 8:00-15:00
+website: https://www.hello-deli.com/

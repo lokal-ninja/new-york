@@ -1,11 +1,11 @@
 id: 466246425
-type: way
+type: node
 latitude: 40.83473
 longitude: -73.36649
 postcode: "11740"
 city: Greenlawn
-street: "East Jericho Turnpike"
-housenumber: 1101
+street: East Jericho Turnpike
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

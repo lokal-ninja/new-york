@@ -4,8 +4,8 @@ latitude: 40.75489
 longitude: -73.98984
 postcode: "10018"
 city: New York
-street: "West 39th Street"
-housenumber: 239
-phone: "212-869-0321"
-opening_hours: "Mo-Fr 08:00-17:30"
+street: West 39th Street
+housenumber: "239"
+phone: 212-869-0321
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

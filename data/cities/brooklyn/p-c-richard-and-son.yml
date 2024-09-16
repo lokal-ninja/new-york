@@ -1,11 +1,11 @@
 id: 249920584
-type: way
+type: node
 latitude: 40.60813
 longitude: -73.92105
 postcode: "11234"
 city: Brooklyn
-street: "Flatbush Avenue"
-housenumber: 2544
+street: Flatbush Avenue
+housenumber: "2544"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
 website: ""

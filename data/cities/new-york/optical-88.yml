@@ -4,8 +4,8 @@ latitude: 40.71791
 longitude: -73.99696
 postcode: "10013"
 city: New York
-street: "Mott Street"
-housenumber: 116
+street: Mott Street
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-17:30"
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-17:30
 website: ""

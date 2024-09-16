@@ -1,11 +1,11 @@
 id: 492014369
-type: way
+type: node
 latitude: 42.53385
 longitude: -78.42401
 postcode: "14009"
 city: Arcade
-street: "Park Street"
-housenumber: 12
+street: Park Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

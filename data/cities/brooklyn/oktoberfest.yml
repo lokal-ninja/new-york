@@ -1,11 +1,11 @@
 id: 724487038
-type: way
+type: node
 latitude: 40.58502
 longitude: -73.95119
 postcode: "11235"
 city: Brooklyn
-street: "Sheepshead Bay Road"
-housenumber: 1743
+street: Sheepshead Bay Road
+housenumber: "1743"
 phone: ""
-opening_hours: "Mo-Fr 12:00-22:00; Sa,Su 11:00-22:00"
+opening_hours: Mo-Fr 12:00-22:00; Sa,Su 11:00-22:00
 website: ""

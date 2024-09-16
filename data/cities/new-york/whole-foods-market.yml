@@ -4,8 +4,8 @@ latitude: 40.73479
 longitude: -73.99136
 postcode: "10003"
 city: New York
-street: "Union Square South"
-housenumber: 4
-phone: "+1 212-673-5388"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/unionsquare"
+street: Union Square South
+housenumber: "4"
+phone: +1 212-673-5388
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/unionsquare

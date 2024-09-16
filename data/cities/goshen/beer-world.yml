@@ -1,11 +1,11 @@
 id: 612145918
-type: way
+type: node
 latitude: 41.40052
 longitude: -74.32564
 postcode: "10924"
 city: Goshen
-street: "Greenwich Avenue"
-housenumber: 153
+street: Greenwich Avenue
+housenumber: "153"
 phone: ""
 opening_hours: ""
-website: "https://www.beerworldgoshen.com/"
+website: https://www.beerworldgoshen.com/

@@ -1,11 +1,11 @@
 id: 1086284458
-type: way
+type: node
 latitude: 42.766
 longitude: -78.63145
 postcode: "14052"
 city: East Aurora
-street: "Grey Street"
-housenumber: 100
+street: Grey Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://aurorapaintpot.com/"
+website: https://aurorapaintpot.com/

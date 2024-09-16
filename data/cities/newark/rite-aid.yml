@@ -1,11 +1,11 @@
 id: 829037520
-type: way
+type: node
 latitude: 43.04649
 longitude: -77.09549
 postcode: "14513"
 city: Newark
-street: "South Main Street"
-housenumber: 101
-phone: "+1 315-331-2181"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 09:00-17:00"
-website: "https://www.riteaid.com/locations/ny/newark/101-south-main-street.html"
+street: South Main Street
+housenumber: "101"
+phone: +1 315-331-2181
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 09:00-17:00
+website: https://www.riteaid.com/locations/ny/newark/101-south-main-street.html

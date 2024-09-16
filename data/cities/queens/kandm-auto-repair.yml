@@ -4,8 +4,8 @@ latitude: 40.69279
 longitude: -73.90225
 postcode: "11385"
 city: Queens
-street: "Cooper Ave"
-housenumber: 1514
-phone: "(718) 453-8070"
-opening_hours: "Mo-Su 08:00-16:00"
+street: Cooper Ave
+housenumber: "1514"
+phone: (718) 453-8070
+opening_hours: Mo-Su 08:00-16:00
 website: ""

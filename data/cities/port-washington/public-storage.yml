@@ -1,11 +1,11 @@
 id: 769701016
-type: way
+type: node
 latitude: 40.81583
 longitude: -73.65678
 postcode: "11050"
 city: Port Washington
-street: "Seaview Boulevard"
-housenumber: 1
+street: Seaview Boulevard
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.76721
 longitude: -73.98148
 postcode: "10019"
 city: New York
-street: "Broadway"
-housenumber: 1794
+street: Broadway
+housenumber: "1794"
 phone: ""
-opening_hours: "Mo-Th,Su 08:00-21:00; Fr-Sa 08:00-23:00"
-website: "https://www.magnoliabakery.com/"
+opening_hours: Mo-Th,Su 08:00-21:00; Fr-Sa 08:00-23:00
+website: https://www.magnoliabakery.com/

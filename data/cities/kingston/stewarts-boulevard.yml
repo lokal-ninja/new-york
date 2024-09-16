@@ -1,11 +1,11 @@
 id: 263874682
-type: way
+type: node
 latitude: 41.92402
 longitude: -74.01332
 postcode: "12401"
 city: Kingston
-street: "Boulevard"
-housenumber: 1
+street: Boulevard
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

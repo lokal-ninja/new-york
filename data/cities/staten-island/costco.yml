@@ -1,11 +1,11 @@
 id: 246241896
-type: way
+type: node
 latitude: 40.57289
 longitude: -74.16794
 postcode: "10314"
 city: Staten Island
-street: "Forest Hill Road"
-housenumber: 2350
-phone: "+1 718-982-9525"
-opening_hours: "Mo-Fr 10:00-20:30, Sa 09:30-19:00, Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/staten-island-ny-316.html"
+street: Forest Hill Road
+housenumber: "2350"
+phone: +1 718-982-9525
+opening_hours: Mo-Fr 10:00-20:30, Sa 09:30-19:00, Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/staten-island-ny-316.html

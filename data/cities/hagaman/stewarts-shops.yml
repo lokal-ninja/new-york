@@ -1,11 +1,11 @@
 id: 1227013675
-type: way
+type: node
 latitude: 42.97481
 longitude: -74.1509
 postcode: "12086"
 city: Hagaman
-street: "South Pawling Street"
-housenumber: 123
+street: South Pawling Street
+housenumber: "123"
 phone: ""
-opening_hours: "04:30-00:00"
-website: "https://locations.stewartsshops.com/ll/US/NY/Hagaman/123-South-Pawling-Street"
+opening_hours: 04:30-00:00
+website: https://locations.stewartsshops.com/ll/US/NY/Hagaman/123-South-Pawling-Street

@@ -1,11 +1,11 @@
 id: 796555049
-type: way
+type: node
 latitude: 43.8555
 longitude: -73.43854
 postcode: "12883"
 city: Ticonderoga
-street: "Wicker Street"
-housenumber: 1111
+street: Wicker Street
+housenumber: "1111"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00, Fr 09:00-18:00, Sa 09:00-17:00"
+opening_hours: Mo-Th 09:00-19:00, Fr 09:00-18:00, Sa 09:00-17:00
 website: ""

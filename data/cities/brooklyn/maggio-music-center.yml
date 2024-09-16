@@ -4,8 +4,8 @@ latitude: 40.60813
 longitude: -74.00134
 postcode: "11214"
 city: Brooklyn
-street: "18th Avenue"
-housenumber: 8403
-phone: "+1-718-259-4468"
-opening_hours: "Tu, Fr 12:00-17:00"
-website: "https://maggiomusicschool.com/"
+street: 18th Avenue
+housenumber: "8403"
+phone: +1-718-259-4468
+opening_hours: Tu, Fr 12:00-17:00
+website: https://maggiomusicschool.com/

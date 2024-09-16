@@ -1,11 +1,11 @@
 id: 1024297578
-type: way
+type: node
 latitude: 44.30096
 longitude: -74.08423
 postcode: "12977"
 city: Ray Brook
-street: "Nys Route 86"
-housenumber: 1073
-phone: "+1 518-891-2637"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Nys Route 86
+housenumber: "1073"
+phone: +1 518-891-2637
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

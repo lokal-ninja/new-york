@@ -1,11 +1,11 @@
 id: 137688404
-type: way
+type: node
 latitude: 42.78567
 longitude: -73.94428
 postcode: "12303"
 city: Schenectady
-street: "Crane Street"
-housenumber: 1779
+street: Crane Street
+housenumber: "1779"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ny/schenectady/oil-change-ae6209.html"
+website: https://store.vioc.com/ny/schenectady/oil-change-ae6209.html

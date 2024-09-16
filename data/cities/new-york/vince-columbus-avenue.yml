@@ -1,11 +1,11 @@
 id: 269247285
-type: way
+type: node
 latitude: 40.77705
 longitude: -73.97926
 postcode: "10023"
 city: New York
-street: "Columbus Avenue"
-housenumber: 244
+street: Columbus Avenue
+housenumber: "244"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1120857414
-type: way
+type: node
 latitude: 42.07749
 longitude: -74.99379
 postcode: "13755"
 city: Downsville
-street: "State Highway 30"
-housenumber: 15276
-phone: "+1-607-363-8985"
+street: State Highway 30
+housenumber: "15276"
+phone: +1-607-363-8985
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ny/downsville/21723"
+website: https://www.dollargeneral.com/store-directory/ny/downsville/21723

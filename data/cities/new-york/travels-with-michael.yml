@@ -4,8 +4,8 @@ latitude: 40.76807
 longitude: -73.99245
 postcode: "10019"
 city: New York
-street: "West 54th Street"
-housenumber: 550
+street: West 54th Street
+housenumber: "550"
 phone: "+79181017021"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://www.travelswm.com/"
+opening_hours: Mo-Su 09:00-20:00
+website: https://www.travelswm.com/

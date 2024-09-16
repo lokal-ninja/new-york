@@ -1,11 +1,11 @@
 id: 540088695
-type: way
+type: node
 latitude: 40.79228
 longitude: -73.69423
 postcode: "11030"
 city: Manhasset
-street: "Northern Boulevard"
-housenumber: 1440
+street: Northern Boulevard
+housenumber: "1440"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.staples.com/ny/manhasset/1410-northern-blvd"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.staples.com/ny/manhasset/1410-northern-blvd

@@ -1,11 +1,11 @@
 id: 817693317
-type: way
+type: node
 latitude: 42.98715
 longitude: -73.85285
 postcode: "12020"
 city: Ballston Spa
-street: "Route 67"
-housenumber: 987
+street: Route 67
+housenumber: "987"
 phone: ""
 opening_hours: ""
 website: ""

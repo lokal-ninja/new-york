@@ -1,11 +1,11 @@
 id: 820499149
-type: way
+type: node
 latitude: 42.06637
 longitude: -78.38376
 postcode: "14760"
 city: Olean
-street: "Olean Portville Road"
-housenumber: 1472
-phone: "+1-716-799-8084"
+street: Olean Portville Road
+housenumber: "1472"
+phone: +1-716-799-8084
 opening_hours: ""
 website: ""

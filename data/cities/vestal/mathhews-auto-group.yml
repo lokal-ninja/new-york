@@ -1,11 +1,11 @@
 id: 618395444
-type: way
+type: node
 latitude: 42.09997
 longitude: -75.98334
 postcode: "13850"
 city: Vestal
-street: "Old Vestal Road"
-housenumber: 3721
-phone: "+1-607-584-5354"
+street: Old Vestal Road
+housenumber: "3721"
+phone: +1-607-584-5354
 opening_hours: ""
-website: "https://www.matthewsauto.com/"
+website: https://www.matthewsauto.com/

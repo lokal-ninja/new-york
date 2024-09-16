@@ -1,11 +1,11 @@
 id: 304913049
-type: way
+type: node
 latitude: 41.75241
 longitude: -74.0855
 postcode: "12561"
 city: New Paltz
-street: "North Chestnut Street"
-housenumber: 61
+street: North Chestnut Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

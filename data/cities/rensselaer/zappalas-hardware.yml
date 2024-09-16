@@ -1,11 +1,11 @@
 id: 319806540
-type: way
+type: node
 latitude: 42.64319
 longitude: -73.74585
 postcode: "12144"
 city: Rensselaer
-street: "5th Avenue"
-housenumber: 7
+street: 5th Avenue
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

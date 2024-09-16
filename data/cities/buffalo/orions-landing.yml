@@ -1,11 +1,11 @@
 id: 569815022
-type: way
+type: node
 latitude: 42.78156
 longitude: -78.85263
 postcode: "14219"
 city: Buffalo
-street: "Lake Shore Road"
-housenumber: 3800
+street: Lake Shore Road
+housenumber: "3800"
 phone: ""
 opening_hours: ""
 website: ""

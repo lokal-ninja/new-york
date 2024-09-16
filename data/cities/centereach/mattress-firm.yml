@@ -1,11 +1,11 @@
 id: 368801225
-type: way
+type: node
 latitude: 40.85954
 longitude: -73.08047
 postcode: "11720"
 city: Centereach
-street: "Middle Country Road"
-housenumber: 1959
+street: Middle Country Road
+housenumber: "1959"
 phone: ""
 opening_hours: ""
 website: ""

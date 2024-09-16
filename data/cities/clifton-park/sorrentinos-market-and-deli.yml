@@ -1,11 +1,11 @@
 id: 189615551
-type: way
+type: node
 latitude: 42.83786
 longitude: -73.74453
 postcode: "12065"
 city: Clifton Park
-street: "Grooms Road"
-housenumber: 241
+street: Grooms Road
+housenumber: "241"
 phone: ""
 opening_hours: ""
 website: ""

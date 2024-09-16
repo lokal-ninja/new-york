@@ -4,8 +4,8 @@ latitude: 40.73334
 longitude: -74.00516
 postcode: "10014"
 city: New York
-street: "Christopher Street"
-housenumber: 109
-phone: "+1-212-242-5351"
-opening_hours: "Mo-Sa 10:00-21:00; Su 13:00-19:00"
-website: "https://mcnultys.com/"
+street: Christopher Street
+housenumber: "109"
+phone: +1-212-242-5351
+opening_hours: Mo-Sa 10:00-21:00; Su 13:00-19:00
+website: https://mcnultys.com/

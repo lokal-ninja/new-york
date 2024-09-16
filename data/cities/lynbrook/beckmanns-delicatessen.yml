@@ -1,11 +1,11 @@
 id: 585735168
-type: way
+type: node
 latitude: 40.64933
 longitude: -73.67644
 postcode: "11563"
 city: Lynbrook
-street: "Union Avenue"
-housenumber: 171
-phone: "(516) 599-9642"
+street: Union Avenue
+housenumber: "171"
+phone: (516) 599-9642
 opening_hours: ""
 website: ""

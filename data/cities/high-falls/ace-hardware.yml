@@ -1,11 +1,11 @@
 id: 304889531
-type: way
+type: node
 latitude: 41.80947
 longitude: -74.1824
 postcode: "12440"
 city: High Falls
-street: "Kyserike Road"
-housenumber: 317
-phone: "+1 845-687-7676"
-opening_hours: "Mo-Sa 07:00-17:00; Su 09:00-15:00"
+street: Kyserike Road
+housenumber: "317"
+phone: +1 845-687-7676
+opening_hours: Mo-Sa 07:00-17:00; Su 09:00-15:00
 website: ""

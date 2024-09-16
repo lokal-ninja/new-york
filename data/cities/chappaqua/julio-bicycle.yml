@@ -1,11 +1,11 @@
 id: 460843209
-type: way
+type: node
 latitude: 41.15823
 longitude: -73.7653
 postcode: "10514"
 city: Chappaqua
-street: "South Bedford Road"
-housenumber: 45
-phone: "1-914-238-1312"
+street: South Bedford Road
+housenumber: "45"
+phone: 1-914-238-1312
 opening_hours: ""
-website: "https://bicyclejulio.com/"
+website: https://bicyclejulio.com/

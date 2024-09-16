@@ -1,11 +1,11 @@
 id: 1310488515
-type: way
+type: node
 latitude: 42.57967
 longitude: -73.69102
 postcode: "12033"
 city: Castleton On Hudson
-street: "Columbia Turnpike"
-housenumber: 1523
-phone: "+1 518-479-5680"
+street: Columbia Turnpike
+housenumber: "1523"
+phone: +1 518-479-5680
 opening_hours: ""
-website: "https://serenitydayspaandsalon.net/"
+website: https://serenitydayspaandsalon.net/

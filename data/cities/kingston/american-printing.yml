@@ -1,11 +1,11 @@
 id: 264331468
-type: way
+type: node
 latitude: 41.9667
 longitude: -73.97127
 postcode: "12401"
 city: Kingston
-street: "Flatbush Road"
-housenumber: 867
+street: Flatbush Road
+housenumber: "867"
 phone: ""
 opening_hours: ""
 website: ""

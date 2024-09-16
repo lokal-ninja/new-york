@@ -4,8 +4,8 @@ latitude: 40.73239
 longitude: -74.0038
 postcode: "10014"
 city: New York
-street: "Bleecker Street"
-housenumber: 298
-phone: "+1-646-858-0229"
-opening_hours: "Mo-Su 11:00-22:00"
-website: "https://www.chipnewyorkcity.com/location/chip-nyc-west-village/"
+street: Bleecker Street
+housenumber: "298"
+phone: +1-646-858-0229
+opening_hours: Mo-Su 11:00-22:00
+website: https://www.chipnewyorkcity.com/location/chip-nyc-west-village/

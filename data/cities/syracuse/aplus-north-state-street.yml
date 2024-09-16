@@ -1,11 +1,11 @@
 id: 174680661
-type: way
+type: node
 latitude: 43.05285
 longitude: -76.14825
 postcode: "13203"
 city: Syracuse
-street: "North State Street"
-housenumber: 200
+street: North State Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

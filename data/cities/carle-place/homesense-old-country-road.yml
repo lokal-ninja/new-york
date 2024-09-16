@@ -1,11 +1,11 @@
 id: 1209618636
-type: way
+type: node
 latitude: 40.74483
 longitude: -73.61505
 postcode: "11514"
 city: Carle Place
-street: "Old Country Road"
-housenumber: 177
+street: Old Country Road
+housenumber: "177"
 phone: "5167414625"
-opening_hours: "Mo-Su 09:00-22:00"
+opening_hours: Mo-Su 09:00-22:00
 website: ""

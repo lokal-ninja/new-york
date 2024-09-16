@@ -1,11 +1,11 @@
 id: 157284262
-type: way
+type: node
 latitude: 43.05452
 longitude: -76.10597
 postcode: "13224"
 city: Syracuse
-street: "Erie Boulevard East"
-housenumber: 
+street: Erie Boulevard East
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

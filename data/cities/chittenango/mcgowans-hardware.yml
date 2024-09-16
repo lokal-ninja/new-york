@@ -1,11 +1,11 @@
 id: 913716825
-type: way
+type: node
 latitude: 43.05491
 longitude: -75.86141
 postcode: "13057"
 city: Chittenango
-street: "East Genesee Street"
-housenumber: 991
-phone: "315-687-6168"
+street: East Genesee Street
+housenumber: "991"
+phone: 315-687-6168
 opening_hours: ""
-website: "https://www.mcgowanshardware.com/"
+website: https://www.mcgowanshardware.com/

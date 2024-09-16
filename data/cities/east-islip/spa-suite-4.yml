@@ -1,11 +1,11 @@
 id: 468801739
-type: way
+type: node
 latitude: 40.73109
 longitude: -73.19285
 postcode: "11730"
 city: East Islip
-street: "1st Avenue"
-housenumber: 1
+street: 1st Avenue
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 403982116
-type: way
+type: node
 latitude: 41.68725
 longitude: -73.91332
 postcode: "12603"
 city: Poughkeepsie
-street: "Hooker Avenue"
-housenumber: 220
-phone: "+1-845-454-3920"
-opening_hours: "Mo-Fr 05:30-17:30; Sa 05:30-12:00"
-website: "https://normsautorepairinc.com/"
+street: Hooker Avenue
+housenumber: "220"
+phone: +1-845-454-3920
+opening_hours: Mo-Fr 05:30-17:30; Sa 05:30-12:00
+website: https://normsautorepairinc.com/

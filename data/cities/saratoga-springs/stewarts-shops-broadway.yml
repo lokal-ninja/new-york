@@ -1,11 +1,11 @@
 id: 145387031
-type: way
+type: node
 latitude: 43.08516
 longitude: -73.78455
 postcode: "12866"
 city: Saratoga Springs
-street: "Broadway"
-housenumber: 521
+street: Broadway
+housenumber: "521"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 465187606
-type: way
+type: node
 latitude: 40.64017
 longitude: -73.1986
 postcode: "11706"
 city: Saltaire
-street: "Broadway"
-housenumber: 100
+street: Broadway
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

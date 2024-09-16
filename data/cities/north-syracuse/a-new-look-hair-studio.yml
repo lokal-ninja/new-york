@@ -1,11 +1,11 @@
 id: 688174606
-type: way
+type: node
 latitude: 43.12317
 longitude: -76.14004
 postcode: "13212"
 city: North Syracuse
-street: "Hoytville Avenue"
-housenumber: 202
+street: Hoytville Avenue
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

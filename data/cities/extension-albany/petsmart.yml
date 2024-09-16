@@ -4,8 +4,8 @@ latitude: 42.69601
 longitude: -73.84683
 postcode: "12205"
 city: Extension Albany
-street: "Washington Avenue"
-housenumber: 161
-phone: "+1 518-452-5683"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ny/albany-store0737.html"
+street: Washington Avenue
+housenumber: "161"
+phone: +1 518-452-5683
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ny/albany-store0737.html

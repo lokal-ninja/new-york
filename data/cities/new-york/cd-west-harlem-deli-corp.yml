@@ -4,8 +4,8 @@ latitude: 40.80707
 longitude: -73.94202
 postcode: "10027"
 city: New York
-street: "5th Avenue"
-housenumber: 2040
-phone: "+1-646-609-1060"
+street: 5th Avenue
+housenumber: "2040"
+phone: +1-646-609-1060
 opening_hours: ""
 website: ""

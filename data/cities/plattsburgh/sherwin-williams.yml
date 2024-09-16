@@ -1,11 +1,11 @@
 id: 351729312
-type: way
+type: node
 latitude: 44.69711
 longitude: -73.49605
 postcode: "12901"
 city: Plattsburgh
-street: "Route 3"
-housenumber: 488
+street: Route 3
+housenumber: "488"
 phone: ""
 opening_hours: ""
 website: ""

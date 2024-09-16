@@ -1,11 +1,11 @@
 id: 1176116568
-type: way
+type: node
 latitude: 42.52462
 longitude: -74.41016
 postcode: "12071"
 city: Fultonham
-street: "Clauverwie"
-housenumber: 115
+street: Clauverwie
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 679612141
-type: way
+type: node
 latitude: 41.45015
 longitude: -74.41736
 postcode: "10940"
 city: Middletown
-street: "North Street"
-housenumber: 151
-phone: "(845) 344-3200"
+street: North Street
+housenumber: "151"
+phone: (845) 344-3200
 opening_hours: ""
 website: ""

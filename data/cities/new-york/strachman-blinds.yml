@@ -4,8 +4,8 @@ latitude: 40.79178
 longitude: -73.97321
 postcode: "10025"
 city: New York
-street: "West 92nd Street"
-housenumber: 212
-phone: "+1-212-724-6159"
+street: West 92nd Street
+housenumber: "212"
+phone: +1-212-724-6159
 opening_hours: ""
 website: ""

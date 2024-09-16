@@ -1,11 +1,11 @@
 id: 66210221
-type: way
+type: node
 latitude: 42.76466
 longitude: -73.88673
 postcode: "12304"
 city: Schenectady
-street: "Central Avenue"
-housenumber: 2242
+street: Central Avenue
+housenumber: "2242"
 phone: ""
 opening_hours: ""
 website: ""

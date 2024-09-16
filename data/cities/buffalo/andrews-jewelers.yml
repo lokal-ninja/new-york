@@ -1,11 +1,11 @@
 id: 916809314
-type: way
+type: node
 latitude: 42.97615
 longitude: -78.69609
 postcode: "14221"
 city: Buffalo
-street: "Transit Road"
-housenumber: 4715
-phone: "716-630-7091"
-opening_hours: "Su closed, Mo-Th 10:00-19:00, Fr 10:00-20:00, Sa 11:00-18:00"
-website: "https://andrewsjewelers.com/"
+street: Transit Road
+housenumber: "4715"
+phone: 716-630-7091
+opening_hours: Su closed, Mo-Th 10:00-19:00, Fr 10:00-20:00, Sa 11:00-18:00
+website: https://andrewsjewelers.com/

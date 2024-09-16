@@ -4,8 +4,8 @@ latitude: 40.58056
 longitude: -73.96596
 postcode: "11235"
 city: Brooklyn
-street: "Neptune Avenue"
-housenumber: 360
-phone: "+1 718-975-3773"
-opening_hours: "only by appointment"
-website: "https://thebeautyobsession.com/"
+street: Neptune Avenue
+housenumber: "360"
+phone: +1 718-975-3773
+opening_hours: '"only by appointment"'
+website: https://thebeautyobsession.com/

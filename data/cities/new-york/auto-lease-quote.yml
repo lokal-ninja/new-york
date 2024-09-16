@@ -4,8 +4,8 @@ latitude: 40.79857
 longitude: -73.96374
 postcode: "10025"
 city: New York
-street: "Columbus Avenue"
-housenumber: 914
-phone: "+1-646-759-7880"
-opening_hours: "Mo-Th, Sa 09:00-21:00; Fr 09:00-19:00; Su 10:00-19:00"
-website: "https://autoleasequote.com/"
+street: Columbus Avenue
+housenumber: "914"
+phone: +1-646-759-7880
+opening_hours: Mo-Th, Sa 09:00-21:00; Fr 09:00-19:00; Su 10:00-19:00
+website: https://autoleasequote.com/

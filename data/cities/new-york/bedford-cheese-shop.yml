@@ -4,8 +4,8 @@ latitude: 40.7367
 longitude: -73.98697
 postcode: "10003"
 city: New York
-street: "Irving Place"
-housenumber: 67
-phone: "+1-718-395-3080"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://bedfordcheeseshop.com"
+street: Irving Place
+housenumber: "67"
+phone: +1-718-395-3080
+opening_hours: Mo-Su 09:00-19:00
+website: https://bedfordcheeseshop.com

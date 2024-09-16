@@ -4,8 +4,8 @@ latitude: 41.4299
 longitude: -74.42821
 postcode: "10940"
 city: Middletown
-street: "Dolson Avenue"
-housenumber: 130
-phone: "845-344-3222"
-opening_hours: "Tu-Sa 08:00-18:00; Su 08:00-15:00; Open Mondays before any Holiday"
-website: "https://www.famousdelilicious.com/"
+street: Dolson Avenue
+housenumber: "130"
+phone: 845-344-3222
+opening_hours: Tu-Sa 08:00-18:00; Su 08:00-15:00; "Open Mondays before any Holiday"
+website: https://www.famousdelilicious.com/

@@ -4,8 +4,8 @@ latitude: 43.12317
 longitude: -76.141
 postcode: "13212"
 city: Syracuse
-street: "South Main Street"
-housenumber: 711
-phone: "+1 680 800 0594"
-opening_hours: "24/7"
+street: South Main Street
+housenumber: "711"
+phone: +1 680 800 0594
+opening_hours: 24/7
 website: ""

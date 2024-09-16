@@ -1,11 +1,11 @@
 id: 830061817
-type: way
+type: node
 latitude: 43.00979
 longitude: -78.20846
 postcode: "14020"
 city: Batavia
-street: "Lewiston Road"
-housenumber: 8347
+street: Lewiston Road
+housenumber: "8347"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ny/batavia/8347-lewiston-rd.html"
+website: https://www.autozone.com/locations/ny/batavia/8347-lewiston-rd.html

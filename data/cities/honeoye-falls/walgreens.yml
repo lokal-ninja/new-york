@@ -1,11 +1,11 @@
 id: 638696174
-type: way
+type: node
 latitude: 42.95001
 longitude: -77.60221
 postcode: "14472"
 city: Honeoye Falls
-street: "West Main Street"
-housenumber: 135
+street: West Main Street
+housenumber: "135"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-135+w+main+st-honeoye+falls-ny-14472/id=18364"
+website: https://www.walgreens.com/locator/walgreens-135+w+main+st-honeoye+falls-ny-14472/id=18364

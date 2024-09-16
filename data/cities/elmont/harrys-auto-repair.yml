@@ -1,11 +1,11 @@
 id: 609085644
-type: way
+type: node
 latitude: 40.70792
 longitude: -73.71338
 postcode: "11003"
 city: Elmont
-street: "Hempstead Turnpike"
-housenumber: 401
+street: Hempstead Turnpike
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

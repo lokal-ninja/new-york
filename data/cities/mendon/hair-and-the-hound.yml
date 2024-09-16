@@ -1,11 +1,11 @@
 id: 1016998133
-type: way
+type: node
 latitude: 42.99875
 longitude: -77.50495
 postcode: "14506"
 city: Mendon
-street: "Pittsford-Mendon Road"
-housenumber: 1380
+street: Pittsford-Mendon Road
+housenumber: "1380"
 phone: ""
 opening_hours: ""
 website: ""

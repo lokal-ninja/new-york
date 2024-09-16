@@ -1,11 +1,11 @@
 id: 776866328
-type: way
+type: node
 latitude: 43.17538
 longitude: -77.5885
 postcode: "14621"
 city: Rochester
-street: "Clifford Avenue"
-housenumber: 1271
+street: Clifford Avenue
+housenumber: "1271"
 phone: ""
-opening_hours: "Mo-Su 06:00-02:00"
+opening_hours: Mo-Su 06:00-02:00
 website: ""

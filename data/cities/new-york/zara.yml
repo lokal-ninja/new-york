@@ -4,8 +4,8 @@ latitude: 40.77439
 longitude: -73.98251
 postcode: "10023"
 city: New York
-street: "Broadway"
-housenumber: 1963
+street: Broadway
+housenumber: "1963"
 phone: ""
 opening_hours: ""
-website: "https://zara.com/"
+website: https://zara.com/

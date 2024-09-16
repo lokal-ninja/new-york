@@ -1,11 +1,11 @@
 id: 1024513043
-type: way
+type: node
 latitude: 43.00054
 longitude: -78.19252
 postcode: "14020"
 city: Batavia
-street: "West Main Street"
-housenumber: 204
+street: West Main Street
+housenumber: "204"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Batavia/204-W-MAIN-ST"
+website: https://www.speedway.com/locations/NY/Batavia/204-W-MAIN-ST

@@ -1,11 +1,11 @@
 id: 330733641
-type: way
+type: node
 latitude: 41.95391
 longitude: -73.51025
 postcode: "12546"
 city: Millerton
-street: "Main Street"
-housenumber: 41
+street: Main Street
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

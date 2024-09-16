@@ -1,11 +1,11 @@
 id: 1019304067
-type: way
+type: node
 latitude: 43.03188
 longitude: -77.4523
 postcode: "14564"
 city: Victor
-street: "Commons Boulevard"
-housenumber: 7607
-phone: "+1 585-924-9290"
+street: Commons Boulevard
+housenumber: "7607"
+phone: +1 585-924-9290
 opening_hours: ""
-website: "https://www.victorselfstorage.com/"
+website: https://www.victorselfstorage.com/

@@ -1,11 +1,11 @@
 id: 1103635123
-type: way
+type: node
 latitude: 42.90669
 longitude: -78.75251
 postcode: "14225"
 city: Buffalo
-street: "Walden Avenue"
-housenumber: 2285
+street: Walden Avenue
+housenumber: "2285"
 phone: ""
 opening_hours: ""
-website: "https://deltasoniccarwash.com/location/cheektowaga-ny-walden-ave/"
+website: https://deltasoniccarwash.com/location/cheektowaga-ny-walden-ave/

@@ -1,11 +1,11 @@
 id: 1265283695
-type: way
+type: node
 latitude: 42.7868
 longitude: -73.66758
 postcode: "12182"
 city: Troy
-street: "5th Avenue"
-housenumber: 914
+street: 5th Avenue
+housenumber: "914"
 phone: ""
 opening_hours: ""
 website: ""

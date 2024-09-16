@@ -1,11 +1,11 @@
 id: 820057346
-type: way
+type: node
 latitude: 42.16935
 longitude: -79.44133
 postcode: "14757"
 city: Mayville
-street: "Route 394"
-housenumber: 3943
+street: Route 394
+housenumber: "3943"
 phone: ""
 opening_hours: ""
 website: ""

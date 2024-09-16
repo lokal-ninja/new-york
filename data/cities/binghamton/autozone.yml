@@ -1,11 +1,11 @@
 id: 450684777
-type: way
+type: node
 latitude: 42.08775
 longitude: -75.91685
 postcode: "13903"
 city: Binghamton
-street: "Pennsylvania Avenue"
-housenumber: 38
+street: Pennsylvania Avenue
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-19:00"
-website: "https://www.autozone.com/locations/ny/binghamton/38-pennsylvania-ave.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-19:00
+website: https://www.autozone.com/locations/ny/binghamton/38-pennsylvania-ave.html

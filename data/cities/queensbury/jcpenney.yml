@@ -1,11 +1,11 @@
 id: 87102358
-type: way
+type: node
 latitude: 43.32734
 longitude: -73.67958
 postcode: "12804"
 city: Queensbury
-street: "Aviation Road"
-housenumber: 578
+street: Aviation Road
+housenumber: "578"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 768289551
-type: way
+type: node
 latitude: 43.08426
 longitude: -75.28901
 postcode: "13502"
 city: Utica
-street: "Lomond Place"
-housenumber: 430
+street: Lomond Place
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

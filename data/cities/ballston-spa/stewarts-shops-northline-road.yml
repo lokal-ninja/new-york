@@ -1,11 +1,11 @@
 id: 1032754292
-type: way
+type: node
 latitude: 43.02221
 longitude: -73.83842
 postcode: "12020"
 city: Ballston Spa
-street: "Northline Road"
-housenumber: 165
+street: Northline Road
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

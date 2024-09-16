@@ -1,11 +1,11 @@
 id: 126312065
-type: way
+type: node
 latitude: 42.9966
 longitude: -73.55133
 postcode: "12154"
 city: Schaghticoke
-street: "State Route 40"
-housenumber: 11853
+street: State Route 40
+housenumber: "11853"
 phone: ""
 opening_hours: ""
 website: ""

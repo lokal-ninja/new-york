@@ -4,8 +4,8 @@ latitude: 40.7198
 longitude: -73.98773
 postcode: "10002"
 city: New York
-street: "Rivington Street"
-housenumber: 115
-phone: "+1-212-375-1929"
-opening_hours: "24/7"
+street: Rivington Street
+housenumber: "115"
+phone: +1-212-375-1929
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 796556148
-type: way
+type: node
 latitude: 43.86074
 longitude: -73.44603
 postcode: "12883"
 city: Ticonderoga
-street: "Commerce Drive"
-housenumber: 9
-phone: "+1 (518) 585-6450"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
+street: Commerce Drive
+housenumber: "9"
+phone: +1 (518) 585-6450
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
 website: ""

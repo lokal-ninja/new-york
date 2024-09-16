@@ -1,11 +1,11 @@
 id: 885707824
-type: way
+type: node
 latitude: 42.92726
 longitude: -78.88935
 postcode: "14213"
 city: Buffalo
-street: "Grant Street"
-housenumber: 489
+street: Grant Street
+housenumber: "489"
 phone: ""
 opening_hours: ""
 website: ""

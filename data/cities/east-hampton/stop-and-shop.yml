@@ -1,11 +1,11 @@
 id: 472765361
-type: way
+type: node
 latitude: 40.96391
 longitude: -72.18758
 postcode: "11937"
 city: East Hampton
-street: "Newtown Lane"
-housenumber: 67
+street: Newtown Lane
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 868480067
-type: way
+type: node
 latitude: 41.70588
 longitude: -73.91643
 postcode: "12601"
 city: Poughkeepsie
-street: "Smith Street"
-housenumber: 108
+street: Smith Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

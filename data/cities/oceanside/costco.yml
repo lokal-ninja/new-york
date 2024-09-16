@@ -1,11 +1,11 @@
 id: 608002073
-type: way
+type: node
 latitude: 40.6189
 longitude: -73.65202
 postcode: "11572"
 city: Oceanside
-street: "Hampton Road"
-housenumber: 3705
-phone: "+1 516-259-7002"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00"
-website: "https://www.costco.com/warehouse-locations/oceanside-ny-1215.html"
+street: Hampton Road
+housenumber: "3705"
+phone: +1 516-259-7002
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00
+website: https://www.costco.com/warehouse-locations/oceanside-ny-1215.html

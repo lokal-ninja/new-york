@@ -1,11 +1,11 @@
 id: 122613901
-type: way
+type: node
 latitude: 42.69504
 longitude: -73.77193
 postcode: "12205"
 city: Albany
-street: "Everett Road"
-housenumber: 118
+street: Everett Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

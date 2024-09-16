@@ -4,8 +4,8 @@ latitude: 40.773
 longitude: -73.99288
 postcode: "10069"
 city: New York
-street: "Riverside Boulevard"
-housenumber: 8
-phone: "+1-212-333-5400"
-opening_hours: "Mo-Sa 12:00-20:00; Su 12:00-19:00"
-website: "https://sommcellarswine.com"
+street: Riverside Boulevard
+housenumber: "8"
+phone: +1-212-333-5400
+opening_hours: Mo-Sa 12:00-20:00; Su 12:00-19:00
+website: https://sommcellarswine.com

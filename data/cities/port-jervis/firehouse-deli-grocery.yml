@@ -1,11 +1,11 @@
 id: 374847023
-type: way
+type: node
 latitude: 41.37032
 longitude: -74.6155
 postcode: "12771"
 city: Port Jervis
-street: "Mountain Road"
-housenumber: 855
-phone: "+1-845-672-9449"
+street: Mountain Road
+housenumber: "855"
+phone: +1-845-672-9449
 opening_hours: ""
 website: ""

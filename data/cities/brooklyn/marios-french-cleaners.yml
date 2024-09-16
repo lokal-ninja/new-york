@@ -4,8 +4,8 @@ latitude: 40.66945
 longitude: -73.98918
 postcode: "11215"
 city: Brooklyn
-street: "4th Avenue"
-housenumber: 457
-phone: "+1-718-788-8615"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00"
+street: 4th Avenue
+housenumber: "457"
+phone: +1-718-788-8615
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00
 website: ""

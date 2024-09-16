@@ -4,8 +4,8 @@ latitude: 40.70427
 longitude: -74.00967
 postcode: "10004"
 city: New York
-street: "Hanover Square"
-housenumber: 7
+street: Hanover Square
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.opticalinsight.com/"
+website: http://www.opticalinsight.com/

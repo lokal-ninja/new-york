@@ -1,11 +1,11 @@
 id: 1021800677
-type: way
+type: node
 latitude: 42.21368
 longitude: -73.87961
 postcode: "12414"
 city: Catskill
-street: "Central Avenue"
-housenumber: 19
+street: Central Avenue
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-19+central+ave-catskill-ny-12414/id=10955"
+website: https://www.walgreens.com/locator/walgreens-19+central+ave-catskill-ny-12414/id=10955

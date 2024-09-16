@@ -1,11 +1,11 @@
 id: 629694878
-type: way
+type: node
 latitude: 42.51005
 longitude: -78.68868
 postcode: "14141"
 city: Springville
-street: "South Cascade Drive"
-housenumber: 29
-phone: "(716) 592-2828"
+street: South Cascade Drive
+housenumber: "29"
+phone: (716) 592-2828
 opening_hours: ""
-website: "https://www.sneileensflorist.com/"
+website: https://www.sneileensflorist.com/

@@ -1,11 +1,11 @@
 id: 549680713
-type: way
+type: node
 latitude: 43.25399
 longitude: -77.6123
 postcode: "14612"
 city: Rochester
-street: "Lake Avenue"
-housenumber: 4545
+street: Lake Avenue
+housenumber: "4545"
 phone: ""
 opening_hours: ""
 website: ""

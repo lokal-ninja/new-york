@@ -1,11 +1,11 @@
 id: 552499812
-type: way
+type: node
 latitude: 42.63934
 longitude: -73.776
 postcode: "12209"
 city: Albany
-street: "2nd Avenue"
-housenumber: 295
+street: 2nd Avenue
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 467198420
-type: way
+type: node
 latitude: 40.80497
 longitude: -72.81636
 postcode: "11955"
 city: Moriches
-street: "Montauk Highway"
-housenumber: 72
+street: Montauk Highway
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

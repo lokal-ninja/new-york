@@ -4,8 +4,8 @@ latitude: 41.50809
 longitude: -73.97559
 postcode: "12508"
 city: Beacon
-street: "Main Street"
-housenumber: 167
-phone: "+1-845-838-2134"
-opening_hours: "Mo-Th 11:00-18:00; Fr-Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://www.iloveplaytoys.com"
+street: Main Street
+housenumber: "167"
+phone: +1-845-838-2134
+opening_hours: Mo-Th 11:00-18:00; Fr-Sa 11:00-19:00; Su 11:00-17:00
+website: https://www.iloveplaytoys.com

@@ -1,11 +1,11 @@
 id: 390684724
-type: way
+type: node
 latitude: 41.73909
 longitude: -74.03421
 postcode: "12528"
 city: Highland
-street: "NY 299"
-housenumber: 650
-phone: "+1 845-834-5000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ny-highland/2326"
+street: NY 299
+housenumber: "650"
+phone: +1 845-834-5000
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ny-highland/2326

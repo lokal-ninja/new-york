@@ -4,8 +4,8 @@ latitude: 40.80147
 longitude: -73.95777
 postcode: "10026"
 city: New York
-street: "Frederick Douglass Boulevard"
-housenumber: 2051
-phone: "+1-212-222-0400"
-opening_hours: "24/7"
+street: Frederick Douglass Boulevard
+housenumber: "2051"
+phone: +1-212-222-0400
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 612477614
-type: way
+type: node
 latitude: 40.80506
 longitude: -73.64076
 postcode: "11576"
 city: Roslyn
-street: "Northern Boulevard"
-housenumber: 1750
+street: Northern Boulevard
+housenumber: "1750"
 phone: ""
 opening_hours: ""
 website: ""

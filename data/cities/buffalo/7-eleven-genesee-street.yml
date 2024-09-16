@@ -1,11 +1,11 @@
 id: 1060906866
-type: way
+type: node
 latitude: 42.9276
 longitude: -78.75349
 postcode: "14225"
 city: Buffalo
-street: "Genesee Street"
-housenumber: 3550
-phone: "+1 716-632-5010"
+street: Genesee Street
+housenumber: "3550"
+phone: +1 716-632-5010
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/cheektowaga/3550-genesee-street-34662"
+website: https://www.7-eleven.com/locations/ny/cheektowaga/3550-genesee-street-34662

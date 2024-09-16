@@ -1,11 +1,11 @@
 id: 561701061
-type: way
+type: node
 latitude: 43.20747
 longitude: -77.69352
 postcode: "14626"
 city: Rochester
-street: "Greece Ridge Center Drive"
-housenumber: 397
-phone: "+1 585-723-8890"
+street: Greece Ridge Center Drive
+housenumber: "397"
+phone: +1 585-723-8890
 opening_hours: ""
-website: "https://www.macys.com/stores/ny/rochester/mall-at-greece-ridge_143.html"
+website: https://www.macys.com/stores/ny/rochester/mall-at-greece-ridge_143.html

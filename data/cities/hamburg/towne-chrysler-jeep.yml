@@ -1,11 +1,11 @@
 id: 560150327
-type: way
+type: node
 latitude: 42.74711
 longitude: -78.85493
 postcode: "14075"
 city: Hamburg
-street: "Camp Road"
-housenumber: 5130
+street: Camp Road
+housenumber: "5130"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 825537269
-type: way
+type: node
 latitude: 42.61398
 longitude: -77.4024
 postcode: "14512"
 city: Naples
-street: "South Main Street"
-housenumber: 136
+street: South Main Street
+housenumber: "136"
 phone: ""
 opening_hours: ""
 website: ""

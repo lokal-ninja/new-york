@@ -1,11 +1,11 @@
 id: 688663856
-type: way
+type: node
 latitude: 43.11614
 longitude: -77.48598
 postcode: "14445"
 city: East Rochester
-street: "Despatch Drive"
-housenumber: 120
+street: Despatch Drive
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

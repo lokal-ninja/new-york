@@ -1,11 +1,11 @@
 id: 88259694
-type: way
+type: node
 latitude: 42.96435
 longitude: -77.34691
 postcode: "14425"
 city: Farmington
-street: "County Road 41"
-housenumber: 5930
+street: County Road 41
+housenumber: "5930"
 phone: ""
 opening_hours: ""
 website: ""

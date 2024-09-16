@@ -1,11 +1,11 @@
 id: 1216026862
-type: way
+type: node
 latitude: 42.1745
 longitude: -74.01946
 postcode: "12463"
 city: Palenville
-street: "Route 32A"
-housenumber: 734
-phone: "+1-518-678-1020"
+street: Route 32A
+housenumber: "734"
+phone: +1-518-678-1020
 opening_hours: ""
 website: ""

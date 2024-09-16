@@ -1,11 +1,11 @@
 id: 76510943
-type: way
+type: node
 latitude: 42.47483
 longitude: -73.68453
 postcode: "12156"
 city: Schodack Landing
-street: "United States Route 9"
-housenumber: 521
+street: United States Route 9
+housenumber: "521"
 phone: ""
 opening_hours: ""
 website: ""

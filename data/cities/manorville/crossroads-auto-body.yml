@@ -1,11 +1,11 @@
 id: 467095606
-type: way
+type: node
 latitude: 40.86542
 longitude: -72.80899
 postcode: "11949"
 city: Manorville
-street: "Ryerson Avenue"
-housenumber: 364
+street: Ryerson Avenue
+housenumber: "364"
 phone: ""
 opening_hours: ""
 website: ""

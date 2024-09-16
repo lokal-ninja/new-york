@@ -4,8 +4,8 @@ latitude: 40.79311
 longitude: -73.9676
 postcode: "10025"
 city: New York
-street: "Columbus Avenue"
-housenumber: 750
-phone: "+1-646-475-0960"
+street: Columbus Avenue
+housenumber: "750"
+phone: +1-646-475-0960
 opening_hours: ""
-website: "https://www.visionlabnyc.com"
+website: https://www.visionlabnyc.com

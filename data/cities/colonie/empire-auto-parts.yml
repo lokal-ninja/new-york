@@ -1,11 +1,11 @@
 id: 660858136
-type: way
+type: node
 latitude: 42.71286
 longitude: -73.84511
 postcode: "12205"
 city: Colonie
-street: "Petra Lane"
-housenumber: 14
+street: Petra Lane
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

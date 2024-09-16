@@ -4,8 +4,8 @@ latitude: 43.07973
 longitude: -73.78516
 postcode: "12866"
 city: Saratoga Springs
-street: "Spring Street"
-housenumber: 11
-phone: "+1 518 860 0299"
-opening_hours: "Mo 12:00-19:00,Tu 16:00-19:00,We-Sa 12:00-19:00,Su 12:00-17:00"
-website: "https://www.bythebottleshop.com/"
+street: Spring Street
+housenumber: "11"
+phone: +1 518 860 0299
+opening_hours: Mo 12:00-19:00,Tu 16:00-19:00,We-Sa 12:00-19:00,Su 12:00-17:00
+website: https://www.bythebottleshop.com/

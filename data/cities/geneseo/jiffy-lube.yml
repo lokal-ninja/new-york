@@ -1,11 +1,11 @@
 id: 827530189
-type: way
+type: node
 latitude: 42.79394
 longitude: -77.80268
 postcode: "14454"
 city: Geneseo
-street: "East South Street"
-housenumber: 29
+street: East South Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

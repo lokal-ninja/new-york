@@ -1,11 +1,11 @@
 id: 460843215
-type: way
+type: node
 latitude: 41.1594
 longitude: -73.7727
 postcode: "10514"
 city: Chappaqua
-street: "King Street"
-housenumber: 29
-phone: "1-914-529-8013"
+street: King Street
+housenumber: "29"
+phone: 1-914-529-8013
 opening_hours: ""
-website: "https://www.scatteredbooks.com/"
+website: https://www.scatteredbooks.com/

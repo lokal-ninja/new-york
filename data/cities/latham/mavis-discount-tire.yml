@@ -1,11 +1,11 @@
 id: 64349476
-type: way
+type: node
 latitude: 42.7428
 longitude: -73.7615
 postcode: "12110"
 city: Latham
-street: "New Loudon Road"
-housenumber: 
+street: New Loudon Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

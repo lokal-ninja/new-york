@@ -1,11 +1,11 @@
 id: 1022166940
-type: way
+type: node
 latitude: 42.91464
 longitude: -78.75618
 postcode: "14225"
 city: Buffalo
-street: "McKesson Parkway"
-housenumber: 50
+street: McKesson Parkway
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://www.grainger.com/branch/Buffalo-Branch-104"
+opening_hours: Mo-Fr 07:00-16:00
+website: https://www.grainger.com/branch/Buffalo-Branch-104

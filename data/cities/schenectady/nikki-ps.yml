@@ -1,11 +1,11 @@
 id: 790440147
-type: way
+type: node
 latitude: 42.76846
 longitude: -73.91612
 postcode: "12303"
 city: Schenectady
-street: "Community Road"
-housenumber: 1045
+street: Community Road
+housenumber: "1045"
 phone: ""
 opening_hours: ""
 website: ""

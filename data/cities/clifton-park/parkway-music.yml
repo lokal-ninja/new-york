@@ -1,11 +1,11 @@
 id: 141297747
-type: way
+type: node
 latitude: 42.87708
 longitude: -73.77356
 postcode: "12065"
 city: Clifton Park
-street: "Route 9"
-housenumber: 1777
+street: Route 9
+housenumber: "1777"
 phone: ""
 opening_hours: ""
 website: ""

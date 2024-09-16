@@ -4,8 +4,8 @@ latitude: 40.78331
 longitude: -73.98004
 postcode: "10024"
 city: New York
-street: "Broadway"
-housenumber: 2206
-phone: "+1-646-370-4146"
-opening_hours: "Mo-Sa 12:00-19:00; Su 12:00-18:00"
-website: "https://thenicheshop.co"
+street: Broadway
+housenumber: "2206"
+phone: +1-646-370-4146
+opening_hours: Mo-Sa 12:00-19:00; Su 12:00-18:00
+website: https://thenicheshop.co

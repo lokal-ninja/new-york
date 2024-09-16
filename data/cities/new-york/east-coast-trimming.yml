@@ -4,8 +4,8 @@ latitude: 40.75304
 longitude: -73.98791
 postcode: "10018"
 city: New York
-street: "West 38th Street"
-housenumber: 142
+street: West 38th Street
+housenumber: "142"
 phone: "2122210050"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 12:00-05:00"
+opening_hours: Mo-Fr 10:00-18:00, Sa 12:00-05:00
 website: ""

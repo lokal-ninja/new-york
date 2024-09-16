@@ -1,11 +1,11 @@
 id: 698432581
-type: way
+type: node
 latitude: 43.31786
 longitude: -73.62051
 postcode: "12804"
 city: Queensbury
-street: "Triangle Park Road"
-housenumber: 25
+street: Triangle Park Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

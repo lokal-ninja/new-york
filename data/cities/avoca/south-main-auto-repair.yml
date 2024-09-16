@@ -1,11 +1,11 @@
 id: 822715464
-type: way
+type: node
 latitude: 42.40806
 longitude: -77.42169
 postcode: "14809"
 city: Avoca
-street: "South Main Street"
-housenumber: 47
+street: South Main Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

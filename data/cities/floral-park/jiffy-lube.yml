@@ -1,11 +1,11 @@
 id: 510601046
-type: way
+type: node
 latitude: 40.72692
 longitude: -73.71055
 postcode: "11001"
 city: Floral Park
-street: "Jericho Turnpike"
-housenumber: 50
+street: Jericho Turnpike
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

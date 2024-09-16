@@ -1,11 +1,11 @@
 id: 695705431
-type: way
+type: node
 latitude: 43.45371
 longitude: -76.52475
 postcode: "13126"
 city: Oswego
-street: "West Bridge Street"
-housenumber: 174
+street: West Bridge Street
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

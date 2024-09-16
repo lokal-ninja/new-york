@@ -4,8 +4,9 @@ latitude: 40.74077
 longitude: -74.0015
 postcode: "10011"
 city: New York
-street: "8th Avenue"
-housenumber: 112
+street: 8th Avenue
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-We 08:00-22:00; Th 08:00-23:00; Fr 08:00-24:00; Sa 10:00-24:00; Su 11:00-22:00"
-website: "https://empirecake.com/"
+opening_hours: Mo-We 08:00-22:00; Th 08:00-23:00; Fr 08:00-24:00; Sa 10:00-24:00;
+    Su 11:00-22:00
+website: https://empirecake.com/

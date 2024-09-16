@@ -4,8 +4,8 @@ latitude: 42.14393
 longitude: -77.05795
 postcode: "14830"
 city: Corning
-street: "West Market Street"
-housenumber: 86
+street: West Market Street
+housenumber: "86"
 phone: ""
 opening_hours: ""
-website: "http://www.imaginethatkids.com/index.php"
+website: http://www.imaginethatkids.com/index.php

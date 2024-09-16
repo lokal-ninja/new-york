@@ -1,11 +1,11 @@
 id: 263880916
-type: way
+type: node
 latitude: 41.92537
 longitude: -73.99238
 postcode: "12401"
 city: Kingston
-street: "Broadway"
-housenumber: 327
-phone: "+1-845-338-8330"
-opening_hours: "24/7"
+street: Broadway
+housenumber: "327"
+phone: +1-845-338-8330
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 1176939314
-type: way
+type: node
 latitude: 42.78621
 longitude: -73.96874
 postcode: "12306"
 city: Schenectady
-street: "Augustine Avenue"
-housenumber: 2748
+street: Augustine Avenue
+housenumber: "2748"
 phone: ""
 opening_hours: ""
 website: ""

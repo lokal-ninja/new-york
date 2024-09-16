@@ -4,8 +4,8 @@ latitude: 40.64176
 longitude: -74.01359
 postcode: "11220"
 city: Brooklyn
-street: "5th Avenue"
-housenumber: 5523
-phone: "+1-718-492-1766"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://e-y-furniture.business.site"
+street: 5th Avenue
+housenumber: "5523"
+phone: +1-718-492-1766
+opening_hours: Mo-Sa 09:00-20:00
+website: https://e-y-furniture.business.site

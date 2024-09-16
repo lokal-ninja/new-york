@@ -4,8 +4,8 @@ latitude: 43.4264
 longitude: -73.71264
 postcode: "12845"
 city: Lake George
-street: "Canada Street"
-housenumber: 325
+street: Canada Street
+housenumber: "325"
 phone: ""
 opening_hours: ""
-website: "https://dilligafusa.com"
+website: https://dilligafusa.com

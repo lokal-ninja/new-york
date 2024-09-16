@@ -4,8 +4,8 @@ latitude: 40.77815
 longitude: -73.98098
 postcode: "10023"
 city: New York
-street: "West 72nd Street"
-housenumber: 160
-phone: "+1 212-787-1700"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-19:00"
-website: "https://www.ackerwines.com/"
+street: West 72nd Street
+housenumber: "160"
+phone: +1 212-787-1700
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-19:00
+website: https://www.ackerwines.com/

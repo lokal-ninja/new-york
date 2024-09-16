@@ -1,11 +1,11 @@
 id: 60194258
-type: way
+type: node
 latitude: 42.82485
 longitude: -73.96081
 postcode: "12302"
 city: Schenectady
-street: "Mohawk Avenue"
-housenumber: 38
+street: Mohawk Avenue
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

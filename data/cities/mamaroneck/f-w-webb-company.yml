@@ -1,11 +1,11 @@
 id: 850569778
-type: way
+type: node
 latitude: 40.9613
 longitude: -73.73712
 postcode: "10543"
 city: Mamaroneck
-street: "Mamaroneck Avenue"
-housenumber: 1020
+street: Mamaroneck Avenue
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

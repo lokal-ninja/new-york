@@ -4,8 +4,8 @@ latitude: 40.56619
 longitude: -74.11116
 postcode: "10306"
 city: Staten Island
-street: "Hylan Boulevard"
-housenumber: 2656
-phone: "+1 929-202-2229"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/staten-island-ny-1340"
+street: Hylan Boulevard
+housenumber: "2656"
+phone: +1 929-202-2229
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/staten-island-ny-1340

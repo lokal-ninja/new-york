@@ -1,11 +1,11 @@
 id: 248835021
-type: way
+type: node
 latitude: 40.59014
 longitude: -73.97512
 postcode: "11223"
 city: Brooklyn
-street: "86th Street"
-housenumber: 2960
+street: 86th Street
+housenumber: "2960"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

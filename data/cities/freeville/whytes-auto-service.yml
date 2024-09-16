@@ -1,11 +1,11 @@
 id: 452729908
-type: way
+type: node
 latitude: 42.51045
 longitude: -76.35423
 postcode: "13068"
 city: Freeville
-street: "Main Street"
-housenumber: 64
+street: Main Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

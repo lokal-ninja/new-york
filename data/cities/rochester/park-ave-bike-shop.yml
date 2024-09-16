@@ -1,11 +1,11 @@
 id: 125922737
-type: way
+type: node
 latitude: 43.09146
 longitude: -77.63312
 postcode: "14623"
 city: Rochester
-street: "Jay Scutti Boulevard"
-housenumber: 600
+street: Jay Scutti Boulevard
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

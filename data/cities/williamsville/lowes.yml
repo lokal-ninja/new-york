@@ -1,11 +1,11 @@
 id: 218021261
-type: way
+type: node
 latitude: 42.99154
 longitude: -78.69955
 postcode: "14221"
 city: Williamsville
-street: "Transit Road"
-housenumber: 8150
-phone: "+1 716-639-2500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 10:00-10:00"
-website: "https://www.lowes.com"
+street: Transit Road
+housenumber: "8150"
+phone: +1 716-639-2500
+opening_hours: Mo-Sa 06:00-22:00; Su 10:00-10:00
+website: https://www.lowes.com

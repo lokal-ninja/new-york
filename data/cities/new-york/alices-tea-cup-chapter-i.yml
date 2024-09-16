@@ -4,8 +4,8 @@ latitude: 40.7781
 longitude: -73.97864
 postcode: "10023"
 city: New York
-street: "West 73rd Street"
-housenumber: 102
-phone: "+1 212-799-3006"
-opening_hours: "Mo-Fr 11:00-18:00; Sa-Su 10:00-18:00"
-website: "https://alicesteacup.com/chapter-i/"
+street: West 73rd Street
+housenumber: "102"
+phone: +1 212-799-3006
+opening_hours: Mo-Fr 11:00-18:00; Sa-Su 10:00-18:00
+website: https://alicesteacup.com/chapter-i/

@@ -1,11 +1,11 @@
 id: 734117866
-type: way
+type: node
 latitude: 42.44776
 longitude: -75.05223
-postcode: "13820-3575"
+postcode: 13820-3575
 city: Oneonta
-street: "State Highway 28"
-housenumber: 763
-phone: "+1 866-465-1065"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/oneonta/763-state-highway-28"
+street: State Highway 28
+housenumber: "763"
+phone: +1 866-465-1065
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/oneonta/763-state-highway-28

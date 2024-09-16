@@ -1,11 +1,11 @@
 id: 697442724
-type: way
+type: node
 latitude: 41.43773
 longitude: -74.42308
 postcode: "10940"
 city: Middletown
-street: "Academy Avenue"
-housenumber: 143
-phone: "(845) 978-1700"
+street: Academy Avenue
+housenumber: "143"
+phone: (845) 978-1700
 opening_hours: ""
 website: ""

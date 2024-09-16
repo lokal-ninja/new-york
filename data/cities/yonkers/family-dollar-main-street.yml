@@ -4,8 +4,8 @@ latitude: 40.93431
 longitude: -73.89843
 postcode: "10701"
 city: Yonkers
-street: "Main Street"
-housenumber: 7
-phone: "+1 914-265-6771"
-opening_hours: "08:00-20:00"
-website: "https://www.familydollar.com/locations/ny/yonkers/33003/"
+street: Main Street
+housenumber: "7"
+phone: +1 914-265-6771
+opening_hours: 08:00-20:00
+website: https://www.familydollar.com/locations/ny/yonkers/33003/

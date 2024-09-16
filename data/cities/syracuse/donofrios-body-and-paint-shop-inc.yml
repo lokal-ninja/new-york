@@ -1,11 +1,11 @@
 id: 909850233
-type: way
+type: node
 latitude: 43.09071
 longitude: -76.14093
 postcode: "13208"
 city: Syracuse
-street: "Factory Avenue"
-housenumber: 301
+street: Factory Avenue
+housenumber: "301"
 phone: ""
 opening_hours: ""
-website: "https://www.donofriosbodyshop.com/"
+website: https://www.donofriosbodyshop.com/

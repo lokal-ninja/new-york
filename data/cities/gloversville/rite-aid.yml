@@ -1,11 +1,11 @@
 id: 684184798
-type: way
+type: node
 latitude: 43.05518
 longitude: -74.34203
 postcode: "12078"
 city: Gloversville
-street: "North Main Street"
-housenumber: 172
-phone: "+1(518)773-7591"
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/ny/gloversville/172-north-main-street.html"
+street: North Main Street
+housenumber: "172"
+phone: +1(518)773-7591
+opening_hours: Mo-Fr 08:00-21:00; Sa-Su 09:00-18:00
+website: https://www.riteaid.com/locations/ny/gloversville/172-north-main-street.html

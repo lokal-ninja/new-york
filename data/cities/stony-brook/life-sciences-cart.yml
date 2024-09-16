@@ -5,7 +5,7 @@ longitude: -73.12038
 postcode: ""
 city: Stony Brook
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.stonybrook.edu/commcms/dining/about/facilities/life-sciences-cart"
+opening_hours: 24/7
+website: https://www.stonybrook.edu/commcms/dining/about/facilities/life-sciences-cart

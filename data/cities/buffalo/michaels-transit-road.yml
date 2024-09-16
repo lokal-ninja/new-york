@@ -4,8 +4,8 @@ latitude: 42.98491
 longitude: -78.69425
 postcode: "14221"
 city: Buffalo
-street: "Transit Road"
-housenumber: 5055
-phone: "+1 716-839-6132"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ny/williamsville/2014"
+street: Transit Road
+housenumber: "5055"
+phone: +1 716-839-6132
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ny/williamsville/2014

@@ -1,11 +1,11 @@
 id: 965756970
-type: way
+type: node
 latitude: 40.73926
 longitude: -73.41767
 postcode: "11735"
 city: East Farmingdale
-street: "Airport Plaza Boulevard"
-housenumber: 251
+street: Airport Plaza Boulevard
+housenumber: "251"
 phone: ""
 opening_hours: ""
 website: ""

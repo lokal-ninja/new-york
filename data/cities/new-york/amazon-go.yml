@@ -4,8 +4,8 @@ latitude: 40.75151
 longitude: -73.97577
 postcode: "10174"
 city: New York
-street: "East 43rd Street"
-housenumber: 405
-phone: "+1 888-280-4331"
-opening_hours: "Mo-Fr 06:00-20:00"
+street: East 43rd Street
+housenumber: "405"
+phone: +1 888-280-4331
+opening_hours: Mo-Fr 06:00-20:00
 website: ""

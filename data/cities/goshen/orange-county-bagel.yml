@@ -1,11 +1,11 @@
 id: 612145917
-type: way
+type: node
 latitude: 41.40066
 longitude: -74.32586
 postcode: "10924"
 city: Goshen
-street: "Greenwich Avenue"
-housenumber: 151
+street: Greenwich Avenue
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

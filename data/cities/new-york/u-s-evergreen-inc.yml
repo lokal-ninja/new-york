@@ -4,8 +4,8 @@ latitude: 40.74584
 longitude: -73.9909
 postcode: "10001"
 city: New York
-street: "6th Avenue"
-housenumber: 805
+street: 6th Avenue
+housenumber: "805"
 phone: ""
 opening_hours: ""
 website: ""

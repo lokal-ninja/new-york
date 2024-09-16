@@ -1,11 +1,11 @@
 id: 1009871230
-type: way
+type: node
 latitude: 42.94967
 longitude: -78.86843
 postcode: "14216"
 city: Buffalo
-street: "Delaware Avenue"
-housenumber: 2401
+street: Delaware Avenue
+housenumber: "2401"
 phone: "+17168777771"
 opening_hours: ""
-website: "https://www.safetyfirstnails.com/"
+website: https://www.safetyfirstnails.com/

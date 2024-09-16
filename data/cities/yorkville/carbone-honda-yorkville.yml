@@ -1,11 +1,11 @@
 id: 540213315
-type: way
+type: node
 latitude: 43.10596
 longitude: -75.2978
 postcode: "13495"
 city: Yorkville
-street: "Commercial Dr"
-housenumber: 5009
-phone: "(315) 790-6106"
-opening_hours: "Mo-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00"
-website: "http://www.carbonehondayorkville.com"
+street: Commercial Dr
+housenumber: "5009"
+phone: (315) 790-6106
+opening_hours: Mo-Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-17:00
+website: http://www.carbonehondayorkville.com

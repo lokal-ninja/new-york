@@ -1,11 +1,11 @@
 id: 951238811
-type: way
+type: node
 latitude: 43.18051
 longitude: -77.64034
 postcode: "14613"
 city: Rochester
-street: "Driving Park Avenue"
-housenumber: 375
+street: Driving Park Avenue
+housenumber: "375"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-20:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-20:00
 website: ""

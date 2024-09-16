@@ -1,11 +1,11 @@
 id: 280158741
-type: way
+type: node
 latitude: 40.71318
 longitude: -73.90372
 postcode: "11378"
 city: Maspeth
-street: "Eliot Avenue"
-housenumber: 6034
-phone: "+1 347 943 8504"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00; Su off"
-website: "https://www.midas.com/store/ny/maspeth/60-34-eliot-avenue-11378?shopnum=4400"
+street: Eliot Avenue
+housenumber: "6034"
+phone: +1 347 943 8504
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00; Su off
+website: https://www.midas.com/store/ny/maspeth/60-34-eliot-avenue-11378?shopnum=4400

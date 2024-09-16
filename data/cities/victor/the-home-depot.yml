@@ -1,11 +1,11 @@
 id: 825620773
-type: way
+type: node
 latitude: 43.03269
 longitude: -77.45353
 postcode: "14564"
 city: Victor
-street: "Commons Boulevard"
-housenumber: 7600
+street: Commons Boulevard
+housenumber: "7600"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
 website: ""

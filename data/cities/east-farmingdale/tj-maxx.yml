@@ -1,11 +1,11 @@
 id: 965756967
-type: way
+type: node
 latitude: 40.73885
 longitude: -73.41854
 postcode: "11735"
 city: East Farmingdale
-street: "Airport Plaza Boulevard"
-housenumber: 231
-phone: "+1 631-844-9682"
-opening_hours: "09:30-21:30"
-website: "https://tjmaxx.tjx.com/store/stores/Farmingdale-NY-11735/1317/aboutstore"
+street: Airport Plaza Boulevard
+housenumber: "231"
+phone: +1 631-844-9682
+opening_hours: 09:30-21:30
+website: https://tjmaxx.tjx.com/store/stores/Farmingdale-NY-11735/1317/aboutstore

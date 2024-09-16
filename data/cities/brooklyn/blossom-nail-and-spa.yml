@@ -4,8 +4,8 @@ latitude: 40.68278
 longitude: -73.96419
 postcode: "11238"
 city: Brooklyn
-street: "Fulton Street"
-housenumber: 920
-phone: "+1-718-789-1284"
-opening_hours: "Mo-Su 10:00-19:00"
+street: Fulton Street
+housenumber: "920"
+phone: +1-718-789-1284
+opening_hours: Mo-Su 10:00-19:00
 website: ""

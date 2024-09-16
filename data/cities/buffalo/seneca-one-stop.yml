@@ -1,11 +1,11 @@
 id: 1203764301
-type: way
+type: node
 latitude: 42.87551
 longitude: -78.87057
 postcode: "14204"
 city: Buffalo
-street: "Perry Street"
-housenumber: 180
+street: Perry Street
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

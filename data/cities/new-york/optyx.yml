@@ -4,8 +4,8 @@ latitude: 40.78908
 longitude: -73.9755
 postcode: "10024"
 city: New York
-street: "Broadway"
-housenumber: 2384
-phone: "+1-212-724-0850"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00"
-website: "https://optyx.com/locations/2384-broadway-new-york-ny-10024/"
+street: Broadway
+housenumber: "2384"
+phone: +1-212-724-0850
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00
+website: https://optyx.com/locations/2384-broadway-new-york-ny-10024/

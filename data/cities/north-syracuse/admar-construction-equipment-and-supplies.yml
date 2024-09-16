@@ -1,11 +1,11 @@
 id: 250707192
-type: way
+type: node
 latitude: 43.14668
 longitude: -76.12584
 postcode: "13212"
 city: North Syracuse
-street: "Brewerton Road"
-housenumber: 7800
+street: Brewerton Road
+housenumber: "7800"
 phone: ""
 opening_hours: ""
-website: "https://admarsupply.com"
+website: https://admarsupply.com

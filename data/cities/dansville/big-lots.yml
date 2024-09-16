@@ -1,11 +1,11 @@
 id: 357005674
-type: way
+type: node
 latitude: 42.56499
 longitude: -77.7104
 postcode: "14437"
 city: Dansville
-street: "Village Plaza"
-housenumber: 10
-phone: "+1 585-335-7351"
-opening_hours: "09:00-21:00"
-website: "https://local.biglots.com/ny/dansville/10-village-plaza"
+street: Village Plaza
+housenumber: "10"
+phone: +1 585-335-7351
+opening_hours: 09:00-21:00
+website: https://local.biglots.com/ny/dansville/10-village-plaza

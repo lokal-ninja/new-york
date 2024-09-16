@@ -4,8 +4,8 @@ latitude: 42.26661
 longitude: -74.92223
 postcode: "13753"
 city: Delhi
-street: "Main Street"
-housenumber: 3
+street: Main Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

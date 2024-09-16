@@ -1,11 +1,11 @@
 id: 964809736
-type: way
+type: node
 latitude: 43.05154
 longitude: -74.34532
 postcode: "12078"
 city: Gloversville
-street: "North Main Street"
-housenumber: 29
-phone: "+1(518)921-4167"
+street: North Main Street
+housenumber: "29"
+phone: +1(518)921-4167
 opening_hours: ""
-website: "addictivepaintattoo.com"
+website: addictivepaintattoo.com

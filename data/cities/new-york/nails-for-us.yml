@@ -4,8 +4,8 @@ latitude: 40.7837
 longitude: -73.9792
 postcode: "10024"
 city: New York
-street: "West 79th Street"
-housenumber: 221
-phone: "+1-212-781-2222"
+street: West 79th Street
+housenumber: "221"
+phone: +1-212-781-2222
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.67726
 longitude: -73.99819
 postcode: "11231"
 city: Brooklyn
-street: "Court Street"
-housenumber: 461
-phone: "+1-347-227-8227"
-opening_hours: "Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00; Su 08:00-20:00"
-website: "https://blackgoldbrooklyn.com"
+street: Court Street
+housenumber: "461"
+phone: +1-347-227-8227
+opening_hours: Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00; Su 08:00-20:00
+website: https://blackgoldbrooklyn.com

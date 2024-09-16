@@ -1,11 +1,11 @@
 id: 479210995
-type: way
+type: node
 latitude: 41.69288
 longitude: -73.90044
 postcode: "12603"
 city: Poughkeepsie
-street: "LaGrange Avenue"
-housenumber: 4
+street: LaGrange Avenue
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

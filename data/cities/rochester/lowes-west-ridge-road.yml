@@ -1,11 +1,11 @@
 id: 916069141
-type: way
+type: node
 latitude: 43.21439
 longitude: -77.7137
 postcode: "14626"
 city: Rochester
-street: "West Ridge Road"
-housenumber: 3150
-phone: "+1 585-453-7500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ny-rochester/1655"
+street: West Ridge Road
+housenumber: "3150"
+phone: +1 585-453-7500
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ny-rochester/1655

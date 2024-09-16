@@ -1,11 +1,11 @@
 id: 88176590
-type: way
+type: node
 latitude: 40.66194
 longitude: -73.72682
 postcode: "11581"
 city: Valley Stream
-street: "Green Acres Road"
-housenumber: 77
-phone: "+1 516-887-0127"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/5293/valley-stream-ny/whats-new"
+street: Green Acres Road
+housenumber: "77"
+phone: +1 516-887-0127
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/5293/valley-stream-ny/whats-new

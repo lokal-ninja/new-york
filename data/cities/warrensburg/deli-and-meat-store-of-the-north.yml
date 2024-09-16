@@ -1,11 +1,11 @@
 id: 1227483522
-type: way
+type: node
 latitude: 43.49728
 longitude: -73.77556
 postcode: "12885"
 city: Warrensburg
-street: "Main Street"
-housenumber: 3872
+street: Main Street
+housenumber: "3872"
 phone: "+15186233850"
-opening_hours: "Mo-Sa 07:30-19:00, Su 07:30-18:00"
-website: "https://www.deliandmeatstore.com/"
+opening_hours: Mo-Sa 07:30-19:00, Su 07:30-18:00
+website: https://www.deliandmeatstore.com/

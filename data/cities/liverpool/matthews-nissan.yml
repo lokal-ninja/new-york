@@ -1,11 +1,11 @@
 id: 330654910
-type: way
+type: node
 latitude: 43.18648
 longitude: -76.24228
 postcode: "13090"
 city: Liverpool
-street: "State Route 31"
-housenumber: 3893
+street: State Route 31
+housenumber: "3893"
 phone: ""
 opening_hours: ""
 website: ""

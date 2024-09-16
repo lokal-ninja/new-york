@@ -1,11 +1,11 @@
 id: 146580567
-type: way
+type: node
 latitude: 42.64959
 longitude: -74.96315
 postcode: "13326"
 city: Cooperstown
-street: "Commons Drive"
-housenumber: 12
+street: Commons Drive
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

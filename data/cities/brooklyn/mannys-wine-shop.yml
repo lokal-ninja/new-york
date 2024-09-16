@@ -1,11 +1,11 @@
 id: 249983310
-type: way
+type: node
 latitude: 40.68378
 longitude: -73.93189
 postcode: ""
 city: Brooklyn
-street: "Halsey Street"
-housenumber: 526
+street: Halsey Street
+housenumber: "526"
 phone: ""
 opening_hours: ""
 website: ""

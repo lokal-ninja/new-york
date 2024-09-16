@@ -1,11 +1,11 @@
 id: 558371073
-type: way
+type: node
 latitude: 40.76978
 longitude: -73.52571
 postcode: "11801"
 city: Hicksville
-street: "North Broadway"
-housenumber: 51
+street: North Broadway
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

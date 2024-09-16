@@ -1,11 +1,11 @@
 id: 466100743
-type: way
+type: node
 latitude: 40.84208
 longitude: -73.28419
 postcode: "11725"
 city: Commack
-street: "Jericho Turnpike"
-housenumber: 2160
-phone: "+1 631-543-1025"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ny/commack-store1705.html"
+street: Jericho Turnpike
+housenumber: "2160"
+phone: +1 631-543-1025
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ny/commack-store1705.html

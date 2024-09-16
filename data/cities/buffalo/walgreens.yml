@@ -4,8 +4,8 @@ latitude: 42.86502
 longitude: -78.78653
 postcode: "14224"
 city: Buffalo
-street: "Harlem Road"
-housenumber: 815
+street: Harlem Road
+housenumber: "815"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-815+harlem+rd-west+seneca-ny-14224/id=10383"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-815+harlem+rd-west+seneca-ny-14224/id=10383

@@ -1,11 +1,11 @@
 id: 546191999
-type: way
+type: node
 latitude: 43.5653
 longitude: -76.12692
 postcode: "13142"
 city: Pulaski
-street: "Salina Street"
-housenumber: 4811
+street: Salina Street
+housenumber: "4811"
 phone: ""
 opening_hours: ""
 website: ""

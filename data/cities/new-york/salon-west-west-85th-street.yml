@@ -4,8 +4,8 @@ latitude: 40.7868
 longitude: -73.97531
 postcode: "10024"
 city: New York
-street: "West 85th Street"
-housenumber: 172
-phone: "+1-212-579-8097"
+street: West 85th Street
+housenumber: "172"
+phone: +1-212-579-8097
 opening_hours: ""
-website: "https://salonwestnyc.com"
+website: https://salonwestnyc.com

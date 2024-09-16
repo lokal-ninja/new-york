@@ -1,11 +1,11 @@
 id: 435177098
-type: way
+type: node
 latitude: 40.94562
 longitude: -73.06889
 postcode: "11777"
 city: Port Jefferson
-street: "Main Street"
-housenumber: 134
+street: Main Street
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

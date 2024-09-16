@@ -1,11 +1,11 @@
 id: 796556036
-type: way
+type: node
 latitude: 43.85922
 longitude: -73.43722
 postcode: "12883"
 city: Ticonderoga
-street: "NYS Route 9N"
-housenumber: 1162
+street: NYS Route 9N
+housenumber: "1162"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

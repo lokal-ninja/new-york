@@ -1,11 +1,11 @@
 id: 461603114
-type: way
+type: node
 latitude: 41.01775
 longitude: -72.48084
 postcode: "11935"
 city: Cutchogue
-street: "Main Road"
-housenumber: 31000
+street: Main Road
+housenumber: "31000"
 phone: ""
 opening_hours: ""
 website: ""

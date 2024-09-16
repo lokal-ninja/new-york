@@ -1,11 +1,11 @@
 id: 1006231806
-type: way
+type: node
 latitude: 43.18556
 longitude: -76.19973
 postcode: "13041"
 city: Clay
-street: "Henry Clay Boulevard"
-housenumber: 8530
-phone: "+1-315-622-2424"
+street: Henry Clay Boulevard
+housenumber: "8530"
+phone: +1-315-622-2424
 opening_hours: ""
-website: "https://www.gostoreyourstuff.com/"
+website: https://www.gostoreyourstuff.com/

@@ -1,11 +1,11 @@
 id: 427524963
-type: way
+type: node
 latitude: 41.74121
 longitude: -74.06884
 postcode: "12561"
 city: New Paltz
-street: "Main Street"
-housenumber: 260
-phone: "+1-845-633-8715"
+street: Main Street
+housenumber: "260"
+phone: +1-845-633-8715
 opening_hours: ""
-website: "http://www.justabuck.com/default.asp"
+website: http://www.justabuck.com/default.asp

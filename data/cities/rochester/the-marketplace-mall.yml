@@ -1,11 +1,11 @@
 id: 125920696
-type: way
+type: node
 latitude: 43.08004
 longitude: -77.6302
 postcode: "14623"
 city: Rochester
-street: "Miracle Mile Drive"
-housenumber: 1
-phone: "+1 585-475-0757"
-opening_hours: "Mo-Sa 10:00-21:30; Su 11:00-18:00"
-website: "https://www.themarketplacemall.com/"
+street: Miracle Mile Drive
+housenumber: "1"
+phone: +1 585-475-0757
+opening_hours: Mo-Sa 10:00-21:30; Su 11:00-18:00
+website: https://www.themarketplacemall.com/

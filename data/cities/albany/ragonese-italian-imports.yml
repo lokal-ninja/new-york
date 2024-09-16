@@ -1,11 +1,11 @@
 id: 204571894
-type: way
+type: node
 latitude: 42.65438
 longitude: -73.79413
 postcode: "12208"
 city: Albany
-street: "New Scotland Avenue"
-housenumber: 409
-phone: "+1 518 4822358"
+street: New Scotland Avenue
+housenumber: "409"
+phone: +1 518 4822358
 opening_hours: ""
-website: "https://ragoneseimports.com/"
+website: https://ragoneseimports.com/

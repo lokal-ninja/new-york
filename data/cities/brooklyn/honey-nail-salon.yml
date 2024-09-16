@@ -4,8 +4,8 @@ latitude: 40.73483
 longitude: -73.95993
 postcode: "11222"
 city: Brooklyn
-street: "Eagle Street"
-housenumber: 33
-phone: "+1-631-729-7333"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.honeynails.com/greenpoint"
+street: Eagle Street
+housenumber: "33"
+phone: +1-631-729-7333
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.honeynails.com/greenpoint

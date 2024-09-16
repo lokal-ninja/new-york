@@ -1,11 +1,11 @@
 id: 825159481
-type: way
+type: node
 latitude: 43.49389
 longitude: -73.77171
 postcode: "12885"
 city: Warrensburg
-street: "Main Street"
-housenumber: 3805
+street: Main Street
+housenumber: "3805"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 262377042
-type: way
+type: node
 latitude: 42.93778
 longitude: -78.85024
 postcode: "14214"
 city: Buffalo
-street: "Parkside Avenue"
-housenumber: 281
-phone: "+1 716-834-3974"
+street: Parkside Avenue
+housenumber: "281"
+phone: +1 716-834-3974
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/buffalo/281-parkside-35141"
+website: https://www.7-eleven.com/locations/ny/buffalo/281-parkside-35141

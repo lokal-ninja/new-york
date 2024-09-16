@@ -1,11 +1,11 @@
 id: 1020468138
-type: way
+type: node
 latitude: 42.95193
 longitude: -78.82628
 postcode: "14214"
 city: Buffalo
-street: "Main Street"
-housenumber: 3208
-phone: "716- 833-7540"
+street: Main Street
+housenumber: "3208"
+phone: 716- 833-7540
 opening_hours: ""
-website: "https://parksidecandy.com/"
+website: https://parksidecandy.com/

@@ -1,11 +1,11 @@
 id: 569440633
-type: way
+type: node
 latitude: 40.6688
 longitude: -73.52585
 postcode: "11710"
 city: Bellmore
-street: "Sunrise Highway"
-housenumber: 2730
+street: Sunrise Highway
+housenumber: "2730"
 phone: ""
 opening_hours: ""
 website: ""

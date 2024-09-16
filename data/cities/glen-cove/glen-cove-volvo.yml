@@ -1,11 +1,11 @@
 id: 566448524
-type: way
+type: node
 latitude: 40.85245
 longitude: -73.61883
 postcode: "11542"
 city: Glen Cove
-street: "Cedar Swamp Road"
-housenumber: 79
+street: Cedar Swamp Road
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

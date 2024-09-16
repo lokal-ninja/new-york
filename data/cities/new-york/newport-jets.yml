@@ -4,8 +4,8 @@ latitude: 40.76113
 longitude: -73.97065
 postcode: "10022"
 city: New York
-street: "Park Avenue"
-housenumber: 445
-phone: "+1 646 205 8222"
-opening_hours: "Mo-Su 05:00-23:00"
-website: "https://www.newportjets.com"
+street: Park Avenue
+housenumber: "445"
+phone: +1 646 205 8222
+opening_hours: Mo-Su 05:00-23:00
+website: https://www.newportjets.com

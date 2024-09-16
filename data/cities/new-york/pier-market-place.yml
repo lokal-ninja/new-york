@@ -1,11 +1,11 @@
 id: 265318794
-type: way
+type: node
 latitude: 40.76497
 longitude: -73.99478
 postcode: "10019"
 city: New York
-street: "11th Avenue"
-housenumber: 682
+street: 11th Avenue
+housenumber: "682"
 phone: ""
 opening_hours: ""
 website: ""

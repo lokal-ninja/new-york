@@ -1,11 +1,11 @@
 id: 986475060
-type: way
+type: node
 latitude: 43.01849
 longitude: -78.82263
 postcode: "14150"
 city: Tonawanda
-street: "Niagara Falls Boulevard"
-housenumber: 2354
+street: Niagara Falls Boulevard
+housenumber: "2354"
 phone: ""
 opening_hours: ""
 website: ""

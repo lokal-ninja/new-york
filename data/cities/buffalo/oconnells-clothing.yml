@@ -4,8 +4,8 @@ latitude: 42.95226
 longitude: -78.82499
 postcode: "14214"
 city: Buffalo
-street: "Main Street"
-housenumber: 3240
+street: Main Street
+housenumber: "3240"
 phone: "+18003360076"
 opening_hours: ""
-website: "https://www.oconnellsclothing.com/"
+website: https://www.oconnellsclothing.com/

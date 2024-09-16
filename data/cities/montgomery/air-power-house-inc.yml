@@ -1,11 +1,11 @@
 id: 393063497
-type: way
+type: node
 latitude: 41.50761
 longitude: -74.21317
 postcode: "12549"
 city: Montgomery
-street: "Neelytown Road"
-housenumber: 116
+street: Neelytown Road
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

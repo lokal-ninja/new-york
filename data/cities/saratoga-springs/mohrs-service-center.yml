@@ -1,11 +1,11 @@
 id: 817968874
-type: way
+type: node
 latitude: 43.08005
 longitude: -73.80239
 postcode: "12866"
 city: Saratoga Springs
-street: "Washington Street"
-housenumber: 239
+street: Washington Street
+housenumber: "239"
 phone: ""
 opening_hours: ""
-website: "https://mohrsservicecenter.com"
+website: https://mohrsservicecenter.com

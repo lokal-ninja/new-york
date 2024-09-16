@@ -1,11 +1,11 @@
 id: 243923018
-type: way
+type: node
 latitude: 43.21108
 longitude: -77.46649
 postcode: "14580"
 city: Webster
-street: "Ridge Road"
-housenumber: 950
-phone: "+1 585-787-2400"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
+street: Ridge Road
+housenumber: "950"
+phone: +1 585-787-2400
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
 website: ""

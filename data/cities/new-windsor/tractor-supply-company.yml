@@ -1,11 +1,11 @@
 id: 607470178
-type: way
+type: node
 latitude: 41.45612
 longitude: -74.05975
 postcode: "12553"
 city: New Windsor
-street: "Temple Hill Road"
-housenumber: 127
-phone: "+1 845-565-4690"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Temple Hill Road
+housenumber: "127"
+phone: +1 845-565-4690
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

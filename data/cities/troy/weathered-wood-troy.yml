@@ -4,8 +4,8 @@ latitude: 42.73123
 longitude: -73.69177
 postcode: "12180"
 city: Troy
-street: "2nd Street"
-housenumber: 13
+street: 2nd Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "http://weatheredwoodtroy.com/"
+website: http://weatheredwoodtroy.com/

@@ -1,11 +1,11 @@
 id: 1275911994
-type: way
+type: node
 latitude: 42.16619
 longitude: -75.88897
 postcode: "13901"
 city: Binghamton
-street: "Upper Front Street"
-housenumber: 1428
+street: Upper Front Street
+housenumber: "1428"
 phone: ""
 opening_hours: ""
 website: ""

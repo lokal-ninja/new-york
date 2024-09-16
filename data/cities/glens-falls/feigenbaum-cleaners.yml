@@ -1,11 +1,11 @@
 id: 1151005405
-type: way
+type: node
 latitude: 43.3149
 longitude: -73.64706
 postcode: "12801"
 city: Glens Falls
-street: "Bay Street"
+street: Bay Street
 housenumber: 89 1/2
-phone: "+1-518-792-1723"
+phone: +1-518-792-1723
 opening_hours: ""
-website: "https://feigenbaumcleaners.com/"
+website: https://feigenbaumcleaners.com/

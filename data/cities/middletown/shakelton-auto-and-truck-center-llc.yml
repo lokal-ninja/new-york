@@ -1,11 +1,11 @@
 id: 697442294
-type: way
+type: node
 latitude: 41.43416
 longitude: -74.42279
 postcode: "10940"
 city: Middletown
-street: "Dolson Avenue"
-housenumber: 64
+street: Dolson Avenue
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

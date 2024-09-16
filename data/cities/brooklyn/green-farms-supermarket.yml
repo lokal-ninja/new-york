@@ -1,11 +1,11 @@
 id: 280137339
-type: way
+type: node
 latitude: 40.7307
 longitude: -73.9542
 postcode: "11222"
 city: Brooklyn
-street: "Manhattan Avenue"
-housenumber: 918
+street: Manhattan Avenue
+housenumber: "918"
 phone: ""
 opening_hours: ""
 website: ""

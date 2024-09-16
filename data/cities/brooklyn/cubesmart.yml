@@ -1,11 +1,11 @@
 id: 241852630
-type: way
+type: node
 latitude: 40.67623
 longitude: -73.98722
 postcode: "11215"
 city: Brooklyn
-street: "3rd Avenue"
-housenumber: 338
-phone: "+1-718-852-8011"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.cubesmart.com/new-york-self-storage/brooklyn-self-storage/3167.html"
+street: 3rd Avenue
+housenumber: "338"
+phone: +1-718-852-8011
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.cubesmart.com/new-york-self-storage/brooklyn-self-storage/3167.html

@@ -1,11 +1,11 @@
 id: 830586722
-type: way
+type: node
 latitude: 43.10245
 longitude: -78.91424
 postcode: "14304"
 city: Niagara Falls
-street: "Niagara Road"
-housenumber: 2436
+street: Niagara Road
+housenumber: "2436"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 577864061
-type: way
+type: node
 latitude: 40.65672
 longitude: -73.58954
 postcode: "11520"
 city: Freeport
-street: "West Sunrise Highway"
-housenumber: 146
+street: West Sunrise Highway
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

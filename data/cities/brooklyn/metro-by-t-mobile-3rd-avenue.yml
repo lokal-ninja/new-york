@@ -4,8 +4,8 @@ latitude: 40.63466
 longitude: -74.02666
 postcode: "11209"
 city: Brooklyn
-street: "3rd Avenue"
-housenumber: 7012
+street: 3rd Avenue
+housenumber: "7012"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-brooklyn-ny-10314613/"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-brooklyn-ny-10314613/

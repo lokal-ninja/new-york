@@ -1,11 +1,11 @@
 id: 913645435
-type: way
+type: node
 latitude: 42.79052
 longitude: -73.93837
 postcode: "12303"
 city: Schenectady
-street: "Chrisler Avenue"
-housenumber: 1630
-phone: "+1 518 382 5391"
+street: Chrisler Avenue
+housenumber: "1630"
+phone: +1 518 382 5391
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/schenectady-ny-pharmacies/1630-chrisler-avenue-schenectady-ny-12303/storeid=5045"
+website: https://www.cvs.com/store-locator/schenectady-ny-pharmacies/1630-chrisler-avenue-schenectady-ny-12303/storeid=5045

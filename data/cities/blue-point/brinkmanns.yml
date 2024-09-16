@@ -1,11 +1,11 @@
 id: 468223774
-type: way
+type: node
 latitude: 40.75702
 longitude: -73.03479
 postcode: "11715"
 city: Blue Point
-street: "Montauk Highway"
-housenumber: 125
+street: Montauk Highway
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.94621
 longitude: -73.0687
 postcode: "11777"
 city: Port Jefferson
-street: "Main Street"
-housenumber: 117
-phone: "+1-631-331-7070"
+street: Main Street
+housenumber: "117"
+phone: +1-631-331-7070
 opening_hours: ""
-website: "https://www.pindar.net/"
+website: https://www.pindar.net/

@@ -1,11 +1,11 @@
 id: 241821287
-type: way
+type: node
 latitude: 40.68809
 longitude: -73.98966
 postcode: "11201"
 city: Brooklyn
-street: "Smith Street"
-housenumber: 102
+street: Smith Street
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
 website: ""

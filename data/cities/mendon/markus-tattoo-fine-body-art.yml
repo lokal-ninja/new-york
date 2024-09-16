@@ -1,11 +1,11 @@
 id: 445270302
-type: way
+type: node
 latitude: 42.99771
 longitude: -77.50424
 postcode: "14506"
 city: Mendon
-street: "Mendon-Ionia Road"
-housenumber: 3
-phone: "+1 585-582-6175"
+street: Mendon-Ionia Road
+housenumber: "3"
+phone: +1 585-582-6175
 opening_hours: ""
-website: "https://www.markustattoo.com/"
+website: https://www.markustattoo.com/

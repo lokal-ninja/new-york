@@ -1,11 +1,11 @@
 id: 710263441
-type: way
+type: node
 latitude: 42.09873
 longitude: -79.29037
-postcode: "14701-2455"
+postcode: 14701-2455
 city: Jamestown
-street: "Fairmount Avenue"
-housenumber: 930
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/jamestown/930-fairmount-avenue"
+street: Fairmount Avenue
+housenumber: "930"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/jamestown/930-fairmount-avenue

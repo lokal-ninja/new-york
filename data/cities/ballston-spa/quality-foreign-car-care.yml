@@ -1,11 +1,11 @@
 id: 817688221
-type: way
+type: node
 latitude: 43.00933
 longitude: -73.84929
 postcode: "12020"
 city: Ballston Spa
-street: "Saratoga Avenue"
-housenumber: 7
+street: Saratoga Avenue
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.qfcc.com"
+website: https://www.qfcc.com

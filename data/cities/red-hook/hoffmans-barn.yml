@@ -1,11 +1,11 @@
 id: 318017673
-type: way
+type: node
 latitude: 41.98313
 longitude: -73.88409
 postcode: "12571"
 city: Red Hook
-street: "Old Farm Road"
-housenumber: 19
+street: Old Farm Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.hoffmansbarn.com/"
+website: https://www.hoffmansbarn.com/

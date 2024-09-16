@@ -1,11 +1,11 @@
 id: 833026572
-type: way
+type: node
 latitude: 43.42421
 longitude: -75.88935
 postcode: "13493"
 city: Williamstown
-street: "State Route 13"
-housenumber: 518
+street: State Route 13
+housenumber: "518"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.79807
 longitude: -73.96896
 postcode: "10025"
 city: New York
-street: "Broadway"
-housenumber: 2668
-phone: "+1-212-865-4868"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 10:00-20:00; Su 10:00-19:30"
-website: "https://feng-nail-salon.edan.io"
+street: Broadway
+housenumber: "2668"
+phone: +1-212-865-4868
+opening_hours: Mo-Fr 09:30-20:00; Sa 10:00-20:00; Su 10:00-19:30
+website: https://feng-nail-salon.edan.io

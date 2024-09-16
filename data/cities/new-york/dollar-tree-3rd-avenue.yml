@@ -2,10 +2,10 @@ id: 5540447045
 type: node
 latitude: 40.8001
 longitude: -73.93869
-postcode: "10035-3501"
+postcode: 10035-3501
 city: New York
-street: "3rd Avenue"
-housenumber: 2182
-phone: "+1-212-289-0111"
-opening_hours: "Mo-Sa 08:00-22:00, Su 08:00-21:00"
-website: "https://www.dollartree.com/locations/ny/new-york/5126/"
+street: 3rd Avenue
+housenumber: "2182"
+phone: +1-212-289-0111
+opening_hours: Mo-Sa 08:00-22:00, Su 08:00-21:00
+website: https://www.dollartree.com/locations/ny/new-york/5126/

@@ -4,8 +4,8 @@ latitude: 40.72907
 longitude: -73.95732
 postcode: "11222"
 city: Brooklyn
-street: "Franklin Street"
-housenumber: 126
+street: Franklin Street
+housenumber: "126"
 phone: ""
 opening_hours: ""
-website: "https://www.wordbookstores.com/"
+website: https://www.wordbookstores.com/

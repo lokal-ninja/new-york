@@ -1,11 +1,11 @@
 id: 692895475
-type: way
+type: node
 latitude: 43.88979
 longitude: -75.03613
 postcode: "13367"
 city: Lowville
-street: "Stillwater Road"
-housenumber: 2590
+street: Stillwater Road
+housenumber: "2590"
 phone: ""
 opening_hours: ""
-website: "https://www.stillwatershop.com/"
+website: https://www.stillwatershop.com/

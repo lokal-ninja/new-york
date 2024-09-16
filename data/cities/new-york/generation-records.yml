@@ -4,8 +4,8 @@ latitude: 40.72887
 longitude: -73.99916
 postcode: "10012"
 city: New York
-street: "Thompson Street"
-housenumber: 210
-phone: "+1 (212) 254-1100"
-opening_hours: "Mo-Sa 12:00-20:00; Su 12:00-19:00"
-website: "https://www.generationrecords.com/"
+street: Thompson Street
+housenumber: "210"
+phone: +1 (212) 254-1100
+opening_hours: Mo-Sa 12:00-20:00; Su 12:00-19:00
+website: https://www.generationrecords.com/

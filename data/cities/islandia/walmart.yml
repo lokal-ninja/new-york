@@ -1,11 +1,11 @@
 id: 49801041
-type: way
+type: node
 latitude: 40.80018
 longitude: -73.17776
 postcode: "11749"
 city: Islandia
-street: "Veterans Highway"
-housenumber: 1850
-phone: "+1 631-851-0468"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/2917/islandia-ny/whats-new"
+street: Veterans Highway
+housenumber: "1850"
+phone: +1 631-851-0468
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/2917/islandia-ny/whats-new

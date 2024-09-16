@@ -4,8 +4,8 @@ latitude: 40.62345
 longitude: -73.63819
 postcode: "11572"
 city: Oceanside
-street: "Long Beach Road"
-housenumber: 3545
+street: Long Beach Road
+housenumber: "3545"
 phone: ""
-opening_hours: "Mo-Sa 9:00-20:00; Su 12:00-17:00"
-website: "https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=40.623412&long=-73.638252"
+opening_hours: Mo-Sa 9:00-20:00; Su 12:00-17:00
+website: https://www.sallybeauty.com/store-details/?showMap=true&horizontalView=true&lat=40.623412&long=-73.638252

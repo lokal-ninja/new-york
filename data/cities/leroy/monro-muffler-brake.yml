@@ -1,11 +1,11 @@
 id: 830032860
-type: way
+type: node
 latitude: 42.9775
 longitude: -78.00622
 postcode: "14482"
 city: LeRoy
-street: "West Main Street"
-housenumber: 141
+street: West Main Street
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

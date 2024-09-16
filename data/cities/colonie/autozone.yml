@@ -1,11 +1,11 @@
 id: 660751598
-type: way
+type: node
 latitude: 42.72947
 longitude: -73.8448
 postcode: "12205"
 city: Colonie
-street: "Central Avenue"
-housenumber: 1789
+street: Central Avenue
+housenumber: "1789"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ny/albany/1789-central-ave.html"
+website: https://www.autozone.com/locations/ny/albany/1789-central-ave.html

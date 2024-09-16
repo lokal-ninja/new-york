@@ -1,11 +1,11 @@
 id: 561690692
-type: way
+type: node
 latitude: 43.20479
 longitude: -77.69489
 postcode: "14626"
 city: Rochester
-street: "Greece Ridge Center Drive"
-housenumber: 330
-phone: "+1 585-227-4020"
+street: Greece Ridge Center Drive
+housenumber: "330"
+phone: +1 585-227-4020
 opening_hours: ""
-website: "https://www.barnesandnoble.com"
+website: https://www.barnesandnoble.com

@@ -1,11 +1,11 @@
 id: 549845879
-type: way
+type: node
 latitude: 41.45673
 longitude: -74.41154
 postcode: "10940"
 city: Middletown
-street: "Wisner Avenue"
-housenumber: 80
-phone: "(845) 343-3183"
+street: Wisner Avenue
+housenumber: "80"
+phone: (845) 343-3183
 opening_hours: ""
-website: "http://www.neigersservicecenter.com/"
+website: http://www.neigersservicecenter.com/

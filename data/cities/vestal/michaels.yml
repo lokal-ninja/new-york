@@ -1,11 +1,11 @@
 id: 618395377
-type: way
+type: node
 latitude: 42.09474
 longitude: -76.01659
 postcode: "13850"
 city: Vestal
-street: "Vestal Parkway East"
-housenumber: 2317
-phone: "+1 607-658-9101"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ny/vestal/1615/"
+street: Vestal Parkway East
+housenumber: "2317"
+phone: +1 607-658-9101
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ny/vestal/1615/

@@ -1,11 +1,11 @@
 id: 1024115574
-type: way
+type: node
 latitude: 43.11411
 longitude: -77.62324
 postcode: "14620"
 city: Rochester
-street: "Mount Hope Avenue"
-housenumber: 1835
+street: Mount Hope Avenue
+housenumber: "1835"
 phone: ""
 opening_hours: ""
 website: ""

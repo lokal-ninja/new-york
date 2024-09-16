@@ -1,11 +1,11 @@
 id: 1115106424
-type: way
+type: node
 latitude: 43.1915
 longitude: -77.79938
 postcode: "14559"
 city: Spencerport
-street: "Slayton Avenue"
-housenumber: 38
+street: Slayton Avenue
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

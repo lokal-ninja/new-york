@@ -1,11 +1,11 @@
 id: 89611807
-type: way
+type: node
 latitude: 42.87874
 longitude: -77.26123
 postcode: "14424"
 city: Canandaigua
-street: "Eastern Boulevard"
-housenumber: 180
+street: Eastern Boulevard
+housenumber: "180"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ny/canandaigua/180-eastern-blvd"
+website: https://stores.advanceautoparts.com/ny/canandaigua/180-eastern-blvd

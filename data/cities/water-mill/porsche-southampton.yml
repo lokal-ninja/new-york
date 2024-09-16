@@ -1,11 +1,11 @@
 id: 473180224
-type: way
+type: node
 latitude: 40.89959
 longitude: -72.37447
 postcode: "11976"
 city: Water Mill
-street: "County Road 39A"
-housenumber: 705
+street: County Road 39A
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

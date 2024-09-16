@@ -4,8 +4,8 @@ latitude: 40.76424
 longitude: -73.99613
 postcode: "10036"
 city: New York
-street: "11th Avenue"
-housenumber: 645
+street: 11th Avenue
+housenumber: "645"
 phone: ""
 opening_hours: ""
-website: "https://www.toyotaofmanhattan.com/"
+website: https://www.toyotaofmanhattan.com/

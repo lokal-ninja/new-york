@@ -1,11 +1,11 @@
 id: 608172417
-type: way
+type: node
 latitude: 40.64656
 longitude: -73.63823
 postcode: "11572"
 city: Oceanside
-street: "Long Beach Road"
-housenumber: 2681
+street: Long Beach Road
+housenumber: "2681"
 phone: ""
 opening_hours: ""
 website: ""

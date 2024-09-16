@@ -1,11 +1,11 @@
 id: 94255375
-type: way
+type: node
 latitude: 43.33145
 longitude: -73.65677
 postcode: "12804"
 city: Queensbury
-street: "Quaker Road"
-housenumber: 190
-phone: "+1 518-798-8676"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.hannaford.com/ny/queensbury/8360"
+street: Quaker Road
+housenumber: "190"
+phone: +1 518-798-8676
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.hannaford.com/ny/queensbury/8360

@@ -4,8 +4,8 @@ latitude: 40.71227
 longitude: -73.95117
 postcode: "11211"
 city: Brooklyn
-street: "Union Avenue"
-housenumber: 400
+street: Union Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://indianlarry.com/"
+website: https://indianlarry.com/

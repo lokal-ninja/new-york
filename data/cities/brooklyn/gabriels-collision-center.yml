@@ -1,11 +1,11 @@
 id: 280118867
-type: way
+type: node
 latitude: 40.72436
 longitude: -73.95403
 postcode: "11222"
 city: Brooklyn
-street: "Norman Avenue"
-housenumber: 38
+street: Norman Avenue
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

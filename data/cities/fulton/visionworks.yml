@@ -1,11 +1,11 @@
 id: 710308607
-type: way
+type: node
 latitude: 43.32298
 longitude: -76.41625
 postcode: "13069"
 city: Fulton
-street: "Rochester Street"
-housenumber: 115
+street: Rochester Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

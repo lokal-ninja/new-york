@@ -4,8 +4,8 @@ latitude: 41.21454
 longitude: -74.18498
 postcode: "10987"
 city: Tuxedo Park
-street: "Route 17"
-housenumber: 549
-phone: "+1-845-915-3088"
-opening_hours: "Mo,We-Fr 09:00-17:00; Sa,Su 08:00-16:00"
-website: "https://www.dottieaudreys.com/"
+street: Route 17
+housenumber: "549"
+phone: +1-845-915-3088
+opening_hours: Mo,We-Fr 09:00-17:00; Sa,Su 08:00-16:00
+website: https://www.dottieaudreys.com/

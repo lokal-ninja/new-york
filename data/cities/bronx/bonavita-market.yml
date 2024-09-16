@@ -1,11 +1,11 @@
 id: 281836997
-type: way
+type: node
 latitude: 40.84204
 longitude: -73.84526
 postcode: "10461"
 city: Bronx
-street: "East Tremont Avenue"
-housenumber: 2722
-phone: "718-792-0058"
-opening_hours: "Mo-Sa 07:00-21:00, Su 08:00-20:00"
+street: East Tremont Avenue
+housenumber: "2722"
+phone: 718-792-0058
+opening_hours: Mo-Sa 07:00-21:00, Su 08:00-20:00
 website: ""

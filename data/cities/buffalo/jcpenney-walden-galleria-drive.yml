@@ -1,11 +1,11 @@
 id: 1098055929
-type: way
+type: node
 latitude: 42.91338
 longitude: -78.76275
 postcode: "14225"
 city: Buffalo
-street: "Walden Galleria Drive"
-housenumber: 3
-phone: "+1 716 681 5100"
+street: Walden Galleria Drive
+housenumber: "3"
+phone: +1 716 681 5100
 opening_hours: ""
 website: ""

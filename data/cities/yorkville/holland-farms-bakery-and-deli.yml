@@ -1,11 +1,11 @@
 id: 770773690
-type: way
+type: node
 latitude: 43.11376
 longitude: -75.27152
 postcode: "16495"
 city: Yorkville
-street: "Oriskany Boulevard"
-housenumber: 50
+street: Oriskany Boulevard
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 698814760
-type: way
+type: node
 latitude: 43.29593
 longitude: -73.58614
 postcode: "12839"
 city: Hudson Falls
-street: "Main Street"
-housenumber: 59
+street: Main Street
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

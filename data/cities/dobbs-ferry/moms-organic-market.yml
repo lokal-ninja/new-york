@@ -1,11 +1,11 @@
 id: 1093618124
-type: way
+type: node
 latitude: 41.00469
 longitude: -73.85642
 postcode: "10522"
 city: Dobbs Ferry
-street: "Stanley Avenue"
-housenumber: 83
-phone: "+1 914-266-0937"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://momsorganicmarket.com/"
+street: Stanley Avenue
+housenumber: "83"
+phone: +1 914-266-0937
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://momsorganicmarket.com/

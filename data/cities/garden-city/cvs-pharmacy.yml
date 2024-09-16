@@ -1,11 +1,11 @@
 id: 564005099
-type: way
+type: node
 latitude: 40.72715
 longitude: -73.6349
 postcode: "11530"
 city: Garden City
-street: "Franklin Avenue"
-housenumber: 820
+street: Franklin Avenue
+housenumber: "820"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/garden-city-ny-pharmacies/820-franklin-ave-garden-city-ny-11530/storeid=510"
+website: https://www.cvs.com/store-locator/garden-city-ny-pharmacies/820-franklin-ave-garden-city-ny-11530/storeid=510

@@ -1,11 +1,11 @@
 id: 176370509
-type: way
+type: node
 latitude: 43.05663
 longitude: -76.08092
 postcode: "13214"
 city: DeWitt
-street: "Erie Boulevard East"
-housenumber: 3131
+street: Erie Boulevard East
+housenumber: "3131"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-13:00
 website: ""

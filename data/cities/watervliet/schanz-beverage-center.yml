@@ -1,11 +1,11 @@
 id: 543904069
-type: way
+type: node
 latitude: 42.70995
 longitude: -73.71033
 postcode: "12189"
 city: Watervliet
-street: "3rd Avenue"
-housenumber: 397
+street: 3rd Avenue
+housenumber: "397"
 phone: ""
 opening_hours: ""
 website: ""

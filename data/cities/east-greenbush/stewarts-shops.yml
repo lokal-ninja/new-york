@@ -1,11 +1,11 @@
 id: 61233584
-type: way
+type: node
 latitude: 42.62023
 longitude: -73.70251
 postcode: ""
 city: East Greenbush
-street: "Troy Road"
-housenumber: 95
+street: Troy Road
+housenumber: "95"
 phone: ""
-opening_hours: "PH,Mo-Su 04:30-24:00"
+opening_hours: PH,Mo-Su 04:30-24:00
 website: ""

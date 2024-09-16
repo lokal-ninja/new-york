@@ -1,11 +1,11 @@
 id: 1025394434
-type: way
+type: node
 latitude: 42.91828
 longitude: -78.73658
 postcode: "14043"
 city: Depew
-street: "George Urban Boulevard"
-housenumber: 2017
+street: George Urban Boulevard
+housenumber: "2017"
 phone: ""
 opening_hours: ""
 website: ""

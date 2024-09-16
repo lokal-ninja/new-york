@@ -1,11 +1,11 @@
 id: 340998449
-type: way
+type: node
 latitude: 40.79515
 longitude: -73.07676
 postcode: "11741"
 city: Holbrook
-street: "Grundy Avenue"
-housenumber: 1202
+street: Grundy Avenue
+housenumber: "1202"
 phone: ""
 opening_hours: ""
 website: ""

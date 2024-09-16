@@ -1,11 +1,11 @@
 id: 840670988
-type: way
+type: node
 latitude: 42.83346
 longitude: -73.95592
 postcode: "12302"
 city: Schenectady
-street: "North Ballston Avenue"
-housenumber: 272
+street: North Ballston Avenue
+housenumber: "272"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1064335686
-type: way
+type: node
 latitude: 40.64942
 longitude: -74.01766
 postcode: "11232"
 city: Brooklyn
-street: "2nd Avenue"
-housenumber: 5002
-phone: "+1-718-887-9049"
-opening_hours: "Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00"
-website: "https://www.publicstorage.com/self-storage-ny-brooklyn/5379"
+street: 2nd Avenue
+housenumber: "5002"
+phone: +1-718-887-9049
+opening_hours: Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00
+website: https://www.publicstorage.com/self-storage-ny-brooklyn/5379

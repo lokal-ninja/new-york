@@ -1,11 +1,11 @@
 id: 45818883
-type: way
+type: node
 latitude: 41.53097
 longitude: -73.8986
 postcode: "12524"
 city: Fishkill
-street: "West Merritt Boulevard"
-housenumber: 26
-phone: "+1 845-896-8192"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1810/fishkill-ny/whats-new"
+street: West Merritt Boulevard
+housenumber: "26"
+phone: +1 845-896-8192
+opening_hours: 24/7
+website: https://www.walmart.com/store/1810/fishkill-ny/whats-new

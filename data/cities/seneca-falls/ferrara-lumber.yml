@@ -1,11 +1,11 @@
 id: 146155463
-type: way
+type: node
 latitude: 42.90881
 longitude: -76.79895
 postcode: "13148"
 city: Seneca Falls
-street: "West Bayard Street"
-housenumber: 30
+street: West Bayard Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

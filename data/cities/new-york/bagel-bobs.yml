@@ -4,8 +4,8 @@ latitude: 40.73242
 longitude: -73.99389
 postcode: "10003"
 city: New York
-street: "University Place"
-housenumber: 51
+street: University Place
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Su 07:00-16:00"
+opening_hours: Mo-Su 07:00-16:00
 website: ""

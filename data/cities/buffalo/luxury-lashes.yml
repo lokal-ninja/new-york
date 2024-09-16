@@ -1,11 +1,11 @@
 id: 1020802121
-type: way
+type: node
 latitude: 42.9438
 longitude: -78.81354
 postcode: "14215"
 city: Buffalo
-street: "Bailey Avenue"
-housenumber: 3267
-phone: "(716) 304-0480"
+street: Bailey Avenue
+housenumber: "3267"
+phone: (716) 304-0480
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 465822863
-type: way
+type: node
 latitude: 40.83917
 longitude: -73.2788
 postcode: "11725"
 city: Commack
-street: "Veterans Memorial Highway"
-housenumber: 137
-phone: "+1 631-864-2620"
+street: Veterans Memorial Highway
+housenumber: "137"
+phone: +1 631-864-2620
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/commack/137-veterans-memorial-hwy-37034"
+website: https://www.7-eleven.com/locations/ny/commack/137-veterans-memorial-hwy-37034

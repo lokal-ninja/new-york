@@ -1,11 +1,11 @@
 id: 679612171
-type: way
+type: node
 latitude: 41.44784
 longitude: -74.41398
 postcode: "10940"
 city: Middletown
-street: "Railroad Avenue"
-housenumber: 51
-phone: "888.524.5997"
+street: Railroad Avenue
+housenumber: "51"
+phone: 888.524.5997
 opening_hours: ""
-website: "https://www.brightchair.com"
+website: https://www.brightchair.com

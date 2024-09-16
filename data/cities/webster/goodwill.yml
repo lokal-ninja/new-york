@@ -1,11 +1,11 @@
 id: 147709908
-type: way
+type: node
 latitude: 43.20834
 longitude: -77.45056
 postcode: "14580"
 city: Webster
-street: "Webster Commons Boulevard"
-housenumber: 50
+street: Webster Commons Boulevard
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.goodwill.org/"
+website: https://www.goodwill.org/

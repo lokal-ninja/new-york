@@ -1,11 +1,11 @@
 id: 156652110
-type: way
+type: node
 latitude: 43.05325
 longitude: -76.10294
 postcode: "13224"
 city: Syracuse
-street: "Erie Boulevard East"
-housenumber: 2516
+street: Erie Boulevard East
+housenumber: "2516"
 phone: ""
 opening_hours: ""
-website: "https://www.tuffshed.com/syracuse"
+website: https://www.tuffshed.com/syracuse

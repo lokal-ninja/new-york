@@ -1,11 +1,11 @@
 id: 770384114
-type: way
+type: node
 latitude: 40.79103
 longitude: -73.65301
 postcode: "11577"
 city: Roslyn Heights
-street: "Mineola Avenue"
-housenumber: 22
+street: Mineola Avenue
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

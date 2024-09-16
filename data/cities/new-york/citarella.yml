@@ -4,8 +4,8 @@ latitude: 40.781
 longitude: -73.98163
 postcode: "10023"
 city: New York
-street: "Broadway"
-housenumber: 2135
+street: Broadway
+housenumber: "2135"
 phone: ""
 opening_hours: ""
-website: "https://www.citarella.com/"
+website: https://www.citarella.com/

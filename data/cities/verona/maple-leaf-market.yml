@@ -1,11 +1,11 @@
 id: 434953373
-type: way
+type: node
 latitude: 43.1288
 longitude: -75.57853
 postcode: "13478"
 city: Verona
-street: "Route 31"
-housenumber: 5527
+street: Route 31
+housenumber: "5527"
 phone: ""
 opening_hours: ""
 website: ""

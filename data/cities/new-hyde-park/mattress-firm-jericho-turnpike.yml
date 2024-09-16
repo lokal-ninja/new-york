@@ -1,11 +1,11 @@
 id: 568611781
-type: way
+type: node
 latitude: 40.73081
 longitude: -73.69292
 postcode: "11040"
 city: New Hyde Park
-street: "Jericho Turnpike"
-housenumber: 110
+street: Jericho Turnpike
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

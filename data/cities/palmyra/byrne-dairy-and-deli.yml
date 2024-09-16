@@ -1,11 +1,11 @@
 id: 1261368905
-type: way
+type: node
 latitude: 43.06293
 longitude: -77.22014
 postcode: "14522"
 city: Palmyra
-street: "East Main Street"
-housenumber: 611
-phone: "+1 315-597-5072"
+street: East Main Street
+housenumber: "611"
+phone: +1 315-597-5072
 opening_hours: ""
-website: "https://byrnedairystores.com/locations/palmyra"
+website: https://byrnedairystores.com/locations/palmyra

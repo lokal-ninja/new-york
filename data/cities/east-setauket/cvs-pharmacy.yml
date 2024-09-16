@@ -1,11 +1,11 @@
 id: 463803902
-type: way
+type: node
 latitude: 40.93034
 longitude: -73.11419
 postcode: "11733"
 city: East Setauket
-street: "Route 25A"
-housenumber: 682
+street: Route 25A
+housenumber: "682"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/setauket-ny-pharmacies/682-rte-25a-setauket-ny-11733/storeid=3010"
+website: https://www.cvs.com/store-locator/setauket-ny-pharmacies/682-rte-25a-setauket-ny-11733/storeid=3010

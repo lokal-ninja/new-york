@@ -1,11 +1,11 @@
 id: 351677785
-type: way
+type: node
 latitude: 43.08687
 longitude: -76.1859
 postcode: "13088"
 city: Liverpool
-street: "Old Liverpool Road"
-housenumber: 400
+street: Old Liverpool Road
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

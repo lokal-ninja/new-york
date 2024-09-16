@@ -1,11 +1,11 @@
 id: 995239261
-type: way
+type: node
 latitude: 42.91146
 longitude: -78.77346
 postcode: "14225"
 city: Buffalo
-street: "Walden Avenue"
-housenumber: 1740
+street: Walden Avenue
+housenumber: "1740"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1024115280
-type: way
+type: node
 latitude: 43.09318
 longitude: -77.6573
 postcode: "14623"
 city: Rochester
-street: "Jefferson Road"
-housenumber: 222
+street: Jefferson Road
+housenumber: "222"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Rochester/222-JEFFERSON-RD"
+website: https://www.speedway.com/locations/NY/Rochester/222-JEFFERSON-RD

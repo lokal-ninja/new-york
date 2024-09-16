@@ -1,11 +1,11 @@
 id: 613224966
-type: way
+type: node
 latitude: 40.79211
 longitude: -73.70065
 postcode: "11030"
 city: Manhasset
-street: "Northern Boulevard"
-housenumber: 1225
+street: Northern Boulevard
+housenumber: "1225"
 phone: ""
 opening_hours: ""
 website: ""

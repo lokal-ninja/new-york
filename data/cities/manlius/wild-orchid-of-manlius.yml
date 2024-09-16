@@ -1,11 +1,11 @@
 id: 216545664
-type: way
+type: node
 latitude: 43.00226
 longitude: -75.98087
 postcode: "13104"
 city: Manlius
-street: "Fayette Street"
-housenumber: 119
-phone: "315 682 1165"
+street: Fayette Street
+housenumber: "119"
+phone: 315 682 1165
 opening_hours: ""
-website: "http://www.wildorchidofmanlius.com/"
+website: http://www.wildorchidofmanlius.com/

@@ -1,11 +1,11 @@
 id: 215497732
-type: way
+type: node
 latitude: 43.00106
 longitude: -75.98199
 postcode: "13104"
 city: Manlius
-street: "West Seneca Street"
-housenumber: 119
-phone: "+1 315-682-7261"
-opening_hours: "24/7"
+street: West Seneca Street
+housenumber: "119"
+phone: +1 315-682-7261
+opening_hours: 24/7
 website: ""

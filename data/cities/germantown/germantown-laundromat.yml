@@ -1,11 +1,11 @@
 id: 320994648
-type: way
+type: node
 latitude: 42.1322
 longitude: -73.88112
 postcode: "12526"
 city: Germantown
-street: "Church Avenue"
-housenumber: 3
-phone: "+1-518-537-7133"
-opening_hours: "24/7"
-website: "https://www.germantownlaundromat.com"
+street: Church Avenue
+housenumber: "3"
+phone: +1-518-537-7133
+opening_hours: 24/7
+website: https://www.germantownlaundromat.com

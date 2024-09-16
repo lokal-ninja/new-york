@@ -4,8 +4,8 @@ latitude: 40.7392
 longitude: -73.99006
 postcode: "10003"
 city: New York
-street: "Broadway"
-housenumber: 901
-phone: "+1-212-343-4300"
-opening_hours: "Mo-Su 11:00-18:00"
-website: "https://www.timothyoulton.com/us/our-galleries/timothy-oulton-new-york"
+street: Broadway
+housenumber: "901"
+phone: +1-212-343-4300
+opening_hours: Mo-Su 11:00-18:00
+website: https://www.timothyoulton.com/us/our-galleries/timothy-oulton-new-york

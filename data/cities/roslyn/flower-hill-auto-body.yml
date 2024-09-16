@@ -1,11 +1,11 @@
 id: 614147768
-type: way
+type: node
 latitude: 40.79901
 longitude: -73.66423
 postcode: "11576"
 city: Roslyn
-street: "Middle Neck Road"
-housenumber: 6
+street: Middle Neck Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

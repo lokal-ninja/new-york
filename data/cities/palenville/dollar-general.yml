@@ -1,11 +1,11 @@
 id: 1216026861
-type: way
+type: node
 latitude: 42.1739
 longitude: -74.02028
 postcode: "12463"
 city: Palenville
-street: "Route 32A"
-housenumber: 729
-phone: "+1-518-520-0634"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/ny/palenville/15881"
+street: Route 32A
+housenumber: "729"
+phone: +1-518-520-0634
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/ny/palenville/15881

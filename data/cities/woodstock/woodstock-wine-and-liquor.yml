@@ -4,8 +4,8 @@ latitude: 42.04031
 longitude: -74.12038
 postcode: "12498"
 city: Woodstock
-street: "Tinker Street"
-housenumber: 63
-phone: "+1-845-679-2669"
-opening_hours: "Mo-Tu 09:00-18:00; We-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 12:00-17:00"
-website: "https://www.woodstockwineandliquors.com"
+street: Tinker Street
+housenumber: "63"
+phone: +1-845-679-2669
+opening_hours: Mo-Tu 09:00-18:00; We-Th 11:00-19:00; Fr-Sa 11:00-20:00; Su 12:00-17:00
+website: https://www.woodstockwineandliquors.com

@@ -1,11 +1,11 @@
 id: 543931662
-type: way
+type: node
 latitude: 42.15837
 longitude: -76.85991
 postcode: "14845"
 city: Horseheads
-street: "County Route 64"
-housenumber: 1200
+street: County Route 64
+housenumber: "1200"
 phone: ""
 opening_hours: ""
-website: "https://www.kohls.com/stores/ny/horseheads-35.shtml"
+website: https://www.kohls.com/stores/ny/horseheads-35.shtml

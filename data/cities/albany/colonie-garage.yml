@@ -1,11 +1,11 @@
 id: 856996354
-type: way
+type: node
 latitude: 42.70174
 longitude: -73.8157
 postcode: "12205"
 city: Albany
-street: "Central Avenue"
-housenumber: 1334
+street: Central Avenue
+housenumber: "1334"
 phone: ""
 opening_hours: ""
 website: ""

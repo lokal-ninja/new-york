@@ -4,8 +4,8 @@ latitude: 40.72867
 longitude: -73.98626
 postcode: "10003"
 city: New York
-street: "East 9th Street"
-housenumber: 324
-phone: "+1-212-673-7033"
-opening_hours: "Mo-Sa 13:30-18:30; Tu off; Su 13:30-17:00"
-website: "https://www.duonyc.com/"
+street: East 9th Street
+housenumber: "324"
+phone: +1-212-673-7033
+opening_hours: Mo-Sa 13:30-18:30; Tu off; Su 13:30-17:00
+website: https://www.duonyc.com/

@@ -1,11 +1,11 @@
 id: 832806914
-type: way
+type: node
 latitude: 42.64247
 longitude: -78.5448
 postcode: "14080"
 city: Holland
-street: "North Main Street"
-housenumber: 100
+street: North Main Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

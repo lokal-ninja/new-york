@@ -1,11 +1,11 @@
 id: 970683429
-type: way
+type: node
 latitude: 43.11676
 longitude: -77.61728
 postcode: "14620"
 city: Rochester
-street: "East Henrietta Road"
-housenumber: 241
-phone: "+1 585 271 3270"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: East Henrietta Road
+housenumber: "241"
+phone: +1 585 271 3270
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

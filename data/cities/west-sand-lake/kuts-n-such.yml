@@ -1,11 +1,11 @@
 id: 92995173
-type: way
+type: node
 latitude: 42.64564
 longitude: -73.59576
 postcode: "12196"
 city: West Sand Lake
-street: "State Highway 43"
-housenumber: 3557
+street: State Highway 43
+housenumber: "3557"
 phone: ""
 opening_hours: ""
 website: ""

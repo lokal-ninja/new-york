@@ -4,8 +4,8 @@ latitude: 42.86974
 longitude: -73.93182
 postcode: "12302"
 city: Glenville
-street: "Saratoga Road"
-housenumber: 262
-phone: "(888) 406-7063"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00"
-website: "https://www.spectrum.com/locations/ny/schenectady/262-saratoga-road"
+street: Saratoga Road
+housenumber: "262"
+phone: (888) 406-7063
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-17:00
+website: https://www.spectrum.com/locations/ny/schenectady/262-saratoga-road

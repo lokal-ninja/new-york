@@ -1,11 +1,11 @@
 id: 249007656
-type: way
+type: node
 latitude: 40.61017
 longitude: -74.00069
 postcode: "11214"
 city: Brooklyn
-street: "New Utrecht Avenue"
-housenumber: 8121
+street: New Utrecht Avenue
+housenumber: "8121"
 phone: ""
 opening_hours: ""
 website: ""

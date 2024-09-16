@@ -1,11 +1,11 @@
 id: 875656340
-type: way
+type: node
 latitude: 42.72652
 longitude: -73.7025
 postcode: "12189"
 city: Watervliet
-street: "2nd Avenue"
-housenumber: 1507
+street: 2nd Avenue
+housenumber: "1507"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.7454
 longitude: -73.99446
 postcode: "10001"
 city: New York
-street: "7th Avenue"
-housenumber: 275
+street: 7th Avenue
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

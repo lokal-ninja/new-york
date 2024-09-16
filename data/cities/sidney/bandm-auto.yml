@@ -1,11 +1,11 @@
 id: 553790663
-type: way
+type: node
 latitude: 42.31512
 longitude: -75.389
 postcode: "13838"
 city: Sidney
-street: "Cartwright Avenue"
-housenumber: 43
+street: Cartwright Avenue
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

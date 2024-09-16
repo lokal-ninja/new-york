@@ -4,8 +4,8 @@ latitude: 40.78193
 longitude: -73.94905
 postcode: "10128"
 city: New York
-street: "2nd Avenue"
-housenumber: 1769
-phone: "+1 212-860-1903"
-opening_hours: "Mo-Sa 07:00-21:30; Su 07:00-21:00"
-website: "https://www.keyfood.com/store/store/1750"
+street: 2nd Avenue
+housenumber: "1769"
+phone: +1 212-860-1903
+opening_hours: Mo-Sa 07:00-21:30; Su 07:00-21:00
+website: https://www.keyfood.com/store/store/1750

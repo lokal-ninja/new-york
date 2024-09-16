@@ -1,11 +1,11 @@
 id: 94504997
-type: way
+type: node
 latitude: 41.49988
 longitude: -74.06706
 postcode: "12550"
 city: Newburgh
-street: "Old Little Britain Road"
-housenumber: 156
-phone: "+1 845-561-0250"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ny/newburgh-store1427.html"
+street: Old Little Britain Road
+housenumber: "156"
+phone: +1 845-561-0250
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ny/newburgh-store1427.html

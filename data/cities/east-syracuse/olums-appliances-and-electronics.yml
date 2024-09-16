@@ -4,8 +4,8 @@ latitude: 43.05103
 longitude: -76.07127
 postcode: "13057"
 city: East Syracuse
-street: "Bridge Street"
-housenumber: 5775
-phone: "315 414 2200"
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://www.olums.com/locations/bridge.html"
+street: Bridge Street
+housenumber: "5775"
+phone: 315 414 2200
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://www.olums.com/locations/bridge.html

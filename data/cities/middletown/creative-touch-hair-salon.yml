@@ -1,11 +1,11 @@
 id: 550189453
-type: way
+type: node
 latitude: 41.4676
 longitude: -74.41064
 postcode: "10940"
 city: Middletown
-street: "Commonwealth Avenue"
-housenumber: 216
-phone: "845-343-2251"
+street: Commonwealth Avenue
+housenumber: "216"
+phone: 845-343-2251
 opening_hours: ""
-website: "http://www.creativetouchhairsalon.com/"
+website: http://www.creativetouchhairsalon.com/

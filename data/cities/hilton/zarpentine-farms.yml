@@ -1,11 +1,11 @@
 id: 1114973786
-type: way
+type: node
 latitude: 43.27318
 longitude: -77.766
 postcode: "14468"
 city: Hilton
-street: "Burritt Road"
-housenumber: 163
+street: Burritt Road
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

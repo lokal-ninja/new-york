@@ -4,8 +4,9 @@ latitude: 40.83765
 longitude: -73.9383
 postcode: "10032"
 city: New York
-street: "Amsterdam Avenue"
-housenumber: 2113
-phone: "(347) 688-4456"
-opening_hours: "Tu 12:00-21:00; We 15:00-21:00; Th-Fr 15:00-21:00; Sa 11:00-18:00; Su 12:00-18:00"
-website: "https://www.wordupbooks.com"
+street: Amsterdam Avenue
+housenumber: "2113"
+phone: (347) 688-4456
+opening_hours: Tu 12:00-21:00; We 15:00-21:00; Th-Fr 15:00-21:00; Sa 11:00-18:00;
+    Su 12:00-18:00
+website: https://www.wordupbooks.com

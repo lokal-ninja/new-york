@@ -1,11 +1,11 @@
 id: 551492544
-type: way
+type: node
 latitude: 40.60443
 longitude: -73.65099
 postcode: "11558"
 city: Island Park
-street: "Austin Boulevard"
-housenumber: 4328
+street: Austin Boulevard
+housenumber: "4328"
 phone: ""
 opening_hours: ""
 website: ""

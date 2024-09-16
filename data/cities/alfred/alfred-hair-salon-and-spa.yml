@@ -4,8 +4,8 @@ latitude: 42.2545
 longitude: -77.7906
 postcode: "14802"
 city: Alfred
-street: "Main Street"
-housenumber: 23
+street: Main Street
+housenumber: "23"
 phone: ""
-opening_hours: "Contact stylist"
+opening_hours: '"Contact stylist"'
 website: ""

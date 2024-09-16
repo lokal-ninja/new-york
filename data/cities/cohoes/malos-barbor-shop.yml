@@ -1,11 +1,11 @@
 id: 1008652972
-type: way
+type: node
 latitude: 42.76973
 longitude: -73.70275
 postcode: "12047"
 city: Cohoes
-street: "Columbia Street"
-housenumber: 62
+street: Columbia Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 61759047
-type: way
+type: node
 latitude: 42.80512
 longitude: -73.9051
 postcode: "12309"
 city: Schenectady
-street: "Union Street"
-housenumber: 1611
+street: Union Street
+housenumber: "1611"
 phone: ""
 opening_hours: ""
 website: ""

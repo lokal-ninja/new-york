@@ -1,11 +1,11 @@
 id: 159924784
-type: way
+type: node
 latitude: 42.99667
 longitude: -78.95752
 postcode: "14072"
 city: Grand Island
-street: "Love Road"
-housenumber: 1787
-phone: "+1 716-773-6000"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ny/grand-island/1787-love-35181"
+street: Love Road
+housenumber: "1787"
+phone: +1 716-773-6000
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ny/grand-island/1787-love-35181

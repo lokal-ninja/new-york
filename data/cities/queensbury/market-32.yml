@@ -1,11 +1,11 @@
 id: 296984485
-type: way
+type: node
 latitude: 43.32471
 longitude: -73.66695
 postcode: "12804"
 city: Queensbury
-street: "Upper Glen Street"
-housenumber: 677
+street: Upper Glen Street
+housenumber: "677"
 phone: ""
 opening_hours: ""
 website: ""

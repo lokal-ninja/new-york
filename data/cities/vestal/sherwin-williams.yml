@@ -1,11 +1,11 @@
 id: 618400379
-type: way
+type: node
 latitude: 42.09583
 longitude: -75.98037
 postcode: "13850"
 city: Vestal
-street: "Vestal Parkway East"
-housenumber: 3800
-phone: "+1-607-797-3582"
+street: Vestal Parkway East
+housenumber: "3800"
+phone: +1-607-797-3582
 opening_hours: ""
 website: ""

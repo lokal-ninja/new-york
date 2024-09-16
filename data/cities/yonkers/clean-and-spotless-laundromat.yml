@@ -1,11 +1,11 @@
 id: 1176614047
-type: way
+type: node
 latitude: 40.94839
 longitude: -73.8963
 postcode: "10701"
 city: Yonkers
-street: "Warburton Avenue"
-housenumber: 370
+street: Warburton Avenue
+housenumber: "370"
 phone: ""
 opening_hours: ""
 website: ""

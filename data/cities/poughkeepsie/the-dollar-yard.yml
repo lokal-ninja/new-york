@@ -1,11 +1,11 @@
 id: 391844090
-type: way
+type: node
 latitude: 41.69205
 longitude: -73.90066
 postcode: "12603"
 city: Poughkeepsie
-street: "Raymond Avenue"
-housenumber: 51
+street: Raymond Avenue
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

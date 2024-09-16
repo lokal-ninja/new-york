@@ -1,11 +1,11 @@
 id: 541876346
-type: way
+type: node
 latitude: 40.6484
 longitude: -73.68837
 postcode: "11557"
 city: Hewlett
-street: "Broadway"
-housenumber: 1784
-phone: "+1-516-599-5210"
+street: Broadway
+housenumber: "1784"
+phone: +1-516-599-5210
 opening_hours: ""
 website: ""

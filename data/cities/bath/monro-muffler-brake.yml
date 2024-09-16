@@ -1,11 +1,11 @@
 id: 358642630
-type: way
+type: node
 latitude: 42.34008
 longitude: -77.33448
 postcode: "14810"
 city: Bath
-street: "West Morris Street"
-housenumber: 364
-phone: "+1-607-776-7601"
-opening_hours: "Mo,Th 07:30-20:00; Tu,We,Fr 07:30-18:00; Sa 07:30-16:00"
-website: "https://locations.monro.com/ny/bath/364-w-morris-street"
+street: West Morris Street
+housenumber: "364"
+phone: +1-607-776-7601
+opening_hours: Mo,Th 07:30-20:00; Tu,We,Fr 07:30-18:00; Sa 07:30-16:00
+website: https://locations.monro.com/ny/bath/364-w-morris-street

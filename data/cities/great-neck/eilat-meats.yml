@@ -1,11 +1,11 @@
 id: 572750581
-type: way
+type: node
 latitude: 40.79997
 longitude: -73.73389
 postcode: "11023"
 city: Great Neck
-street: "Middle Neck Road"
-housenumber: 497
-phone: "516-829-8181"
+street: Middle Neck Road
+housenumber: "497"
+phone: 516-829-8181
 opening_hours: ""
-website: "http://www.kabobsir.com/"
+website: http://www.kabobsir.com/

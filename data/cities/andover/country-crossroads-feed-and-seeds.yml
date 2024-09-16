@@ -1,11 +1,11 @@
 id: 822702975
-type: way
+type: node
 latitude: 42.15405
 longitude: -77.7131
 postcode: "14806"
 city: Andover
-street: "County Route 61"
-housenumber: 3186
+street: County Route 61
+housenumber: "3186"
 phone: ""
 opening_hours: ""
-website: "https://www.countrycrossroadsfeedandseeds.com/"
+website: https://www.countrycrossroadsfeedandseeds.com/

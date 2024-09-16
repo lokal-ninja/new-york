@@ -4,8 +4,9 @@ latitude: 42.96384
 longitude: -78.78512
 postcode: "14226"
 city: Buffalo
-street: "Main Street"
-housenumber: 4446
-phone: "716-217-4230"
-opening_hours: "Su 11:00-15:00, Mo-We 10:00-17:00, Th 10:00-19:00, Fr 10:00-17:00, Sa 10:00-16:00"
-website: "http://spruceonmain.com/"
+street: Main Street
+housenumber: "4446"
+phone: 716-217-4230
+opening_hours: Su 11:00-15:00, Mo-We 10:00-17:00, Th 10:00-19:00, Fr 10:00-17:00,
+    Sa 10:00-16:00
+website: http://spruceonmain.com/

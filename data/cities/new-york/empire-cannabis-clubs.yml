@@ -4,8 +4,8 @@ latitude: 40.72139
 longitude: -73.98897
 postcode: "10002"
 city: New York
-street: "Allen Street"
-housenumber: 172
-phone: "+1-917-262-0303"
-opening_hours: "Mo-We 11:30-22:00; Th-Sa 11:30-24:00; Su 12:00-20:00"
-website: "https://empirecannabisclubs.com"
+street: Allen Street
+housenumber: "172"
+phone: +1-917-262-0303
+opening_hours: Mo-We 11:30-22:00; Th-Sa 11:30-24:00; Su 12:00-20:00
+website: https://empirecannabisclubs.com

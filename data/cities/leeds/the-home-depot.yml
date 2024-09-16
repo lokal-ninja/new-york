@@ -1,11 +1,11 @@
 id: 1253464681
-type: way
+type: node
 latitude: 42.24541
 longitude: -73.88874
 postcode: "12451"
 city: Leeds
-street: "Route 23B"
-housenumber: 695
-phone: "+1-518-943-1135"
+street: Route 23B
+housenumber: "695"
+phone: +1-518-943-1135
 opening_hours: ""
-website: "https://www.homedepot.com/l/Catskill/NY/Leeds/12451/6176"
+website: https://www.homedepot.com/l/Catskill/NY/Leeds/12451/6176

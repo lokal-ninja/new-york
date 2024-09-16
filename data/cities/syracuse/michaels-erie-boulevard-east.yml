@@ -4,8 +4,8 @@ latitude: 43.04474
 longitude: -76.06665
 postcode: "13214"
 city: Syracuse
-street: "Erie Boulevard East"
-housenumber: 3471
-phone: "+1 315-760-6600"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ny/syracuse/5137"
+street: Erie Boulevard East
+housenumber: "3471"
+phone: +1 315-760-6600
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ny/syracuse/5137

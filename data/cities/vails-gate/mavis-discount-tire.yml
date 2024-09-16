@@ -1,11 +1,11 @@
 id: 607472287
-type: way
+type: node
 latitude: 41.45693
 longitude: -74.05641
 postcode: "12584"
 city: Vails Gate
-street: "Windsor Highway"
-housenumber: 400
-phone: "(845) 375-3318"
+street: Windsor Highway
+housenumber: "400"
+phone: (845) 375-3318
 opening_hours: ""
 website: ""

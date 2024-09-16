@@ -1,11 +1,11 @@
 id: 607972374
-type: way
+type: node
 latitude: 40.66337
 longitude: -73.69388
 postcode: "11580"
 city: Valley Stream
-street: "East Merrick Road"
-housenumber: 120
+street: East Merrick Road
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

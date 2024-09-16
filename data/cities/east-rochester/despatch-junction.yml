@@ -1,11 +1,11 @@
 id: 433865845
-type: way
+type: node
 latitude: 43.1161
 longitude: -77.48857
 postcode: "14445"
 city: East Rochester
-street: "Station Road"
-housenumber: 100
+street: Station Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

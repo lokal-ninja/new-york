@@ -1,11 +1,11 @@
 id: 285355819
-type: way
+type: node
 latitude: 41.28487
 longitude: -73.9305
 postcode: "10566"
 city: Peekskill
-street: "Railroad Avenue"
-housenumber: 321
+street: Railroad Avenue
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 841857697
-type: way
+type: node
 latitude: 42.71393
 longitude: -73.81215
 postcode: "12205"
 city: Albany
-street: "Wolf Road"
-housenumber: 79
-phone: "+1 518-482-4538"
-opening_hours: "Mo-Tu,Th-Sa 08:00-21:00; We,Su 09:00-21:00"
-website: "https://locations.traderjoes.com/ny/colonie/535/"
+street: Wolf Road
+housenumber: "79"
+phone: +1 518-482-4538
+opening_hours: Mo-Tu,Th-Sa 08:00-21:00; We,Su 09:00-21:00
+website: https://locations.traderjoes.com/ny/colonie/535/

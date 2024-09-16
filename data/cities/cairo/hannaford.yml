@@ -1,11 +1,11 @@
 id: 1069105662
-type: way
+type: node
 latitude: 42.29275
 longitude: -73.99073
 postcode: "12413"
 city: Cairo
-street: "Main Street"
-housenumber: 223
-phone: "+1 518-622-8130"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.hannaford.com/ny/cairo/8415"
+street: Main Street
+housenumber: "223"
+phone: +1 518-622-8130
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.hannaford.com/ny/cairo/8415

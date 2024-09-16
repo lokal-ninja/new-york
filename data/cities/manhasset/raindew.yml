@@ -1,11 +1,11 @@
 id: 591670032
-type: way
+type: node
 latitude: 40.79913
 longitude: -73.70087
 postcode: "11030"
 city: Manhasset
-street: "Plandome Road"
-housenumber: 465
+street: Plandome Road
+housenumber: "465"
 phone: ""
 opening_hours: ""
 website: ""

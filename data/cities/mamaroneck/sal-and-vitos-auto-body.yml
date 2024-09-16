@@ -1,11 +1,11 @@
 id: 842865100
-type: way
+type: node
 latitude: 40.9504
 longitude: -73.7435
 postcode: "10543"
 city: Mamaroneck
-street: "Center Avenue"
-housenumber: 420
+street: Center Avenue
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1175994067
-type: way
+type: node
 latitude: 43.29133
 longitude: -73.63823
 postcode: "12803"
 city: South Glens Falls
-street: "Saratoga Avenue"
-housenumber: 104
+street: Saratoga Avenue
+housenumber: "104"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ny/south-glens-falls/12932"
+website: https://www.dollargeneral.com/store-directory/ny/south-glens-falls/12932

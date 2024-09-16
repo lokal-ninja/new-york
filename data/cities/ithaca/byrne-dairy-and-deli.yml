@@ -1,11 +1,11 @@
 id: 540115457
-type: way
+type: node
 latitude: 42.42591
 longitude: -76.51163
 postcode: "14850"
 city: Ithaca
-street: "Elmira Road"
-housenumber: 323
-phone: "+1 607-273-1720"
-opening_hours: "24/7"
-website: "https://byrnedairystores.com/locations/ithaca-byrne-dairy-deli"
+street: Elmira Road
+housenumber: "323"
+phone: +1 607-273-1720
+opening_hours: 24/7
+website: https://byrnedairystores.com/locations/ithaca-byrne-dairy-deli

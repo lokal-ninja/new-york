@@ -4,8 +4,8 @@ latitude: 40.7997
 longitude: -73.93851
 postcode: "10035"
 city: New York
-street: "3rd Avenue"
-housenumber: 2181
-phone: "+1-212-828-8088"
+street: 3rd Avenue
+housenumber: "2181"
+phone: +1-212-828-8088
 opening_hours: ""
 website: ""

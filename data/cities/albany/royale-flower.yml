@@ -4,8 +4,8 @@ latitude: 42.67502
 longitude: -73.74891
 postcode: "12204"
 city: Albany
-street: "Northern Boulevard"
-housenumber: 332
-phone: "+1-518-704-9755"
-opening_hours: "Mo-We 10:00-22:00, Th-Sa 09:00-23:00, Su 12:00-18:00"
-website: "https://royaleflower.com/"
+street: Northern Boulevard
+housenumber: "332"
+phone: +1-518-704-9755
+opening_hours: Mo-We 10:00-22:00, Th-Sa 09:00-23:00, Su 12:00-18:00
+website: https://royaleflower.com/

@@ -1,11 +1,11 @@
 id: 586080395
-type: way
+type: node
 latitude: 43.12529
 longitude: -76.21696
 postcode: "13090"
 city: Liverpool
-street: "Oswego Road"
-housenumber: 7320
-phone: "+1-315-457-4452"
+street: Oswego Road
+housenumber: "7320"
+phone: +1-315-457-4452
 opening_hours: ""
-website: "https://www.conceptsinhair.com/"
+website: https://www.conceptsinhair.com/

@@ -1,11 +1,11 @@
 id: 262839678
-type: way
+type: node
 latitude: 43.45281
 longitude: -76.51018
 postcode: "13126"
 city: Oswego
-street: "West 1st Street"
-housenumber: 276
+street: West 1st Street
+housenumber: "276"
 phone: ""
 opening_hours: ""
 website: ""

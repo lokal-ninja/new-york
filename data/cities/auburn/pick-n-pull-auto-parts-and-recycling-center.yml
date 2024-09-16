@@ -1,11 +1,11 @@
 id: 293491074
-type: way
+type: node
 latitude: 42.95537
 longitude: -76.56553
 postcode: "13021"
 city: Auburn
-street: "North Street Road"
-housenumber: 6971
+street: North Street Road
+housenumber: "6971"
 phone: ""
 opening_hours: ""
-website: "https://www.picknpullofauburn.com/"
+website: https://www.picknpullofauburn.com/

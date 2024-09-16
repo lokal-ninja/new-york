@@ -4,8 +4,8 @@ latitude: 40.75406
 longitude: -73.98491
 postcode: "10018"
 city: New York
-street: "6th Avenue"
-housenumber: 1073
-phone: "+1-212-869-1700"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:30"
-website: "https://usa.kinokuniya.com/stores-kinokuniya-new-york"
+street: 6th Avenue
+housenumber: "1073"
+phone: +1-212-869-1700
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:30
+website: https://usa.kinokuniya.com/stores-kinokuniya-new-york

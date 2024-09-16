@@ -4,8 +4,8 @@ latitude: 40.71656
 longitude: -73.95926
 postcode: "11249"
 city: Brooklyn
-street: "Bedford Avenue"
-housenumber: 218
-phone: "+1-718-387-7322"
+street: Bedford Avenue
+housenumber: "218"
+phone: +1-718-387-7322
 opening_hours: ""
-website: "https://spoonbillbooks.com/"
+website: https://spoonbillbooks.com/

@@ -1,11 +1,11 @@
 id: 830585310
-type: way
+type: node
 latitude: 43.13619
 longitude: -78.88934
 postcode: "14132"
 city: Sanborn
-street: "Ward Road"
-housenumber: 5882
+street: Ward Road
+housenumber: "5882"
 phone: "+17167313811"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://willcoautocare.com/"
+opening_hours: Mo-Fr 08:00-18:00
+website: http://willcoautocare.com/

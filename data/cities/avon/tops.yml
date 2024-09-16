@@ -1,11 +1,11 @@
 id: 248290436
-type: way
+type: node
 latitude: 42.91115
 longitude: -77.73207
 postcode: "14414"
 city: Avon
-street: "Dream Valley Boulevard"
-housenumber: 600
-phone: "+1 585-226-2730"
+street: Dream Valley Boulevard
+housenumber: "600"
+phone: +1 585-226-2730
 opening_hours: ""
 website: ""

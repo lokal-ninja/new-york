@@ -1,11 +1,11 @@
 id: 584326759
-type: way
+type: node
 latitude: 42.98232
 longitude: -76.33994
 postcode: "13108"
 city: Marcellus
-street: "East Main Street"
-housenumber: 14
+street: East Main Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

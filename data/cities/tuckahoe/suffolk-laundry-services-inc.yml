@@ -1,11 +1,11 @@
 id: 473199339
-type: way
+type: node
 latitude: 40.8965
 longitude: -72.41633
 postcode: "11968"
 city: Tuckahoe
-street: "County Road 39"
-housenumber: 529
+street: County Road 39
+housenumber: "529"
 phone: ""
 opening_hours: ""
 website: ""

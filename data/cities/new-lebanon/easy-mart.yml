@@ -1,11 +1,11 @@
 id: 110163418
-type: way
+type: node
 latitude: 42.46825
 longitude: -73.39029
 postcode: "12125"
 city: New Lebanon
-street: "Route 20"
-housenumber: 492
+street: Route 20
+housenumber: "492"
 phone: ""
 opening_hours: ""
 website: ""

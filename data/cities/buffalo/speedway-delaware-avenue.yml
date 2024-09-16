@@ -1,11 +1,11 @@
 id: 571414798
-type: way
+type: node
 latitude: 42.94027
 longitude: -78.86824
 postcode: "14216"
 city: Buffalo
-street: "Delaware Avenue"
-housenumber: 2058
+street: Delaware Avenue
+housenumber: "2058"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Buffalo/2058-Delaware-Ave"
+website: https://www.speedway.com/locations/NY/Buffalo/2058-Delaware-Ave

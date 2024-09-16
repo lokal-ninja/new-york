@@ -4,8 +4,8 @@ latitude: 40.79039
 longitude: -73.97458
 postcode: ""
 city: New York
-street: "Broadway"
-housenumber: 2420
+street: Broadway
+housenumber: "2420"
 phone: ""
 opening_hours: ""
-website: "https://ogtstore.com"
+website: https://ogtstore.com

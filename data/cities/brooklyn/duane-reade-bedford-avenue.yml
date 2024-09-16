@@ -4,8 +4,8 @@ latitude: 40.71587
 longitude: -73.96005
 postcode: "11249"
 city: Brooklyn
-street: "Bedford Avenue"
-housenumber: 250
-phone: "+1 718-384-7026"
-opening_hours: "24/7 open Store || Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-19:00"
-website: "https://www.walgreens.com/locator/walgreens-250+bedford+ave-brooklyn-ny-11249/id=14426"
+street: Bedford Avenue
+housenumber: "250"
+phone: +1 718-384-7026
+opening_hours: 24/7 open "Store" || Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-19:00
+website: https://www.walgreens.com/locator/walgreens-250+bedford+ave-brooklyn-ny-11249/id=14426

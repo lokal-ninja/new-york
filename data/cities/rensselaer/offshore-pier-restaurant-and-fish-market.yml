@@ -1,11 +1,11 @@
 id: 58743486
-type: way
+type: node
 latitude: 42.64474
 longitude: -73.69867
 postcode: "12144"
 city: Rensselaer
-street: "Third Avenue Extension"
-housenumber: 637
+street: Third Avenue Extension
+housenumber: "637"
 phone: ""
 opening_hours: ""
 website: ""

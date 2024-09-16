@@ -4,8 +4,8 @@ latitude: 42.43276
 longitude: -76.51022
 postcode: "14850"
 city: Ithaca
-street: "South Meadow Street"
-housenumber: 614
-phone: "+1 607-273-1245"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: South Meadow Street
+housenumber: "614"
+phone: +1 607-273-1245
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

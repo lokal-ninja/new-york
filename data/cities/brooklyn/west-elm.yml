@@ -4,8 +4,8 @@ latitude: 40.7036
 longitude: -73.991
 postcode: "11201"
 city: Brooklyn
-street: "Main Street"
-housenumber: 2
+street: Main Street
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-19:00"
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-19:00
 website: ""

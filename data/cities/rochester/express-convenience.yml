@@ -1,11 +1,11 @@
 id: 1126417411
-type: way
+type: node
 latitude: 43.11599
 longitude: -77.73052
 postcode: "14624"
 city: Rochester
-street: "Chestnut Ridge Road"
-housenumber: 25
+street: Chestnut Ridge Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

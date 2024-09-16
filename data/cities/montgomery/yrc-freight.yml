@@ -1,11 +1,11 @@
 id: 261637489
-type: way
+type: node
 latitude: 41.49991
 longitude: -74.20569
 postcode: "12549"
 city: Montgomery
-street: "Homestead Avenue"
-housenumber: 1000
+street: Homestead Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

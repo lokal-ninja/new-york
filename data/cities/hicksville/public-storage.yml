@@ -1,11 +1,11 @@
 id: 560822494
-type: way
+type: node
 latitude: 40.76283
 longitude: -73.50112
 postcode: "11801"
 city: Hicksville
-street: "South Oyster Bay Road"
-housenumber: 800
+street: South Oyster Bay Road
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.71464
 longitude: -73.99047
 postcode: "10002"
 city: New York
-street: "Canal Street"
-housenumber: 25
-phone: "+1 212-475-9316"
-opening_hours: "Mo-Su 08:00-19:00"
+street: Canal Street
+housenumber: "25"
+phone: +1 212-475-9316
+opening_hours: Mo-Su 08:00-19:00
 website: ""

@@ -2,10 +2,10 @@ id: 8849627724
 type: node
 latitude: 42.12291
 longitude: -75.96907
-postcode: "13790-3202"
+postcode: 13790-3202
 city: Johnson City
-street: "Harry L Drive"
-housenumber: 560
-phone: "+1 866-465-1071"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/ny/johnson-city/560-harry-l-drive"
+street: Harry L Drive
+housenumber: "560"
+phone: +1 866-465-1071
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/ny/johnson-city/560-harry-l-drive

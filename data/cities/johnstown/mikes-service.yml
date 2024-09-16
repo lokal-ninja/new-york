@@ -1,11 +1,11 @@
 id: 818476741
-type: way
+type: node
 latitude: 43.01094
 longitude: -74.37117
 postcode: "12095"
 city: Johnstown
-street: "North Perry Street"
-housenumber: 128
+street: North Perry Street
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

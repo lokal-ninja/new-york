@@ -4,8 +4,8 @@ latitude: 40.71943
 longitude: -73.99863
 postcode: "10013"
 city: New York
-street: "Centre Street"
-housenumber: 222
-phone: "+1-212-219-0235"
+street: Centre Street
+housenumber: "222"
+phone: +1-212-219-0235
 opening_hours: ""
 website: ""

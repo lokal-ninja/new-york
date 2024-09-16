@@ -1,11 +1,11 @@
 id: 1176116899
-type: way
+type: node
 latitude: 42.78967
 longitude: -74.62529
 postcode: "13459"
 city: Sharon Springs
-street: "Chestnut Street"
-housenumber: 922
+street: Chestnut Street
+housenumber: "922"
 phone: ""
 opening_hours: ""
 website: ""

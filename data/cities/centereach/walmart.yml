@@ -1,11 +1,11 @@
 id: 368801238
-type: way
+type: node
 latitude: 40.86261
 longitude: -73.08215
 postcode: "11720"
 city: Centereach
-street: "Mark Tree Road"
-housenumber: 161
-phone: "+1 631-467-4825"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/2286/centereach-ny/whats-new"
+street: Mark Tree Road
+housenumber: "161"
+phone: +1 631-467-4825
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/2286/centereach-ny/whats-new

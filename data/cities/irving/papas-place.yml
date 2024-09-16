@@ -1,11 +1,11 @@
 id: 832778902
-type: way
+type: node
 latitude: 42.58514
 longitude: -79.12089
 postcode: "14081"
 city: Irving
-street: "Old Lakeshore Road"
-housenumber: 10918
+street: Old Lakeshore Road
+housenumber: "10918"
 phone: ""
 opening_hours: ""
 website: ""

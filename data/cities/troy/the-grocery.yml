@@ -3,9 +3,9 @@ type: node
 latitude: 42.73132
 longitude: -73.69123
 postcode: "12180"
-city: troy
-street: "broadway"
-housenumber: 211
+city: Troy
+street: broadway
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.clarkhousehospitality.com/the-grocery"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.clarkhousehospitality.com/the-grocery

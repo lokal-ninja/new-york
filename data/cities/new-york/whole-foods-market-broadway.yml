@@ -4,8 +4,8 @@ latitude: 40.70709
 longitude: -74.01191
 postcode: "10005"
 city: New York
-street: "Broadway"
-housenumber: 66
-phone: "+1 646-779-8229"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/onewallstreet"
+street: Broadway
+housenumber: "66"
+phone: +1 646-779-8229
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/onewallstreet

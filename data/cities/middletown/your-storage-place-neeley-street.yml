@@ -1,11 +1,11 @@
 id: 548523190
-type: way
+type: node
 latitude: 41.45698
 longitude: -74.39503
 postcode: "10940"
 city: Middletown
-street: "Neeley Street"
-housenumber: 12
+street: Neeley Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

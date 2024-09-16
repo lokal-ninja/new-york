@@ -1,11 +1,11 @@
 id: 758454665
-type: way
+type: node
 latitude: 43.08598
 longitude: -75.27955
 postcode: "13502"
 city: Utica
-street: "French Road"
-housenumber: 494
+street: French Road
+housenumber: "494"
 phone: ""
 opening_hours: ""
 website: ""

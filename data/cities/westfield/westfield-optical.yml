@@ -1,11 +1,11 @@
 id: 820047744
-type: way
+type: node
 latitude: 42.32423
 longitude: -79.57507
 postcode: "14787"
 city: Westfield
-street: "East Main Street"
-housenumber: 105
+street: East Main Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

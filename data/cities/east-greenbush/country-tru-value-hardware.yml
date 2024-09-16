@@ -1,11 +1,11 @@
 id: 61234566
-type: way
+type: node
 latitude: 42.59924
 longitude: -73.70839
 postcode: "12061"
 city: East Greenbush
-street: "Troy Road"
-housenumber: 2
-phone: "+1 518-477-1104"
+street: Troy Road
+housenumber: "2"
+phone: +1 518-477-1104
 opening_hours: ""
-website: "https://countrytruevalue.com/"
+website: https://countrytruevalue.com/

@@ -1,11 +1,11 @@
 id: 190680063
-type: way
+type: node
 latitude: 42.88347
 longitude: -73.68608
 postcode: "12118"
 city: Mechanicville
-street: "Mechanicville Road"
-housenumber: 1003
+street: Mechanicville Road
+housenumber: "1003"
 phone: ""
 opening_hours: ""
 website: ""

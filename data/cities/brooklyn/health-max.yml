@@ -4,8 +4,9 @@ latitude: 40.64303
 longitude: -74.01226
 postcode: "11220"
 city: Brooklyn
-street: "5th Avenue"
-housenumber: 
-phone: "+1-718-567-8000"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-20:00; Su 10:00-19:00 shop||Mo-Fr 09:00-19:30; Sa 09:00-18:30 pharmacy"
-website: "https://www.healthmaxny.com/"
+street: 5th Avenue
+housenumber: ""
+phone: +1-718-567-8000
+opening_hours: Mo-Fr 08:30-20:00; Sa 09:00-20:00; Su 10:00-19:00 "shop"||Mo-Fr 09:00-19:30;
+    Sa 09:00-18:30 "pharmacy"
+website: https://www.healthmaxny.com/

@@ -1,11 +1,11 @@
 id: 550187096
-type: way
+type: node
 latitude: 41.46437
 longitude: -74.41314
 postcode: "10940"
 city: Middletown
-street: "Route 17M"
-housenumber: 465
+street: Route 17M
+housenumber: "465"
 phone: ""
 opening_hours: ""
 website: ""

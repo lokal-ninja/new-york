@@ -1,11 +1,11 @@
 id: 294698605
-type: way
+type: node
 latitude: 41.80379
 longitude: -74.74738
 postcode: "12754"
 city: Liberty
-street: "North Main Street"
-housenumber: 261
+street: North Main Street
+housenumber: "261"
 phone: ""
 opening_hours: ""
 website: ""

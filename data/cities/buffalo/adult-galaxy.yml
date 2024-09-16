@@ -1,11 +1,11 @@
 id: 977071115
-type: way
+type: node
 latitude: 43.01195
 longitude: -78.8219
 postcode: "14228"
 city: Buffalo
-street: "Niagara Falls Boulevard"
-housenumber: 2113
+street: Niagara Falls Boulevard
+housenumber: "2113"
 phone: ""
 opening_hours: ""
 website: ""

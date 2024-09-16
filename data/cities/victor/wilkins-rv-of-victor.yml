@@ -1,11 +1,11 @@
 id: 825618411
-type: way
+type: node
 latitude: 43.00343
 longitude: -77.44265
 postcode: "14564"
 city: Victor
-street: "Victor-Pittsford Road"
-housenumber: 7447
-phone: "+1 585-924-9161"
+street: Victor-Pittsford Road
+housenumber: "7447"
+phone: +1 585-924-9161
 opening_hours: ""
-website: "https://www.wilkinsrv.com/"
+website: https://www.wilkinsrv.com/

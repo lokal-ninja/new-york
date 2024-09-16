@@ -1,11 +1,11 @@
 id: 91019973
-type: way
+type: node
 latitude: 42.4317
 longitude: -76.51342
 postcode: "14850"
 city: Ithaca
-street: "Fairgrounds Memorial Parkway"
-housenumber: 130
-phone: "+1 607-254-2000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ny-ithaca/1864"
+street: Fairgrounds Memorial Parkway
+housenumber: "130"
+phone: +1 607-254-2000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ny-ithaca/1864

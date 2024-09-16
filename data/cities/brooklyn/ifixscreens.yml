@@ -4,8 +4,8 @@ latitude: 40.67865
 longitude: -73.97878
 postcode: "11217"
 city: Brooklyn
-street: "5th Avenue"
-housenumber: 129
-phone: "+1-929-337-6052"
-opening_hours: "Mo-Su 10:30-18:30"
-website: "https://ifixscreens.com/locations/5th-ave-brooklyn-ny/"
+street: 5th Avenue
+housenumber: "129"
+phone: +1-929-337-6052
+opening_hours: Mo-Su 10:30-18:30
+website: https://ifixscreens.com/locations/5th-ave-brooklyn-ny/

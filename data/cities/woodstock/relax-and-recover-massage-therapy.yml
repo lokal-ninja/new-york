@@ -4,8 +4,8 @@ latitude: 42.04058
 longitude: -74.11901
 postcode: "12498"
 city: Woodstock
-street: "Tinker Street"
-housenumber: 21
-phone: "+1-845-217-9636"
-opening_hours: "by appointment only"
+street: Tinker Street
+housenumber: "21"
+phone: +1-845-217-9636
+opening_hours: '"by appointment only"'
 website: ""

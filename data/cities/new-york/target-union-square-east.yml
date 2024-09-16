@@ -4,8 +4,8 @@ latitude: 40.73449
 longitude: -73.98962
 postcode: "10003"
 city: New York
-street: "Union Square East"
-housenumber: 10
-phone: "+1 332-266-7061"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/manhattan-union-square/3380"
+street: Union Square East
+housenumber: "10"
+phone: +1 332-266-7061
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/manhattan-union-square/3380

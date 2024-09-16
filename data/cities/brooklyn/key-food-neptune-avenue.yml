@@ -1,11 +1,11 @@
 id: 241818760
-type: way
+type: node
 latitude: 40.58008
 longitude: -73.97227
-postcode: "11224-4003"
+postcode: 11224-4003
 city: Brooklyn
-street: "Neptune Avenue"
-housenumber: 505
-phone: "+1 718-714-6049"
-opening_hours: "Mo-Su 07:30-21:00"
-website: "https://www.keyfood.com/store/store/1280"
+street: Neptune Avenue
+housenumber: "505"
+phone: +1 718-714-6049
+opening_hours: Mo-Su 07:30-21:00
+website: https://www.keyfood.com/store/store/1280

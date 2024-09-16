@@ -1,11 +1,11 @@
 id: 249997503
-type: way
+type: node
 latitude: 40.63077
 longitude: -73.94572
-postcode: "11210-3036"
+postcode: 11210-3036
 city: Brooklyn
-street: "Flatbush Avenue"
-housenumber: 1598
-phone: "+1 718-637-5005"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/brooklyn-junction/2212"
+street: Flatbush Avenue
+housenumber: "1598"
+phone: +1 718-637-5005
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/brooklyn-junction/2212

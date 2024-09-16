@@ -1,11 +1,11 @@
 id: 100572881
-type: way
+type: node
 latitude: 42.99885
 longitude: -78.87452
 postcode: "14150"
 city: Tonawanda
-street: "Delaware Avenue"
-housenumber: 4205
+street: Delaware Avenue
+housenumber: "4205"
 phone: ""
 opening_hours: ""
 website: ""

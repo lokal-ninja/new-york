@@ -1,11 +1,11 @@
 id: 158258307
-type: way
+type: node
 latitude: 43.05049
 longitude: -76.07288
 postcode: "13214"
 city: DeWitt
-street: "Erie Boulevard East"
-housenumber: 3240
-phone: "315 446 5451"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
-website: "http://3240erieblvde.midassyracuse.com/store.aspx?shopNum=6324"
+street: Erie Boulevard East
+housenumber: "3240"
+phone: 315 446 5451
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
+website: http://3240erieblvde.midassyracuse.com/store.aspx?shopNum=6324

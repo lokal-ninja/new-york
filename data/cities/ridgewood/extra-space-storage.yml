@@ -1,11 +1,11 @@
 id: 249924158
-type: way
+type: node
 latitude: 40.69499
 longitude: -73.90319
 postcode: "11385"
 city: Ridgewood
-street: "Wyckoff Avenue"
-housenumber: 1060
-phone: "+1-855-495-8468;+1-347-868-9789"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-19:00; Su 10:00-16:00"
-website: "https://www.extraspace.com/storage/facilities/us/new_york/ridgewood/1000001413/"
+street: Wyckoff Avenue
+housenumber: "1060"
+phone: +1-855-495-8468;+1-347-868-9789
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-19:00; Su 10:00-16:00
+website: https://www.extraspace.com/storage/facilities/us/new_york/ridgewood/1000001413/

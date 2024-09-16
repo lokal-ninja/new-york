@@ -1,11 +1,11 @@
 id: 463003233
-type: way
+type: node
 latitude: 40.92481
 longitude: -72.69561
 postcode: "11901"
 city: Riverhead
-street: "Pulaski Street"
-housenumber: 1471
+street: Pulaski Street
+housenumber: "1471"
 phone: ""
 opening_hours: ""
 website: ""

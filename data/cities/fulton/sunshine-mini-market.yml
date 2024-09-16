@@ -1,11 +1,11 @@
 id: 230758677
-type: way
+type: node
 latitude: 43.12431
 longitude: -76.11881
 postcode: "13212"
 city: Fulton
-street: "East Taft Road"
-housenumber: 5824
+street: East Taft Road
+housenumber: "5824"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.91029
 longitude: -73.90284
 postcode: "10471"
 city: Bronx
-street: "Riverdale Avenue"
-housenumber: 6110
-phone: "+1-718-884-6100"
-opening_hours: "24/7"
-website: "https://www.riverdale-on-hudson.com"
+street: Riverdale Avenue
+housenumber: "6110"
+phone: +1-718-884-6100
+opening_hours: 24/7
+website: https://www.riverdale-on-hudson.com

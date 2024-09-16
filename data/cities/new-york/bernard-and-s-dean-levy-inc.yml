@@ -1,11 +1,11 @@
 id: 266932809
-type: way
+type: node
 latitude: 40.77943
 longitude: -73.96024
 postcode: "10028"
 city: New York
-street: "East 84th Street"
-housenumber: 22
+street: East 84th Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://levygalleries.com/"
+website: https://levygalleries.com/

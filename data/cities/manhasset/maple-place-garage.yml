@@ -1,11 +1,11 @@
 id: 591443905
-type: way
+type: node
 latitude: 40.79562
 longitude: -73.70071
 postcode: "11030"
 city: Manhasset
-street: "Manhasset Avenue"
-housenumber: 43
+street: Manhasset Avenue
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

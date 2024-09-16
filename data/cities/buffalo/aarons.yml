@@ -1,11 +1,11 @@
 id: 1022464682
-type: way
+type: node
 latitude: 42.94782
 longitude: -78.81351
 postcode: "14215"
 city: Buffalo
-street: "Bailey Avenue"
-housenumber: 3411
+street: Bailey Avenue
+housenumber: "3411"
 phone: "+17164460899"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/ny/buffalo/3411-bailey-ave"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/ny/buffalo/3411-bailey-ave

@@ -1,11 +1,11 @@
 id: 1285181562
-type: way
+type: node
 latitude: 43.20481
 longitude: -77.66705
 postcode: "14615"
 city: Rochester
-street: "West Ridge Road"
-housenumber: 1475
+street: West Ridge Road
+housenumber: "1475"
 phone: ""
 opening_hours: ""
 website: ""

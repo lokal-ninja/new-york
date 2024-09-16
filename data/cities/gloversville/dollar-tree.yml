@@ -1,11 +1,11 @@
 id: 684184273
-type: way
+type: node
 latitude: 43.05557
 longitude: -74.34299
 postcode: "12078"
 city: Gloversville
-street: "North Main Street"
-housenumber: 169
-phone: "+1(518)752-7020"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/ny/gloversville/7027/"
+street: North Main Street
+housenumber: "169"
+phone: +1(518)752-7020
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/ny/gloversville/7027/

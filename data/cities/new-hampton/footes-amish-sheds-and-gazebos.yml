@@ -1,11 +1,11 @@
 id: 629123172
-type: way
+type: node
 latitude: 41.40488
 longitude: -74.39923
 postcode: "10958"
 city: New Hampton
-street: "Denton Hill Road"
-housenumber: 4
-phone: "(845) 615-1232"
-opening_hours: "Tu-Sa 09:00-17:00"
+street: Denton Hill Road
+housenumber: "4"
+phone: (845) 615-1232
+opening_hours: Tu-Sa 09:00-17:00
 website: ""

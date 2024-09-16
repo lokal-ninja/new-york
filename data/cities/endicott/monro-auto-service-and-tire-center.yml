@@ -1,11 +1,11 @@
 id: 970244626
-type: way
+type: node
 latitude: 42.10624
 longitude: -76.02312
 postcode: "13760"
 city: Endicott
-street: "East Main Street"
-housenumber: 3200
-phone: "+1 607 213 3912"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-18:00"
-website: "https://locations.monro.com/ny/endwell/3200-e--main-street.html"
+street: East Main Street
+housenumber: "3200"
+phone: +1 607 213 3912
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-18:00
+website: https://locations.monro.com/ny/endwell/3200-e--main-street.html

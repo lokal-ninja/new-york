@@ -1,11 +1,11 @@
 id: 837699052
-type: way
+type: node
 latitude: 40.9488
 longitude: -73.73864
 postcode: "10543"
 city: Mamaroneck
-street: "Palmer Avenue"
-housenumber: 396
+street: Palmer Avenue
+housenumber: "396"
 phone: ""
 opening_hours: ""
 website: ""

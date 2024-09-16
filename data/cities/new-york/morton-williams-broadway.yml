@@ -4,8 +4,8 @@ latitude: 40.80765
 longitude: -73.96453
 postcode: ""
 city: New York
-street: "Broadway"
-housenumber: 2941
-phone: "+1-212-666-4190"
-opening_hours: "24/7"
-website: "https://www.mortonwilliams.com/"
+street: Broadway
+housenumber: "2941"
+phone: +1-212-666-4190
+opening_hours: 24/7
+website: https://www.mortonwilliams.com/

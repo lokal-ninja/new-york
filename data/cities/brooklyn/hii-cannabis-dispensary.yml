@@ -4,8 +4,8 @@ latitude: 40.71873
 longitude: -73.95691
 postcode: "11249"
 city: Brooklyn
-street: "Bedford Avenue"
-housenumber: 152
-phone: "+1-718-576-3888"
-opening_hours: "Th-Sa 09:00-24:00; Su-We 09:00-23:00"
-website: "https://www.hiinyc.com/"
+street: Bedford Avenue
+housenumber: "152"
+phone: +1-718-576-3888
+opening_hours: Th-Sa 09:00-24:00; Su-We 09:00-23:00
+website: https://www.hiinyc.com/

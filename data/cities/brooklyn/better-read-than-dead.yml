@@ -4,8 +4,8 @@ latitude: 40.6986
 longitude: -73.93779
 postcode: "11206"
 city: Brooklyn
-street: "Broadway"
-housenumber: 867
-phone: "+1-347-470-5367"
-opening_hours: "Mo-Su 12:00-21:00"
+street: Broadway
+housenumber: "867"
+phone: +1-347-470-5367
+opening_hours: Mo-Su 12:00-21:00
 website: ""

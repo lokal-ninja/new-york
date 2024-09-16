@@ -1,11 +1,11 @@
 id: 1178194716
-type: way
+type: node
 latitude: 43.22337
 longitude: -77.67721
 postcode: "14626"
 city: Rochester
-street: "Maiden Lane"
-housenumber: 1305
-phone: "+1 585-227-0333"
-opening_hours: "24/7"
-website: "https://byrnedairystores.com/locations/rochester"
+street: Maiden Lane
+housenumber: "1305"
+phone: +1 585-227-0333
+opening_hours: 24/7
+website: https://byrnedairystores.com/locations/rochester

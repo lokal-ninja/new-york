@@ -1,11 +1,11 @@
 id: 327192681
-type: way
+type: node
 latitude: 41.69102
 longitude: -73.88483
 postcode: "12603"
 city: Poughkeepsie
-street: "Manchester Circle"
-housenumber: 6
+street: Manchester Circle
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

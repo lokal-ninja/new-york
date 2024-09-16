@@ -4,8 +4,8 @@ latitude: 40.72576
 longitude: -73.94427
 postcode: "11222"
 city: Brooklyn
-street: "Nassau Avenue"
-housenumber: 209
-phone: "(718) 269-4147"
+street: Nassau Avenue
+housenumber: "209"
+phone: (718) 269-4147
 opening_hours: ""
-website: "https://greenpoint.campbellandco.nyc/"
+website: https://greenpoint.campbellandco.nyc/

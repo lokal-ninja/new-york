@@ -1,11 +1,11 @@
 id: 201828496
-type: way
+type: node
 latitude: 43.07008
 longitude: -76.08731
 postcode: "13057"
 city: DeWitt
-street: "James Street"
-housenumber: 4277
+street: James Street
+housenumber: "4277"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-17:00
 website: ""

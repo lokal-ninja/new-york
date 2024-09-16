@@ -1,11 +1,11 @@
 id: 95972045
-type: way
+type: node
 latitude: 41.52148
 longitude: -74.02165
 postcode: "12550"
 city: Newburgh
-street: "Route 9W"
-housenumber: 5027
+street: Route 9W
+housenumber: "5027"
 phone: ""
 opening_hours: ""
 website: ""

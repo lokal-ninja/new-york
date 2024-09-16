@@ -1,11 +1,11 @@
 id: 249476119
-type: way
+type: node
 latitude: 43.04233
 longitude: -76.1353
 postcode: "13210"
 city: Syracuse
-street: "University Avenue"
-housenumber: 710
+street: University Avenue
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 330460843
-type: way
+type: node
 latitude: 41.98102
 longitude: -73.98992
 postcode: "12449"
 city: Lake Katrine
-street: "Ulster Avenue"
-housenumber: 1693
-phone: "+1-845-383-0606"
-opening_hours: "06:00-23:00"
-website: "https://allspacestorage.com/"
+street: Ulster Avenue
+housenumber: "1693"
+phone: +1-845-383-0606
+opening_hours: 06:00-23:00
+website: https://allspacestorage.com/

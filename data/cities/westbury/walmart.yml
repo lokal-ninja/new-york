@@ -1,11 +1,11 @@
 id: 240666341
-type: way
+type: node
 latitude: 40.74348
 longitude: -73.60191
 postcode: "11590"
 city: Westbury
-street: "Old Country Road"
-housenumber: 1220
-phone: "+1 516-794-7280"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/3420/westbury-ny/whats-new"
+street: Old Country Road
+housenumber: "1220"
+phone: +1 516-794-7280
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/3420/westbury-ny/whats-new

@@ -1,11 +1,11 @@
 id: 544914178
-type: way
+type: node
 latitude: 42.86727
 longitude: -76.98347
 postcode: "14456"
 city: Geneva
-street: "Linden Street"
-housenumber: 38
+street: Linden Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

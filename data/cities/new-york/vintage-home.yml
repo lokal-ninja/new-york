@@ -4,8 +4,8 @@ latitude: 40.75018
 longitude: -73.98514
 postcode: "10018"
 city: New York
-street: "West 36th Street"
-housenumber: 28
-phone: "+1 212-273-3700"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://vintagehomeusa.com/"
+street: West 36th Street
+housenumber: "28"
+phone: +1 212-273-3700
+opening_hours: Mo-Fr 09:00-18:00
+website: https://vintagehomeusa.com/

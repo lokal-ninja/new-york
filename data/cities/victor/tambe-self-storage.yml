@@ -1,11 +1,11 @@
 id: 1018685129
-type: way
+type: node
 latitude: 43.00961
 longitude: -77.44928
 postcode: "14564"
 city: Victor
-street: "County Road 42"
-housenumber: 7500
+street: County Road 42
+housenumber: "7500"
 phone: ""
 opening_hours: ""
 website: ""

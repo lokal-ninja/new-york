@@ -1,11 +1,11 @@
 id: 550480699
-type: way
+type: node
 latitude: 43.55934
 longitude: -76.11731
 postcode: "13142"
 city: Pulaski
-street: "Rome Road"
-housenumber: 3830
-phone: "+1 315-298-1081"
+street: Rome Road
+housenumber: "3830"
+phone: +1 315-298-1081
 opening_hours: ""
 website: ""

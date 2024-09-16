@@ -3,9 +3,9 @@ type: node
 latitude: 42.73095
 longitude: -73.68922
 postcode: "12180"
-city: troy
-street: "4th Street"
-housenumber: 73
+city: Troy
+street: 4th Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

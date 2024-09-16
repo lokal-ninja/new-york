@@ -4,8 +4,8 @@ latitude: 43.07226
 longitude: -76.14171
 postcode: "13208"
 city: Syracuse
-street: "Grant Boulevard"
-housenumber: 1900
+street: Grant Boulevard
+housenumber: "1900"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/ny/syracuse/1900-grant-blvd.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/ny/syracuse/1900-grant-blvd.html

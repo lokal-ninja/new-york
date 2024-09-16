@@ -1,11 +1,11 @@
 id: 544883837
-type: way
+type: node
 latitude: 42.08633
 longitude: -79.24536
 postcode: "14701"
 city: Jamestown
-street: "Charles Street"
-housenumber: 52
+street: Charles Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

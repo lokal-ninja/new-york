@@ -1,11 +1,11 @@
 id: 466826176
-type: way
+type: node
 latitude: 40.83021
 longitude: -72.73674
 postcode: "11941"
 city: Eastport
-street: "Eastport Manor Road"
-housenumber: 69
-phone: "+1-631-801-6255"
+street: Eastport Manor Road
+housenumber: "69"
+phone: +1-631-801-6255
 opening_hours: ""
 website: ""

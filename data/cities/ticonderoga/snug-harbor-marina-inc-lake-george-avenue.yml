@@ -1,11 +1,11 @@
 id: 796553948
-type: way
+type: node
 latitude: 43.83926
 longitude: -73.42805
 postcode: "12883"
 city: Ticonderoga
-street: "Lake George Avenue"
-housenumber: 36
+street: Lake George Avenue
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

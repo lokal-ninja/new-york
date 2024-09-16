@@ -1,11 +1,11 @@
 id: 828304857
-type: way
+type: node
 latitude: 42.94463
 longitude: -76.55126
 postcode: "13021"
 city: Auburn
-street: "Grant Avenue"
-housenumber: 153
+street: Grant Avenue
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

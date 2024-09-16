@@ -1,11 +1,11 @@
 id: 825538882
-type: way
+type: node
 latitude: 42.7075
 longitude: -77.38042
 postcode: "14512"
 city: Naples
-street: "State Route 64"
-housenumber: 6459
+street: State Route 64
+housenumber: "6459"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.72418
 longitude: -73.99991
 postcode: "10012"
 city: New York
-street: "Greene Street"
-housenumber: 96
-phone: "+1 646 7414434"
-opening_hours: "Mo-Su 11:00-19:00"
+street: Greene Street
+housenumber: "96"
+phone: +1 646 7414434
+opening_hours: Mo-Su 11:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.7115
 longitude: -73.99437
 postcode: "10002"
 city: New York
-street: "Market Street"
-housenumber: 57
+street: Market Street
+housenumber: "57"
 phone: ""
-opening_hours: "06:00-23:30"
+opening_hours: 06:00-23:30
 website: ""

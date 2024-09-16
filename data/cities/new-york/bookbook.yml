@@ -4,8 +4,8 @@ latitude: 40.73128
 longitude: -74.00314
 postcode: "10014"
 city: New York
-street: "Bleecker Street"
-housenumber: 266
-phone: "+1 212-807-8655"
-opening_hours: "Mo-Su 11:00-22:00"
-website: "https://bookbooknyc.com/"
+street: Bleecker Street
+housenumber: "266"
+phone: +1 212-807-8655
+opening_hours: Mo-Su 11:00-22:00
+website: https://bookbooknyc.com/

@@ -1,11 +1,11 @@
 id: 1313788744
-type: way
+type: node
 latitude: 42.99672
 longitude: -77.64612
 postcode: "14543"
 city: Rush
-street: "East Henrietta Road"
-housenumber: 5947
+street: East Henrietta Road
+housenumber: "5947"
 phone: ""
 opening_hours: ""
 website: ""

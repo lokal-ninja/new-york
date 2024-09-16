@@ -1,11 +1,11 @@
 id: 843625102
-type: way
+type: node
 latitude: 40.95196
 longitude: -73.74464
 postcode: "10543"
 city: Mamaroneck
-street: "Fenimore Road"
-housenumber: 725
+street: Fenimore Road
+housenumber: "725"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.11589
 longitude: -76.14404
 postcode: "13212"
 city: Syracuse
-street: "Lawrence Road East"
-housenumber: 125
+street: Lawrence Road East
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.visionworks.com"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.visionworks.com

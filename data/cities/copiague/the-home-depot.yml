@@ -1,11 +1,11 @@
 id: 1255618372
-type: way
+type: node
 latitude: 40.68721
 longitude: -73.40666
 postcode: "11726"
 city: Copiague
-street: "Sunrise Highway"
-housenumber: 1101
-phone: "+1 631-789-9200"
+street: Sunrise Highway
+housenumber: "1101"
+phone: +1 631-789-9200
 opening_hours: ""
-website: "https://www.homedepot.com/l/Copiague/NY/Copiague/11726/1218"
+website: https://www.homedepot.com/l/Copiague/NY/Copiague/11726/1218

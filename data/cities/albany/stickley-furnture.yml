@@ -1,11 +1,11 @@
 id: 86093384
-type: way
+type: node
 latitude: 42.71952
 longitude: -73.80425
 postcode: "12205"
 city: Albany
-street: "Wolf Road"
-housenumber: 151
+street: Wolf Road
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

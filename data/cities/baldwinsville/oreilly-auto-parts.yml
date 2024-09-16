@@ -1,11 +1,11 @@
 id: 846511058
-type: way
+type: node
 latitude: 43.15945
 longitude: -76.32706
 postcode: "13027"
 city: Baldwinsville
-street: "East Genesee Street"
-housenumber: 49
+street: East Genesee Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ny/baldwinsville/autoparts-5981.html"
+website: https://locations.oreillyauto.com/ny/baldwinsville/autoparts-5981.html

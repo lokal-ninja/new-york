@@ -1,11 +1,11 @@
 id: 909386270
-type: way
+type: node
 latitude: 42.97945
 longitude: -78.81161
 postcode: "14226"
 city: Buffalo
-street: "Sheridan Drive"
-housenumber: 3275
+street: Sheridan Drive
+housenumber: "3275"
 phone: ""
 opening_hours: ""
-website: "https://valuhomecenters.com/"
+website: https://valuhomecenters.com/

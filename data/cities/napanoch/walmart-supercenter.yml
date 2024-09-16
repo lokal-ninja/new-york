@@ -1,11 +1,11 @@
 id: 236502651
-type: way
+type: node
 latitude: 41.74223
 longitude: -74.37098
 postcode: "12458"
 city: Napanoch
-street: "Route 209"
-housenumber: 7500
-phone: "+1 845-647-2671"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4570/napanoch-ny/whats-new"
+street: Route 209
+housenumber: "7500"
+phone: +1 845-647-2671
+opening_hours: 24/7
+website: https://www.walmart.com/store/4570/napanoch-ny/whats-new

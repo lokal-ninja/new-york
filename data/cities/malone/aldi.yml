@@ -2,10 +2,10 @@ id: 8805640117
 type: node
 latitude: 44.84639
 longitude: -74.31849
-postcode: "12953-4733"
+postcode: 12953-4733
 city: Malone
-street: "State Route 11"
-housenumber: 3324
-phone: "+1 833-465-1003"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/malone/3324-state-route-11"
+street: State Route 11
+housenumber: "3324"
+phone: +1 833-465-1003
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/malone/3324-state-route-11

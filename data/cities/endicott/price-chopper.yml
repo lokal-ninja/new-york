@@ -1,11 +1,11 @@
 id: 374353302
-type: way
+type: node
 latitude: 42.10492
 longitude: -76.05209
 postcode: "13760"
 city: Endicott
-street: "North Street"
-housenumber: 1001
-phone: "+1 607 748 8080"
-opening_hours: "Mo-Su 07:00-00:00"
-website: "https://stores.pricechopper.com/ll/US/NY/Endicott/1001-North-Street"
+street: North Street
+housenumber: "1001"
+phone: +1 607 748 8080
+opening_hours: Mo-Su 07:00-00:00
+website: https://stores.pricechopper.com/ll/US/NY/Endicott/1001-North-Street

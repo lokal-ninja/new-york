@@ -4,8 +4,8 @@ latitude: 40.78642
 longitude: -73.97769
 postcode: "10024"
 city: New York
-street: "Broadway"
-housenumber: 2300
+street: Broadway
+housenumber: "2300"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00"
-website: "https://www.spectrum.com/locations/ny/new-york/2300-broadway"
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-17:00
+website: https://www.spectrum.com/locations/ny/new-york/2300-broadway

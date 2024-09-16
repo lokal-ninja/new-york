@@ -1,11 +1,11 @@
 id: 324897671
-type: way
+type: node
 latitude: 44.31227
 longitude: -74.11536
-postcode: "12983-2465"
+postcode: 12983-2465
 city: Saranac Lake
-street: "Lake Flower Avenue"
-housenumber: 587
-phone: "+1 877-465-1046"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/saranac-lake/587-lake-flower-ave"
+street: Lake Flower Avenue
+housenumber: "587"
+phone: +1 877-465-1046
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/saranac-lake/587-lake-flower-ave

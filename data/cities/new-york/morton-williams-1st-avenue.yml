@@ -4,8 +4,8 @@ latitude: 40.76735
 longitude: -73.95657
 postcode: "10021"
 city: New York
-street: "1st Avenue"
-housenumber: 1331
-phone: "+1 212-139-0636"
-opening_hours: "PH,Mo-Su 00:00-23:59"
-website: "https://www.mortonwilliams.com"
+street: 1st Avenue
+housenumber: "1331"
+phone: +1 212-139-0636
+opening_hours: PH,Mo-Su 00:00-23:59
+website: https://www.mortonwilliams.com

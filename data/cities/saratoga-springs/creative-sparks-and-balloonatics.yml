@@ -1,11 +1,11 @@
 id: 816341852
-type: way
+type: node
 latitude: 43.08013
 longitude: -73.78376
 postcode: "12866"
 city: Saratoga Springs
-street: "Phila Street"
-housenumber: 42
-phone: "+1 518 583 2030"
-opening_hours: "We-Sa 11:00-17:00"
+street: Phila Street
+housenumber: "42"
+phone: +1 518 583 2030
+opening_hours: We-Sa 11:00-17:00
 website: ""

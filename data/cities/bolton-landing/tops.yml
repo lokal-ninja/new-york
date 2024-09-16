@@ -1,11 +1,11 @@
 id: 326170592
-type: way
+type: node
 latitude: 43.55845
 longitude: -73.6537
 postcode: "12824"
 city: Bolton Landing
-street: "Lake Shore Drive"
-housenumber: 4976
-phone: "+1 518-644-2069"
+street: Lake Shore Drive
+housenumber: "4976"
+phone: +1 518-644-2069
 opening_hours: ""
-website: "https://www.topsmarkets.com/"
+website: https://www.topsmarkets.com/

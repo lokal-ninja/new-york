@@ -1,11 +1,11 @@
 id: 342507926
-type: way
+type: node
 latitude: 43.07559
 longitude: -76.08859
 postcode: "13206"
 city: Syracuse
-street: "Thompson Road"
-housenumber: 6288
+street: Thompson Road
+housenumber: "6288"
 phone: ""
 opening_hours: ""
 website: ""

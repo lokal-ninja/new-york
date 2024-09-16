@@ -4,8 +4,8 @@ latitude: 42.1586
 longitude: -76.86401
 postcode: "14903"
 city: Elmira
-street: "County Road 64"
-housenumber: 1055
-phone: "+1 607 442 1444"
-opening_hours: "05:00-23:00"
-website: "https://www.godandy.com/store_details.cfm?Store=70"
+street: County Road 64
+housenumber: "1055"
+phone: +1 607 442 1444
+opening_hours: 05:00-23:00
+website: https://www.godandy.com/store_details.cfm?Store=70

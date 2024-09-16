@@ -1,11 +1,11 @@
 id: 292412206
-type: way
+type: node
 latitude: 43.22572
 longitude: -77.32036
 postcode: "14519"
 city: Ontario
-street: "Route 104"
-housenumber: 1250
+street: Route 104
+housenumber: "1250"
 phone: ""
 opening_hours: ""
 website: ""

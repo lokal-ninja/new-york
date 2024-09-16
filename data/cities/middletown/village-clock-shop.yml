@@ -1,11 +1,11 @@
 id: 679612733
-type: way
+type: node
 latitude: 41.4514
 longitude: -74.41106
 postcode: "10940"
 city: Middletown
-street: "Albert Street"
-housenumber: 5
-phone: "845-341-1903"
+street: Albert Street
+housenumber: "5"
+phone: 845-341-1903
 opening_hours: ""
 website: ""

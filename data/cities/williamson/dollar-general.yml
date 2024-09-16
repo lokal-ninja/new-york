@@ -1,11 +1,11 @@
 id: 555226241
-type: way
+type: node
 latitude: 43.23211
 longitude: -77.19523
 postcode: "14589"
 city: Williamson
-street: "Route 104"
-housenumber: 3906
+street: Route 104
+housenumber: "3906"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ny/williamson/9109"
+website: https://www.dollargeneral.com/store-directory/ny/williamson/9109

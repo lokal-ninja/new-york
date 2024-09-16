@@ -4,8 +4,8 @@ latitude: 40.61263
 longitude: -74.00048
 postcode: "11214"
 city: Brooklyn
-street: "17th Avenue"
-housenumber: 7821
-phone: "+1 718-256-0120"
-opening_hours: "Mo-Su 06:00-00:00"
-website: "https://not-only-bagels-store-n-grocery.business.site/"
+street: 17th Avenue
+housenumber: "7821"
+phone: +1 718-256-0120
+opening_hours: Mo-Su 06:00-00:00
+website: https://not-only-bagels-store-n-grocery.business.site/

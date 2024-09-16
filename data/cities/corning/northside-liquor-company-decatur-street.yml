@@ -1,11 +1,11 @@
 id: 688917748
-type: way
+type: node
 latitude: 42.15218
 longitude: -77.05983
 postcode: "14830"
 city: Corning
-street: "Decatur Street"
-housenumber: 131
+street: Decatur Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

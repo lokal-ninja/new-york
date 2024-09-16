@@ -1,11 +1,11 @@
 id: 469305375
-type: way
+type: node
 latitude: 40.80807
 longitude: -73.28811
 postcode: "11725"
 city: Commack
-street: "Garet Place"
-housenumber: 1
-phone: "+1 631-864-2224"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.shoprite.com/sm/planning/rsid/806"
+street: Garet Place
+housenumber: "1"
+phone: +1 631-864-2224
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.shoprite.com/sm/planning/rsid/806

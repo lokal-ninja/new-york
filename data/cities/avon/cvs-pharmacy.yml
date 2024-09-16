@@ -1,11 +1,11 @@
 id: 248290088
-type: way
+type: node
 latitude: 42.90978
 longitude: -77.73332
 postcode: "14414"
 city: Avon
-street: "East Main Street"
-housenumber: 277
+street: East Main Street
+housenumber: "277"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/avon-ny-pharmacies/277-e-main-st-avon-ny-14414/storeid=232"
+website: https://www.cvs.com/store-locator/avon-ny-pharmacies/277-e-main-st-avon-ny-14414/storeid=232

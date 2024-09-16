@@ -1,11 +1,11 @@
 id: 555797362
-type: way
+type: node
 latitude: 43.09682
 longitude: -73.51059
 postcode: "12834"
 city: Greenwich
-street: "State Route 29"
-housenumber: 1258
+street: State Route 29
+housenumber: "1258"
 phone: ""
 opening_hours: ""
 website: ""

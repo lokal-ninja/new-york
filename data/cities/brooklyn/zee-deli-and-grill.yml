@@ -4,8 +4,8 @@ latitude: 40.58066
 longitude: -73.9667
 postcode: "11235"
 city: Brooklyn
-street: "Neptune Avenue"
-housenumber: 373
-phone: "+1 347-462-2276"
-opening_hours: "24/7"
+street: Neptune Avenue
+housenumber: "373"
+phone: +1 347-462-2276
+opening_hours: 24/7
 website: ""

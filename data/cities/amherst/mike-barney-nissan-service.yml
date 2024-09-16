@@ -1,11 +1,11 @@
 id: 896267663
-type: way
+type: node
 latitude: 42.98001
 longitude: -78.79761
 postcode: "14226"
 city: Amherst
-street: "Sheridan Drive"
-housenumber: 3676
-phone: "877-954-6446"
-opening_hours: "Su closed, Mo,We,Fr 07:30-18:00, Tu,Th 07:30-20:00, Sa 08:00-16:00"
-website: "https://www.mikebarneynissan.com/schedule-service.htm"
+street: Sheridan Drive
+housenumber: "3676"
+phone: 877-954-6446
+opening_hours: Su closed, Mo,We,Fr 07:30-18:00, Tu,Th 07:30-20:00, Sa 08:00-16:00
+website: https://www.mikebarneynissan.com/schedule-service.htm

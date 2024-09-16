@@ -1,11 +1,11 @@
 id: 697806577
-type: way
+type: node
 latitude: 42.42752
 longitude: -76.50764
 postcode: ""
 city: Ithaca
-street: "S Meadow Street"
-housenumber: 809
+street: S Meadow Street
+housenumber: "809"
 phone: ""
 opening_hours: ""
 website: ""

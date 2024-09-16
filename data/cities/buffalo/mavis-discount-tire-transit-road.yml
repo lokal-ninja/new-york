@@ -1,11 +1,11 @@
 id: 1155899270
-type: way
+type: node
 latitude: 42.93705
 longitude: -78.69767
 postcode: "14225"
 city: Buffalo
-street: "Transit Road"
-housenumber: 6490
+street: Transit Road
+housenumber: "6490"
 phone: ""
 opening_hours: ""
 website: ""

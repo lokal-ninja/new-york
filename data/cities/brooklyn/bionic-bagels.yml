@@ -1,11 +1,11 @@
 id: 249732224
-type: way
+type: node
 latitude: 40.59276
 longitude: -73.93992
 postcode: "11235"
 city: Brooklyn
-street: "Nostrand Avenue"
-housenumber: 3741
-phone: "+1-718-648-3794"
+street: Nostrand Avenue
+housenumber: "3741"
+phone: +1-718-648-3794
 opening_hours: ""
-website: "http://bionicbagels.com/"
+website: http://bionicbagels.com/

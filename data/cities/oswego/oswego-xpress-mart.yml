@@ -1,11 +1,11 @@
 id: 706698437
-type: way
+type: node
 latitude: 43.46113
 longitude: -76.48096
 postcode: "13126"
 city: Oswego
-street: "State Route 104"
-housenumber: 260
+street: State Route 104
+housenumber: "260"
 phone: ""
 opening_hours: ""
 website: ""

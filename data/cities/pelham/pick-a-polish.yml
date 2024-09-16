@@ -1,11 +1,11 @@
 id: 885642711
-type: way
+type: node
 latitude: 40.91356
 longitude: -73.80868
 postcode: "10803"
 city: Pelham
-street: "5th Avenue"
-housenumber: 143
+street: 5th Avenue
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

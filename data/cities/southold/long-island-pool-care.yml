@@ -1,11 +1,11 @@
 id: 461239561
-type: way
+type: node
 latitude: 41.05585
 longitude: -72.43467
 postcode: "11971"
 city: Southold
-street: "Main Road"
-housenumber: 50000
+street: Main Road
+housenumber: "50000"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 248290434
-type: way
+type: node
 latitude: 42.91109
 longitude: -77.73452
 postcode: "14414"
 city: Avon
-street: "East Main Street"
-housenumber: 260
+street: East Main Street
+housenumber: "260"
 phone: ""
 opening_hours: ""
 website: ""

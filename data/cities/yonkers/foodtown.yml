@@ -1,11 +1,11 @@
 id: 982805755
-type: way
+type: node
 latitude: 40.94731
 longitude: -73.88662
 postcode: "10703"
 city: Yonkers
-street: "Lake Avenue"
-housenumber: 129
-phone: "+1-914-963-3512"
-opening_hours: "Mo-Sa 07:00-19:00; Su 07:00-18:00"
-website: "https://www.foodtown.com/stores/foodtown-of-lake-avenue"
+street: Lake Avenue
+housenumber: "129"
+phone: +1-914-963-3512
+opening_hours: Mo-Sa 07:00-19:00; Su 07:00-18:00
+website: https://www.foodtown.com/stores/foodtown-of-lake-avenue

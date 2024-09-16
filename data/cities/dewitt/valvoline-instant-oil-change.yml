@@ -1,11 +1,11 @@
 id: 220365217
-type: way
+type: node
 latitude: 43.08084
 longitude: -76.09001
 postcode: "13206"
 city: DeWitt
-street: "Thompson Road"
-housenumber: 6363
+street: Thompson Road
+housenumber: "6363"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ny/dewitt/oil-change-020065.html"
+website: https://store.vioc.com/ny/dewitt/oil-change-020065.html

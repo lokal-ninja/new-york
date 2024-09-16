@@ -1,11 +1,11 @@
 id: 73872098
-type: way
+type: node
 latitude: 42.73679
 longitude: -73.76103
 postcode: "12110"
 city: Latham
-street: "Watervliet Shaker Road"
-housenumber: 567
+street: Watervliet Shaker Road
+housenumber: "567"
 phone: ""
 opening_hours: ""
 website: ""

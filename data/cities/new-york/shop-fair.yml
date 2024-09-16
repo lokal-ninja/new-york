@@ -4,8 +4,8 @@ latitude: 40.72209
 longitude: -73.9801
 postcode: "10009"
 city: New York
-street: "Avenue C"
-housenumber: 42
-phone: "+1-212-614-8401"
+street: Avenue C
+housenumber: "42"
+phone: +1-212-614-8401
 opening_hours: ""
 website: ""

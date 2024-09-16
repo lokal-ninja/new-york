@@ -1,11 +1,11 @@
 id: 589089954
-type: way
+type: node
 latitude: 40.75337
 longitude: -73.65852
 postcode: "11040"
 city: New Hyde Park
-street: "Herricks Road"
-housenumber: 505
-phone: "+1 516 243 8202"
-opening_hours: "Mo-Sa 07:00-21:00, Su 07:00-20:00"
-website: "https://www.foodtown.com/"
+street: Herricks Road
+housenumber: "505"
+phone: +1 516 243 8202
+opening_hours: Mo-Sa 07:00-21:00, Su 07:00-20:00
+website: https://www.foodtown.com/

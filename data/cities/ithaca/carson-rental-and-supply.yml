@@ -1,11 +1,11 @@
 id: 825224748
-type: way
+type: node
 latitude: 42.47898
 longitude: -76.43149
 postcode: "14850"
 city: Ithaca
-street: "Hanshaw Road"
-housenumber: 1814
-phone: "+1-607-257-5854"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://carsonrentalsupply.com/"
+street: Hanshaw Road
+housenumber: "1814"
+phone: +1-607-257-5854
+opening_hours: Mo-Fr 08:00-16:00
+website: https://carsonrentalsupply.com/

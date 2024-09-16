@@ -1,11 +1,11 @@
 id: 60194241
-type: way
+type: node
 latitude: 42.83317
 longitude: -73.93148
 postcode: "12302"
 city: Schenectady
-street: "Freemans Bridge Road"
-housenumber: 22
+street: Freemans Bridge Road
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

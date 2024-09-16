@@ -4,8 +4,8 @@ latitude: 40.71933
 longitude: -73.95628
 postcode: "11249"
 city: Brooklyn
-street: "Bedford Avenue"
-housenumber: 132
+street: Bedford Avenue
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://thecanvas.nyc"
+opening_hours: Mo-Su 10:00-20:00
+website: https://thecanvas.nyc

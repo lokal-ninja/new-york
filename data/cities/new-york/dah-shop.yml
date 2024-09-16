@@ -4,8 +4,8 @@ latitude: 40.71454
 longitude: -73.99161
 postcode: "10002"
 city: New York
-street: "Division Street"
-housenumber: 134
-phone: "+1-212-925-0155"
-opening_hours: "Tu-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://dahshop.com"
+street: Division Street
+housenumber: "134"
+phone: +1-212-925-0155
+opening_hours: Tu-Sa 11:00-19:00; Su 12:00-18:00
+website: https://dahshop.com

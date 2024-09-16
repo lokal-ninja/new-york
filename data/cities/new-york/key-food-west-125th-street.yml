@@ -1,11 +1,11 @@
 id: 271893713
-type: way
+type: node
 latitude: 40.81201
 longitude: -73.95472
 postcode: "10027"
 city: New York
-street: "West 125th Street"
-housenumber: 421
-phone: "+1 212-749-0200"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
+street: West 125th Street
+housenumber: "421"
+phone: +1 212-749-0200
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
 website: ""

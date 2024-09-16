@@ -4,8 +4,8 @@ latitude: 40.72385
 longitude: -73.99237
 postcode: "10002"
 city: New York
-street: "East Houston Street"
-housenumber: 95
-phone: "+1 212-420-1320"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/bowery"
+street: East Houston Street
+housenumber: "95"
+phone: +1 212-420-1320
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/bowery

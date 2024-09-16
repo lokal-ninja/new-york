@@ -1,11 +1,11 @@
 id: 159447060
-type: way
+type: node
 latitude: 43.02989
 longitude: -76.00674
 postcode: "13066"
 city: Fayetteville
-street: "East Genesee Street"
-housenumber: 407
+street: East Genesee Street
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

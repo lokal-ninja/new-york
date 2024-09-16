@@ -4,8 +4,8 @@ latitude: 40.99414
 longitude: -73.88157
 postcode: "10706"
 city: Hastings on Hudson
-street: "Main Street"
-housenumber: 26
+street: Main Street
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.galapagosbooks.com/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.galapagosbooks.com/

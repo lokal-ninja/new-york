@@ -1,11 +1,11 @@
 id: 45818878
-type: way
+type: node
 latitude: 41.52941
 longitude: -73.90076
 postcode: "12524"
 city: Fishkill
-street: "West Merritt Boulevard"
-housenumber: 56
-phone: "+1 845-896-4980"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/fishkill-ny-sams-club/6356"
+street: West Merritt Boulevard
+housenumber: "56"
+phone: +1 845-896-4980
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/fishkill-ny-sams-club/6356

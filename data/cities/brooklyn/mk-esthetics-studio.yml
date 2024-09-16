@@ -4,8 +4,8 @@ latitude: 40.58213
 longitude: -73.95635
 postcode: "11235"
 city: Brooklyn
-street: "Brighton 11th Street"
-housenumber: 14
-phone: "+1-718-319-8888"
-opening_hours: "11:00-22:00"
-website: "http://mkestheticsstudio.com/"
+street: Brighton 11th Street
+housenumber: "14"
+phone: +1-718-319-8888
+opening_hours: 11:00-22:00
+website: http://mkestheticsstudio.com/

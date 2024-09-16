@@ -1,11 +1,11 @@
 id: 815595417
-type: way
+type: node
 latitude: 43.7521
 longitude: -74.79439
 postcode: "13360"
 city: Inlet
-street: "State Route 28"
-housenumber: 155
+street: State Route 28
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.73538
 longitude: -73.98589
 postcode: "10003"
 city: New York
-street: "3rd Avenue"
-housenumber: 188
-phone: "+1-646-891-6578"
-opening_hours: "Mo-Su 09:30-22:00"
+street: 3rd Avenue
+housenumber: "188"
+phone: +1-646-891-6578
+opening_hours: Mo-Su 09:30-22:00
 website: ""

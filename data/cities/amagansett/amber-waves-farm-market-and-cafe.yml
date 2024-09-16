@@ -1,11 +1,11 @@
 id: 471818305
-type: way
+type: node
 latitude: 40.97791
 longitude: -72.13725
 postcode: "11930"
 city: Amagansett
-street: "Main Street"
-housenumber: 367
+street: Main Street
+housenumber: "367"
 phone: ""
 opening_hours: ""
-website: "https://www.amberwavesfarm.org/"
+website: https://www.amberwavesfarm.org/

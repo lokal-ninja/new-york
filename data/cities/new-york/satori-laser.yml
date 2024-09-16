@@ -4,8 +4,8 @@ latitude: 40.79154
 longitude: -73.96881
 postcode: "10025"
 city: New York
-street: "Columbus Avenue"
-housenumber: 696
-phone: "+1-212-664-7677"
-opening_hours: "Mo-Fr 09:30-20:30; Sa-Su 10:00-19:00"
+street: Columbus Avenue
+housenumber: "696"
+phone: +1-212-664-7677
+opening_hours: Mo-Fr 09:30-20:30; Sa-Su 10:00-19:00
 website: ""

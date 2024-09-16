@@ -1,11 +1,11 @@
 id: 378392832
-type: way
+type: node
 latitude: 40.92072
 longitude: -73.78746
 postcode: "10801"
 city: New Rochelle
-street: "North Avenue"
-housenumber: 550
+street: North Avenue
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

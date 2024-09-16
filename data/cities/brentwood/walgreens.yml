@@ -1,11 +1,11 @@
 id: 469249829
-type: way
+type: node
 latitude: 40.77837
 longitude: -73.2606
 postcode: "11717"
 city: Brentwood
-street: "Wicks Road"
-housenumber: 26
+street: Wicks Road
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-26+wicks+rd-brentwood-ny-11717/id=16303"
+website: https://www.walgreens.com/locator/walgreens-26+wicks+rd-brentwood-ny-11717/id=16303

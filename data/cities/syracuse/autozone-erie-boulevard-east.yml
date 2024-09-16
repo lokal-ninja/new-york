@@ -1,11 +1,11 @@
 id: 316946508
-type: way
+type: node
 latitude: 43.05525
 longitude: -76.0832
 postcode: "13224"
 city: Syracuse
-street: "Erie Boulevard East"
-housenumber: 3068
+street: Erie Boulevard East
+housenumber: "3068"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-19:00"
-website: "https://www.autozone.com/locations/ny/syracuse/3068-erie-blvd-e.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-19:00
+website: https://www.autozone.com/locations/ny/syracuse/3068-erie-blvd-e.html

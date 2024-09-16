@@ -4,8 +4,8 @@ latitude: 44.69585
 longitude: -73.48711
 postcode: "12901"
 city: Plattsburgh
-street: "Consumer Square"
-housenumber: 130
-phone: "+1 800-880-1077"
-opening_hours: "Mo,We-Sa 09:00-18:00; Tu 09:00-17:00; Su 11:00-17:00"
-website: "https://www.verizon.com/"
+street: Consumer Square
+housenumber: "130"
+phone: +1 800-880-1077
+opening_hours: Mo,We-Sa 09:00-18:00; Tu 09:00-17:00; Su 11:00-17:00
+website: https://www.verizon.com/

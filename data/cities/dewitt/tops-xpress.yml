@@ -1,11 +1,11 @@
 id: 156651109
-type: way
+type: node
 latitude: 43.03428
 longitude: -76.06466
 postcode: "13214"
 city: DeWitt
-street: "East Genesee Street"
-housenumber: 4600
+street: East Genesee Street
+housenumber: "4600"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

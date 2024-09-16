@@ -1,11 +1,11 @@
 id: 1294798618
-type: way
+type: node
 latitude: 43.72313
 longitude: -73.8245
 postcode: "12860"
 city: Pottersville
-street: "Valley Farm Road"
-housenumber: 38
+street: Valley Farm Road
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

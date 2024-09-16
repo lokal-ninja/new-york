@@ -1,11 +1,11 @@
 id: 478893745
-type: way
+type: node
 latitude: 42.74851
 longitude: -78.13178
 postcode: "14569"
 city: Warsaw
-street: "North Main Street"
-housenumber: 246
+street: North Main Street
+housenumber: "246"
 phone: ""
 opening_hours: ""
 website: ""

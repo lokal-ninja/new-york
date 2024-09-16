@@ -1,11 +1,11 @@
 id: 322461956
-type: way
+type: node
 latitude: 41.62452
 longitude: -73.87479
 postcode: "12590"
 city: Wappingers Falls
-street: "Route 376"
-housenumber: 1581
+street: Route 376
+housenumber: "1581"
 phone: ""
 opening_hours: ""
-website: "https://www.bikeway.com/"
+website: https://www.bikeway.com/

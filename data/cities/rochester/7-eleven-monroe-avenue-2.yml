@@ -1,11 +1,11 @@
 id: 1125755992
-type: way
+type: node
 latitude: 43.14203
 longitude: -77.58492
 postcode: "14620"
 city: Rochester
-street: "Monroe Avenue"
-housenumber: 890
-phone: "+1 585-244-4219"
+street: Monroe Avenue
+housenumber: "890"
+phone: +1 585-244-4219
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/rochester/890-monroe-35197"
+website: https://www.7-eleven.com/locations/ny/rochester/890-monroe-35197

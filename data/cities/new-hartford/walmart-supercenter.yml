@@ -1,11 +1,11 @@
 id: 384977965
-type: way
+type: node
 latitude: 43.09462
 longitude: -75.31227
 postcode: "13413"
 city: New Hartford
-street: "Commercial Drive"
-housenumber: 4765
-phone: "+1 315-736-4932"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1677/new-hartford-ny/whats-new"
+street: Commercial Drive
+housenumber: "4765"
+phone: +1 315-736-4932
+opening_hours: 24/7
+website: https://www.walmart.com/store/1677/new-hartford-ny/whats-new

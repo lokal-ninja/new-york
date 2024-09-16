@@ -1,11 +1,11 @@
 id: 388097357
-type: way
+type: node
 latitude: 40.92978
 longitude: -72.68294
 postcode: "11901"
 city: Riverhead
-street: "Old Country Road"
-housenumber: 1260
+street: Old Country Road
+housenumber: "1260"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ny/riverhead/1260-old-country-rd.html"
+website: https://www.autozone.com/locations/ny/riverhead/1260-old-country-rd.html

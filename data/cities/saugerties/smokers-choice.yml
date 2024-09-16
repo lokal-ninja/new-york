@@ -1,11 +1,11 @@
 id: 264468191
-type: way
+type: node
 latitude: 42.07874
 longitude: -73.95474
 postcode: "12477"
 city: Saugerties
-street: "State Route 212"
-housenumber: 1
+street: State Route 212
+housenumber: "1"
 phone: "+18452460415"
 opening_hours: ""
-website: "https://smokerschoiceusa.com/"
+website: https://smokerschoiceusa.com/

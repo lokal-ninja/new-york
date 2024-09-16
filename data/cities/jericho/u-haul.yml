@@ -1,11 +1,11 @@
 id: 561926041
-type: way
+type: node
 latitude: 40.7809
 longitude: -73.55773
 postcode: "11753"
 city: Jericho
-street: "Jericho Turnpike"
-housenumber: 123
+street: Jericho Turnpike
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

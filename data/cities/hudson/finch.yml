@@ -1,11 +1,11 @@
 id: 319403328
-type: way
+type: node
 latitude: 42.24742
 longitude: -73.78446
 postcode: "12534"
 city: Hudson
-street: "Warren Street"
-housenumber: 613
-phone: "(518) 828-3430"
+street: Warren Street
+housenumber: "613"
+phone: (518) 828-3430
 opening_hours: ""
-website: "https://finchhudson.com/"
+website: https://finchhudson.com/

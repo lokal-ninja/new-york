@@ -1,11 +1,11 @@
 id: 35913323
-type: way
+type: node
 latitude: 43.12161
 longitude: -77.5924
 postcode: "14618"
 city: Rochester
-street: "South Clinton Avenue"
-housenumber: 1900
-phone: "+1 585-442-2990"
-opening_hours: "Mo-Su 06:00-24:00"
+street: South Clinton Avenue
+housenumber: "1900"
+phone: +1 585-442-2990
+opening_hours: Mo-Su 06:00-24:00
 website: ""

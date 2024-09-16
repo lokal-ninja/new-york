@@ -1,11 +1,11 @@
 id: 1178227066
-type: way
+type: node
 latitude: 41.71022
 longitude: -73.86661
 postcode: "12603"
 city: Poughkeepsie
-street: "Eastdale Avenue North"
-housenumber: 42
+street: Eastdale Avenue North
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

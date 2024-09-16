@@ -4,8 +4,8 @@ latitude: 40.77312
 longitude: -73.95791
 postcode: "10075"
 city: New York
-street: "3rd Avenue"
-housenumber: 1353
-phone: "+1 212-249-6365"
-opening_hours: "Mo-Fr 10:30-17:00; Tu,Th 11:00-19:00"
-website: "https://www.visionaryoptics.com"
+street: 3rd Avenue
+housenumber: "1353"
+phone: +1 212-249-6365
+opening_hours: Mo-Fr 10:30-17:00; Tu,Th 11:00-19:00
+website: https://www.visionaryoptics.com

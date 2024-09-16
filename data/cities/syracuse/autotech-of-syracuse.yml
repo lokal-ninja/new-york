@@ -1,11 +1,11 @@
 id: 363363407
-type: way
+type: node
 latitude: 43.05302
 longitude: -76.12743
 postcode: "13203"
 city: Syracuse
-street: "Burnet Avenue"
-housenumber: 901
-phone: "+1 315 474 2100"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.autotechofsyracuse.com/"
+street: Burnet Avenue
+housenumber: "901"
+phone: +1 315 474 2100
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.autotechofsyracuse.com/

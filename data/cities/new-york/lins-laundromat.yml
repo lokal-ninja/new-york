@@ -4,8 +4,8 @@ latitude: 40.72977
 longitude: -73.98349
 postcode: "10009"
 city: New York
-street: "1st Avenue"
-housenumber: 194
+street: 1st Avenue
+housenumber: "194"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-19:00"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-19:00
 website: ""

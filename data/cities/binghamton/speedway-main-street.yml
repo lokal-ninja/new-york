@@ -4,8 +4,8 @@ latitude: 42.09917
 longitude: -75.92152
 postcode: "13905"
 city: Binghamton
-street: "Main Street"
-housenumber: 63
+street: Main Street
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Binghamton/63-MAIN-ST"
+website: https://www.speedway.com/locations/NY/Binghamton/63-MAIN-ST

@@ -4,8 +4,8 @@ latitude: 40.78931
 longitude: -73.97649
 postcode: "10024"
 city: New York
-street: "West 87th Street"
-housenumber: 261
-phone: "+1-646-786-0973"
-opening_hours: "Mo-Fr 07:00-20:00; Sa-Su 09:00-17:00"
-website: "https://www.biscuitsandbath.com/locations/upper-west-side/"
+street: West 87th Street
+housenumber: "261"
+phone: +1-646-786-0973
+opening_hours: Mo-Fr 07:00-20:00; Sa-Su 09:00-17:00
+website: https://www.biscuitsandbath.com/locations/upper-west-side/

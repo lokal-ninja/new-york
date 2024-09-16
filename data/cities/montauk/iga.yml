@@ -1,11 +1,11 @@
 id: 471655775
-type: way
+type: node
 latitude: 41.03182
 longitude: -71.94888
 postcode: "11954"
 city: Montauk
-street: "Montauk Highway"
-housenumber: 654
-phone: "+1 631-368-1661"
+street: Montauk Highway
+housenumber: "654"
+phone: +1 631-368-1661
 opening_hours: ""
-website: "https://www.montauk.iga.com/"
+website: https://www.montauk.iga.com/

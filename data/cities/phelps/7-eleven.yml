@@ -1,11 +1,11 @@
 id: 445850620
-type: way
+type: node
 latitude: 42.95109
 longitude: -76.97614
 postcode: "14532"
 city: Phelps
-street: "NY-14"
-housenumber: 1735
+street: NY-14
+housenumber: "1735"
 phone: ""
 opening_hours: ""
 website: ""

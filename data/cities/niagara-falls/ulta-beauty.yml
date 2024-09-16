@@ -4,8 +4,8 @@ latitude: 43.0936
 longitude: -78.9756
 postcode: "14304"
 city: Niagara Falls
-street: "Military Road"
-housenumber: 1520
-phone: "+1 716-297-3432"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/niagara-falls-ny-1192"
+street: Military Road
+housenumber: "1520"
+phone: +1 716-297-3432
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/niagara-falls-ny-1192

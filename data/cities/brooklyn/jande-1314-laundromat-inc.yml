@@ -4,8 +4,8 @@ latitude: 40.59856
 longitude: -73.95773
 postcode: "11229"
 city: Brooklyn
-street: "Avenue U"
-housenumber: 1314
-phone: "+1 917-302-3315"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Avenue U
+housenumber: "1314"
+phone: +1 917-302-3315
+opening_hours: Mo-Su 07:00-22:00
 website: ""

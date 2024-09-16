@@ -1,11 +1,11 @@
 id: 463325760
-type: way
+type: node
 latitude: 40.93457
 longitude: -72.66989
 postcode: "11901"
 city: Riverhead
-street: "Old Country Road"
-housenumber: 870
+street: Old Country Road
+housenumber: "870"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Riverhead/870-OLD-COUNTRY-RD"
+website: https://www.speedway.com/locations/NY/Riverhead/870-OLD-COUNTRY-RD

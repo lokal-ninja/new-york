@@ -1,11 +1,11 @@
 id: 615035693
-type: way
+type: node
 latitude: 41.58943
 longitude: -73.90723
 postcode: "12590"
 city: Wappingers Falls
-street: "Route 9"
-housenumber: 1468
+street: Route 9
+housenumber: "1468"
 phone: ""
 opening_hours: ""
 website: ""

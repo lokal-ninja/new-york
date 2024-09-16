@@ -1,11 +1,11 @@
 id: 452550322
-type: way
+type: node
 latitude: 41.12538
 longitude: -73.71455
 postcode: "10504"
 city: Armonk
-street: "Main Street"
-housenumber: 385
+street: Main Street
+housenumber: "385"
 phone: ""
 opening_hours: ""
 website: ""

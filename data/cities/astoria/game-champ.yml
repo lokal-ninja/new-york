@@ -1,11 +1,11 @@
 id: 280576788
-type: way
+type: node
 latitude: 40.75998
 longitude: -73.91836
 postcode: "11103"
 city: Astoria
-street: "Steinway Street"
-housenumber: 3152
+street: Steinway Street
+housenumber: "3152"
 phone: ""
-opening_hours: "10:00-20:00"
+opening_hours: 10:00-20:00
 website: ""

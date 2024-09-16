@@ -1,11 +1,11 @@
 id: 989194192
-type: way
+type: node
 latitude: 42.09082
 longitude: -78.62895
 postcode: ""
 city: Limestone
-street: "Route 219"
-housenumber: 2100
+street: Route 219
+housenumber: "2100"
 phone: ""
 opening_hours: ""
 website: ""

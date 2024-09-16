@@ -1,11 +1,11 @@
 id: 459707285
-type: way
+type: node
 latitude: 42.30686
 longitude: -74.2514
 postcode: "12496"
 city: Windham
-street: "Route 79"
-housenumber: 7
+street: Route 79
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

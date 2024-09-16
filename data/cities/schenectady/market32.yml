@@ -1,11 +1,11 @@
 id: 60859301
-type: way
+type: node
 latitude: 42.80599
 longitude: -73.91407
 postcode: "12309"
 city: Schenectady
-street: "Eastern Parkway"
-housenumber: 1640
+street: Eastern Parkway
+housenumber: "1640"
 phone: ""
 opening_hours: ""
 website: ""

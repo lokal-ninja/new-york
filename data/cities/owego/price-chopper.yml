@@ -1,11 +1,11 @@
 id: 292075522
-type: way
+type: node
 latitude: 42.09858
 longitude: -76.26982
 postcode: "13827"
 city: Owego
-street: "West Main Street"
-housenumber: 42
+street: West Main Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

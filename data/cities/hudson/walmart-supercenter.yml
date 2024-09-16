@@ -1,11 +1,11 @@
 id: 324897630
-type: way
+type: node
 latitude: 42.27715
 longitude: -73.74975
 postcode: "12534"
 city: Hudson
-street: "Fairview Avenue"
-housenumber: 460
-phone: "+1 518-822-0160"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2097/hudson-ny/whats-new"
+street: Fairview Avenue
+housenumber: "460"
+phone: +1 518-822-0160
+opening_hours: 24/7
+website: https://www.walmart.com/store/2097/hudson-ny/whats-new

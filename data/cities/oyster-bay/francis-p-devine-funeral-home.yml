@@ -1,11 +1,11 @@
 id: 565990104
-type: way
+type: node
 latitude: 40.86595
 longitude: -73.53181
 postcode: "11771"
 city: Oyster Bay
-street: "Berry Hill Road"
-housenumber: 5
+street: Berry Hill Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

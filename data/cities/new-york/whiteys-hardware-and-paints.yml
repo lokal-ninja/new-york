@@ -4,8 +4,8 @@ latitude: 40.74459
 longitude: -73.98759
 postcode: "10001"
 city: New York
-street: "5th Avenue"
-housenumber: 244
+street: 5th Avenue
+housenumber: "244"
 phone: ""
 opening_hours: ""
 website: ""

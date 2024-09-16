@@ -1,11 +1,11 @@
 id: 814403119
-type: way
+type: node
 latitude: 44.38135
 longitude: -73.74281
 postcode: "12941"
 city: Jay
-street: "NYS Route 86"
-housenumber: 6588
+street: NYS Route 86
+housenumber: "6588"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1214384458
-type: way
+type: node
 latitude: 42.91168
 longitude: -78.88616
 postcode: "14213"
 city: Buffalo
-street: "Rhode Island Street"
-housenumber: 426
+street: Rhode Island Street
+housenumber: "426"
 phone: ""
 opening_hours: ""
 website: ""

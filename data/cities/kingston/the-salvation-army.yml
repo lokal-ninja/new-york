@@ -1,11 +1,11 @@
 id: 264332345
-type: way
+type: node
 latitude: 41.95524
 longitude: -73.99379
 postcode: "12401"
 city: Kingston
-street: "Ulster Avenue"
-housenumber: 884
-phone: "+1-800-728-7825"
-opening_hours: "Mo-Fr 09:00-15:00; Su 10:00-12:30"
+street: Ulster Avenue
+housenumber: "884"
+phone: +1-800-728-7825
+opening_hours: Mo-Fr 09:00-15:00; Su 10:00-12:30
 website: ""

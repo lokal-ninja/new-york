@@ -1,11 +1,11 @@
 id: 1090567153
-type: way
+type: node
 latitude: 42.9084
 longitude: -78.77942
 postcode: "14225"
 city: Cheektowaga
-street: "Walden Avenue"
-housenumber: 1550
+street: Walden Avenue
+housenumber: "1550"
 phone: ""
 opening_hours: ""
 website: ""

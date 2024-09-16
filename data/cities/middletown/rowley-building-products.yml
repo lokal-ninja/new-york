@@ -1,11 +1,11 @@
 id: 690351483
-type: way
+type: node
 latitude: 41.45652
 longitude: -74.41024
 postcode: "10940"
 city: Middletown
-street: "Wisner Avenue"
-housenumber: 87
-phone: "(845) 342-5555"
+street: Wisner Avenue
+housenumber: "87"
+phone: (845) 342-5555
 opening_hours: ""
 website: ""

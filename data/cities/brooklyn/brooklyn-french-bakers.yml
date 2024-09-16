@@ -4,8 +4,8 @@ latitude: 40.67089
 longitude: -73.97782
 postcode: "11215"
 city: Brooklyn
-street: "2nd Street"
-housenumber: 510
-phone: "+1 (332) 250-0582"
-opening_hours: "Tu-Fr 08:00-16:00; Sa 08:00-16:00; Su 08:00-13:00"
-website: "https://www.brooklynfrenchbakers.com/"
+street: 2nd Street
+housenumber: "510"
+phone: +1 (332) 250-0582
+opening_hours: Tu-Fr 08:00-16:00; Sa 08:00-16:00; Su 08:00-13:00
+website: https://www.brooklynfrenchbakers.com/

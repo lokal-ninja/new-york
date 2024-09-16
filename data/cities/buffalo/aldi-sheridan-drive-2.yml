@@ -1,11 +1,11 @@
 id: 93411444
-type: way
+type: node
 latitude: 42.98173
 longitude: -78.86752
-postcode: "14223-1212"
+postcode: 14223-1212
 city: Buffalo
-street: "Sheridan Drive"
-housenumber: 1820
-phone: "+1 866-465-1074"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/buffalo/1820-sheridan-dr"
+street: Sheridan Drive
+housenumber: "1820"
+phone: +1 866-465-1074
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/buffalo/1820-sheridan-dr

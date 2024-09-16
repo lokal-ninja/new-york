@@ -4,8 +4,8 @@ latitude: 40.88557
 longitude: -73.85398
 postcode: "10466"
 city: Bronx
-street: "East 225th Street"
-housenumber: 920
-phone: "+1-347-537-6095"
-opening_hours: "Mo-Th, Sa 09:00-21:00; Fr 09:00-19:00; Su 10:00-19:00"
-website: "http://nycarbrokers.com"
+street: East 225th Street
+housenumber: "920"
+phone: +1-347-537-6095
+opening_hours: Mo-Th, Sa 09:00-21:00; Fr 09:00-19:00; Su 10:00-19:00
+website: http://nycarbrokers.com

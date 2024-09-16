@@ -1,11 +1,11 @@
 id: 1206243557
-type: way
+type: node
 latitude: 43.03896
 longitude: -78.82541
 postcode: "14228"
 city: Buffalo
-street: "Niagara Falls Boulevard"
-housenumber: 3100
+street: Niagara Falls Boulevard
+housenumber: "3100"
 phone: ""
 opening_hours: ""
-website: "https://deltasoniccarwash.com/location/west-amherst-ny/"
+website: https://deltasoniccarwash.com/location/west-amherst-ny/

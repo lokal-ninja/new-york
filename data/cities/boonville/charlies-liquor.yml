@@ -1,11 +1,11 @@
 id: 545370327
-type: way
+type: node
 latitude: 43.48341
 longitude: -75.33559
 postcode: "13309"
 city: Boonville
-street: "Railroad Avenue"
-housenumber: 102
+street: Railroad Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

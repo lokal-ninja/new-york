@@ -1,11 +1,11 @@
 id: 806663578
-type: way
+type: node
 latitude: 40.90162
 longitude: -73.82638
 postcode: "10553"
 city: Mount Vernon
-street: "Sandford Boulevard East"
-housenumber: 227
+street: Sandford Boulevard East
+housenumber: "227"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mount-vernon-ny-pharmacies/211-east-sandford-blvd-mount-vernon-ny-10550/storeid=2164"
+website: https://www.cvs.com/store-locator/mount-vernon-ny-pharmacies/211-east-sandford-blvd-mount-vernon-ny-10550/storeid=2164

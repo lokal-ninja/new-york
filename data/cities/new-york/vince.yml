@@ -4,8 +4,8 @@ latitude: 40.72312
 longitude: -74.0001
 postcode: "10012"
 city: New York
-street: "Mercer Street"
-housenumber: 89
-phone: "+1  646.849.5657"
-opening_hours: "11am-7pm"
+street: Mercer Street
+housenumber: "89"
+phone: +1  646.849.5657
+opening_hours: 11am-7pm
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.70422
 longitude: -74.00975
 postcode: "10004"
 city: New York
-street: "Hanover Square"
-housenumber: 7
+street: Hanover Square
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00"
-website: "http://www.newfreshcleaners.com/main/view.asp?pageid=2"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00
+website: http://www.newfreshcleaners.com/main/view.asp?pageid=2

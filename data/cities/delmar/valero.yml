@@ -1,11 +1,11 @@
 id: 992961052
-type: way
+type: node
 latitude: 42.61526
 longitude: -73.85096
 postcode: "12054"
 city: Delmar
-street: "Delaware Avenue"
-housenumber: 594
+street: Delaware Avenue
+housenumber: "594"
 phone: ""
 opening_hours: ""
 website: ""

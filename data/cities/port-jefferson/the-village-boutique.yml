@@ -4,8 +4,8 @@ latitude: 40.94575
 longitude: -73.06859
 postcode: "11777"
 city: Port Jefferson
-street: "Main Street"
-housenumber: 128
-phone: "+1-631-509-5720"
+street: Main Street
+housenumber: "128"
+phone: +1-631-509-5720
 opening_hours: ""
-website: "https://thevillageboutiqueportjefferson.com/"
+website: https://thevillageboutiqueportjefferson.com/

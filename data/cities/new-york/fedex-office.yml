@@ -4,8 +4,8 @@ latitude: 40.75461
 longitude: -73.98593
 postcode: "10036"
 city: New York
-street: "Broadway"
-housenumber: 1440
-phone: "+1 212-730-5356"
-opening_hours: "Mo-Fr 08:30-21:00"
-website: "https://local.fedex.com/ny/new-york/office-4478/"
+street: Broadway
+housenumber: "1440"
+phone: +1 212-730-5356
+opening_hours: Mo-Fr 08:30-21:00
+website: https://local.fedex.com/ny/new-york/office-4478/

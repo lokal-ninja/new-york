@@ -1,11 +1,11 @@
 id: 821690756
-type: way
+type: node
 latitude: 42.3037
 longitude: -77.74819
 postcode: "14804"
 city: Almond
-street: "State Route 21"
-housenumber: 6989
+street: State Route 21
+housenumber: "6989"
 phone: "6072762238"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://alfredauto.com"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://alfredauto.com

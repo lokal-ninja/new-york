@@ -4,8 +4,8 @@ latitude: 40.74656
 longitude: -73.9857
 postcode: "10016"
 city: New York
-street: "5th Avenue"
-housenumber: 303
+street: 5th Avenue
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

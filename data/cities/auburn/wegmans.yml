@@ -1,11 +1,11 @@
 id: 225786343
-type: way
+type: node
 latitude: 42.93216
 longitude: -76.565
 postcode: "13021"
 city: Auburn
-street: "Loop Road"
-housenumber: 1
-phone: "+1 315-255-2231"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.wegmans.com/webapp/wcs/stores/servlet/ProductDisplay?langId=-1&storeId=10052&catalogId=10002&productId=347906"
+street: Loop Road
+housenumber: "1"
+phone: +1 315-255-2231
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.wegmans.com/webapp/wcs/stores/servlet/ProductDisplay?langId=-1&storeId=10052&catalogId=10002&productId=347906

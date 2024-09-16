@@ -4,8 +4,8 @@ latitude: 40.72657
 longitude: -73.99145
 postcode: "10003"
 city: New York
-street: "BOWERY"
-housenumber: 351
-phone: "+1 212-260-0529"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ny/new-york/351-bowery-35308"
+street: BOWERY
+housenumber: "351"
+phone: +1 212-260-0529
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ny/new-york/351-bowery-35308

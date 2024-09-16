@@ -1,11 +1,11 @@
 id: 388097390
-type: way
+type: node
 latitude: 40.9327
 longitude: -72.67421
 postcode: "11901"
 city: Riverhead
-street: "Old Country Road"
-housenumber: 1065
+street: Old Country Road
+housenumber: "1065"
 phone: ""
 opening_hours: ""
 website: ""

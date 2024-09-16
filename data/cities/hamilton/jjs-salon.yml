@@ -4,8 +4,8 @@ latitude: 42.8264
 longitude: -75.54532
 postcode: "13346"
 city: Hamilton
-street: "Lebanon Street"
-housenumber: 29
-phone: "+1 315 824-3000"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su off"
-website: "http://jjssalon.com"
+street: Lebanon Street
+housenumber: "29"
+phone: +1 315 824-3000
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su off
+website: http://jjssalon.com

@@ -1,11 +1,11 @@
 id: 758006331
-type: way
+type: node
 latitude: 43.12358
 longitude: -75.29638
 postcode: "13492"
 city: Whitesboro
-street: "Oriskany Boulevard"
-housenumber: 185
+street: Oriskany Boulevard
+housenumber: "185"
 phone: ""
-opening_hours: "24/7"
-website: "https://byrnedairystores.com/locations/whitesboro"
+opening_hours: 24/7
+website: https://byrnedairystores.com/locations/whitesboro

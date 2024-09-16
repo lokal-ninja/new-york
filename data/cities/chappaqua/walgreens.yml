@@ -1,11 +1,11 @@
 id: 460843205
-type: way
+type: node
 latitude: 41.1603
 longitude: -73.76506
 postcode: "10514"
 city: Chappaqua
-street: "King Street"
-housenumber: 411
-phone: "1-914-861-9130"
+street: King Street
+housenumber: "411"
+phone: 1-914-861-9130
 opening_hours: ""
-website: "https://www.walgreens.com/"
+website: https://www.walgreens.com/

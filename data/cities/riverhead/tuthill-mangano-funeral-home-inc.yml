@@ -1,11 +1,11 @@
 id: 463004221
-type: way
+type: node
 latitude: 40.91881
 longitude: -72.65734
 postcode: "11901"
 city: Riverhead
-street: "East Main Street"
-housenumber: 406
+street: East Main Street
+housenumber: "406"
 phone: ""
 opening_hours: ""
 website: ""

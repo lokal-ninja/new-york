@@ -1,11 +1,11 @@
 id: 319403213
-type: way
+type: node
 latitude: 42.25275
 longitude: -73.79149
 postcode: "12534"
 city: Hudson
-street: "Warren Street"
-housenumber: 301
+street: Warren Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

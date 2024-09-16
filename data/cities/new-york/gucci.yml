@@ -4,8 +4,8 @@ latitude: 40.76232
 longitude: -73.97415
 postcode: "10022"
 city: New York
-street: "5th Avenue"
-housenumber: 725
+street: 5th Avenue
+housenumber: "725"
 phone: "+12128262600"
 opening_hours: ""
-website: "https://www.gucci.com/us/en/store/725-fifth-avenue"
+website: https://www.gucci.com/us/en/store/725-fifth-avenue

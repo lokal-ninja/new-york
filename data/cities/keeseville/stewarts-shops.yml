@@ -1,11 +1,11 @@
 id: 809674075
-type: way
+type: node
 latitude: 44.50641
 longitude: -73.48334
 postcode: "12944"
 city: Keeseville
-street: "Main Street"
-housenumber: 1774
+street: Main Street
+housenumber: "1774"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 652533647
-type: way
+type: node
 latitude: 42.66702
 longitude: -73.78067
 postcode: "12206"
 city: Albany
-street: "Washington Avenue"
-housenumber: 649
-phone: "+1 518 4381002"
+street: Washington Avenue
+housenumber: "649"
+phone: +1 518 4381002
 opening_hours: ""
-website: "https://levinememorialchapel.com/"
+website: https://levinememorialchapel.com/

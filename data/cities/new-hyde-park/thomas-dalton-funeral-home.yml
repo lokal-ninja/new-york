@@ -1,11 +1,11 @@
 id: 589084880
-type: way
+type: node
 latitude: 40.74001
 longitude: -73.69962
 postcode: "11040"
 city: New Hyde Park
-street: "Hillside Avenue"
-housenumber: 125
+street: Hillside Avenue
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

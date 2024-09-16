@@ -4,8 +4,8 @@ latitude: 40.72098
 longitude: -73.98915
 postcode: "10002"
 city: New York
-street: "Allen Street"
-housenumber: 162
-phone: "(212) 674-0786"
-opening_hours: "Mo-Fr, Su 11:00-18:00"
+street: Allen Street
+housenumber: "162"
+phone: (212) 674-0786
+opening_hours: Mo-Fr, Su 11:00-18:00
 website: ""

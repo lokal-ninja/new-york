@@ -1,11 +1,11 @@
 id: 1040001118
-type: way
+type: node
 latitude: 42.93761
 longitude: -74.6259
 postcode: "13339"
 city: Fort Plain
-street: "Herkimer Street"
-housenumber: 15
+street: Herkimer Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/Big-Es-Feed-and-Seed-101739331209764/"
+website: https://www.facebook.com/Big-Es-Feed-and-Seed-101739331209764/

@@ -4,8 +4,8 @@ latitude: 40.80419
 longitude: -73.93652
 postcode: "10035"
 city: New York
-street: "East 125th Street"
-housenumber: 163
-phone: "+1-212-348-3426"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.gnc.com/store-details?StoreID=6665"
+street: East 125th Street
+housenumber: "163"
+phone: +1-212-348-3426
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.gnc.com/store-details?StoreID=6665

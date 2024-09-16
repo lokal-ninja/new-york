@@ -1,11 +1,11 @@
 id: 616191341
-type: way
+type: node
 latitude: 40.70452
 longitude: -73.62359
 postcode: "11550"
 city: Hempstead
-street: "Peninsula Boulevard"
-housenumber: 285
+street: Peninsula Boulevard
+housenumber: "285"
 phone: ""
 opening_hours: ""
 website: ""

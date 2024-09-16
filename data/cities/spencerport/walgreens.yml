@@ -1,11 +1,11 @@
 id: 654554563
-type: way
+type: node
 latitude: 43.18085
 longitude: -77.80305
 postcode: "14559"
 city: Spencerport
-street: "Nichols Street"
-housenumber: 2841
+street: Nichols Street
+housenumber: "2841"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2841+nichols+st-spencerport-ny-14559/id=19717"
+website: https://www.walgreens.com/locator/walgreens-2841+nichols+st-spencerport-ny-14559/id=19717

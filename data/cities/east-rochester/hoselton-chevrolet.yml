@@ -1,11 +1,11 @@
 id: 296192818
-type: way
+type: node
 latitude: 43.1017
 longitude: -77.4809
 postcode: "14445"
 city: East Rochester
-street: "Fairport Road"
-housenumber: 909
+street: Fairport Road
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

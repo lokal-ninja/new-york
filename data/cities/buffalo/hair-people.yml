@@ -4,8 +4,8 @@ latitude: 42.95821
 longitude: -78.81908
 postcode: "14226"
 city: Buffalo
-street: "Main Street"
-housenumber: 3500
-phone: "716-834-9090"
+street: Main Street
+housenumber: "3500"
+phone: 716-834-9090
 opening_hours: ""
-website: "http://hairpeople.family"
+website: http://hairpeople.family

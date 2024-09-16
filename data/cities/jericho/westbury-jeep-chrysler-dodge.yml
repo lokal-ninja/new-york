@@ -1,11 +1,11 @@
 id: 561658743
-type: way
+type: node
 latitude: 40.78082
 longitude: -73.55898
 postcode: "11753"
 city: Jericho
-street: "Jericho Turnpike"
-housenumber: 100
-phone: "888-474-0309"
-opening_hours: "Mo-Fr 09:00-21:00, Sa 09:00-18:00, Su 11:00-17:00"
-website: "https://www.westburyjeep.com/"
+street: Jericho Turnpike
+housenumber: "100"
+phone: 888-474-0309
+opening_hours: Mo-Fr 09:00-21:00, Sa 09:00-18:00, Su 11:00-17:00
+website: https://www.westburyjeep.com/

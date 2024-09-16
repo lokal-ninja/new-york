@@ -1,11 +1,11 @@
 id: 585742526
-type: way
+type: node
 latitude: 43.196
 longitude: -77.59894
 postcode: "14621"
 city: Rochester
-street: "East Ridge Road"
-housenumber: 705
-phone: "+1 585-467-2020"
+street: East Ridge Road
+housenumber: "705"
+phone: +1 585-467-2020
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/ny/rochester/2490/eastridge-plaza-gamestop"
+website: https://www.gamestop.com/store/us/ny/rochester/2490/eastridge-plaza-gamestop

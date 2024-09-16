@@ -1,11 +1,11 @@
 id: 54672997
-type: way
+type: node
 latitude: 44.6697
 longitude: -74.98405
 postcode: "13676"
 city: Potsdam
-street: "Elm Street"
-housenumber: 27
-phone: "+1 309-473-3211"
+street: Elm Street
+housenumber: "27"
+phone: +1 309-473-3211
 opening_hours: ""
 website: ""

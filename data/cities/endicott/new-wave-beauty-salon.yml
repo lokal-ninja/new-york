@@ -1,11 +1,11 @@
 id: 976506575
-type: way
+type: node
 latitude: 42.10628
 longitude: -76.0248
 postcode: "13760"
 city: Endicott
-street: "East Main Street"
-housenumber: 3120
+street: East Main Street
+housenumber: "3120"
 phone: ""
 opening_hours: ""
 website: ""

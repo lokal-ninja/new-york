@@ -1,11 +1,11 @@
 id: 95972019
-type: way
+type: node
 latitude: 41.52064
 longitude: -74.02227
 postcode: "12550"
 city: Newburgh
-street: "North Plank Road"
-housenumber: 8
+street: North Plank Road
+housenumber: "8"
 phone: "+18457620110"
-opening_hours: "Mo-Th 09:00-19:00; Fr 10:00-20:00; Sa 09:00-19:00; Su 08:00-18:00"
-website: "https://curaleaf.com/shop/new-york/curaleaf-ny-hudson-valley?"
+opening_hours: Mo-Th 09:00-19:00; Fr 10:00-20:00; Sa 09:00-19:00; Su 08:00-18:00
+website: https://curaleaf.com/shop/new-york/curaleaf-ny-hudson-valley?

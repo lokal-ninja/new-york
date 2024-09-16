@@ -4,8 +4,8 @@ latitude: 42.91357
 longitude: -78.86536
 postcode: "14209"
 city: Buffalo
-street: "Main Street"
-housenumber: 1470
-phone: "(716) 884-2346"
+street: Main Street
+housenumber: "1470"
+phone: (716) 884-2346
 opening_hours: ""
-website: "https://www.sherwin-williams.com/store-locator/paint-store/buffalo/ny/701041"
+website: https://www.sherwin-williams.com/store-locator/paint-store/buffalo/ny/701041

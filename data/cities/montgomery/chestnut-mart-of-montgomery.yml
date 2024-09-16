@@ -1,11 +1,11 @@
 id: 1109739629
-type: way
+type: node
 latitude: 41.52733
 longitude: -74.20082
 postcode: "12549"
 city: Montgomery
-street: "State Route 208"
-housenumber: 2231
+street: State Route 208
+housenumber: "2231"
 phone: "+18454571889"
 opening_hours: ""
 website: ""

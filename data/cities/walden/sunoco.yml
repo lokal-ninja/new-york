@@ -1,11 +1,11 @@
 id: 1109140182
-type: way
+type: node
 latitude: 41.56114
 longitude: -74.18748
 postcode: "12586"
 city: Walden
-street: "Main Street"
-housenumber: 6
+street: Main Street
+housenumber: "6"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

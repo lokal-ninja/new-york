@@ -1,11 +1,11 @@
 id: 157284293
-type: way
+type: node
 latitude: 43.05234
 longitude: -76.07486
 postcode: "13214"
 city: DeWitt
-street: "Erie Boulevard East"
-housenumber: 3196
-phone: "+1-315-214-8618"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://www.bertsbikes.com/about/dewitt-ny-pg1649.htm"
+street: Erie Boulevard East
+housenumber: "3196"
+phone: +1-315-214-8618
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
+website: https://www.bertsbikes.com/about/dewitt-ny-pg1649.htm

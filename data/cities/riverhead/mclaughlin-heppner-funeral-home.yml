@@ -1,11 +1,11 @@
 id: 463000970
-type: way
+type: node
 latitude: 40.92137
 longitude: -72.67418
 postcode: "11901"
 city: Riverhead
-street: "Marcy Avenue"
-housenumber: 336
+street: Marcy Avenue
+housenumber: "336"
 phone: ""
 opening_hours: ""
 website: ""

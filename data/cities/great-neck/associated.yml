@@ -1,11 +1,11 @@
 id: 554198877
-type: way
+type: node
 latitude: 40.79428
 longitude: -73.73347
 postcode: "11021"
 city: Great Neck
-street: "Middle Neck Road"
-housenumber: 181
+street: Middle Neck Road
+housenumber: "181"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.50753
 longitude: -73.97466
 postcode: "12508"
 city: Beacon
-street: "Main Street"
-housenumber: 197
-phone: "+1-845-219-5434"
-opening_hours: "Th-Mo 11:00-18:00"
+street: Main Street
+housenumber: "197"
+phone: +1-845-219-5434
+opening_hours: Th-Mo 11:00-18:00
 website: ""

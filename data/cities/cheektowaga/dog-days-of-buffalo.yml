@@ -1,11 +1,11 @@
 id: 917192162
-type: way
+type: node
 latitude: 42.94572
 longitude: -78.78426
 postcode: "14215"
 city: Cheektowaga
-street: "Harlem Road"
-housenumber: 3740
-phone: "+1 716-886-3647"
-opening_hours: "Mo-Fr 07:00-18:00, Sa-Su closed"
-website: "https://dogdaysofbuffalo.com/"
+street: Harlem Road
+housenumber: "3740"
+phone: +1 716-886-3647
+opening_hours: Mo-Fr 07:00-18:00, Sa-Su closed
+website: https://dogdaysofbuffalo.com/

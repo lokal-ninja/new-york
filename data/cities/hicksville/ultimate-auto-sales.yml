@@ -1,11 +1,11 @@
 id: 558333886
-type: way
+type: node
 latitude: 40.76086
 longitude: -73.53248
 postcode: "11801"
 city: Hicksville
-street: "West Old Country Road"
-housenumber: 284
+street: West Old Country Road
+housenumber: "284"
 phone: ""
 opening_hours: ""
 website: ""

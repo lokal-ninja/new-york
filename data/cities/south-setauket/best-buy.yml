@@ -1,11 +1,11 @@
 id: 1308870689
-type: way
+type: node
 latitude: 40.88457
 longitude: -73.09899
 postcode: "11720"
 city: South Setauket
-street: "Pond Path"
-housenumber: 261
-phone: "+1 631-737-1632"
+street: Pond Path
+housenumber: "261"
+phone: +1 631-737-1632
 opening_hours: ""
-website: "https://stores.bestbuy.com/ny/south-setauket/261-pond-path-458.html"
+website: https://stores.bestbuy.com/ny/south-setauket/261-pond-path-458.html

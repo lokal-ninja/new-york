@@ -4,8 +4,8 @@ latitude: 40.78723
 longitude: -73.97141
 postcode: "10024"
 city: New York
-street: "Columbus Avenue"
-housenumber: 561
-phone: "+1 212-256-0586"
-opening_hours: "Mo-Th, Su 10:00-23:00; Fr, Sa 10:00-00:00"
-website: "https://milkbarstore.com/pages/location#!nyc"
+street: Columbus Avenue
+housenumber: "561"
+phone: +1 212-256-0586
+opening_hours: Mo-Th, Su 10:00-23:00; Fr, Sa 10:00-00:00
+website: https://milkbarstore.com/pages/location#!nyc

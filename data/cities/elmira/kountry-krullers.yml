@@ -1,11 +1,11 @@
 id: 740509034
-type: way
+type: node
 latitude: 42.0764
 longitude: -76.81238
 postcode: "14904"
 city: Elmira
-street: "South Walnut Street"
-housenumber: 415
+street: South Walnut Street
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

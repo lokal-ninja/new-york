@@ -4,8 +4,8 @@ latitude: 40.80726
 longitude: -73.96478
 postcode: "10025"
 city: New York
-street: "Broadway"
-housenumber: 2935
-phone: "+1-332-239-6763"
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://shop.lululemon.com/stores/us/new-york/columbia"
+street: Broadway
+housenumber: "2935"
+phone: +1-332-239-6763
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://shop.lululemon.com/stores/us/new-york/columbia

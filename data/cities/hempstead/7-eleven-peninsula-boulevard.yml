@@ -1,11 +1,11 @@
 id: 801325594
-type: way
+type: node
 latitude: 40.69256
 longitude: -73.63156
 postcode: "11550"
 city: Hempstead
-street: "Peninsula Boulevard"
-housenumber: 797
-phone: "+1 516-505-0510"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ny/hempstead/797-pennisula-blvd-39804"
+street: Peninsula Boulevard
+housenumber: "797"
+phone: +1 516-505-0510
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ny/hempstead/797-pennisula-blvd-39804

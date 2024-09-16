@@ -1,11 +1,11 @@
 id: 198950434
-type: way
+type: node
 latitude: 43.411
 longitude: -73.71022
 postcode: "12845"
 city: Lake George
-street: "United States Route 9"
-housenumber: 2164
+street: United States Route 9
+housenumber: "2164"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 655812523
-type: way
+type: node
 latitude: 42.67611
 longitude: -73.73601
 postcode: "12204"
 city: Albany
-street: "Broadway"
-housenumber: 1300
-phone: "+1 518 4344421"
+street: Broadway
+housenumber: "1300"
+phone: +1 518 4344421
 opening_hours: ""
 website: ""

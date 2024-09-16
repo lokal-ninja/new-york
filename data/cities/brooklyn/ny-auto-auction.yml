@@ -1,11 +1,11 @@
 id: 249634206
-type: way
+type: node
 latitude: 40.66785
 longitude: -73.99522
 postcode: "11215"
 city: Brooklyn
-street: "16th Street"
-housenumber: 39
-phone: "+1-718-788-5900"
+street: 16th Street
+housenumber: "39"
+phone: +1-718-788-5900
 opening_hours: ""
-website: "https://www.nyautoauction.com/"
+website: https://www.nyautoauction.com/

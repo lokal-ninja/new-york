@@ -1,11 +1,11 @@
 id: 842150918
-type: way
+type: node
 latitude: 40.94949
 longitude: -73.7432
 postcode: "10543"
 city: Mamaroneck
-street: "Waverly Avenue"
-housenumber: 432
+street: Waverly Avenue
+housenumber: "432"
 phone: ""
 opening_hours: ""
 website: ""

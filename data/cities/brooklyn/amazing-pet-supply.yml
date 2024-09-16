@@ -4,8 +4,8 @@ latitude: 40.59941
 longitude: -73.98997
 postcode: "11214"
 city: Brooklyn
-street: "86th Street"
-housenumber: 2366
-phone: "+1-607-590-3565"
-opening_hours: "10:00-19:00"
+street: 86th Street
+housenumber: "2366"
+phone: +1-607-590-3565
+opening_hours: 10:00-19:00
 website: ""

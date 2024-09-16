@@ -1,11 +1,11 @@
 id: 1161185219
-type: way
+type: node
 latitude: 42.87743
 longitude: -78.8023
 postcode: "14206"
 city: Buffalo
-street: "Dingens Street"
-housenumber: 361
+street: Dingens Street
+housenumber: "361"
 phone: ""
 opening_hours: ""
 website: ""

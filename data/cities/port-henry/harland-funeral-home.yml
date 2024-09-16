@@ -1,11 +1,11 @@
 id: 814657089
-type: way
+type: node
 latitude: 44.04564
 longitude: -73.45983
 postcode: "12974"
 city: Port Henry
-street: "Main Street"
-housenumber: 4279
+street: Main Street
+housenumber: "4279"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 270445753
-type: way
+type: node
 latitude: 42.03929
 longitude: -74.11352
 postcode: "12498"
 city: Woodstock
-street: "Mill Hill Road"
-housenumber: 75
-phone: "+1-845-679-5361"
+street: Mill Hill Road
+housenumber: "75"
+phone: +1-845-679-5361
 opening_hours: ""
-website: "https://www.sunflowernatural.com"
+website: https://www.sunflowernatural.com

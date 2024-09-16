@@ -1,11 +1,11 @@
 id: 398440365
-type: way
+type: node
 latitude: 40.86377
 longitude: -73.8293
 postcode: "10475"
 city: Bronx
-street: "Baychester Avenue"
-housenumber: 200
+street: Baychester Avenue
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

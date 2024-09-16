@@ -1,11 +1,11 @@
 id: 104868805
-type: way
+type: node
 latitude: 42.93636
 longitude: -73.80815
 postcode: "12019"
 city: Ballston Lake
-street: "Round Lake Road"
-housenumber: 16
+street: Round Lake Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

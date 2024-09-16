@@ -1,11 +1,11 @@
 id: 140799258
-type: way
+type: node
 latitude: 43.10265
 longitude: -73.74302
 postcode: "12866"
 city: Saratoga Springs
-street: "Route 50"
-housenumber: 3045
+street: Route 50
+housenumber: "3045"
 phone: ""
 opening_hours: ""
 website: ""

@@ -3,9 +3,9 @@ type: node
 latitude: 42.73094
 longitude: -73.69019
 postcode: "12180"
-city: troy
-street: "3rd Street"
-housenumber: 38
+city: Troy
+street: 3rd Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "http://www.troyclothandpaper.com/"
+website: http://www.troyclothandpaper.com/

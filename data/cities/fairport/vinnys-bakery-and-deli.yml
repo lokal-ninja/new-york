@@ -1,11 +1,11 @@
 id: 277011291
-type: way
+type: node
 latitude: 43.10132
 longitude: -77.45987
 postcode: "14450"
 city: Fairport
-street: "Fairport Road"
-housenumber: 1350
+street: Fairport Road
+housenumber: "1350"
 phone: ""
 opening_hours: ""
 website: ""

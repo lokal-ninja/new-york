@@ -1,11 +1,11 @@
 id: 437294349
-type: way
+type: node
 latitude: 43.10179
 longitude: -76.20263
 postcode: "13088"
 city: Liverpool
-street: "Oswego Street"
-housenumber: 318
+street: Oswego Street
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

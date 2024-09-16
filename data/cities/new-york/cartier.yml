@@ -4,8 +4,8 @@ latitude: 40.75958
 longitude: -73.97617
 postcode: "10022"
 city: New York
-street: "5th Avenue"
-housenumber: 653
+street: 5th Avenue
+housenumber: "653"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://stores.cartier.com/es/united-states/ny/new-york/653-fifth-avenue"
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
+website: https://stores.cartier.com/es/united-states/ny/new-york/653-fifth-avenue

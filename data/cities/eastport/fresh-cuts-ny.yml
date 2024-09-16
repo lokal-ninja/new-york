@@ -1,11 +1,11 @@
 id: 466824986
-type: way
+type: node
 latitude: 40.82546
 longitude: -72.72927
 postcode: "11941"
 city: Eastport
-street: "Montauk Highway"
-housenumber: 495
+street: Montauk Highway
+housenumber: "495"
 phone: ""
 opening_hours: ""
 website: ""

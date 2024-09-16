@@ -4,8 +4,8 @@ latitude: 40.80078
 longitude: -73.9593
 postcode: "10025"
 city: New York
-street: "West 110th Street"
-housenumber: 300
-phone: "+1-212-932-1990"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "http://www.centralmarketsnyc.com"
+street: West 110th Street
+housenumber: "300"
+phone: +1-212-932-1990
+opening_hours: Mo-Su 08:00-22:00
+website: http://www.centralmarketsnyc.com

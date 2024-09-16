@@ -1,11 +1,11 @@
 id: 252056331
-type: way
+type: node
 latitude: 43.12198
 longitude: -76.14378
 postcode: "13212"
 city: North Syracuse
-street: "West Taft Road"
-housenumber: 5380
-phone: "+1 315 458 8555"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/ny/north-syracuse/5380-west-taft-road.html"
+street: West Taft Road
+housenumber: "5380"
+phone: +1 315 458 8555
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-18:00
+website: https://www.riteaid.com/locations/ny/north-syracuse/5380-west-taft-road.html

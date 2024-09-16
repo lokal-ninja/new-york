@@ -1,11 +1,11 @@
 id: 553780093
-type: way
+type: node
 latitude: 42.14216
 longitude: -77.0533
 postcode: "14830"
 city: Corning
-street: "Denison Parkway East"
-housenumber: 40
+street: Denison Parkway East
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

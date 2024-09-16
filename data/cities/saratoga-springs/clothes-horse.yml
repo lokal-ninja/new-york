@@ -1,11 +1,11 @@
 id: 319935623
-type: way
+type: node
 latitude: 43.0813
 longitude: -73.78538
 postcode: "12866"
 city: Saratoga Springs
-street: "Broadway"
-housenumber: 396
-phone: "+1 518 587 9667"
-opening_hours: "Mo,Th 10:00-17:50; Fr-Sa 10:00-18:00; Su 11:00-17:00"
-website: "http://www.saratogaclotheshorse.com/"
+street: Broadway
+housenumber: "396"
+phone: +1 518 587 9667
+opening_hours: Mo,Th 10:00-17:50; Fr-Sa 10:00-18:00; Su 11:00-17:00
+website: http://www.saratogaclotheshorse.com/

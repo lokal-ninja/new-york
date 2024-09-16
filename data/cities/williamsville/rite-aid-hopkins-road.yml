@@ -1,11 +1,11 @@
 id: 771767545
-type: way
+type: node
 latitude: 43.02411
 longitude: -78.73875
 postcode: "14221"
 city: Williamsville
-street: "Hopkins Road"
-housenumber: 1640
+street: Hopkins Road
+housenumber: "1640"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-20:00"
-website: "https://www.riteaid.com/locations/ny/williamsville/1640-hopkins-road.html"
+opening_hours: Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-20:00
+website: https://www.riteaid.com/locations/ny/williamsville/1640-hopkins-road.html

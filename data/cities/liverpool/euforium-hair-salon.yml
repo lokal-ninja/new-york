@@ -1,11 +1,11 @@
 id: 671113749
-type: way
+type: node
 latitude: 43.12135
 longitude: -76.18311
 postcode: "13088"
 city: Liverpool
-street: "Bear Road"
-housenumber: 4785
+street: Bear Road
+housenumber: "4785"
 phone: ""
 opening_hours: ""
 website: ""

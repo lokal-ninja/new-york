@@ -1,11 +1,11 @@
 id: 477966953
-type: way
+type: node
 latitude: 42.76229
 longitude: -78.12861
 postcode: "14569"
 city: Warsaw
-street: "Route 19 North"
-housenumber: 2469
+street: Route 19 North
+housenumber: "2469"
 phone: ""
 opening_hours: ""
 website: ""

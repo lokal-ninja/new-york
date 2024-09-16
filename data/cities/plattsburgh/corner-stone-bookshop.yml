@@ -4,8 +4,8 @@ latitude: 44.69838
 longitude: -73.4527
 postcode: "12901"
 city: Plattsburgh
-street: "Margaret Street"
-housenumber: 110
+street: Margaret Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "http://www.cornerstonebookshop.biz/"
+website: http://www.cornerstonebookshop.biz/

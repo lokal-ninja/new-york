@@ -4,8 +4,8 @@ latitude: 40.77869
 longitude: -73.97808
 postcode: "10023"
 city: New York
-street: "Columbus Avenue"
-housenumber: 294
-phone: "+1-646-398-8878"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00; Su 12:00-17:00"
-website: "https://celsodelemos.com/"
+street: Columbus Avenue
+housenumber: "294"
+phone: +1-646-398-8878
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00; Su 12:00-17:00
+website: https://celsodelemos.com/

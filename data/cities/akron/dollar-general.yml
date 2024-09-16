@@ -1,11 +1,11 @@
 id: 628895711
-type: way
+type: node
 latitude: 42.99857
 longitude: -78.50396
 postcode: "14001"
 city: Akron
-street: "Main Road"
-housenumber: 12968
+street: Main Road
+housenumber: "12968"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ny/akron/10256"
+website: https://www.dollargeneral.com/store-directory/ny/akron/10256

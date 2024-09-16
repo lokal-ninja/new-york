@@ -4,8 +4,8 @@ latitude: 40.68403
 longitude: -73.99215
 postcode: "11231"
 city: Brooklyn
-street: "Smith Street"
-housenumber: 225
-phone: "+1-718-246-2665"
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.booksaremagic.net/"
+street: Smith Street
+housenumber: "225"
+phone: +1-718-246-2665
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.booksaremagic.net/

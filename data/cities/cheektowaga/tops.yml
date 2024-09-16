@@ -1,11 +1,11 @@
 id: 637010155
-type: way
+type: node
 latitude: 42.94915
 longitude: -78.78473
 postcode: "14215"
 city: Cheektowaga
-street: "Harlem Road"
-housenumber: 3870
-phone: "+1 716-836-0433"
-opening_hours: "06:00-00:00"
-website: "https://www.topsmarkets.com/"
+street: Harlem Road
+housenumber: "3870"
+phone: +1 716-836-0433
+opening_hours: 06:00-00:00
+website: https://www.topsmarkets.com/

@@ -1,11 +1,11 @@
 id: 1009871229
-type: way
+type: node
 latitude: 42.95001
 longitude: -78.86807
 postcode: "14216"
 city: Buffalo
-street: "Delaware Avenue"
-housenumber: 2417
+street: Delaware Avenue
+housenumber: "2417"
 phone: "+17168770229"
 opening_hours: ""
-website: "https://www.rlpmotorsinc.com/"
+website: https://www.rlpmotorsinc.com/

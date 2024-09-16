@@ -1,11 +1,11 @@
 id: 58177745
-type: way
+type: node
 latitude: 42.69453
 longitude: -73.84745
 postcode: "12205"
 city: Albany
-street: "Washington Avenue Extension"
-housenumber: 141
-phone: "+1 518-869-4694"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2152/albany-ny/whats-new"
+street: Washington Avenue Extension
+housenumber: "141"
+phone: +1 518-869-4694
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2152/albany-ny/whats-new

@@ -1,11 +1,11 @@
 id: 106318075
-type: way
+type: node
 latitude: 42.51589
 longitude: -73.61043
 postcode: "12123"
 city: Nassau
-street: "Chatham Street"
-housenumber: 2
+street: Chatham Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

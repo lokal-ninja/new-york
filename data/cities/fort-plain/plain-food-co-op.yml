@@ -4,8 +4,8 @@ latitude: 42.93197
 longitude: -74.623
 postcode: "13339"
 city: Fort Plain
-street: "River Street"
-housenumber: 46
+street: River Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://plain-food-co-op.edan.io/"
+website: https://plain-food-co-op.edan.io/

@@ -1,11 +1,11 @@
 id: 469685859
-type: way
+type: node
 latitude: 42.67793
 longitude: -73.736
 postcode: "12204"
 city: Albany
-street: "Wolfert Avenue"
-housenumber: 3
+street: Wolfert Avenue
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

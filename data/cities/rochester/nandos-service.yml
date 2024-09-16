@@ -1,11 +1,11 @@
 id: 661518229
-type: way
+type: node
 latitude: 43.17614
 longitude: -77.70206
 postcode: "14606"
 city: Rochester
-street: "Long Pond Road"
-housenumber: 1891
+street: Long Pond Road
+housenumber: "1891"
 phone: ""
 opening_hours: ""
 website: ""

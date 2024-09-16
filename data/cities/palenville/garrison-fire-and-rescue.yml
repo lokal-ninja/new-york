@@ -1,11 +1,11 @@
 id: 921890832
-type: way
+type: node
 latitude: 42.17575
 longitude: -74.02217
 postcode: "12463"
 city: Palenville
-street: "Route 23A"
-housenumber: 3334
-phone: "+1-518-678-2281"
+street: Route 23A
+housenumber: "3334"
+phone: +1-518-678-2281
 opening_hours: ""
-website: "https://garrisonfire.com"
+website: https://garrisonfire.com

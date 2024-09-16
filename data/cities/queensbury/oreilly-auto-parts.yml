@@ -1,11 +1,11 @@
 id: 1175399337
-type: way
+type: node
 latitude: 43.3266
 longitude: -73.6647
 postcode: "12804"
 city: Queensbury
-street: "Upper Glen Street"
-housenumber: 682
+street: Upper Glen Street
+housenumber: "682"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ny/queensbury/autoparts-5950.html"
+website: https://locations.oreillyauto.com/ny/queensbury/autoparts-5950.html

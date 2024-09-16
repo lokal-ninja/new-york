@@ -4,8 +4,8 @@ latitude: 40.78215
 longitude: -73.97882
 postcode: "10024"
 city: New York
-street: "Amsterdam"
-housenumber: 371
-phone: "+1-212-787-1090"
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-18:00"
+street: Amsterdam
+housenumber: "371"
+phone: +1-212-787-1090
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-18:00
 website: ""

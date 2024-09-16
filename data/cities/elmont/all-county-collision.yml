@@ -1,11 +1,11 @@
 id: 609095285
-type: way
+type: node
 latitude: 40.70824
 longitude: -73.68813
 postcode: "11003"
 city: Elmont
-street: "Hempstead Turnpike"
-housenumber: 1289
-phone: "+1 516 502 2712"
+street: Hempstead Turnpike
+housenumber: "1289"
+phone: +1 516 502 2712
 opening_hours: ""
 website: ""

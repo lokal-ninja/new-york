@@ -1,11 +1,11 @@
 id: 607685680
-type: way
+type: node
 latitude: 42.9527
 longitude: -77.59148
 postcode: "14472"
 city: Honeoye Falls
-street: "West Main Street"
-housenumber: 15
+street: West Main Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

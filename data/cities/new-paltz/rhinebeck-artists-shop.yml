@@ -1,11 +1,11 @@
 id: 439080222
-type: way
+type: node
 latitude: 41.74537
 longitude: -74.07865
 postcode: "12561"
 city: New Paltz
-street: "Main Street"
-housenumber: 188
-phone: "+1-845-255-5533"
-opening_hours: "Mo-Sa 09:30-18:00; Su 11:00-16:30"
-website: "http://www.rhinebeckartistsshop.com/"
+street: Main Street
+housenumber: "188"
+phone: +1-845-255-5533
+opening_hours: Mo-Sa 09:30-18:00; Su 11:00-16:30
+website: http://www.rhinebeckartistsshop.com/

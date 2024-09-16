@@ -1,11 +1,11 @@
 id: 830129546
-type: way
+type: node
 latitude: 43.206
 longitude: -78.39573
-postcode: "14103-1844"
+postcode: 14103-1844
 city: Medina
-street: "Maple Ridge Road"
-housenumber: 11248
-phone: "+1 833-746-5043"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/medina/11248-maple-ridge-road"
+street: Maple Ridge Road
+housenumber: "11248"
+phone: +1 833-746-5043
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/medina/11248-maple-ridge-road

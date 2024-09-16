@@ -1,11 +1,11 @@
 id: 461715009
-type: way
+type: node
 latitude: 40.90908
 longitude: -72.8466
 postcode: "11961"
 city: Ridge
-street: "Middle Country Road"
-housenumber: 153
+street: Middle Country Road
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

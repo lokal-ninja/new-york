@@ -1,11 +1,11 @@
 id: 93738586
-type: way
+type: node
 latitude: 42.74336
 longitude: -73.68211
 postcode: "12180"
 city: Troy
-street: "6th Avenue"
-housenumber: 2702
+street: 6th Avenue
+housenumber: "2702"
 phone: ""
 opening_hours: ""
 website: ""

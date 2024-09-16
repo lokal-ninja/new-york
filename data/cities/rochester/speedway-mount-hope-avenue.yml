@@ -1,11 +1,11 @@
 id: 1024115575
-type: way
+type: node
 latitude: 43.11473
 longitude: -77.62195
 postcode: "14620"
 city: Rochester
-street: "Mount Hope Avenue"
-housenumber: 1810
+street: Mount Hope Avenue
+housenumber: "1810"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Rochester/1810-Mt-Hope-Avenue"
+website: https://www.speedway.com/locations/NY/Rochester/1810-Mt-Hope-Avenue

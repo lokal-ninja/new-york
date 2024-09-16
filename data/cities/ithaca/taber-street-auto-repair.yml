@@ -1,11 +1,11 @@
 id: 545333214
-type: way
+type: node
 latitude: 42.4351
 longitude: -76.51581
 postcode: "14850"
 city: Ithaca
-street: "Cherry Street"
-housenumber: 229
-phone: "+1-607-277-3346"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://taberstreetauto.com/"
+street: Cherry Street
+housenumber: "229"
+phone: +1-607-277-3346
+opening_hours: Mo-Fr 08:00-17:00
+website: https://taberstreetauto.com/

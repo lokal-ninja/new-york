@@ -4,8 +4,8 @@ latitude: 40.7837
 longitude: -73.97444
 postcode: "10024"
 city: New York
-street: "Columbus Avenue"
-housenumber: 448
-phone: "+1-212-390-1231"
+street: Columbus Avenue
+housenumber: "448"
+phone: +1-212-390-1231
 opening_hours: ""
-website: "https://www.savorbeauty.com"
+website: https://www.savorbeauty.com

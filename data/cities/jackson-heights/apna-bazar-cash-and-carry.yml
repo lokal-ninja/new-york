@@ -1,11 +1,11 @@
 id: 280400651
-type: way
+type: node
 latitude: 40.74845
 longitude: -73.89293
 postcode: "11372"
 city: Jackson Heights
-street: "37th Avenue"
+street: 37th Avenue
 housenumber: 72-20
 phone: ""
-opening_hours: "24/7"
-website: "https://www.apnabazargrocery.com"
+opening_hours: 24/7
+website: https://www.apnabazargrocery.com

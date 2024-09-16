@@ -1,11 +1,11 @@
 id: 60194256
-type: way
+type: node
 latitude: 42.82498
 longitude: -73.96053
 postcode: ""
 city: Scotia
-street: "Mohawk Avenue"
-housenumber: 32
-phone: "518-377-4855"
+street: Mohawk Avenue
+housenumber: "32"
+phone: 518-377-4855
 opening_hours: ""
 website: ""

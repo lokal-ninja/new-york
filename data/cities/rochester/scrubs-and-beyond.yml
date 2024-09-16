@@ -4,8 +4,8 @@ latitude: 43.08569
 longitude: -77.62318
 postcode: "14623"
 city: Rochester
-street: "Marketplace Drive"
-housenumber: 100
+street: Marketplace Drive
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-17:00
 website: ""

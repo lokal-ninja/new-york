@@ -1,11 +1,11 @@
 id: 98942261
-type: way
+type: node
 latitude: 42.90091
 longitude: -78.67078
 postcode: "14086"
 city: Lancaster
-street: "Central Avenue"
-housenumber: 16
+street: Central Avenue
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

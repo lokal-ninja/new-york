@@ -1,11 +1,11 @@
 id: 559579051
-type: way
+type: node
 latitude: 42.11865
 longitude: -77.94111
 postcode: "14895"
 city: Wellsville
-street: "South Main Street"
-housenumber: 81
+street: South Main Street
+housenumber: "81"
 phone: "+15855960715"
 opening_hours: ""
-website: "https://www.bokmanofwellsville.com/"
+website: https://www.bokmanofwellsville.com/

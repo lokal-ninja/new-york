@@ -1,11 +1,11 @@
 id: 586080396
-type: way
+type: node
 latitude: 43.12516
 longitude: -76.21844
 postcode: "13090"
 city: Liverpool
-street: "Oswego Road"
-housenumber: 7323
-phone: "+1-315-451-2800"
+street: Oswego Road
+housenumber: "7323"
+phone: +1-315-451-2800
 opening_hours: ""
-website: "https://www.facebook.com/Rikreations/"
+website: https://www.facebook.com/Rikreations/

@@ -1,11 +1,11 @@
 id: 282306318
-type: way
+type: node
 latitude: 40.68242
 longitude: -73.81338
 postcode: "11420"
 city: South Ozone Park
-street: "111th Avenue"
+street: 111th Avenue
 housenumber: 127-16
-phone: "+1 718-529-1717"
-opening_hours: "Mo-Sa 07:00-19:45; Su 08:00-19:45"
+phone: +1 718-529-1717
+opening_hours: Mo-Sa 07:00-19:45; Su 08:00-19:45
 website: ""

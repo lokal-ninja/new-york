@@ -4,8 +4,8 @@ latitude: 42.81309
 longitude: -73.94189
 postcode: "12305"
 city: Schenectady
-street: "State Street"
-housenumber: 
+street: State Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-19:00; Su 09:00-19:00"
-website: "https://www.cvs.com/store-locator/schenectady-ny-pharmacies/415-state-st-wallace-bldg-schenectady-ny-12305/storeid=451"
+opening_hours: Mo-Fr 07:00-21:00; Sa 08:00-19:00; Su 09:00-19:00
+website: https://www.cvs.com/store-locator/schenectady-ny-pharmacies/415-state-st-wallace-bldg-schenectady-ny-12305/storeid=451

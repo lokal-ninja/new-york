@@ -1,11 +1,11 @@
 id: 471966266
-type: way
+type: node
 latitude: 40.97096
 longitude: -72.18146
 postcode: "11937"
 city: East Hampton
-street: "North Main Street"
-housenumber: 148
+street: North Main Street
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

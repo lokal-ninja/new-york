@@ -1,11 +1,11 @@
 id: 666794091
-type: way
+type: node
 latitude: 42.11111
 longitude: -75.90261
 postcode: "13901"
 city: Binghamton
-street: "Chenango Street"
-housenumber: 412
+street: Chenango Street
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

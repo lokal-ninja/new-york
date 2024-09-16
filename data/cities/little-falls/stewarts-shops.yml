@@ -1,11 +1,11 @@
 id: 743542541
-type: way
+type: node
 latitude: 43.04379
 longitude: -74.86012
 postcode: "13365"
 city: Little Falls
-street: "North Ann Street"
-housenumber: 4
+street: North Ann Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

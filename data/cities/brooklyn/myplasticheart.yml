@@ -4,8 +4,8 @@ latitude: 40.72957
 longitude: -73.95955
 postcode: "11222"
 city: Brooklyn
-street: "Greenpoint Avenue"
-housenumber: 40
-phone: "+1-646-290-6866"
-opening_hours: "Mo-We by appointment; Th-Su 13:00-19:00"
-website: "https://www.myplasticheart.com"
+street: Greenpoint Avenue
+housenumber: "40"
+phone: +1-646-290-6866
+opening_hours: Mo-We "by appointment"; Th-Su 13:00-19:00
+website: https://www.myplasticheart.com

@@ -1,11 +1,11 @@
 id: 306050518
-type: way
+type: node
 latitude: 41.45631
 longitude: -74.38723
 postcode: "10941"
 city: Middletown
-street: "Route 211 East"
-housenumber: 415
+street: Route 211 East
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

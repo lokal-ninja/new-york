@@ -4,8 +4,8 @@ latitude: 41.43666
 longitude: -74.03174
 postcode: "12518"
 city: Cornwall
-street: "Main Street"
-housenumber: 234
-phone: "+1-845-534-7435"
+street: Main Street
+housenumber: "234"
+phone: +1-845-534-7435
 opening_hours: ""
 website: ""

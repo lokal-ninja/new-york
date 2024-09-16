@@ -1,11 +1,11 @@
 id: 822717874
-type: way
+type: node
 latitude: 42.47374
 longitude: -77.18391
 postcode: "14840"
 city: Hammondsport
-street: "Middle Road"
-housenumber: 9749
+street: Middle Road
+housenumber: "9749"
 phone: ""
 opening_hours: ""
 website: ""

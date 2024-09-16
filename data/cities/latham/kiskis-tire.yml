@@ -1,11 +1,11 @@
 id: 124680178
-type: way
+type: node
 latitude: 42.76635
 longitude: -73.81615
 postcode: "12110"
 city: Latham
-street: "Albany Shaker Road"
-housenumber: 978
-phone: "518-785-5516"
+street: Albany Shaker Road
+housenumber: "978"
+phone: 518-785-5516
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 730879050
-type: way
+type: node
 latitude: 43.10195
 longitude: -77.62771
 postcode: "14623"
 city: Rochester
-street: "West Henrietta Road"
-housenumber: 2452
-phone: "+1 800-501-6470"
+street: West Henrietta Road
+housenumber: "2452"
+phone: +1 800-501-6470
 opening_hours: ""
-website: "https://www.corteseauto.com/"
+website: https://www.corteseauto.com/

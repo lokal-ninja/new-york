@@ -4,8 +4,8 @@ latitude: 40.67405
 longitude: -73.97558
 postcode: "11215"
 city: Brooklyn
-street: "7th Avenue"
-housenumber: 101
+street: 7th Avenue
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

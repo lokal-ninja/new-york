@@ -1,11 +1,11 @@
 id: 283223999
-type: way
+type: node
 latitude: 40.71589
 longitude: -73.7437
 postcode: "11429"
 city: Jamaica
-street: "Jamaica Avenue"
+street: Jamaica Avenue
 housenumber: 213-22
-phone: "+1 718-468-8440"
-opening_hours: "Mo-Su 08:00-20:00"
+phone: +1 718-468-8440
+opening_hours: Mo-Su 08:00-20:00
 website: ""

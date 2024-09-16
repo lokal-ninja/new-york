@@ -1,11 +1,11 @@
 id: 377482569
-type: way
+type: node
 latitude: 42.79532
 longitude: -77.8168
 postcode: "14454"
 city: Geneseo
-street: "Main Street"
-housenumber: 111
+street: Main Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://rector-hicksfuneralhome.com/"
+website: https://rector-hicksfuneralhome.com/

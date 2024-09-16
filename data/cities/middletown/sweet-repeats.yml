@@ -1,11 +1,11 @@
 id: 523150385
-type: way
+type: node
 latitude: 41.47605
 longitude: -74.41693
 postcode: "10940"
 city: Middletown
-street: "NY-17M"
-housenumber: 620
-phone: "(845) 341-7433"
+street: NY-17M
+housenumber: "620"
+phone: (845) 341-7433
 opening_hours: ""
 website: ""

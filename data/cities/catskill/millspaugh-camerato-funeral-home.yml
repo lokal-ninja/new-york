@@ -1,11 +1,11 @@
 id: 492687394
-type: way
+type: node
 latitude: 42.2306
 longitude: -73.87663
 postcode: "12414"
 city: Catskill
-street: "Jefferson Heights"
-housenumber: 139
+street: Jefferson Heights
+housenumber: "139"
 phone: ""
 opening_hours: ""
 website: ""

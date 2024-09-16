@@ -1,11 +1,11 @@
 id: 558148480
-type: way
+type: node
 latitude: 40.78828
 longitude: -73.53505
 postcode: "11753"
 city: Jericho
-street: "North Broadway"
-housenumber: 417
+street: North Broadway
+housenumber: "417"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/jericho-ny-pharmacies/417-n-broadway-jericho-ny-11753/storeid=332"
+website: https://www.cvs.com/store-locator/jericho-ny-pharmacies/417-n-broadway-jericho-ny-11753/storeid=332

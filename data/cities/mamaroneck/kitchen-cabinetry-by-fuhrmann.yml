@@ -1,11 +1,11 @@
 id: 841079853
-type: way
+type: node
 latitude: 40.95424
 longitude: -73.73529
 postcode: "10543"
 city: Mamaroneck
-street: "Halstead Avenue"
-housenumber: 253
+street: Halstead Avenue
+housenumber: "253"
 phone: ""
 opening_hours: ""
 website: ""

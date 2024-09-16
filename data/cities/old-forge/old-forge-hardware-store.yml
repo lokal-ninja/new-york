@@ -1,11 +1,11 @@
 id: 637975057
-type: way
+type: node
 latitude: 43.70971
 longitude: -74.97247
 postcode: "13420"
 city: Old Forge
-street: "Fulton Street"
-housenumber: 104
+street: Fulton Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 305014847
-type: way
+type: node
 latitude: 41.69255
 longitude: -74.00962
 postcode: "12528"
 city: Highland
-street: "Route 44 55"
-housenumber: 560
+street: Route 44 55
+housenumber: "560"
 phone: ""
 opening_hours: ""
 website: ""

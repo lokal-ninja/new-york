@@ -1,11 +1,11 @@
 id: 1118696226
-type: way
+type: node
 latitude: 42.2229
 longitude: -73.73436
 postcode: "12513"
 city: Claverack
-street: "Route 23"
-housenumber: 3
+street: Route 23
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

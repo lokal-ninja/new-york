@@ -1,11 +1,11 @@
 id: 878834719
-type: way
+type: node
 latitude: 40.99782
 longitude: -73.6662
 postcode: "10573"
 city: Port Chester
-street: "South Main Street"
-housenumber: 194
+street: South Main Street
+housenumber: "194"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ny/port-chester/194-s-main-st.html"
+website: https://www.autozone.com/locations/ny/port-chester/194-s-main-st.html

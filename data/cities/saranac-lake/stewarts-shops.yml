@@ -1,11 +1,11 @@
 id: 233643184
-type: way
+type: node
 latitude: 44.32975
 longitude: -74.13217
 postcode: "12983"
 city: Saranac Lake
-street: "Bloomingdale Avenue"
-housenumber: 27
+street: Bloomingdale Avenue
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

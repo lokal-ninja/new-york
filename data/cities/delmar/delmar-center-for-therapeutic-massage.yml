@@ -1,11 +1,11 @@
 id: 784197722
-type: way
+type: node
 latitude: 42.62796
 longitude: -73.81646
 postcode: "12054"
 city: Delmar
-street: "Delaware Avenue"
-housenumber: 212
+street: Delaware Avenue
+housenumber: "212"
 phone: ""
 opening_hours: ""
 website: ""

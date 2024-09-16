@@ -2,10 +2,10 @@ id: 9512283423
 type: node
 latitude: 40.69315
 longitude: -73.96741
-postcode: "11205-2425"
+postcode: 11205-2425
 city: Brooklyn
-street: "Myrtle Avenue"
-housenumber: 452
-phone: "+1 718-237-7827"
-opening_hours: "Mo-Sa 08:00-18:00; Su 11:00-16:00"
+street: Myrtle Avenue
+housenumber: "452"
+phone: +1 718-237-7827
+opening_hours: Mo-Sa 08:00-18:00; Su 11:00-16:00
 website: ""

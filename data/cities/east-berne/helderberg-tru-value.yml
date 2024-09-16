@@ -1,11 +1,11 @@
 id: 1007858194
-type: way
+type: node
 latitude: 42.61659
 longitude: -74.07202
 postcode: "12059"
 city: East Berne
-street: "Helderberg Trail"
-housenumber: 856
-phone: "+1 518-872-0081"
+street: Helderberg Trail
+housenumber: "856"
+phone: +1 518-872-0081
 opening_hours: ""
-website: "https://www.truevalue.com/helderbergtruevalue"
+website: https://www.truevalue.com/helderbergtruevalue

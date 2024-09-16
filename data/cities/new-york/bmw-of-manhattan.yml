@@ -4,8 +4,8 @@ latitude: 40.7704
 longitude: -73.99096
 postcode: "10019"
 city: New York
-street: "West 57th Street"
-housenumber: 555
+street: West 57th Street
+housenumber: "555"
 phone: ""
 opening_hours: ""
-website: "https://www.bmwnyc.com/"
+website: https://www.bmwnyc.com/

@@ -1,11 +1,11 @@
 id: 143901159
-type: way
+type: node
 latitude: 43.0815
 longitude: -73.7853
 postcode: "12866"
 city: Saratoga Springs
-street: "Broadway"
-housenumber: 404
-phone: "+1 518 587 7777"
-opening_hours: "Mo-Sa 10:00-17:30"
-website: "https://www.nfoxjewelers.com/"
+street: Broadway
+housenumber: "404"
+phone: +1 518 587 7777
+opening_hours: Mo-Sa 10:00-17:30
+website: https://www.nfoxjewelers.com/

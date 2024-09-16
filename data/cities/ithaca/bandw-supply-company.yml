@@ -1,11 +1,11 @@
 id: 116391195
-type: way
+type: node
 latitude: 42.4481
 longitude: -76.50771
 postcode: "14850"
 city: Ithaca
-street: "Third Street"
-housenumber: 510
+street: Third Street
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

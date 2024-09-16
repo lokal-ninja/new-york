@@ -1,11 +1,11 @@
 id: 170415493
-type: way
+type: node
 latitude: 40.69035
 longitude: -73.54139
 postcode: "11710"
 city: North Bellmore
-street: "Jerusalem Avenue"
-housenumber: 2450
-phone: "+1 516-826-0880"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://stores.stopandshop.com/ny/north-bellmore/2450-jerusalem-avenue"
+street: Jerusalem Avenue
+housenumber: "2450"
+phone: +1 516-826-0880
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://stores.stopandshop.com/ny/north-bellmore/2450-jerusalem-avenue

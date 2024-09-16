@@ -1,11 +1,11 @@
 id: 839516664
-type: way
+type: node
 latitude: 43.17522
 longitude: -77.73199
 postcode: "14606"
 city: Rochester
-street: "Spencerport Road"
-housenumber: 1550
+street: Spencerport Road
+housenumber: "1550"
 phone: ""
 opening_hours: ""
 website: ""

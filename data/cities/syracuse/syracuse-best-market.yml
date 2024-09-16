@@ -1,11 +1,11 @@
 id: 218729591
-type: way
+type: node
 latitude: 43.04865
 longitude: -76.12819
 postcode: "13210"
 city: Syracuse
-street: "East Fayette Street"
-housenumber: 1325
+street: East Fayette Street
+housenumber: "1325"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 439876078
-type: way
+type: node
 latitude: 43.15619
 longitude: -76.12159
 postcode: "13039"
 city: Cicero
-street: "Brewerton Road"
-housenumber: 7970
+street: Brewerton Road
+housenumber: "7970"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ny/cicero/oil-change-020064.html"
+website: https://store.vioc.com/ny/cicero/oil-change-020064.html

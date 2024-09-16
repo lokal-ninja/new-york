@@ -1,11 +1,11 @@
 id: 1024798585
-type: way
+type: node
 latitude: 42.91624
 longitude: -78.86333
 postcode: "14209"
 city: Buffalo
-street: "Main Street"
-housenumber: 1575
+street: Main Street
+housenumber: "1575"
 phone: "+17168838000"
 opening_hours: ""
-website: "https://metrostoragecenter.com/"
+website: https://metrostoragecenter.com/

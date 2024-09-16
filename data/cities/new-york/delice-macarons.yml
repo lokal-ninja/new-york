@@ -4,8 +4,8 @@ latitude: 40.78062
 longitude: -73.97991
 postcode: "10023"
 city: New York
-street: "Amsterdam Avenue"
-housenumber: 321
-phone: "+1-646-963-9913"
-opening_hours: "Tu-Su 05:00-17:00"
-website: "https://delicemacarons.com"
+street: Amsterdam Avenue
+housenumber: "321"
+phone: +1-646-963-9913
+opening_hours: Tu-Su 05:00-17:00
+website: https://delicemacarons.com

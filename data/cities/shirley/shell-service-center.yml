@@ -1,11 +1,11 @@
 id: 467363207
-type: way
+type: node
 latitude: 40.80097
 longitude: -72.8707
 postcode: "11967"
 city: Shirley
-street: "Montauk Highway"
-housenumber: 737
+street: Montauk Highway
+housenumber: "737"
 phone: ""
 opening_hours: ""
 website: ""

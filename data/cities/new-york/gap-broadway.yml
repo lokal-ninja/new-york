@@ -4,8 +4,8 @@ latitude: 40.75733
 longitude: -73.98556
 postcode: "10036"
 city: New York
-street: "Broadway"
-housenumber: 1514
-phone: "+1-646-866-5850"
-opening_hours: "Mo-Su 10:00-23:00"
-website: "https://www.gap.com/stores/ny/newyork/gap-4132.html"
+street: Broadway
+housenumber: "1514"
+phone: +1-646-866-5850
+opening_hours: Mo-Su 10:00-23:00
+website: https://www.gap.com/stores/ny/newyork/gap-4132.html

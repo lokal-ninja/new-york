@@ -1,11 +1,11 @@
 id: 798462129
-type: way
+type: node
 latitude: 43.05045
 longitude: -74.34931
 postcode: "12078"
 city: Gloversville
-street: "West Fulton Street"
-housenumber: 87
+street: West Fulton Street
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 830988181
-type: way
+type: node
 latitude: 43.02455
 longitude: -78.87616
 postcode: "14120"
 city: North Tonawanda
-street: "Main Street"
-housenumber: 85
-phone: "+1 716 694 4995"
+street: Main Street
+housenumber: "85"
+phone: +1 716 694 4995
 opening_hours: ""
-website: "https://www.twincitytransmissionwny.com"
+website: https://www.twincitytransmissionwny.com

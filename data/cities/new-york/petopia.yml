@@ -4,8 +4,8 @@ latitude: 40.73078
 longitude: -73.98163
 postcode: "10009"
 city: New York
-street: "East 14th Street"
-housenumber: 420
-phone: "+1-212-677-2400"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
+street: East 14th Street
+housenumber: "420"
+phone: +1-212-677-2400
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
 website: ""

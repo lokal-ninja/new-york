@@ -1,11 +1,11 @@
 id: 919960270
-type: way
+type: node
 latitude: 41.46584
 longitude: -74.05042
 postcode: "12553"
 city: New Windsor
-street: "Windsor Highway"
-housenumber: 300
+street: Windsor Highway
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

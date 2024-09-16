@@ -1,11 +1,11 @@
 id: 368359414
-type: way
+type: node
 latitude: 42.56906
 longitude: -73.68475
 postcode: "12033"
 city: Castleton On Hudson
-street: "Columbia Turnpike"
-housenumber: 1621
+street: Columbia Turnpike
+housenumber: "1621"
 phone: ""
 opening_hours: ""
-website: "http://thruwaybeverages.com/"
+website: http://thruwaybeverages.com/

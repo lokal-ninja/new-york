@@ -1,11 +1,11 @@
 id: 758006315
-type: way
+type: node
 latitude: 43.12444
 longitude: -75.29751
 postcode: "13492"
 city: Whitesboro
-street: "Westmoreland Street"
-housenumber: 44
+street: Westmoreland Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 699903604
-type: way
+type: node
 latitude: 41.0576
 longitude: -73.99294
 postcode: "10965"
 city: Pearl River
-street: "Orangeburg Road"
-housenumber: 661
+street: Orangeburg Road
+housenumber: "661"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 7:00-16:00"
-website: "https://www.countrydelipearlriver.com/"
+opening_hours: Mo-Fr 06:00-17:00; Sa 7:00-16:00
+website: https://www.countrydelipearlriver.com/

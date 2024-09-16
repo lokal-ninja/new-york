@@ -1,11 +1,11 @@
 id: 772626993
-type: way
+type: node
 latitude: 42.04083
 longitude: -74.11861
 postcode: "12498"
 city: Woodstock
-street: "Tinker Street"
-housenumber: 9
+street: Tinker Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

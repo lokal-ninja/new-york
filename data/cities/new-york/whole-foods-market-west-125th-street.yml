@@ -4,8 +4,8 @@ latitude: 40.80774
 longitude: -73.94591
 postcode: "10027"
 city: New York
-street: "West 125th Street"
-housenumber: 100
-phone: "+1 212-678-1940"
-opening_hours: "08:00-23:00"
-website: "https://www.wholefoodsmarket.com/stores/harlem"
+street: West 125th Street
+housenumber: "100"
+phone: +1 212-678-1940
+opening_hours: 08:00-23:00
+website: https://www.wholefoodsmarket.com/stores/harlem

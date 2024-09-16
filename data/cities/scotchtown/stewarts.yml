@@ -1,11 +1,11 @@
 id: 551014813
-type: way
+type: node
 latitude: 41.47178
 longitude: -74.38354
 postcode: "10941"
 city: Scotchtown
-street: "Tower Drive"
-housenumber: 333
+street: Tower Drive
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

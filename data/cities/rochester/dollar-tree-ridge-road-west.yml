@@ -1,11 +1,11 @@
 id: 562674856
-type: way
+type: node
 latitude: 43.21281
 longitude: -77.71511
 postcode: "14626"
 city: Rochester
-street: "Ridge Road West"
-housenumber: 3160
+street: Ridge Road West
+housenumber: "3160"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/ny/rochester/1420/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/ny/rochester/1420/

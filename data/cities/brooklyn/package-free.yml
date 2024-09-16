@@ -4,8 +4,8 @@ latitude: 40.71501
 longitude: -73.96224
 postcode: "11249"
 city: Brooklyn
-street: "Grand Street"
-housenumber: 137
+street: Grand Street
+housenumber: "137"
 phone: ""
 opening_hours: ""
-website: "https://packagefreeshop.com"
+website: https://packagefreeshop.com

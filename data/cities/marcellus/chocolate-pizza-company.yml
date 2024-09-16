@@ -1,11 +1,11 @@
 id: 1306261843
-type: way
+type: node
 latitude: 42.95365
 longitude: -76.34455
 postcode: "13108"
 city: Marcellus
-street: "Lee-Mulroy Road"
-housenumber: 3774
+street: Lee-Mulroy Road
+housenumber: "3774"
 phone: ""
 opening_hours: ""
-website: "https://www.chocolatepizza.com/"
+website: https://www.chocolatepizza.com/

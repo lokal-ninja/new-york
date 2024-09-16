@@ -1,11 +1,11 @@
 id: 58941161
-type: way
+type: node
 latitude: 44.67972
 longitude: -74.98646
 postcode: "13676"
 city: Potsdam
-street: "Market Street"
-housenumber: 140
+street: Market Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ny/potsdam/140-market-st.html"
+website: https://www.autozone.com/locations/ny/potsdam/140-market-st.html

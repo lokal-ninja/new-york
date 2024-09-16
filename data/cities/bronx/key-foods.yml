@@ -2,10 +2,10 @@ id: 5179183157
 type: node
 latitude: 40.89302
 longitude: -73.85781
-postcode: "10466-3011"
+postcode: 10466-3011
 city: Bronx
-street: "White Plains Road"
-housenumber: 4171
-phone: "+1 718-882-7265"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-16:00"
+street: White Plains Road
+housenumber: "4171"
+phone: +1 718-882-7265
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-16:00
 website: ""

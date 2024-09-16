@@ -1,11 +1,11 @@
 id: 639124570
-type: way
+type: node
 latitude: 43.12385
 longitude: -77.56122
 postcode: "14618"
 city: Rochester
-street: "Monroe Avenue"
-housenumber: 2100
+street: Monroe Avenue
+housenumber: "2100"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/rochester-ny-pharmacies/2100-monroe-avenue-rochester-ny-14618/storeid=592"
+website: https://www.cvs.com/store-locator/rochester-ny-pharmacies/2100-monroe-avenue-rochester-ny-14618/storeid=592

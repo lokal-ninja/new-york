@@ -1,11 +1,11 @@
 id: 688174614
-type: way
+type: node
 latitude: 43.12511
 longitude: -76.1393
 postcode: "13212"
 city: North Syracuse
-street: "South Main Street"
-housenumber: 602
+street: South Main Street
+housenumber: "602"
 phone: ""
 opening_hours: ""
-website: "http://www.angrybananatattoo.com/"
+website: http://www.angrybananatattoo.com/

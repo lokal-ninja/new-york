@@ -1,11 +1,11 @@
 id: 469178014
-type: way
+type: node
 latitude: 40.78993
 longitude: -73.20143
 postcode: "11722"
 city: Central Islip
-street: "Carleton Avenue"
-housenumber: 10
+street: Carleton Avenue
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ny/central-islip/2-carleton-ave.html"
+website: https://www.autozone.com/locations/ny/central-islip/2-carleton-ave.html

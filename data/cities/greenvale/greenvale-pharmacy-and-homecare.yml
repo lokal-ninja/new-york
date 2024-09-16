@@ -1,11 +1,11 @@
 id: 613254622
-type: way
+type: node
 latitude: 40.80955
 longitude: -73.62969
 postcode: "11548"
 city: Greenvale
-street: "Northern Boulevard"
-housenumber: 5
+street: Northern Boulevard
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 551169773
-type: way
+type: node
 latitude: 43.21066
 longitude: -77.70411
 postcode: "14626"
 city: Rochester
-street: "West Ridge Road"
-housenumber: 2844
-phone: "+1 585-697-3792"
-opening_hours: "Mo,Tu,Th 08:30-17:00; We 08:30-19:00"
-website: "https://www.rochesteroxygen.com"
+street: West Ridge Road
+housenumber: "2844"
+phone: +1 585-697-3792
+opening_hours: Mo,Tu,Th 08:30-17:00; We 08:30-19:00
+website: https://www.rochesteroxygen.com

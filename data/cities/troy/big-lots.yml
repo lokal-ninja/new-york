@@ -4,8 +4,8 @@ latitude: 42.73827
 longitude: -73.67815
 postcode: "12180"
 city: Troy
-street: "Hoosick Street"
-housenumber: 120
-phone: "+1 518-273-0516"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ny/troy/120-hoosick-st"
+street: Hoosick Street
+housenumber: "120"
+phone: +1 518-273-0516
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ny/troy/120-hoosick-st

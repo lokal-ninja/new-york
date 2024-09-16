@@ -1,11 +1,11 @@
 id: 1044406508
-type: way
+type: node
 latitude: 42.94445
 longitude: -74.19829
 postcode: "12010"
 city: Amsterdam
-street: "Guy Park Avenue"
-housenumber: 151
+street: Guy Park Avenue
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

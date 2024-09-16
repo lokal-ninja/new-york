@@ -1,11 +1,11 @@
 id: 246025127
-type: way
+type: node
 latitude: 43.0054
 longitude: -76.14385
 postcode: "13205"
 city: Syracuse
-street: "South Salina Street"
-housenumber: 4400
+street: South Salina Street
+housenumber: "4400"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-14:00"
-website: "https://www.benjaminmoore.com/"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-14:00
+website: https://www.benjaminmoore.com/

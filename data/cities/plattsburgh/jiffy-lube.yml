@@ -1,11 +1,11 @@
 id: 809756328
-type: way
+type: node
 latitude: 44.69583
 longitude: -73.49911
 postcode: "12901"
 city: Plattsburgh
-street: "State Route 3"
-housenumber: 523
-phone: "+1-518-562-0100"
+street: State Route 3
+housenumber: "523"
+phone: +1-518-562-0100
 opening_hours: ""
-website: "https://www.jiffylube.com/locations/ny/plattsburgh/1357"
+website: https://www.jiffylube.com/locations/ny/plattsburgh/1357

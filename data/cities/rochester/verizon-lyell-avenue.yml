@@ -1,11 +1,11 @@
 id: 293083848
-type: way
+type: node
 latitude: 43.16533
 longitude: -77.68986
 postcode: "14606"
 city: Rochester
-street: "Lyell Avenue"
-housenumber: 2362
+street: Lyell Avenue
+housenumber: "2362"
 phone: ""
 opening_hours: ""
 website: ""

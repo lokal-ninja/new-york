@@ -4,8 +4,8 @@ latitude: 40.71928
 longitude: -73.96187
 postcode: "11249"
 city: Brooklyn
-street: "Kent Avenue"
-housenumber: 60
-phone: "+1-929-276-3000"
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://www.brooklinen.com/pages/our-stores#williamsburg"
+street: Kent Avenue
+housenumber: "60"
+phone: +1-929-276-3000
+opening_hours: Mo-Su 11:00-19:00
+website: https://www.brooklinen.com/pages/our-stores#williamsburg

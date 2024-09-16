@@ -4,8 +4,8 @@ latitude: 40.72492
 longitude: -74.00036
 postcode: "10012"
 city: New York
-street: "Wooster Street"
-housenumber: 116
-phone: "+1 212-334-3545"
-opening_hours: "11:00-19:00 open Store || Tu-Sa 11:00-18:00 open Optometrist"
-website: "https://stores.ray-ban.com/united-states/ny/new-york/116-wooster-st"
+street: Wooster Street
+housenumber: "116"
+phone: +1 212-334-3545
+opening_hours: 11:00-19:00 open "Store" || Tu-Sa 11:00-18:00 open "Optometrist"
+website: https://stores.ray-ban.com/united-states/ny/new-york/116-wooster-st

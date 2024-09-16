@@ -1,11 +1,11 @@
 id: 473186517
-type: way
+type: node
 latitude: 40.90385
 longitude: -72.40539
 postcode: "11968"
 city: Southampton
-street: "North Sea Road"
-housenumber: 675
+street: North Sea Road
+housenumber: "675"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 793761798
-type: way
+type: node
 latitude: 41.56417
 longitude: -74.19271
 postcode: "12586"
 city: Walden
-street: "Oak Street"
-housenumber: 76
+street: Oak Street
+housenumber: "76"
 phone: "+18457134653"
-opening_hours: "Mo-Su 06:00-15:00"
-website: "https://ocbagel.com/"
+opening_hours: Mo-Su 06:00-15:00
+website: https://ocbagel.com/

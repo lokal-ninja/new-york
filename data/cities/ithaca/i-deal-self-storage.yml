@@ -1,11 +1,11 @@
 id: 554971638
-type: way
+type: node
 latitude: 42.39568
 longitude: -76.40115
 postcode: "14850"
 city: Ithaca
-street: "Slaterville Road"
-housenumber: 2127
+street: Slaterville Road
+housenumber: "2127"
 phone: ""
 opening_hours: ""
 website: ""

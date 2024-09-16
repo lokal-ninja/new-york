@@ -1,11 +1,11 @@
 id: 1086504859
-type: way
+type: node
 latitude: 42.76798
 longitude: -78.62974
 postcode: "14052"
 city: East Aurora
-street: "Ernst Place"
-housenumber: 5
+street: Ernst Place
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

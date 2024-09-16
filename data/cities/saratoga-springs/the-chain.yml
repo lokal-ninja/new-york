@@ -4,8 +4,8 @@ latitude: 43.07977
 longitude: -73.78516
 postcode: "12866"
 city: Saratoga Springs
-street: "Spring Street"
-housenumber: 11
-phone: "+1 518 886 9539"
+street: Spring Street
+housenumber: "11"
+phone: +1 518 886 9539
 opening_hours: ""
-website: "https://www.thechainsaratoga.com/"
+website: https://www.thechainsaratoga.com/

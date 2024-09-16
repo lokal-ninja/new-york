@@ -1,11 +1,11 @@
 id: 816005755
-type: way
+type: node
 latitude: 43.02374
 longitude: -74.99034
 postcode: "13350"
 city: Herkimer
-street: "State"
-housenumber: 302
+street: State
+housenumber: "302"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ny/herkimer/302-w-state-st"
+website: https://stores.advanceautoparts.com/ny/herkimer/302-w-state-st

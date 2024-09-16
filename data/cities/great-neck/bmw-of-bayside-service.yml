@@ -1,11 +1,11 @@
 id: 526596641
-type: way
+type: node
 latitude: 40.79785
 longitude: -73.71328
 postcode: "11023"
 city: Great Neck
-street: "East Shore Road"
-housenumber: 266
+street: East Shore Road
+housenumber: "266"
 phone: ""
 opening_hours: ""
 website: ""

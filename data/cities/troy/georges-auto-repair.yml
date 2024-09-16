@@ -1,11 +1,11 @@
 id: 90750569
-type: way
+type: node
 latitude: 42.72249
 longitude: -73.67681
 postcode: "12180"
 city: Troy
-street: "Congress Street"
-housenumber: 555
-phone: "244-4454"
+street: Congress Street
+housenumber: "555"
+phone: 244-4454
 opening_hours: ""
 website: ""

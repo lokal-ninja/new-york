@@ -1,11 +1,11 @@
 id: 121006149
-type: way
+type: node
 latitude: 42.18733
 longitude: -73.61519
 postcode: "12521"
 city: Craryville
-street: "Route 23"
-housenumber: 1371
+street: Route 23
+housenumber: "1371"
 phone: "5188512220"
 opening_hours: ""
 website: ""

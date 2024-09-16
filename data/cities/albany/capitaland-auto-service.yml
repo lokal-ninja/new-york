@@ -1,11 +1,11 @@
 id: 848229002
-type: way
+type: node
 latitude: 42.69146
 longitude: -73.80647
 postcode: "12205"
 city: Albany
-street: "Kraft Avenue"
-housenumber: 22
-phone: "+1 518 4590099"
+street: Kraft Avenue
+housenumber: "22"
+phone: +1 518 4590099
 opening_hours: ""
-website: "https://www.autorepairalbanyny.com/"
+website: https://www.autorepairalbanyny.com/

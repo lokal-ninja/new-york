@@ -1,11 +1,11 @@
 id: 249004741
-type: way
+type: node
 latitude: 40.61395
 longitude: -73.99947
 postcode: "11204"
 city: Brooklyn
-street: "17th Avenue"
-housenumber: 7616
+street: 17th Avenue
+housenumber: "7616"
 phone: ""
-opening_hours: "Mo-Su,PH 08:00-19:00"
+opening_hours: Mo-Su,PH 08:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 629327960
-type: way
+type: node
 latitude: 42.50375
 longitude: -78.6917
 postcode: "14141"
 city: Springville
-street: "South Cascade Drive"
-housenumber: 205
-phone: "+1 716-592-7171"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South Cascade Drive
+housenumber: "205"
+phone: +1 716-592-7171
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

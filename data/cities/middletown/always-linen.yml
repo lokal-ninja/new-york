@@ -1,11 +1,11 @@
 id: 701414010
-type: way
+type: node
 latitude: 41.43534
 longitude: -74.41664
 postcode: "10940"
 city: Middletown
-street: "Stanton Street"
-housenumber: 16
-phone: "(845) 341-1000"
+street: Stanton Street
+housenumber: "16"
+phone: (845) 341-1000
 opening_hours: ""
 website: ""

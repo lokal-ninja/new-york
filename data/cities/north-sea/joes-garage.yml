@@ -1,11 +1,11 @@
 id: 895772982
-type: way
+type: node
 latitude: 40.92344
 longitude: -72.41249
 postcode: "11968"
 city: North Sea
-street: "North Sea Road"
-housenumber: 1434
+street: North Sea Road
+housenumber: "1434"
 phone: ""
 opening_hours: ""
 website: ""

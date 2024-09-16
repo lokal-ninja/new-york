@@ -1,11 +1,11 @@
 id: 317044963
-type: way
+type: node
 latitude: 43.21036
 longitude: -77.46341
 postcode: "14580"
 city: Webster
-street: "Hard Road"
-housenumber: 950
+street: Hard Road
+housenumber: "950"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ny/webster/950-hard-road"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/ny/webster/950-hard-road

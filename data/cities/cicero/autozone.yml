@@ -1,11 +1,11 @@
 id: 439876082
-type: way
+type: node
 latitude: 43.15964
 longitude: -76.12208
 postcode: "13039"
 city: Cicero
-street: "Brewerton Road"
-housenumber: 8037
+street: Brewerton Road
+housenumber: "8037"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ny/cicero/8037-brewerton-rd.html"
+website: https://www.autozone.com/locations/ny/cicero/8037-brewerton-rd.html

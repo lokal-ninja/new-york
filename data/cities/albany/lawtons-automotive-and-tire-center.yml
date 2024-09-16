@@ -1,11 +1,11 @@
 id: 651285275
-type: way
+type: node
 latitude: 42.67816
 longitude: -73.78211
 postcode: "12206"
 city: Albany
-street: "Watervliet Avenue"
-housenumber: 86
+street: Watervliet Avenue
+housenumber: "86"
 phone: ""
 opening_hours: ""
-website: "https://lawtonsautomotive.webs.com/"
+website: https://lawtonsautomotive.webs.com/

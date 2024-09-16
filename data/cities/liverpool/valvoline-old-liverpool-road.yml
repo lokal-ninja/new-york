@@ -1,11 +1,11 @@
 id: 344285394
-type: way
+type: node
 latitude: 43.09436
 longitude: -76.19603
 postcode: "13088"
 city: Liverpool
-street: "Old Liverpool Road"
-housenumber: 677
+street: Old Liverpool Road
+housenumber: "677"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ny/liverpool/oil-change-020009.html"
+website: https://store.vioc.com/ny/liverpool/oil-change-020009.html

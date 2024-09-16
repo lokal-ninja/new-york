@@ -1,11 +1,11 @@
 id: 230580669
-type: way
+type: node
 latitude: 43.01066
 longitude: -76.14182
 postcode: "13205"
 city: Syracuse
-street: "South Salina Street"
-housenumber: 3901
+street: South Salina Street
+housenumber: "3901"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.coloniallaundromats.com/"
+opening_hours: 24/7
+website: https://www.coloniallaundromats.com/

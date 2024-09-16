@@ -1,11 +1,11 @@
 id: 249768368
-type: way
+type: node
 latitude: 40.61801
 longitude: -73.96109
 postcode: "11230"
 city: Brooklyn
-street: "Avenue M"
-housenumber: 1301
-phone: "+1-718-223-4974"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00; Su 09:00-18:00"
-website: "https://www.lifestorage.com/storage-units/new-york/brooklyn/11230/990-in-brooklyn/"
+street: Avenue M
+housenumber: "1301"
+phone: +1-718-223-4974
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00; Su 09:00-18:00
+website: https://www.lifestorage.com/storage-units/new-york/brooklyn/11230/990-in-brooklyn/

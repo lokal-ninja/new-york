@@ -1,11 +1,11 @@
 id: 953598052
-type: way
+type: node
 latitude: 42.90623
 longitude: -78.77488
-postcode: "14225-4913"
+postcode: 14225-4913
 city: Cheektowaga
-street: "Walden Avenue"
-housenumber: 1685
-phone: "+1 877-465-1085"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/ny/cheektowaga/1685-walden-avenue"
+street: Walden Avenue
+housenumber: "1685"
+phone: +1 877-465-1085
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/ny/cheektowaga/1685-walden-avenue

@@ -4,8 +4,8 @@ latitude: 43.10224
 longitude: -76.20837
 postcode: "13088"
 city: Liverpool
-street: "1st Street"
-housenumber: 330
-phone: "+1-315-218-7368"
+street: 1st Street
+housenumber: "330"
+phone: +1-315-218-7368
 opening_hours: ""
-website: "https://ffpets.com/"
+website: https://ffpets.com/

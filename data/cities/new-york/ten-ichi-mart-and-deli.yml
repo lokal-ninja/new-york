@@ -4,8 +4,8 @@ latitude: 40.74122
 longitude: -73.99009
 postcode: "10010"
 city: New York
-street: "5th Avenue"
-housenumber: 178
-phone: "+1-646-360-2863"
+street: 5th Avenue
+housenumber: "178"
+phone: +1-646-360-2863
 opening_hours: ""
-website: "https://www.tenichimart.com/"
+website: https://www.tenichimart.com/

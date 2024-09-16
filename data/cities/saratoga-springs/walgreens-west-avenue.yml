@@ -1,11 +1,11 @@
 id: 817969629
-type: way
+type: node
 latitude: 43.07935
 longitude: -73.8036
 postcode: "12866"
 city: Saratoga Springs
-street: "West Avenue"
-housenumber: 90
+street: West Avenue
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-90+west+ave-saratoga+springs-ny-12866/id=17722"
+website: https://www.walgreens.com/locator/walgreens-90+west+ave-saratoga+springs-ny-12866/id=17722

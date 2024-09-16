@@ -1,11 +1,11 @@
 id: 562674848
-type: way
+type: node
 latitude: 43.21249
 longitude: -77.71086
 postcode: "14626"
 city: Rochester
-street: "Ridge Road West"
-housenumber: 3042
-phone: "+1 585-227-2040"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/ny/greece/1949/"
+street: Ridge Road West
+housenumber: "3042"
+phone: +1 585-227-2040
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/ny/greece/1949/

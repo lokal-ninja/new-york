@@ -1,11 +1,11 @@
 id: 904169985
-type: way
+type: node
 latitude: 40.58259
 longitude: -74.16638
 postcode: "10314"
 city: Staten Island
-street: "Richmond Avenue"
-housenumber: 2655
-phone: "+1-718-568-2230"
+street: Richmond Avenue
+housenumber: "2655"
+phone: +1-718-568-2230
 opening_hours: ""
-website: "https://www.apple.com/retail/statenisland/"
+website: https://www.apple.com/retail/statenisland/

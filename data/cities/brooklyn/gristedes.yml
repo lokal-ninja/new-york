@@ -4,8 +4,8 @@ latitude: 40.69785
 longitude: -73.99258
 postcode: "11201"
 city: Brooklyn
-street: "Clark Street"
-housenumber: 101
+street: Clark Street
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

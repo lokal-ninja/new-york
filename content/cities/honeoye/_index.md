@@ -1,6 +1,6 @@
 ---
 title: Honeoye
 url: /honeoye/
-latitude: 42.79
-longitude: -77.516
+latitude: 42.789
+longitude: -77.512
 ---

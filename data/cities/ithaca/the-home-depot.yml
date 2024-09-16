@@ -1,11 +1,11 @@
 id: 116421806
-type: way
+type: node
 latitude: 42.41979
 longitude: -76.52277
 postcode: "14850"
 city: Ithaca
-street: "Elmira Road"
-housenumber: 410
+street: Elmira Road
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

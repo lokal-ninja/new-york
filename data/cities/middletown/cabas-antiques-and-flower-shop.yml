@@ -1,11 +1,11 @@
 id: 697442509
-type: way
+type: node
 latitude: 41.43574
 longitude: -74.42231
 postcode: "10940"
 city: Middletown
-street: "Bennett Street"
-housenumber: 47
-phone: "(845) 467-2461"
-opening_hours: "Mo-Fr 10:00-18:00; Sa-Su 10:00-15:00"
+street: Bennett Street
+housenumber: "47"
+phone: (845) 467-2461
+opening_hours: Mo-Fr 10:00-18:00; Sa-Su 10:00-15:00
 website: ""

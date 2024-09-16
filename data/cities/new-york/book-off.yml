@@ -4,8 +4,8 @@ latitude: 40.75635
 longitude: -73.98142
 postcode: "10036"
 city: New York
-street: "West 45th Street"
-housenumber: 49
-phone: "+1 212-685-1410"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.bookoffusa.com/bookoff-49-w-45th-ny-store/"
+street: West 45th Street
+housenumber: "49"
+phone: +1 212-685-1410
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.bookoffusa.com/bookoff-49-w-45th-ny-store/

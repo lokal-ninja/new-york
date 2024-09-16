@@ -1,11 +1,11 @@
 id: 517843739
-type: way
+type: node
 latitude: 42.99905
 longitude: -77.45368
 postcode: "14564"
 city: Victor
-street: "Phillips Road"
-housenumber: 827
-phone: "+1 585-924-3717"
+street: Phillips Road
+housenumber: "827"
+phone: +1 585-924-3717
 opening_hours: ""
-website: "https://www.rochesterclutch.com/"
+website: https://www.rochesterclutch.com/

@@ -4,8 +4,8 @@ latitude: 40.80068
 longitude: -73.96763
 postcode: "10025"
 city: New York
-street: "Broadway"
-housenumber: 2744
-phone: "+1+212-865-9190"
-opening_hours: "Tu-Su 12:00-18:00"
-website: "https://www.supermudpottery.com"
+street: Broadway
+housenumber: "2744"
+phone: +1+212-865-9190
+opening_hours: Tu-Su 12:00-18:00
+website: https://www.supermudpottery.com

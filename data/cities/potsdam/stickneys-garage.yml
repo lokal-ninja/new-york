@@ -1,11 +1,11 @@
 id: 112279542
-type: way
+type: node
 latitude: 44.69147
 longitude: -74.9868
 postcode: "13676"
 city: Potsdam
-street: "State Route 56"
-housenumber: 6638
+street: State Route 56
+housenumber: "6638"
 phone: ""
 opening_hours: ""
 website: ""

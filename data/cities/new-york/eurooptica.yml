@@ -4,8 +4,8 @@ latitude: 40.77829
 longitude: -73.97839
 postcode: "10023"
 city: New York
-street: "Columbus Avenue"
-housenumber: 280
-phone: "+1-212-501-7070"
+street: Columbus Avenue
+housenumber: "280"
+phone: +1-212-501-7070
 opening_hours: ""
-website: "https://www.eurooptica.com"
+website: https://www.eurooptica.com

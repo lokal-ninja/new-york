@@ -1,11 +1,11 @@
 id: 264332746
-type: way
+type: node
 latitude: 41.96845
 longitude: -74.07026
 postcode: "12401"
 city: Kingston
-street: "Route 28"
-housenumber: 615
-phone: "+1-845-339-9000"
-opening_hours: "Mo-Su 10:00-17:00"
-website: "https://www.tibetancenter.org"
+street: Route 28
+housenumber: "615"
+phone: +1-845-339-9000
+opening_hours: Mo-Su 10:00-17:00
+website: https://www.tibetancenter.org

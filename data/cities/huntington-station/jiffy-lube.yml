@@ -1,11 +1,11 @@
 id: 466253831
-type: way
+type: node
 latitude: 40.83349
 longitude: -73.38907
 postcode: "11746"
 city: Huntington Station
-street: "East Jericho Turnpike"
-housenumber: 599
+street: East Jericho Turnpike
+housenumber: "599"
 phone: "+16313511712"
 opening_hours: ""
-website: "https://www.jiffylube.com/locations/ny/huntington-station/667"
+website: https://www.jiffylube.com/locations/ny/huntington-station/667

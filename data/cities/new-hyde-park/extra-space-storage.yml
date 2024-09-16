@@ -1,11 +1,11 @@
 id: 802761159
-type: way
+type: node
 latitude: 40.73754
 longitude: -73.65349
 postcode: "11040"
 city: New Hyde Park
-street: "Herricks Road"
-housenumber: 1
+street: Herricks Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

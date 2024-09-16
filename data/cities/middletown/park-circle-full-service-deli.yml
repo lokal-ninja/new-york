@@ -1,11 +1,11 @@
 id: 549259339
-type: way
+type: node
 latitude: 41.45063
 longitude: -74.41694
 postcode: "10940"
 city: Middletown
-street: "North Street"
-housenumber: 213
+street: North Street
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

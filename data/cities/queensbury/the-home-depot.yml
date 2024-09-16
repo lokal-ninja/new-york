@@ -1,11 +1,11 @@
 id: 693132029
-type: way
+type: node
 latitude: 43.33415
 longitude: -73.67732
 postcode: "12804"
 city: Queensbury
-street: "State Route 9"
-housenumber: 820
+street: State Route 9
+housenumber: "820"
 phone: ""
 opening_hours: ""
 website: ""

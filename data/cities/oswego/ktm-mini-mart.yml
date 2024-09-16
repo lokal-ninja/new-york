@@ -1,11 +1,11 @@
 id: 705750500
-type: way
+type: node
 latitude: 43.47388
 longitude: -76.47202
 postcode: "13126"
 city: Oswego
-street: "County Route 1"
-housenumber: 2203
+street: County Route 1
+housenumber: "2203"
 phone: ""
 opening_hours: ""
 website: ""

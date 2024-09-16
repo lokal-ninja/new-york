@@ -1,11 +1,11 @@
 id: 263285397
-type: way
+type: node
 latitude: 42.95624
 longitude: -78.87429
 postcode: "14216"
 city: Buffalo
-street: "Delaware Avenue"
-housenumber: 2630
-phone: "+1 716 551 0676"
+street: Delaware Avenue
+housenumber: "2630"
+phone: +1 716 551 0676
 opening_hours: ""
-website: "https://www.carpetfactoryoutlet.net"
+website: https://www.carpetfactoryoutlet.net

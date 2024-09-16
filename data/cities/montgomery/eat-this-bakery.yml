@@ -1,11 +1,11 @@
 id: 539248639
-type: way
+type: node
 latitude: 41.52754
 longitude: -74.23907
 postcode: "12549"
 city: Montgomery
-street: "Clinton Street"
-housenumber: 61
+street: Clinton Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

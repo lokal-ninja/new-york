@@ -4,8 +4,8 @@ latitude: 42.15869
 longitude: -78.99106
 postcode: "14772"
 city: Randolph
-street: "Main Street"
-housenumber: 269
-phone: "+1-716-358-3939"
-opening_hours: "24/7"
+street: Main Street
+housenumber: "269"
+phone: +1-716-358-3939
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 515635759
-type: way
+type: node
 latitude: 42.50073
 longitude: -77.49396
 postcode: "14826"
 city: Cohocton
-street: "Maple Avenue"
-housenumber: 19
+street: Maple Avenue
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 317352759
-type: way
+type: node
 latitude: 41.94924
 longitude: -73.89941
 postcode: ""
 city: Rhinebeck
-street: "US 9"
-housenumber: 6790
+street: US 9
+housenumber: "6790"
 phone: ""
 opening_hours: ""
 website: ""

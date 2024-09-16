@@ -1,11 +1,11 @@
 id: 94509297
-type: way
+type: node
 latitude: 41.49843
 longitude: -74.07381
 postcode: "12550"
 city: Newburgh
-street: "Route 300"
-housenumber: 1201
-phone: "+1 845-567-6007"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2104/newburgh-ny/whats-new"
+street: Route 300
+housenumber: "1201"
+phone: +1 845-567-6007
+opening_hours: 24/7
+website: https://www.walmart.com/store/2104/newburgh-ny/whats-new

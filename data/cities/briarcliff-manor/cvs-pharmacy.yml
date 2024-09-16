@@ -1,11 +1,11 @@
 id: 305965847
-type: way
+type: node
 latitude: 41.16334
 longitude: -73.84622
 postcode: "10510"
 city: Briarcliff Manor
-street: "Pleasantville Road"
-housenumber: 1844
+street: Pleasantville Road
+housenumber: "1844"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/briarcliff-manor-ny-pharmacies/1856-pleasantville-rd-briarcliff-manor-ny-10510/storeid=3067"
+website: https://www.cvs.com/store-locator/briarcliff-manor-ny-pharmacies/1856-pleasantville-rd-briarcliff-manor-ny-10510/storeid=3067

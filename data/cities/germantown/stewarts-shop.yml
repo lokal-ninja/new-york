@@ -1,11 +1,11 @@
 id: 320994614
-type: way
+type: node
 latitude: 42.13482
 longitude: -73.89101
 postcode: "12526"
 city: Germantown
-street: "State Highway 9G"
-housenumber: 4294
-phone: "(518) 537-9930"
+street: State Highway 9G
+housenumber: "4294"
+phone: (518) 537-9930
 opening_hours: ""
-website: "https://www.stewartsshops.com/"
+website: https://www.stewartsshops.com/

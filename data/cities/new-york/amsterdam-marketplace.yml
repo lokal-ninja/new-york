@@ -4,8 +4,8 @@ latitude: 40.78323
 longitude: -73.97801
 postcode: "10024"
 city: New York
-street: "Amsterdam Avenue"
-housenumber: 401
-phone: "+1-212-518-1524"
-opening_hours: "24/7"
+street: Amsterdam Avenue
+housenumber: "401"
+phone: +1-212-518-1524
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 438036698
-type: way
+type: node
 latitude: 41.68748
 longitude: -73.91418
 postcode: "12603"
 city: Poughkeepsie
-street: "Hooker Avenue"
-housenumber: 198
-phone: "+1-845-471-9318"
+street: Hooker Avenue
+housenumber: "198"
+phone: +1-845-471-9318
 opening_hours: ""
-website: "https://www.mariannesfloral.com/"
+website: https://www.mariannesfloral.com/

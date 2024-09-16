@@ -4,8 +4,8 @@ latitude: 40.73328
 longitude: -73.99094
 postcode: "10003"
 city: New York
-street: "Broadway"
-housenumber: 828
-phone: "+1 212-473-1452"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.strandbooks.com/"
+street: Broadway
+housenumber: "828"
+phone: +1 212-473-1452
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.strandbooks.com/

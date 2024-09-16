@@ -1,11 +1,11 @@
 id: 750644528
-type: way
+type: node
 latitude: 43.2079
 longitude: -78.38832
 postcode: "14103"
 city: Medina
-street: "South Main Street"
-housenumber: 1424
+street: South Main Street
+housenumber: "1424"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1422+s+main+st-medina-ny-14103/id=18251"
+website: https://www.walgreens.com/locator/walgreens-1422+s+main+st-medina-ny-14103/id=18251

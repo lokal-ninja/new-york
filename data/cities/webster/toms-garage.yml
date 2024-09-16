@@ -1,11 +1,11 @@
 id: 624594712
-type: way
+type: node
 latitude: 43.21221
 longitude: -77.42912
 postcode: "14580"
 city: Webster
-street: "East Main Street"
-housenumber: 27
+street: East Main Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

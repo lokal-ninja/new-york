@@ -4,8 +4,8 @@ latitude: 40.75844
 longitude: -73.98409
 postcode: "10036"
 city: New York
-street: "West 46th Street"
-housenumber: 151
-phone: "+1-212-753-6966"
-opening_hours: "Mo-We 10:00-18:00; Th 10:30-19:00; Fr 10:30-18:30; Sa off; Su off"
-website: "https://topqualitysetting.com"
+street: West 46th Street
+housenumber: "151"
+phone: +1-212-753-6966
+opening_hours: Mo-We 10:00-18:00; Th 10:30-19:00; Fr 10:30-18:30; Sa off; Su off
+website: https://topqualitysetting.com

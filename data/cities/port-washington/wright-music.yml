@@ -1,11 +1,11 @@
 id: 613883729
-type: way
+type: node
 latitude: 40.83115
 longitude: -73.68477
 postcode: "11050"
 city: Port Washington
-street: "Main Street"
-housenumber: 5
+street: Main Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

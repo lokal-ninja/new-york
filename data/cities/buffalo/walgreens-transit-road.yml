@@ -1,11 +1,11 @@
 id: 436860961
-type: way
+type: node
 latitude: 42.99003
 longitude: -78.69599
 postcode: "14221"
 city: Buffalo
-street: "Transit Road"
-housenumber: 5275
+street: Transit Road
+housenumber: "5275"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5275+transit+rd-buffalo-ny-14221/id=5592"
+website: https://www.walgreens.com/locator/walgreens-5275+transit+rd-buffalo-ny-14221/id=5592

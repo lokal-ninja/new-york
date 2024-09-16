@@ -1,11 +1,11 @@
 id: 772238572
-type: way
+type: node
 latitude: 40.86706
 longitude: -73.63137
 postcode: "11542"
 city: Glen Cove
-street: "School Street"
-housenumber: 71
+street: School Street
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ny/glen-cove/71-school-street"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/ny/glen-cove/71-school-street

@@ -1,11 +1,11 @@
 id: 280115394
-type: way
+type: node
 latitude: 40.72564
 longitude: -73.95148
 postcode: "11222"
 city: Brooklyn
-street: "Norman Avenue"
-housenumber: 95
-phone: "646 863 4626"
+street: Norman Avenue
+housenumber: "95"
+phone: 646 863 4626
 opening_hours: ""
-website: "https://www.sparrowbk.com/"
+website: https://www.sparrowbk.com/

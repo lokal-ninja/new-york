@@ -1,11 +1,11 @@
 id: 471817189
-type: way
+type: node
 latitude: 40.97968
 longitude: -72.12727
 postcode: "11930"
 city: Amagansett
-street: "Montauk Highway"
-housenumber: 511
-phone: "+1 845-557-6315"
+street: Montauk Highway
+housenumber: "511"
+phone: +1 845-557-6315
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 421700573
-type: way
+type: node
 latitude: 43.11073
 longitude: -77.54652
 postcode: "14618"
 city: Rochester
-street: "Monroe Avenue"
-housenumber: 2922
+street: Monroe Avenue
+housenumber: "2922"
 phone: ""
 opening_hours: ""
 website: ""

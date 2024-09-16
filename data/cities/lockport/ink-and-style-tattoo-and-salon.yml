@@ -1,11 +1,11 @@
 id: 830880222
-type: way
+type: node
 latitude: 43.17364
 longitude: -78.68207
 postcode: "14094"
 city: Lockport
-street: "Chestnut Street"
-housenumber: 211
+street: Chestnut Street
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

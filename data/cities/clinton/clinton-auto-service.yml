@@ -1,11 +1,11 @@
 id: 639089422
-type: way
+type: node
 latitude: 43.03973
 longitude: -75.39178
 postcode: "13323"
 city: Clinton
-street: "Route 12B"
-housenumber: 3723
+street: Route 12B
+housenumber: "3723"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 280403699
-type: way
+type: node
 latitude: 40.75356
 longitude: -73.909
 postcode: "11377"
 city: Woodside
-street: "Northern Boulevard"
+street: Northern Boulevard
 housenumber: 51-25
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ny/woodside/51-10-broadway"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://stores.staples.com/ny/woodside/51-10-broadway

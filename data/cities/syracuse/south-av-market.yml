@@ -1,11 +1,11 @@
 id: 221139630
-type: way
+type: node
 latitude: 43.02316
 longitude: -76.15944
 postcode: "13207"
 city: Syracuse
-street: "South Avenue"
-housenumber: 1504
-phone: "+1 315-471-1471"
+street: South Avenue
+housenumber: "1504"
+phone: +1 315-471-1471
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 559521873
-type: way
+type: node
 latitude: 42.74155
 longitude: -78.82467
 postcode: "14075"
 city: Hamburg
-street: "South Park Avenue"
-housenumber: 5726
-phone: "+1 716-649-4141"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 09:00-16:00"
+street: South Park Avenue
+housenumber: "5726"
+phone: +1 716-649-4141
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 09:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.72877
 longitude: -73.9865
 postcode: "10003"
 city: New York
-street: "East 9th Street"
-housenumber: 318
+street: East 9th Street
+housenumber: "318"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa-Su 12:00-18:00"
-website: "https://www.asustainablevillagenyc.com"
+opening_hours: Mo-Fr 11:00-18:00; Sa-Su 12:00-18:00
+website: https://www.asustainablevillagenyc.com

@@ -4,8 +4,8 @@ latitude: 40.6143
 longitude: -73.99484
 postcode: "11204"
 city: Brooklyn
-street: "18th Avenue"
-housenumber: 7305
-phone: "+1-718-256-0165"
-opening_hours: "Mo-Sa 09:00-18:30; Su 09:00-14:00"
-website: "https://flowers-by-emil.com/"
+street: 18th Avenue
+housenumber: "7305"
+phone: +1-718-256-0165
+opening_hours: Mo-Sa 09:00-18:30; Su 09:00-14:00
+website: https://flowers-by-emil.com/

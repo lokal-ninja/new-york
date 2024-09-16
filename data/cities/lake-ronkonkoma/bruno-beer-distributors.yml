@@ -1,11 +1,11 @@
 id: 470774524
-type: way
+type: node
 latitude: 40.81424
 longitude: -73.10778
 postcode: "11779"
 city: Lake Ronkonkoma
-street: "Hawkins Avenue"
-housenumber: 145
+street: Hawkins Avenue
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

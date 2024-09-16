@@ -1,11 +1,11 @@
 id: 830579385
-type: way
+type: node
 latitude: 43.12423
 longitude: -78.69634
 postcode: "14094"
 city: Lockport
-street: "South Transit Road"
-housenumber: 6145
+street: South Transit Road
+housenumber: "6145"
 phone: ""
 opening_hours: ""
 website: ""

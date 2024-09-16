@@ -4,8 +4,8 @@ latitude: 40.87037
 longitude: -73.45892
 postcode: "11724"
 city: Cold Spring Harbor
-street: "West Main Street"
-housenumber: 60
-phone: "+1-631-367-3100"
-opening_hours: "We-Sa 11:00-17:00; Su 12:00-17:00"
-website: "https://www.harborhouseast.com/"
+street: West Main Street
+housenumber: "60"
+phone: +1-631-367-3100
+opening_hours: We-Sa 11:00-17:00; Su 12:00-17:00
+website: https://www.harborhouseast.com/

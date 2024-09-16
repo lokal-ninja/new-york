@@ -4,8 +4,8 @@ latitude: 40.77728
 longitude: -73.98283
 postcode: "10023"
 city: New York
-street: "Amsterdam Avenue"
-housenumber: 222
-phone: "+1 212-877-6090"
-opening_hours: "Mo-Th 09:00-21:00; Fr,Sa 09:00-23:00; Su 12:00-21:00"
-website: "https://elrichwinesnyc.com"
+street: Amsterdam Avenue
+housenumber: "222"
+phone: +1 212-877-6090
+opening_hours: Mo-Th 09:00-21:00; Fr,Sa 09:00-23:00; Su 12:00-21:00
+website: https://elrichwinesnyc.com

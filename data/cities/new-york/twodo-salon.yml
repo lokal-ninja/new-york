@@ -4,8 +4,8 @@ latitude: 40.78534
 longitude: -73.97772
 postcode: "10024"
 city: New York
-street: "West 82nd Street"
-housenumber: 210
-phone: "+1-212-787-1277"
+street: West 82nd Street
+housenumber: "210"
+phone: +1-212-787-1277
 opening_hours: ""
-website: "https://www.twodo.com"
+website: https://www.twodo.com

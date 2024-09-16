@@ -1,11 +1,11 @@
 id: 322130454
-type: way
+type: node
 latitude: 41.09828
 longitude: -73.8092
 postcode: "10532"
 city: Hawthorne
-street: "Saw Mill River Road"
-housenumber: 151
+street: Saw Mill River Road
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

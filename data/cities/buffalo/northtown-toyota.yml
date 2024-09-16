@@ -1,11 +1,11 @@
 id: 637076945
-type: way
+type: node
 latitude: 42.98167
 longitude: -78.79543
 postcode: "14226"
 city: Buffalo
-street: "Millersport Highway"
-housenumber: 1135
+street: Millersport Highway
+housenumber: "1135"
 phone: ""
 opening_hours: ""
 website: ""

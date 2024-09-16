@@ -4,8 +4,8 @@ latitude: 40.7685
 longitude: -73.9571
 postcode: "10021"
 city: New York
-street: "East 72nd Street"
-housenumber: 325
-phone: "+1-914-844-2929"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://thehausmd.com/"
+street: East 72nd Street
+housenumber: "325"
+phone: +1-914-844-2929
+opening_hours: Mo-Fr 09:00-17:00
+website: https://thehausmd.com/

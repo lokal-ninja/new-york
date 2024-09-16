@@ -1,11 +1,11 @@
 id: 205554886
-type: way
+type: node
 latitude: 43.00117
 longitude: -76.19652
 postcode: "13215"
 city: Syracuse
-street: "West Seneca Turnpike"
-housenumber: 4553
+street: West Seneca Turnpike
+housenumber: "4553"
 phone: ""
 opening_hours: ""
 website: ""

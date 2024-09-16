@@ -1,11 +1,11 @@
 id: 817057246
-type: way
+type: node
 latitude: 43.10388
 longitude: -73.58002
 postcode: "12871"
 city: Schuylerville
-street: "Spring Street"
-housenumber: 19
+street: Spring Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

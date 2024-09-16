@@ -4,8 +4,8 @@ latitude: 40.81238
 longitude: -73.95724
 postcode: "10027"
 city: New York
-street: "Amsterdam Avenue"
-housenumber: 1316
-phone: "+1-212-662-1644"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.foodtown.com/stores/foodtown-of-morningside-heights"
+street: Amsterdam Avenue
+housenumber: "1316"
+phone: +1-212-662-1644
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.foodtown.com/stores/foodtown-of-morningside-heights

@@ -1,11 +1,11 @@
 id: 851112211
-type: way
+type: node
 latitude: 40.93892
 longitude: -73.83452
 postcode: "10708"
 city: Bronxville
-street: "Kraft Avenue"
-housenumber: 50
+street: Kraft Avenue
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:30"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 814656489
-type: way
+type: node
 latitude: 44.2001
 longitude: -73.44261
 postcode: "12993"
 city: Westport
-street: "State Highway 22"
-housenumber: 252
+street: State Highway 22
+housenumber: "252"
 phone: "+15189624500"
 opening_hours: ""
-website: "https://www.bessborobuilders.com/"
+website: https://www.bessborobuilders.com/

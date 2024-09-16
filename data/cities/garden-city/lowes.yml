@@ -1,11 +1,11 @@
 id: 320309602
-type: way
+type: node
 latitude: 40.73814
 longitude: -73.6058
 postcode: "11530"
 city: Garden City
-street: "Dibblee Drive"
-housenumber: 700
-phone: "+1 516-794-6531"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/ny-garden-city/1624"
+street: Dibblee Drive
+housenumber: "700"
+phone: +1 516-794-6531
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/ny-garden-city/1624

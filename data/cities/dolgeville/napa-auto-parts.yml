@@ -1,11 +1,11 @@
 id: 816011874
-type: way
+type: node
 latitude: 43.10452
 longitude: -74.77026
 postcode: "13329"
 city: Dolgeville
-street: "North Main Street"
-housenumber: 79
+street: North Main Street
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

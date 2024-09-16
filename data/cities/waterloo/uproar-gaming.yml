@@ -4,8 +4,8 @@ latitude: 42.90481
 longitude: -76.86331
 postcode: "13165"
 city: Waterloo
-street: "West Main Street"
-housenumber: 10
+street: West Main Street
+housenumber: "10"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

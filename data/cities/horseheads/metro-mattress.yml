@@ -1,11 +1,11 @@
 id: 910341479
-type: way
+type: node
 latitude: 42.15896
 longitude: -76.85385
 postcode: "14845"
 city: Horseheads
-street: "County Route 64"
-housenumber: 1600
+street: County Route 64
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 466995352
-type: way
+type: node
 latitude: 40.80094
 longitude: -72.79194
 postcode: "11934"
 city: Center Moriches
-street: "Main Street"
-housenumber: 315
+street: Main Street
+housenumber: "315"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/center-moriches-ny-pharmacies/311-main-st-cvs-plaza-center-moriches-ny-11934/storeid=1190"
+website: https://www.cvs.com/store-locator/center-moriches-ny-pharmacies/311-main-st-cvs-plaza-center-moriches-ny-11934/storeid=1190

@@ -1,11 +1,11 @@
 id: 107208482
-type: way
+type: node
 latitude: 42.53215
 longitude: -73.7361
 postcode: "12033"
 city: Castleton-on-Hudson
-street: "Maple Hill Road"
-housenumber: 839
-phone: "518-732-7515"
+street: Maple Hill Road
+housenumber: "839"
+phone: 518-732-7515
 opening_hours: ""
-website: "https://jiffemart.com/"
+website: https://jiffemart.com/

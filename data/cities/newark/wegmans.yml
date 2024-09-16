@@ -1,11 +1,11 @@
 id: 258304178
-type: way
+type: node
 latitude: 43.04475
 longitude: -77.11381
 postcode: "14513"
 city: Newark
-street: "West Miller Street"
-housenumber: 800
-phone: "+1 315-331-4440"
+street: West Miller Street
+housenumber: "800"
+phone: +1 315-331-4440
 opening_hours: ""
-website: "https://www.wegmans.com/stores/newark-ny"
+website: https://www.wegmans.com/stores/newark-ny

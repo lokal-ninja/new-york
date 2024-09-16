@@ -1,11 +1,11 @@
 id: 938591119
-type: way
+type: node
 latitude: 43.00281
 longitude: -78.88108
 postcode: "14150"
 city: Tonawanda
-street: "Main Street"
-housenumber: 607
+street: Main Street
+housenumber: "607"
 phone: "+17166940500"
 opening_hours: ""
 website: ""

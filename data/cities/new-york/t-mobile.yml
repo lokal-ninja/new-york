@@ -1,11 +1,11 @@
 id: 1825848805
 type: node
-latitude: 40.79493
-longitude: -73.97196
+latitude: 40.79492
+longitude: -73.97195
 postcode: "10022"
 city: New York
-street: "Broadway"
-housenumber: 2563
+street: Broadway
+housenumber: "2563"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00
 website: ""

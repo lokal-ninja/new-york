@@ -1,11 +1,11 @@
 id: 1254132937
-type: way
+type: node
 latitude: 40.86575
 longitude: -73.05306
 postcode: "11784"
 city: Selden
-street: "Independence Plaza"
-housenumber: 401
-phone: "+1-631-732-9200"
+street: Independence Plaza
+housenumber: "401"
+phone: +1-631-732-9200
 opening_hours: ""
-website: "https://www.homedepot.com/l/Selden/NY/Selden/11784/1209"
+website: https://www.homedepot.com/l/Selden/NY/Selden/11784/1209

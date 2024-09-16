@@ -4,8 +4,8 @@ latitude: 40.72826
 longitude: -73.98172
 postcode: "10009"
 city: New York
-street: "Avenue A"
-housenumber: 170
-phone: "+1 212-673-6489"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ny/new-york/170-ave-a-36678"
+street: Avenue A
+housenumber: "170"
+phone: +1 212-673-6489
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ny/new-york/170-ave-a-36678

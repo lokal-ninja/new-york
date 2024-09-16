@@ -1,11 +1,11 @@
 id: 266233375
-type: way
+type: node
 latitude: 40.76225
 longitude: -73.96922
 postcode: "10022"
 city: New York
-street: "East 59th Street"
-housenumber: 116
+street: East 59th Street
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00"
+opening_hours: Mo-Sa 11:00-18:00
 website: ""

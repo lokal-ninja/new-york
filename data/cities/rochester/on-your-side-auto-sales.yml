@@ -1,11 +1,11 @@
 id: 599922018
-type: way
+type: node
 latitude: 43.14404
 longitude: -77.70475
 postcode: "14624"
 city: Rochester
-street: "Marway Circle"
-housenumber: 28
-phone: "+1 585-254-8707"
+street: Marway Circle
+housenumber: "28"
+phone: +1 585-254-8707
 opening_hours: ""
-website: "https://oysauto.com/"
+website: https://oysauto.com/

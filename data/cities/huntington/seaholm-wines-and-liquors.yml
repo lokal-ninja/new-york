@@ -1,11 +1,11 @@
 id: 470231555
-type: way
+type: node
 latitude: 40.87522
 longitude: -73.42558
 postcode: "11743"
 city: Huntington
-street: "Wall Street"
-housenumber: 132
+street: Wall Street
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

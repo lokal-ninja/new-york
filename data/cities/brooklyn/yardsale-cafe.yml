@@ -4,8 +4,8 @@ latitude: 40.66344
 longitude: -73.99146
 postcode: "11215"
 city: Brooklyn
-street: "5th Avenue"
-housenumber: 620
-phone: "+1-929-477-0167"
-opening_hours: "Mo-Fr 07:00-17:00; Sa-Su 08:00-17:00"
-website: "https://www.yardsalebk.com"
+street: 5th Avenue
+housenumber: "620"
+phone: +1-929-477-0167
+opening_hours: Mo-Fr 07:00-17:00; Sa-Su 08:00-17:00
+website: https://www.yardsalebk.com

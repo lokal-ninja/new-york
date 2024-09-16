@@ -1,11 +1,11 @@
 id: 84193565
-type: way
+type: node
 latitude: 42.71405
 longitude: -73.81278
 postcode: "12205"
 city: Colonie
-street: "Wolf Road"
-housenumber: 69
+street: Wolf Road
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.42981
 longitude: -76.50676
 postcode: "14850"
 city: Ithaca
-street: "Elmira Road"
-housenumber: 222
-phone: "+1-607-273-7500"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
+street: Elmira Road
+housenumber: "222"
+phone: +1-607-273-7500
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
 website: ""

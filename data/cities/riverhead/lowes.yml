@@ -1,11 +1,11 @@
 id: 582712030
-type: way
+type: node
 latitude: 40.92543
 longitude: -72.68949
 postcode: "11901"
 city: Riverhead
-street: "Old Country Road"
-housenumber: 1461
-phone: "+1 631-208-2190"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/ny-riverhead/2921"
+street: Old Country Road
+housenumber: "1461"
+phone: +1 631-208-2190
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/ny-riverhead/2921

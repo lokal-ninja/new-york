@@ -1,11 +1,11 @@
 id: 661918753
-type: way
+type: node
 latitude: 42.73861
 longitude: -73.73003
 postcode: "12189"
 city: Watervliet
-street: "Troy Schenectady Road"
-housenumber: 181
-phone: "+1 518 2722824"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.newcomeralbany.com/"
+street: Troy Schenectady Road
+housenumber: "181"
+phone: +1 518 2722824
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.newcomeralbany.com/

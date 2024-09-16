@@ -1,11 +1,11 @@
 id: 463326160
-type: way
+type: node
 latitude: 40.93331
 longitude: -72.67458
 postcode: "11901"
 city: Riverhead
-street: "Old Country Road"
-housenumber: 1050
-phone: "+1 631-727-9022"
+street: Old Country Road
+housenumber: "1050"
+phone: +1 631-727-9022
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/riverhead/1050-old-country-rd-22644"
+website: https://www.7-eleven.com/locations/ny/riverhead/1050-old-country-rd-22644

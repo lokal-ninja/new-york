@@ -1,11 +1,11 @@
 id: 64351761
-type: way
+type: node
 latitude: 42.83433
 longitude: -73.91794
 postcode: "12308"
 city: Schenectady
-street: "Van Vranken Avenue"
-housenumber: 2337
+street: Van Vranken Avenue
+housenumber: "2337"
 phone: ""
 opening_hours: ""
 website: ""

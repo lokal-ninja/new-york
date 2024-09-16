@@ -1,11 +1,11 @@
 id: 936884831
-type: way
+type: node
 latitude: 42.00835
 longitude: -74.26793
 postcode: "12412"
 city: Boiceville
-street: "Route 28"
-housenumber: 4131
-phone: "+1-845-657-2033"
-opening_hours: "Mo-Th 05:00-23:00; Fr 05:00-24:00; Sa 05:30-24:00; Su 05:30-23:00"
+street: Route 28
+housenumber: "4131"
+phone: +1-845-657-2033
+opening_hours: Mo-Th 05:00-23:00; Fr 05:00-24:00; Sa 05:30-24:00; Su 05:30-23:00
 website: ""

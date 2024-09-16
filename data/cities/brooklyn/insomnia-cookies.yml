@@ -4,8 +4,8 @@ latitude: 40.68207
 longitude: -73.97679
 postcode: "11217"
 city: Brooklyn
-street: "5th Avenue"
-housenumber: 32
+street: 5th Avenue
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:00-03:00; Sa-Su 11:00-03:00"
+opening_hours: Mo-Fr 09:00-03:00; Sa-Su 11:00-03:00
 website: ""

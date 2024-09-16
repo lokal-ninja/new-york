@@ -1,11 +1,11 @@
 id: 304394824
-type: way
+type: node
 latitude: 43.09545
 longitude: -77.5807
 postcode: "14623"
 city: Rochester
-street: "Winton Place"
-housenumber: 3401
+street: Winton Place
+housenumber: "3401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 609785903
-type: way
+type: node
 latitude: 43.55115
 longitude: -76.11329
 postcode: "13142"
 city: Pulaski
-street: "Caprara Drive"
-housenumber: 54
+street: Caprara Drive
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

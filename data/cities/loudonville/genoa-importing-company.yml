@@ -1,11 +1,11 @@
 id: 660632384
-type: way
+type: node
 latitude: 42.70592
 longitude: -73.75437
 postcode: "12211"
 city: Loudonville
-street: "Loudon Road"
-housenumber: 435
-phone: "+1 518 4270078"
+street: Loudon Road
+housenumber: "435"
+phone: +1 518 4270078
 opening_hours: ""
-website: "https://www.genoaimporting.com/"
+website: https://www.genoaimporting.com/

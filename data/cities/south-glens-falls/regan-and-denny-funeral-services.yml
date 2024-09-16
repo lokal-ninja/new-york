@@ -1,11 +1,11 @@
 id: 817028988
-type: way
+type: node
 latitude: 43.29242
 longitude: -73.63701
 postcode: "12803"
 city: South Glens Falls
-street: "Saratoga Avenue"
-housenumber: 94
+street: Saratoga Avenue
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

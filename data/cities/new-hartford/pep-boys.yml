@@ -1,11 +1,11 @@
 id: 547058045
-type: way
+type: node
 latitude: 43.08426
 longitude: -75.32322
 postcode: "13413"
 city: New Hartford
-street: "Commercial Drive"
-housenumber: 4475
+street: Commercial Drive
+housenumber: "4475"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00, Su 09:00-18:00"
+opening_hours: Mo-Sa 07:30-20:00, Su 09:00-18:00
 website: ""

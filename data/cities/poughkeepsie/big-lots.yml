@@ -1,11 +1,11 @@
 id: 45817474
-type: way
+type: node
 latitude: 41.69947
 longitude: -73.88769
 postcode: "12603"
 city: Poughkeepsie
-street: "Burnett Boulevard"
-housenumber: 43
-phone: "+1 845-483-0916"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ny/poughkeepsie/43-burnett-blvd"
+street: Burnett Boulevard
+housenumber: "43"
+phone: +1 845-483-0916
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ny/poughkeepsie/43-burnett-blvd

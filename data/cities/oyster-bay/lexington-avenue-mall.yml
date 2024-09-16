@@ -1,11 +1,11 @@
 id: 565990113
-type: way
+type: node
 latitude: 40.86607
 longitude: -73.53294
 postcode: "11771"
 city: Oyster Bay
-street: "Lexington Avenue"
-housenumber: 230
+street: Lexington Avenue
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

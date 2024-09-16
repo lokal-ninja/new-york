@@ -1,11 +1,11 @@
 id: 436184705
-type: way
+type: node
 latitude: 40.85851
 longitude: -73.41959
 postcode: "11743"
 city: Huntington Station
-street: "New York Avenue"
-housenumber: 839
-phone: "+1 631-549-0845"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ny/huntington/pet-supplies-huntington-ny-3742.html"
+street: New York Avenue
+housenumber: "839"
+phone: +1 631-549-0845
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ny/huntington/pet-supplies-huntington-ny-3742.html

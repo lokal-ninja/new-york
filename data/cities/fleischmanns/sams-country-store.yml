@@ -1,11 +1,11 @@
 id: 959743453
-type: way
+type: node
 latitude: 42.15467
 longitude: -74.52478
 postcode: "12430"
 city: Fleischmanns
-street: "Main Street"
-housenumber: 1293
-phone: "+1-845-254-4010"
-opening_hours: "Mo-Sa 05:30-20:00; Su 06:30-18:00"
-website: "https://samscountrystoreny.com"
+street: Main Street
+housenumber: "1293"
+phone: +1-845-254-4010
+opening_hours: Mo-Sa 05:30-20:00; Su 06:30-18:00
+website: https://samscountrystoreny.com

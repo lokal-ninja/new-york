@@ -4,8 +4,8 @@ latitude: 42.21625
 longitude: -78.27706
 postcode: "14727"
 city: Cuba
-street: "Orchard Street"
-housenumber: 2
+street: Orchard Street
+housenumber: "2"
 phone: "5859682206"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

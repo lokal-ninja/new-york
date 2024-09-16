@@ -1,11 +1,11 @@
 id: 292412203
-type: way
+type: node
 latitude: 43.22572
 longitude: -77.32012
 postcode: "14519"
 city: Ontario
-street: "Route 104"
-housenumber: 1250
-phone: "+1 315-524-8192"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ny/ontario/1250-state-route-104"
+street: Route 104
+housenumber: "1250"
+phone: +1 315-524-8192
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ny/ontario/1250-state-route-104

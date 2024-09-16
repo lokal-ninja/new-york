@@ -4,8 +4,8 @@ latitude: 40.68494
 longitude: -73.99482
 postcode: "11231"
 city: Brooklyn
-street: "Court Street"
-housenumber: 268
-phone: "+1-718-488-8877"
-opening_hours: "Mo-Sa 10:30-20:30; Su 11:00-19:00"
+street: Court Street
+housenumber: "268"
+phone: +1-718-488-8877
+opening_hours: Mo-Sa 10:30-20:30; Su 11:00-19:00
 website: ""

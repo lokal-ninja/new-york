@@ -1,11 +1,11 @@
 id: 957663383
-type: way
+type: node
 latitude: 41.02074
 longitude: -73.71786
 postcode: "10604"
 city: Harrison
-street: "Corporate Park Drive"
-housenumber: 106
-phone: "+1 914-539-3700"
+street: Corporate Park Drive
+housenumber: "106"
+phone: +1 914-539-3700
 opening_hours: ""
-website: "https://www.wegmans.com/stores/harrison-ny/"
+website: https://www.wegmans.com/stores/harrison-ny/

@@ -1,11 +1,11 @@
 id: 329596811
-type: way
+type: node
 latitude: 42.8819
 longitude: -73.68707
 postcode: "12118"
 city: Mechanicville
-street: "Hudson River Road"
-housenumber: 1004
+street: Hudson River Road
+housenumber: "1004"
 phone: ""
 opening_hours: ""
 website: ""

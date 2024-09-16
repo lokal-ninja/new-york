@@ -1,11 +1,11 @@
 id: 900488595
-type: way
+type: node
 latitude: 42.0397
 longitude: -74.11472
 postcode: "12498"
 city: Woodstock
-street: "Elwyn Lane"
-housenumber: 5
+street: Elwyn Lane
+housenumber: "5"
 phone: ""
-opening_hours: "Th-Su 11:30-17:30"
+opening_hours: Th-Su 11:30-17:30
 website: ""

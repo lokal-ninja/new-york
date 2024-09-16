@@ -4,8 +4,8 @@ latitude: 40.75986
 longitude: -73.99434
 postcode: "10036"
 city: New York
-street: "West 43rd Street"
-housenumber: 452
-phone: "+1 212-714-1414"
-opening_hours: "Mo-Su 07:00-11:00"
-website: "https://www.shopfoodemporium.com"
+street: West 43rd Street
+housenumber: "452"
+phone: +1 212-714-1414
+opening_hours: Mo-Su 07:00-11:00
+website: https://www.shopfoodemporium.com

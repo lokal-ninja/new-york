@@ -1,11 +1,11 @@
 id: 1001847107
-type: way
+type: node
 latitude: 42.19591
 longitude: -74.14998
 postcode: "12485"
 city: Tannersville
-street: "Main Street"
-housenumber: 6360
-phone: "+1-518-589-6330"
-opening_hours: "Mo-Su 05:30-24:00"
+street: Main Street
+housenumber: "6360"
+phone: +1-518-589-6330
+opening_hours: Mo-Su 05:30-24:00
 website: ""

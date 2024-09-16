@@ -1,11 +1,11 @@
 id: 458570924
-type: way
+type: node
 latitude: 40.77575
 longitude: -73.46414
 postcode: "11803"
 city: Plainview
-street: "Old Country Road"
-housenumber: 1163
+street: Old Country Road
+housenumber: "1163"
 phone: ""
 opening_hours: ""
 website: ""

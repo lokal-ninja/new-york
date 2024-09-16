@@ -1,11 +1,11 @@
 id: 701375496
-type: way
+type: node
 latitude: 41.20109
 longitude: -73.88587
 postcode: "10520"
 city: Croton-on-Hudson
-street: "South Riverside Avenue"
-housenumber: 205
+street: South Riverside Avenue
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 463024495
-type: way
+type: node
 latitude: 40.93743
 longitude: -73.10888
 postcode: "11733"
 city: Setauket-East Setauket
-street: "Route 25A"
-housenumber: 248
+street: Route 25A
+housenumber: "248"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-226+route+25a-east+setauket-ny-11733/id=17513"
+website: https://www.walgreens.com/locator/walgreens-226+route+25a-east+setauket-ny-11733/id=17513

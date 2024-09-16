@@ -1,11 +1,11 @@
 id: 1075936081
-type: way
+type: node
 latitude: 44.70654
 longitude: -73.50886
 postcode: "12901"
 city: Plattsburgh
-street: "Tom Miller Road"
-housenumber: 336
+street: Tom Miller Road
+housenumber: "336"
 phone: ""
 opening_hours: ""
 website: ""

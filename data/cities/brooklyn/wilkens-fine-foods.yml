@@ -4,8 +4,8 @@ latitude: 40.62
 longitude: -73.90696
 postcode: "11234"
 city: Brooklyn
-street: "Avenue U"
-housenumber: 7114
+street: Avenue U
+housenumber: "7114"
 phone: ""
 opening_hours: ""
-website: "https://wilkensfinefoods.com/"
+website: https://wilkensfinefoods.com/

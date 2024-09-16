@@ -1,11 +1,11 @@
 id: 469095108
-type: way
+type: node
 latitude: 40.74237
 longitude: -73.26333
 postcode: "11706"
 city: Bay Shore
-street: "5th Avenue"
-housenumber: 1401
+street: 5th Avenue
+housenumber: "1401"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/north-bay-shore-ny-pharmacies/1401-5th-ave-09-north-bay-shore-ny-11706/storeid=2836"
+website: https://www.cvs.com/store-locator/north-bay-shore-ny-pharmacies/1401-5th-ave-09-north-bay-shore-ny-11706/storeid=2836

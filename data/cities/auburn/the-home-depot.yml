@@ -1,11 +1,11 @@
 id: 1253738820
-type: way
+type: node
 latitude: 42.9251
 longitude: -76.60709
 postcode: "13021"
 city: Auburn
-street: "Clark Street Road"
-housenumber: 1634
-phone: "+1-315-252-4540"
+street: Clark Street Road
+housenumber: "1634"
+phone: +1-315-252-4540
 opening_hours: ""
-website: "https://www.homedepot.com/l/Auburn/NY/Auburn/13021/6846"
+website: https://www.homedepot.com/l/Auburn/NY/Auburn/13021/6846

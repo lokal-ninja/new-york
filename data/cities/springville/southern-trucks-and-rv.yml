@@ -1,11 +1,11 @@
 id: 629633287
-type: way
+type: node
 latitude: 42.50713
 longitude: -78.6882
 postcode: "14141"
 city: Springville
-street: "Barnstead Drive"
-housenumber: 75
+street: Barnstead Drive
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 835955883
-type: way
+type: node
 latitude: 43.01135
 longitude: -74.35991
 postcode: "12095"
 city: Johnstown
-street: "North Comrie Avenue"
-housenumber: 138
+street: North Comrie Avenue
+housenumber: "138"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ny/johnstown/autoparts-5890.html"
+website: https://locations.oreillyauto.com/ny/johnstown/autoparts-5890.html

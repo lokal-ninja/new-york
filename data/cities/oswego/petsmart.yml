@@ -1,11 +1,11 @@
 id: 692278212
-type: way
+type: node
 latitude: 43.46292
 longitude: -76.47578
 postcode: "13126"
 city: Oswego
-street: "State Route 104"
-housenumber: 365
-phone: "+1 315-207-7205"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ny/oswego-store2521.html"
+street: State Route 104
+housenumber: "365"
+phone: +1 315-207-7205
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ny/oswego-store2521.html

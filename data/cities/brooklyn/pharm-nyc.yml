@@ -4,8 +4,8 @@ latitude: 40.71586
 longitude: -73.94647
 postcode: "11211"
 city: Brooklyn
-street: "Skillman Avenue"
-housenumber: 123
-phone: "+1-929-420-0021"
-opening_hours: "We-Su 11:00-19:00"
-website: "https://pharm.nyc"
+street: Skillman Avenue
+housenumber: "123"
+phone: +1-929-420-0021
+opening_hours: We-Su 11:00-19:00
+website: https://pharm.nyc

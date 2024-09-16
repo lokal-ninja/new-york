@@ -1,11 +1,11 @@
 id: 836466023
-type: way
+type: node
 latitude: 43.84824
 longitude: -73.43345
 postcode: "12883"
 city: Ticonderoga
-street: "Montcalm Street"
-housenumber: 116
+street: Montcalm Street
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00, Su 12:00-17:00"
+opening_hours: Mo-Sa 09:00-21:00, Su 12:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 636023392
-type: way
+type: node
 latitude: 43.06111
 longitude: -75.36638
 postcode: "13323"
 city: Clinton
-street: "Robinson Road"
-housenumber: 23
+street: Robinson Road
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

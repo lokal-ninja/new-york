@@ -1,11 +1,11 @@
 id: 330872747
-type: way
+type: node
 latitude: 41.97981
 longitude: -73.65495
 postcode: "12567"
 city: Pine Plains
-street: "Church Street"
-housenumber: 2991
-phone: "+1-518-398-6622"
-opening_hours: "Mo,We,Sa 08:00-18:00; Tu,Th 08:00-19:00; Fr 08:00-20:00; Su 08:00-13:00"
-website: "https://pecks-food-market.edan.io/"
+street: Church Street
+housenumber: "2991"
+phone: +1-518-398-6622
+opening_hours: Mo,We,Sa 08:00-18:00; Tu,Th 08:00-19:00; Fr 08:00-20:00; Su 08:00-13:00
+website: https://pecks-food-market.edan.io/

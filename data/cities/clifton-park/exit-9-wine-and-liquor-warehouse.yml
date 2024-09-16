@@ -1,11 +1,11 @@
 id: 147046073
-type: way
+type: node
 latitude: 42.85887
 longitude: -73.76985
 postcode: "12065"
 city: Clifton Park
-street: "Halfmoon Crossing"
-housenumber: 9
+street: Halfmoon Crossing
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

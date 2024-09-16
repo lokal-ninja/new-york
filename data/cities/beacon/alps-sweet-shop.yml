@@ -1,11 +1,11 @@
 id: 320471278
-type: way
+type: node
 latitude: 41.50604
 longitude: -73.9725
 postcode: "12508"
 city: Beacon
-street: "Main Street"
-housenumber: 269
+street: Main Street
+housenumber: "269"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 664194555
-type: way
+type: node
 latitude: 43.09085
 longitude: -78.96991
 postcode: "14304"
 city: Niagara Falls
-street: "Military Road"
-housenumber: 1306
+street: Military Road
+housenumber: "1306"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1306+military+rd-niagara+falls-ny-14304/id=13751"
+website: https://www.walgreens.com/locator/walgreens-1306+military+rd-niagara+falls-ny-14304/id=13751

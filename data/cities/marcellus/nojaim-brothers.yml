@@ -1,11 +1,11 @@
 id: 223074869
-type: way
+type: node
 latitude: 42.98273
 longitude: -76.33701
 postcode: "13108"
 city: Marcellus
-street: "East Main Street"
-housenumber: 27
+street: East Main Street
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://nojaimbrosmarcellus.com/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://nojaimbrosmarcellus.com/

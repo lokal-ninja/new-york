@@ -1,11 +1,11 @@
 id: 830504044
-type: way
+type: node
 latitude: 43.34827
 longitude: -78.63893
 postcode: "14008"
 city: Appleton
-street: "East Lake Road"
-housenumber: 7171
+street: East Lake Road
+housenumber: "7171"
 phone: ""
 opening_hours: ""
-website: "https://marjimmanor.com/"
+website: https://marjimmanor.com/

@@ -1,11 +1,11 @@
 id: 758007627
-type: way
+type: node
 latitude: 43.12092
 longitude: -75.29456
 postcode: "13492"
 city: Whitesboro
-street: "Oriskany Boulevard"
-housenumber: 145
+street: Oriskany Boulevard
+housenumber: "145"
 phone: ""
 opening_hours: ""
-website: "https://www.bravoautosalesinc.com/"
+website: https://www.bravoautosalesinc.com/

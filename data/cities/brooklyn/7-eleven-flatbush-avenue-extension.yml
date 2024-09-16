@@ -1,11 +1,11 @@
 id: 631941653
-type: way
+type: node
 latitude: 40.68958
 longitude: -73.98107
 postcode: "11201"
 city: Brooklyn
-street: "Flatbush Avenue Extension"
-housenumber: 395
-phone: "+1 718-852-2732"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/ny/brooklyn/395-flatbush-ave-ext-34495"
+street: Flatbush Avenue Extension
+housenumber: "395"
+phone: +1 718-852-2732
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/ny/brooklyn/395-flatbush-ave-ext-34495

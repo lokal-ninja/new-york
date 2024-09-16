@@ -1,11 +1,11 @@
 id: 949763831
-type: way
+type: node
 latitude: 43.01665
 longitude: -78.76698
 postcode: "14068"
 city: Getzville
-street: "Millersport Highway"
-housenumber: 2545
-phone: "+1 716 688 9035"
-opening_hours: "Mo-Sa 08:00-09:00; Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/ny/getzville/2545-millersport-highway.html"
+street: Millersport Highway
+housenumber: "2545"
+phone: +1 716 688 9035
+opening_hours: Mo-Sa 08:00-09:00; Su 09:00-18:00
+website: https://www.riteaid.com/locations/ny/getzville/2545-millersport-highway.html

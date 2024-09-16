@@ -1,11 +1,11 @@
 id: 372196830
-type: way
+type: node
 latitude: 41.50259
 longitude: -73.98203
 postcode: "12508"
 city: Beacon
-street: "Beekman Street"
-housenumber: 2
-phone: "+1-845-831-0380"
+street: Beekman Street
+housenumber: "2"
+phone: +1-845-831-0380
 opening_hours: ""
-website: "https://www.riverviewbyhalvey.com/"
+website: https://www.riverviewbyhalvey.com/

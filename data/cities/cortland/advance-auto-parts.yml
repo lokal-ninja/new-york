@@ -1,11 +1,11 @@
 id: 727620380
-type: way
+type: node
 latitude: 42.60595
 longitude: -76.16693
 postcode: "13045"
 city: Cortland
-street: "Pomeroy Street"
-housenumber: 1
+street: Pomeroy Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ny/cortland/1-pomeroy-st"
+website: https://stores.advanceautoparts.com/ny/cortland/1-pomeroy-st

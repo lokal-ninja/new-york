@@ -1,11 +1,11 @@
 id: 200810650
-type: way
+type: node
 latitude: 43.05409
 longitude: -76.12153
 postcode: "13206"
 city: Syracuse
-street: "Burnet Avenue"
-housenumber: 1302
+street: Burnet Avenue
+housenumber: "1302"
 phone: ""
 opening_hours: ""
 website: ""

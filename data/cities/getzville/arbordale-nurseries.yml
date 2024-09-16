@@ -1,11 +1,11 @@
 id: 162384760
-type: way
+type: node
 latitude: 43.0245
 longitude: -78.77533
 postcode: "14068"
 city: Getzville
-street: "Dodge Road"
-housenumber: 480
-phone: "+1 716 688 9125"
+street: Dodge Road
+housenumber: "480"
+phone: +1 716 688 9125
 opening_hours: ""
-website: "https://arbordale.com"
+website: https://arbordale.com

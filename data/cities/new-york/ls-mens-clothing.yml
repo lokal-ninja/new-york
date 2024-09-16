@@ -4,8 +4,8 @@ latitude: 40.75647
 longitude: -73.98133
 postcode: "10036"
 city: New York
-street: "West 45th Street"
-housenumber: 49
-phone: "+1-212-575-0933"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-15:30; Su 10:00-16:00"
-website: "https://www.lsmensclothing.com/"
+street: West 45th Street
+housenumber: "49"
+phone: +1-212-575-0933
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-15:30; Su 10:00-16:00
+website: https://www.lsmensclothing.com/

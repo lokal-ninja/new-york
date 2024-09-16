@@ -1,11 +1,11 @@
 id: 261600068
-type: way
+type: node
 latitude: 42.94754
 longitude: -78.85122
 postcode: "14216"
 city: Buffalo
-street: "Hertel Avenue"
-housenumber: 1539
+street: Hertel Avenue
+housenumber: "1539"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.8131
 longitude: -73.98199
 postcode: "12306"
 city: Schenectady
-street: "West Campbell Road"
-housenumber: 141
-phone: "+1 518 952 6003"
-opening_hours: "Mo-Sa 08:00-20:00, Su 12:00-17:00"
-website: "https://www.wildwineliquor.com/"
+street: West Campbell Road
+housenumber: "141"
+phone: +1 518 952 6003
+opening_hours: Mo-Sa 08:00-20:00, Su 12:00-17:00
+website: https://www.wildwineliquor.com/

@@ -1,11 +1,11 @@
 id: 110058785
-type: way
+type: node
 latitude: 41.51517
 longitude: -73.59175
 postcode: "12563"
 city: Patterson
-street: "Route 22"
-housenumber: 3081
+street: Route 22
+housenumber: "3081"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

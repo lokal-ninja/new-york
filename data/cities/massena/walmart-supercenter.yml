@@ -1,11 +1,11 @@
 id: 506141912
-type: way
+type: node
 latitude: 44.92229
 longitude: -74.87916
 postcode: "13662"
 city: Massena
-street: "Stephenville Street"
-housenumber: 43
-phone: "+1 315-769-1072"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1946/massena-ny/whats-new"
+street: Stephenville Street
+housenumber: "43"
+phone: +1 315-769-1072
+opening_hours: 24/7
+website: https://www.walmart.com/store/1946/massena-ny/whats-new

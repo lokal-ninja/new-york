@@ -1,11 +1,11 @@
 id: 1086234202
-type: way
+type: node
 latitude: 42.76556
 longitude: -78.63251
 postcode: "14052"
 city: East Aurora
-street: "Grey Street"
-housenumber: 120
+street: Grey Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

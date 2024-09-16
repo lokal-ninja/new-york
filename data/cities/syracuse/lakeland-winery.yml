@@ -1,11 +1,11 @@
 id: 438608839
-type: way
+type: node
 latitude: 43.09303
 longitude: -76.24307
 postcode: "13209"
 city: Syracuse
-street: "State Fair Boulevard"
-housenumber: 877
+street: State Fair Boulevard
+housenumber: "877"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 295117436
-type: way
+type: node
 latitude: 42.098
 longitude: -76.01039
 postcode: "13850"
 city: Vestal
-street: "Vestal Parkway East"
-housenumber: 2429
-phone: "+1 607-238-2652"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/ny/vestal/dsw-designer-shoe-warehouse-town-square-mall.html"
+street: Vestal Parkway East
+housenumber: "2429"
+phone: +1 607-238-2652
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/ny/vestal/dsw-designer-shoe-warehouse-town-square-mall.html

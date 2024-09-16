@@ -1,11 +1,11 @@
 id: 584222317
-type: way
+type: node
 latitude: 40.66079
 longitude: -73.54136
 postcode: "11566"
 city: Merrick
-street: "Merrick Road"
-housenumber: 2291
+street: Merrick Road
+housenumber: "2291"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/merrick-ny-pharmacies/2291-merrick-rd-merrick-ny-11566/storeid=949"
+website: https://www.cvs.com/store-locator/merrick-ny-pharmacies/2291-merrick-rd-merrick-ny-11566/storeid=949

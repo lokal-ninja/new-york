@@ -1,11 +1,11 @@
 id: 248507363
-type: way
+type: node
 latitude: 40.62173
 longitude: -74.02749
 postcode: "11209"
 city: Brooklyn
-street: "86th Street"
-housenumber: 444
-phone: "+1-929-441-3001"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
+street: 86th Street
+housenumber: "444"
+phone: +1-929-441-3001
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
 website: ""

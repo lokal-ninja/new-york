@@ -1,11 +1,11 @@
 id: 261468452
-type: way
+type: node
 latitude: 41.52513
 longitude: -74.15687
 postcode: "12549"
 city: Montgomery
-street: "State Route 17K"
-housenumber: 647
+street: State Route 17K
+housenumber: "647"
 phone: ""
 opening_hours: ""
 website: ""

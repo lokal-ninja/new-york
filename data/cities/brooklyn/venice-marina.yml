@@ -1,11 +1,11 @@
 id: 285139444
-type: way
+type: node
 latitude: 40.58553
 longitude: -73.92769
 postcode: "11235"
 city: Brooklyn
-street: "Emmons Avenue"
-housenumber: 3939
-phone: "+1 718-646-9283"
+street: Emmons Avenue
+housenumber: "3939"
+phone: +1 718-646-9283
 opening_hours: ""
 website: ""

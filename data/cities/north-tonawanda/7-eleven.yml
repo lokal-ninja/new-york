@@ -1,11 +1,11 @@
 id: 830989333
-type: way
+type: node
 latitude: 43.0352
 longitude: -78.86159
 postcode: "14120"
 city: North Tonawanda
-street: "Division Street"
-housenumber: 433
-phone: "+1 716-694-0306"
+street: Division Street
+housenumber: "433"
+phone: +1 716-694-0306
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/ny/north-tonawanda-town/433-division-35144"
+website: https://www.7-eleven.com/locations/ny/north-tonawanda-town/433-division-35144

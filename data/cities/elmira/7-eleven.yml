@@ -1,11 +1,11 @@
 id: 797191412
-type: way
+type: node
 latitude: 42.08435
 longitude: -76.82238
 postcode: "14905"
 city: Elmira
-street: "West Gray Street"
-housenumber: 709
+street: West Gray Street
+housenumber: "709"
 phone: ""
 opening_hours: ""
 website: ""

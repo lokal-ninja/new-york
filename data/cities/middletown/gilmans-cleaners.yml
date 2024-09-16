@@ -1,11 +1,11 @@
 id: 697442449
-type: way
+type: node
 latitude: 41.43495
 longitude: -74.42241
 postcode: "10940"
 city: Middletown
-street: "Dolson Avenue"
-housenumber: 40
-phone: "(845) 343-4131"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-16:00"
+street: Dolson Avenue
+housenumber: "40"
+phone: (845) 343-4131
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-16:00
 website: ""

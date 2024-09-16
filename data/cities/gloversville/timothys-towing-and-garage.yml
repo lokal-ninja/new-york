@@ -1,11 +1,11 @@
 id: 818588232
-type: way
+type: node
 latitude: 43.04345
 longitude: -74.35071
 postcode: "12078"
 city: Gloversville
-street: "South Main Street"
-housenumber: 213
+street: South Main Street
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

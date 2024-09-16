@@ -4,8 +4,8 @@ latitude: 40.76997
 longitude: -73.95417
 postcode: "10021"
 city: Store
-street: "1st Avenue"
-housenumber: 1450
-phone: "+1 212-744-5706"
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-18:00"
-website: "https://ww3.truevalue.com/svtruevalue"
+street: 1st Avenue
+housenumber: "1450"
+phone: +1 212-744-5706
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-18:00
+website: https://ww3.truevalue.com/svtruevalue

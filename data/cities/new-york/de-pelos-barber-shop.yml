@@ -1,11 +1,11 @@
 id: 943057248
-type: way
+type: node
 latitude: 40.79003
 longitude: -73.94806
 postcode: "10029"
 city: New York
-street: "East 102nd Street"
-housenumber: 1620
-phone: "+1 212-289-5484"
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-15:00"
+street: East 102nd Street
+housenumber: "1620"
+phone: +1 212-289-5484
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-15:00
 website: ""

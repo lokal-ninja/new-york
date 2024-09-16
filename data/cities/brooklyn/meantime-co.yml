@@ -4,8 +4,8 @@ latitude: 40.70615
 longitude: -73.91908
 postcode: "11237"
 city: Brooklyn
-street: "Saint Nicholas Avenue"
-housenumber: 95
+street: Saint Nicholas Avenue
+housenumber: "95"
 phone: ""
-opening_hours: "Fr-Su 12:00-18:00"
-website: "https://www.meantimeco.com/"
+opening_hours: Fr-Su 12:00-18:00
+website: https://www.meantimeco.com/

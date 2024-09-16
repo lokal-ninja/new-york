@@ -1,11 +1,11 @@
 id: 61350725
-type: way
+type: node
 latitude: 42.74295
 longitude: -73.76233
 postcode: "12110"
 city: Latham
-street: "Loudon Road"
-housenumber: 750
+street: Loudon Road
+housenumber: "750"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/latham-ny-pharmacies/750-new-loudon-rd-latham-ny-12110/storeid=415"
+website: https://www.cvs.com/store-locator/latham-ny-pharmacies/750-new-loudon-rd-latham-ny-12110/storeid=415

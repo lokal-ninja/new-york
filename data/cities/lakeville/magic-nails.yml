@@ -1,11 +1,11 @@
 id: 827716046
-type: way
+type: node
 latitude: 42.83531
 longitude: -77.70262
 postcode: "14480"
 city: Lakeville
-street: "Big Tree Road"
-housenumber: 5844
+street: Big Tree Road
+housenumber: "5844"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 691854545
-type: way
+type: node
 latitude: 40.58571
 longitude: -73.70043
 postcode: "11561"
 city: East Atlantic Beach
-street: "West Beech Street"
-housenumber: 1080
-phone: "+1 516-431-5472"
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-20:00"
+street: West Beech Street
+housenumber: "1080"
+phone: +1 516-431-5472
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-20:00
 website: ""

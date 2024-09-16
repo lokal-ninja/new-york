@@ -1,11 +1,11 @@
 id: 466235884
-type: way
+type: node
 latitude: 40.83595
 longitude: -73.37364
 postcode: "11746"
 city: Huntington Station
-street: "East Jericho Turnpike"
-housenumber: 967
+street: East Jericho Turnpike
+housenumber: "967"
 phone: "+16316730300"
 opening_hours: ""
 website: ""

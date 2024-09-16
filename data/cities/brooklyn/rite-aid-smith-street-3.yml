@@ -1,11 +1,11 @@
 id: 659795318
-type: way
+type: node
 latitude: 40.68547
 longitude: -73.99164
 postcode: "11201"
 city: Brooklyn
-street: "Smith Street"
-housenumber: 182
-phone: "+1-718-246-4226"
-opening_hours: "24/7"
-website: "https://locations.riteaid.com/locations/ny/brooklyn/182-smith-street.html"
+street: Smith Street
+housenumber: "182"
+phone: +1-718-246-4226
+opening_hours: 24/7
+website: https://locations.riteaid.com/locations/ny/brooklyn/182-smith-street.html

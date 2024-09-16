@@ -4,8 +4,8 @@ latitude: 40.73283
 longitude: -73.95793
 postcode: "11222"
 city: Brooklyn
-street: "Franklin Street"
-housenumber: 210
-phone: "+1-718-389-4575"
-opening_hours: "24/7"
+street: Franklin Street
+housenumber: "210"
+phone: +1-718-389-4575
+opening_hours: 24/7
 website: ""

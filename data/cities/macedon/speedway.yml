@@ -4,8 +4,8 @@ latitude: 43.06936
 longitude: -77.29669
 postcode: "14502"
 city: Macedon
-street: "Main Street"
-housenumber: 123
+street: Main Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NY/Macedon/123-East-Main-Street"
+website: https://www.speedway.com/locations/NY/Macedon/123-East-Main-Street

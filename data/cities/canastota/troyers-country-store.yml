@@ -1,11 +1,11 @@
 id: 914471847
-type: way
+type: node
 latitude: 42.99035
 longitude: -75.78547
 postcode: "13032"
 city: Canastota
-street: "Nelson Road"
-housenumber: 5518
-phone: "315-655-0346"
+street: Nelson Road
+housenumber: "5518"
+phone: 315-655-0346
 opening_hours: ""
 website: ""

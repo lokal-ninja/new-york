@@ -1,11 +1,11 @@
 id: 660746626
-type: way
+type: node
 latitude: 42.71724
 longitude: -73.83308
 postcode: "12205"
 city: Colonie
-street: "Central Avenue"
-housenumber: 1592
+street: Central Avenue
+housenumber: "1592"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 188858602
-type: way
+type: node
 latitude: 43.02108
 longitude: -76.14473
 postcode: "13205"
 city: Syracuse
-street: "South Salina Street"
-housenumber: 2648
+street: South Salina Street
+housenumber: "2648"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00"
-website: "https://www.dunkandbright.com/"
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00
+website: https://www.dunkandbright.com/

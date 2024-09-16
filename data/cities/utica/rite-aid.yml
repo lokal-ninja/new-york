@@ -1,11 +1,11 @@
 id: 713140076
-type: way
+type: node
 latitude: 43.11441
 longitude: -75.20665
 postcode: "13502"
 city: Utica
-street: "Herkimer Road"
-housenumber: 208
+street: Herkimer Road
+housenumber: "208"
 phone: ""
 opening_hours: ""
-website: "https://locations.riteaid.com/locations/ny/utica/208-herkimer-road.html"
+website: https://locations.riteaid.com/locations/ny/utica/208-herkimer-road.html

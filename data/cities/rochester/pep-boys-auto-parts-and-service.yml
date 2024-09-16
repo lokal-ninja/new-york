@@ -1,11 +1,11 @@
 id: 496414795
-type: way
+type: node
 latitude: 43.2161
 longitude: -77.73292
 postcode: "14626"
 city: Rochester
-street: "North Greece Road"
-housenumber: 1181
-phone: "+1 585-225-8020"
+street: North Greece Road
+housenumber: "1181"
+phone: +1 585-225-8020
 opening_hours: ""
 website: ""

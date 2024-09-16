@@ -4,8 +4,8 @@ latitude: 40.75281
 longitude: -74.00236
 postcode: "10001"
 city: New York
-street: "West 30th Street"
-housenumber: 525
-phone: "+1 332-246-0275"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://www.strictlycyclingcollective.com/"
+street: West 30th Street
+housenumber: "525"
+phone: +1 332-246-0275
+opening_hours: Mo-Sa 11:00-18:00
+website: https://www.strictlycyclingcollective.com/

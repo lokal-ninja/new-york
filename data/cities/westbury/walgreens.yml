@@ -1,11 +1,11 @@
 id: 240714237
-type: way
+type: node
 latitude: 40.7479
 longitude: -73.5925
 postcode: "11590"
 city: Westbury
-street: "Old Country Road"
-housenumber: 15
+street: Old Country Road
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-15+old+country+rd-westbury-ny-11590/id=12082"
+website: https://www.walgreens.com/locator/walgreens-15+old+country+rd-westbury-ny-11590/id=12082

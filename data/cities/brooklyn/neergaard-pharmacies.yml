@@ -4,8 +4,8 @@ latitude: 40.66892
 longitude: -73.98671
 postcode: "11215"
 city: Brooklyn
-street: "5th Avenue"
-housenumber: 454
-phone: "+1-718-768-0600"
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 09:00-19:00"
-website: "https://www.neergaardpharmacies.com/locations#1"
+street: 5th Avenue
+housenumber: "454"
+phone: +1-718-768-0600
+opening_hours: Mo-Fr 08:00-21:00; Sa-Su 09:00-19:00
+website: https://www.neergaardpharmacies.com/locations#1

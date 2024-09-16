@@ -1,11 +1,11 @@
 id: 1263223824
-type: way
+type: node
 latitude: 42.77408
 longitude: -73.67529
 postcode: "12182"
 city: Troy
-street: "4th Avenue"
-housenumber: 565
+street: 4th Avenue
+housenumber: "565"
 phone: ""
 opening_hours: ""
-website: "https://johnj.sanvidgefuneralhome.com"
+website: https://johnj.sanvidgefuneralhome.com

@@ -1,11 +1,11 @@
 id: 1176939392
-type: way
+type: node
 latitude: 42.78675
 longitude: -73.97018
 postcode: "12306"
 city: Schenectady
-street: "Curry Road"
-housenumber: 1005
+street: Curry Road
+housenumber: "1005"
 phone: "15183579611"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 905982299
-type: way
+type: node
 latitude: 43.15073
 longitude: -77.59043
 postcode: "14607"
 city: Rochester
-street: "Park Avenue"
-housenumber: 206
+street: Park Avenue
+housenumber: "206"
 phone: ""
 opening_hours: ""
-website: "https://www.bodegaonpark.com/"
+website: https://www.bodegaonpark.com/

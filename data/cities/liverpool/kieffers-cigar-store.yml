@@ -1,11 +1,11 @@
 id: 587051771
-type: way
+type: node
 latitude: 43.10413
 longitude: -76.20851
 postcode: "13088"
 city: Liverpool
-street: "Tulip Street"
-housenumber: 409
-phone: "+1-315-701-2444"
+street: Tulip Street
+housenumber: "409"
+phone: +1-315-701-2444
 opening_hours: ""
-website: "https://www.facebook.com/KieffersCigarStore/"
+website: https://www.facebook.com/KieffersCigarStore/

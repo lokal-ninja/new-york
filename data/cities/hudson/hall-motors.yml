@@ -1,11 +1,11 @@
 id: 323184709
-type: way
+type: node
 latitude: 42.27973
 longitude: -73.75655
 postcode: "12534"
 city: Hudson
-street: "Fairview Avenue"
-housenumber: 440
+street: Fairview Avenue
+housenumber: "440"
 phone: ""
 opening_hours: ""
 website: ""

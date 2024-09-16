@@ -1,11 +1,11 @@
 id: 233448414
-type: way
+type: node
 latitude: 41.57225
 longitude: -74.47611
 postcode: "12790"
 city: Wurtsboro
-street: "Sullivan Street"
-housenumber: 4
-phone: "+1-845-888-2426"
+street: Sullivan Street
+housenumber: "4"
+phone: +1-845-888-2426
 opening_hours: ""
-website: "https://www.otooleshd.com"
+website: https://www.otooleshd.com

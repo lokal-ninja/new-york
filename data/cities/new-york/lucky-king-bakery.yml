@@ -4,8 +4,8 @@ latitude: 40.71788
 longitude: -73.99254
 postcode: "10002"
 city: New York
-street: "Grand Street"
-housenumber: 280
-phone: "+1-212-219-8434"
+street: Grand Street
+housenumber: "280"
+phone: +1-212-219-8434
 opening_hours: ""
 website: ""

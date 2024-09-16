@@ -1,11 +1,11 @@
 id: 1092503313
-type: way
+type: node
 latitude: 43.08176
 longitude: -73.78306
 postcode: "12866"
 city: Saratoga Springs
-street: "Caroline Street"
-housenumber: 40
-phone: "+1 518 860 5761"
-opening_hours: "Su-Th 10:00-23:00,Fr-Sa 10:00-24:00"
+street: Caroline Street
+housenumber: "40"
+phone: +1 518 860 5761
+opening_hours: Su-Th 10:00-23:00,Fr-Sa 10:00-24:00
 website: ""

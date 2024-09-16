@@ -1,11 +1,11 @@
 id: 846528044
-type: way
+type: node
 latitude: 43.15753
 longitude: -76.33231
 postcode: "13027"
 city: Baldwinsville
-street: "Oswego Street"
-housenumber: 4
+street: Oswego Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 870503664
-type: way
+type: node
 latitude: 41.39887
 longitude: -74.35828
 postcode: "10924"
 city: Goshen
-street: "Route 17M"
-housenumber: 2528
+street: Route 17M
+housenumber: "2528"
 phone: ""
 opening_hours: ""
 website: ""

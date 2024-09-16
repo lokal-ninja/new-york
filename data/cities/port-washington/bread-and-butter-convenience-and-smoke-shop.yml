@@ -1,11 +1,11 @@
 id: 616467775
-type: way
+type: node
 latitude: 40.82635
 longitude: -73.68278
 postcode: "11050"
 city: Port Washington
-street: "Port Washington Boulevard"
-housenumber: 705
+street: Port Washington Boulevard
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

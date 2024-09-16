@@ -1,11 +1,11 @@
 id: 258296327
-type: way
+type: node
 latitude: 43.20528
 longitude: -77.55909
 postcode: "14622"
 city: Rochester
-street: "East Ridge Road"
-housenumber: 2200
-phone: "+1 585-342-4810"
+street: East Ridge Road
+housenumber: "2200"
+phone: +1 585-342-4810
 opening_hours: ""
-website: "https://www.wegmans.com/stores/ridge-culver-ny"
+website: https://www.wegmans.com/stores/ridge-culver-ny

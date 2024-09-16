@@ -1,11 +1,11 @@
 id: 1022397056
-type: way
+type: node
 latitude: 41.65569
 longitude: -73.96234
 postcode: "12547"
 city: Milton
-street: "United States Highway 9W"
-housenumber: 1837
+street: United States Highway 9W
+housenumber: "1837"
 phone: ""
 opening_hours: ""
 website: ""

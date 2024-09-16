@@ -1,11 +1,11 @@
 id: 558371063
-type: way
+type: node
 latitude: 40.76944
 longitude: -73.52328
 postcode: "11801"
 city: Hicksville
-street: "East Barclay Street"
-housenumber: 56
+street: East Barclay Street
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""
