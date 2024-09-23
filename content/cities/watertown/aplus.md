@@ -1,5 +1,5 @@
 ---
-title: "Aplus"
+title: "APlus"
 url: /watertown/aplus/
 shop: convenience
 ---
