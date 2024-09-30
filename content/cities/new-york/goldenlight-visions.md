@@ -1,5 +1,5 @@
 ---
 title: "Goldenlight Visions"
 url: /new-york/goldenlight-visions/
-shop: photo
+shop: frame
 ---
