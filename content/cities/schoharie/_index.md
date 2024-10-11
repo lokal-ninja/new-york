@@ -1,6 +1,6 @@
 ---
 title: Schoharie
 url: /schoharie/
-latitude: 42.665
-longitude: -74.311
+latitude: 42.703
+longitude: -74.31
 ---
