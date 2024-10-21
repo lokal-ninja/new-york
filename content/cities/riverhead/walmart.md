@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /riverhead/walmart/
-shop: supermarket
+shop: department store
 ---

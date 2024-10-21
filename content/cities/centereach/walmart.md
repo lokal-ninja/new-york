@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /centereach/walmart/
-shop: supermarket
+shop: department store
 ---
