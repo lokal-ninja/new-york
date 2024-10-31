@@ -1,6 +1,6 @@
 ---
 title: Eastchester
 url: /eastchester/
-latitude: 40.95
+latitude: 40.951
 longitude: -73.817
 ---
