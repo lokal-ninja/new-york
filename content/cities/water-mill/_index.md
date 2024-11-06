@@ -1,6 +1,6 @@
 ---
 title: Water Mill
 url: /water-mill/
-latitude: 40.9
-longitude: -72.374
+latitude: 40.927
+longitude: -72.331
 ---
