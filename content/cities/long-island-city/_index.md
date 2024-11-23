@@ -1,6 +1,6 @@
 ---
 title: Long Island City
 url: /long-island-city/
-latitude: 40.746
-longitude: -73.956
+latitude: 40.745
+longitude: -73.934
 ---
