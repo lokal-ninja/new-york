@@ -1,5 +1,0 @@
----
-title: "Stickley Furniture | Mattress"
-url: /victor/stickley-furniture-mattress/
-shop: furniture
----

@@ -1,5 +1,0 @@
----
-title: "Morscher's Pork Store"
-url: /ridgewood/morschers-pork-store/
-shop: butcher
----

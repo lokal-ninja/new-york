@@ -1,5 +1,0 @@
----
-title: "Gold's Auto"
-url: /troy/golds-auto/
-shop: car
----

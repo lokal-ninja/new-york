@@ -1,5 +1,0 @@
----
-title: "Barber Shop"
-url: /franklin-square/barber-shop/
-shop: hairdresser
----
