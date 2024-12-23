@@ -1,0 +1,5 @@
+---
+title: "The Trading Post"
+url: /avon/the-trading-post/
+shop: antiques
+---
