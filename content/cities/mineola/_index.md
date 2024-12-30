@@ -1,6 +1,6 @@
 ---
 title: Mineola
 url: /mineola/
-latitude: 40.745
-longitude: -73.654
+latitude: 40.747
+longitude: -73.648
 ---
