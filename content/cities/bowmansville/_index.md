@@ -1,6 +1,6 @@
 ---
 title: Bowmansville
 url: /bowmansville/
-latitude: 42.941
-longitude: -78.696
+latitude: 42.938
+longitude: -78.697
 ---

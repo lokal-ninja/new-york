@@ -7,5 +7,5 @@ city: Rego Park
 street: Junction Boulevard
 housenumber: 61-35
 phone: +1 718 393-2690
-opening_hours: Mo-Th 10:00-22:00; Fr-Sa 09:00-22:00; Su 10:00-21:00
+opening_hours: Mo,Th-Fr 10:00-21:00; Tu 10:00-19:00; We,Sa-Su 10:00-20:00
 website: https://stores.bestbuy.com/ny/rego-park/6135-junction-blvd-483.html
