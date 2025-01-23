@@ -1,6 +1,6 @@
 ---
 title: Mount Tremper
 url: /mount-tremper/
-latitude: 42.033
-longitude: -74.275
+latitude: 42.047
+longitude: -74.276
 ---
