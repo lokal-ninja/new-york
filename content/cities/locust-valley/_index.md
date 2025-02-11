@@ -1,6 +1,6 @@
 ---
 title: Locust Valley
 url: /locust-valley/
-latitude: 40.875
-longitude: -73.599
+latitude: 40.874
+longitude: -73.598
 ---

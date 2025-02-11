@@ -1,6 +1,6 @@
 ---
 title: Orient
 url: /orient/
-latitude: 41.143
-longitude: -72.303
+latitude: 41.155
+longitude: -72.241
 ---
