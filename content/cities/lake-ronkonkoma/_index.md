@@ -1,6 +1,6 @@
 ---
 title: Lake Ronkonkoma
 url: /lake-ronkonkoma/
-latitude: 40.833
-longitude: -73.121
+latitude: 40.825
+longitude: -73.11
 ---
