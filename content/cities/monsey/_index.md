@@ -1,6 +1,6 @@
 ---
 title: Monsey
 url: /monsey/
-latitude: 41.109
-longitude: -74.084
+latitude: 41.11
+longitude: -74.087
 ---
