@@ -1,5 +1,5 @@
 ---
-title: "Byrne Dairy and Deli"
+title: "Byrne Dairy & Deli"
 url: /liverpool/byrne-dairy-and-deli/
 shop: convenience
 ---

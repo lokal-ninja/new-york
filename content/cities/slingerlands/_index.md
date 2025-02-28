@@ -1,6 +1,6 @@
 ---
 title: Slingerlands
 url: /slingerlands/
-latitude: 42.683
-longitude: -73.904
+latitude: 42.639
+longitude: -73.858
 ---
