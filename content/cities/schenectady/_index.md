@@ -1,6 +1,6 @@
 ---
 title: Schenectady
 url: /schenectady/
-latitude: 42.775
-longitude: -73.89
+latitude: 42.805
+longitude: -73.904
 ---
