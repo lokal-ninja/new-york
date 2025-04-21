@@ -1,6 +1,6 @@
 ---
 title: Croghan
 url: /croghan/
-latitude: 43.895
-longitude: -75.392
+latitude: 43.889
+longitude: -75.391
 ---

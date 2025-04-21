@@ -1,6 +1,6 @@
 ---
 title: Vestal
 url: /vestal/
-latitude: 42.088
-longitude: -76.053
+latitude: 42.092
+longitude: -76.027
 ---
