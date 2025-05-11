@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /rensselaer/sunoco/
-shop: convenience
+shop: car repair
 ---

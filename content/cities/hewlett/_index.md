@@ -1,6 +1,6 @@
 ---
 title: Hewlett
 url: /hewlett/
-latitude: 40.639
-longitude: -73.701
+latitude: 40.638
+longitude: -73.704
 ---
