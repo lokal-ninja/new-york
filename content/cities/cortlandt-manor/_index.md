@@ -1,6 +1,6 @@
 ---
 title: Cortlandt Manor
 url: /cortlandt-manor/
-latitude: 41.287
-longitude: -73.854
+latitude: 41.308
+longitude: -73.873
 ---

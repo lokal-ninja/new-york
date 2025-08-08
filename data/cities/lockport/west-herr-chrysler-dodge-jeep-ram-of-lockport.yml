@@ -7,5 +7,6 @@ city: Lockport
 street: South Transit Road
 housenumber: "6200"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu 07:30-19:00; We 07:30-18:00; Th 07:30-19:00; Fr 07:30-18:00;
+    Sa 07:30-17:00
 website: ""

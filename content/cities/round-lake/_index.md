@@ -1,6 +1,6 @@
 ---
 title: Round Lake
 url: /round-lake/
-latitude: 42.904
-longitude: -73.784
+latitude: 42.932
+longitude: -73.791
 ---

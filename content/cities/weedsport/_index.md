@@ -1,6 +1,6 @@
 ---
 title: Weedsport
 url: /weedsport/
-latitude: 43.051
-longitude: -76.563
+latitude: 43.024
+longitude: -76.489
 ---

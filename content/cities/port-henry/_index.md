@@ -1,6 +1,6 @@
 ---
 title: Port Henry
 url: /port-henry/
-latitude: 44.046
-longitude: -73.46
+latitude: 44.052
+longitude: -73.458
 ---

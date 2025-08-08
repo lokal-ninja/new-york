@@ -1,6 +1,6 @@
 ---
 title: Lyndonville
 url: /lyndonville/
-latitude: 43.346
-longitude: -78.464
+latitude: 43.326
+longitude: -78.428
 ---

@@ -1,6 +1,6 @@
 ---
 title: Centereach
 url: /centereach/
-latitude: 40.862
-longitude: -73.083
+latitude: 40.858
+longitude: -73.101
 ---
