@@ -7,5 +7,5 @@ city: New York
 street: Grand Street
 housenumber: "195"
 phone: +1 212-226-6150
-opening_hours: ""
+opening_hours: Mo-Th,Su 09:00-22:00; Fr-Sa 09:00-23:00
 website: https://www.ferraranyc.com
