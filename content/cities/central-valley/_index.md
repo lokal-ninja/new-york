@@ -1,6 +1,6 @@
 ---
 title: Central Valley
 url: /central-valley/
-latitude: 41.316
-longitude: -74.13
+latitude: 41.313
+longitude: -74.133
 ---
