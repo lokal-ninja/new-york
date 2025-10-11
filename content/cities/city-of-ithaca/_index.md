@@ -1,6 +1,6 @@
 ---
 title: City Of Ithaca
 url: /city-of-ithaca/
-latitude: 42.424
-longitude: -76.515
+latitude: 42.425
+longitude: -76.514
 ---

@@ -1,6 +1,6 @@
 ---
 title: Flushing
 url: /flushing/
-latitude: 40.723
-longitude: -73.8
+latitude: 40.729
+longitude: -73.815
 ---

@@ -1,6 +1,6 @@
 ---
 title: Theresa
 url: /theresa/
-latitude: 44.216
-longitude: -75.797
+latitude: 44.196
+longitude: -75.755
 ---
