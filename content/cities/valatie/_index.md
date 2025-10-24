@@ -1,6 +1,6 @@
 ---
 title: Valatie
 url: /valatie/
-latitude: 42.433
-longitude: -73.658
+latitude: 42.461
+longitude: -73.694
 ---

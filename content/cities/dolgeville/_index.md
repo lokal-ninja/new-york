@@ -1,6 +1,6 @@
 ---
 title: Dolgeville
 url: /dolgeville/
-latitude: 43.105
-longitude: -74.771
+latitude: 43.094
+longitude: -74.786
 ---
