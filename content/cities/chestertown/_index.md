@@ -1,6 +1,6 @@
 ---
 title: Chestertown
 url: /chestertown/
-latitude: 43.648
-longitude: -73.802
+latitude: 43.671
+longitude: -73.776
 ---
