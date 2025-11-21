@@ -1,6 +1,6 @@
 ---
 title: Homer
 url: /homer/
-latitude: 42.634
-longitude: -76.192
+latitude: 42.633
+longitude: -76.191
 ---
