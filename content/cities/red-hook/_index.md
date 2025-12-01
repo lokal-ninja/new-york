@@ -1,6 +1,6 @@
 ---
 title: Red Hook
 url: /red-hook/
-latitude: 41.995
-longitude: -73.875
+latitude: 41.994
+longitude: -73.87
 ---
