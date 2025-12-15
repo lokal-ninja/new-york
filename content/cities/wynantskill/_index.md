@@ -1,6 +1,6 @@
 ---
 title: Wynantskill
 url: /wynantskill/
-latitude: 42.696
-longitude: -73.64
+latitude: 42.662
+longitude: -73.618
 ---

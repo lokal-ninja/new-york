@@ -1,6 +1,6 @@
 ---
 title: Brewerton
 url: /brewerton/
-latitude: 43.232
-longitude: -76.14
+latitude: 43.233
+longitude: -76.137
 ---
