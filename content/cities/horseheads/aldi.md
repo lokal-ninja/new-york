@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /horseheads/aldi/
 shop: supermarket
 ---

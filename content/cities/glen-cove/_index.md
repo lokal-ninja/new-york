@@ -1,6 +1,6 @@
 ---
 title: Glen Cove
 url: /glen-cove/
-latitude: 40.873
-longitude: -73.623
+latitude: 40.875
+longitude: -73.62
 ---
