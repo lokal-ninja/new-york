@@ -1,5 +1,5 @@
 ---
-title: "Johns Farm Market"
+title: "John's Farm Market"
 url: /jamaica/johns-farm-market/
-shop: farm
+shop: supermarket
 ---
