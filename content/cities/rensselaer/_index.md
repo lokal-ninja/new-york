@@ -1,6 +1,6 @@
 ---
 title: Rensselaer
 url: /rensselaer/
-latitude: 42.647
-longitude: -73.7
+latitude: 42.661
+longitude: -73.692
 ---

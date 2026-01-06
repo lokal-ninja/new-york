@@ -1,6 +1,6 @@
 ---
 title: Ithaca
 url: /ithaca/
-latitude: 42.483
-longitude: -76.483
+latitude: 42.438
+longitude: -76.464
 ---

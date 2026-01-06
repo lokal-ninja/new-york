@@ -1,6 +1,6 @@
 ---
 title: Corning
 url: /corning/
-latitude: 42.152
-longitude: -77.06
+latitude: 42.143
+longitude: -77.051
 ---

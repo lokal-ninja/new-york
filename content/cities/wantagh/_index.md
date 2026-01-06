@@ -1,6 +1,6 @@
 ---
 title: Wantagh
 url: /wantagh/
-latitude: 40.664
-longitude: -73.515
+latitude: 40.665
+longitude: -73.511
 ---
