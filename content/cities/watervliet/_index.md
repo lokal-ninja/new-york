@@ -1,6 +1,6 @@
 ---
 title: Watervliet
 url: /watervliet/
-latitude: 42.713
-longitude: -73.708
+latitude: 42.735
+longitude: -73.7
 ---

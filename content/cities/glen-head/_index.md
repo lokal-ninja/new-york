@@ -1,6 +1,6 @@
 ---
 title: Glen Head
 url: /glen-head/
-latitude: 40.838
-longitude: -73.615
+latitude: 40.836
+longitude: -73.619
 ---
