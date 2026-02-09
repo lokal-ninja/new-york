@@ -1,11 +1,12 @@
-id: 6233803799
+id: 3819620507
 type: node
-latitude: 40.71902
-longitude: -73.98876
-postcode: "10002"
+latitude: 40.72214
+longitude: -73.98348
+postcode: "10009"
 city: New York
-street: Delancey Street
-housenumber: "100"
-phone: +1-212-253-0270
-opening_hours: Mo-Th 07:00-22:00; Fr 07:00-00:00; Sa 09:00-00:00; Su 10:00-22:00
-website: https://walgreens.com
+street: East 2nd Street
+housenumber: "194"
+phone: +1 212-375-9000
+opening_hours: Mo-Su 07:00-23:00 "shop" ||Mo-Fr 09:00-13:30,14:00-20:00, Sa 09:00-13:30,14:00-18:00,
+    Su 10:00-13:30,14:00-18:00 "pharmacy"
+website: https://www.walgreens.com/locator/duane+reade-194+e+2nd+st-new+york-ny-10009/id=14354
