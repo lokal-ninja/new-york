@@ -1,6 +1,6 @@
 ---
 title: West Babylon
 url: /west-babylon/
-latitude: 40.719
-longitude: -73.355
+latitude: 40.72
+longitude: -73.356
 ---

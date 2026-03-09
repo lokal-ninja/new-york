@@ -1,6 +1,6 @@
 ---
 title: Clarence Center
 url: /clarence-center/
-latitude: 43.001
-longitude: -78.676
+latitude: 43.011
+longitude: -78.637
 ---

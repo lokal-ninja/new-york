@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /troy/walgreens/
-shop: chemist
+shop: convenience
 ---
