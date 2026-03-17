@@ -1,6 +1,6 @@
 ---
 title: Whitney Point
 url: /whitney-point/
-latitude: 42.338
-longitude: -75.976
+latitude: 42.33
+longitude: -75.973
 ---

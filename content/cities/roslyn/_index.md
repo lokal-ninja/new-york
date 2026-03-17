@@ -1,6 +1,6 @@
 ---
 title: Roslyn
 url: /roslyn/
-latitude: 40.803
-longitude: -73.646
+latitude: 40.798
+longitude: -73.662
 ---
