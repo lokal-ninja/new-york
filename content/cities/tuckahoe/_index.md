@@ -1,6 +1,6 @@
 ---
 title: Tuckahoe
 url: /tuckahoe/
-latitude: 40.951
+latitude: 40.952
 longitude: -73.821
 ---

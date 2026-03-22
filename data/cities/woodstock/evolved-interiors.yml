@@ -7,5 +7,5 @@ city: Woodstock
 street: Mill Hill Road
 housenumber: "86"
 phone: +1-646-679-9979
-opening_hours: ""
+opening_hours: Mo-Tu 09:00-16:00, We-Th 10:00-17:00, Fr 09:00-16:00||Sa "by appointment"
 website: https://evolvedinteriors.com
