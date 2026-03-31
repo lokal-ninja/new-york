@@ -1,6 +1,6 @@
 ---
 title: Basom
 url: /basom/
-latitude: 43.06
-longitude: -78.419
+latitude: 43.046
+longitude: -78.415
 ---
