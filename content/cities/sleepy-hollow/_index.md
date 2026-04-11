@@ -1,6 +1,6 @@
 ---
 title: Sleepy Hollow
 url: /sleepy-hollow/
-latitude: 41.082
-longitude: -73.869
+latitude: 41.085
+longitude: -73.86
 ---

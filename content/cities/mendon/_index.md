@@ -2,5 +2,5 @@
 title: Mendon
 url: /mendon/
 latitude: 43
-longitude: -77.508
+longitude: -77.507
 ---
