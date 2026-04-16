@@ -1,6 +1,6 @@
 ---
 title: Catskill
 url: /catskill/
-latitude: 42.253
-longitude: -73.907
+latitude: 42.215
+longitude: -73.882
 ---
