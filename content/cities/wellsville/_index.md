@@ -1,6 +1,6 @@
 ---
 title: Wellsville
 url: /wellsville/
-latitude: 42.125
-longitude: -77.962
+latitude: 42.127
+longitude: -77.963
 ---

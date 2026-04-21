@@ -1,5 +1,5 @@
 ---
 title: "Platinum Volkswagen"
 url: /hicksville/platinum-volkswagen/
-shop: car
+shop: car repair
 ---
