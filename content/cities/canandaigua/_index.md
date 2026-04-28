@@ -1,6 +1,6 @@
 ---
 title: Canandaigua
 url: /canandaigua/
-latitude: 42.887
-longitude: -77.285
+latitude: 42.879
+longitude: -77.256
 ---

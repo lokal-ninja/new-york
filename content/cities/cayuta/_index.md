@@ -1,6 +1,6 @@
 ---
 title: Cayuta
 url: /cayuta/
-latitude: 42.293
-longitude: -76.715
+latitude: 42.295
+longitude: -76.695
 ---

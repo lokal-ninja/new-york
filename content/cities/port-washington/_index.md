@@ -1,6 +1,6 @@
 ---
 title: Port Washington
 url: /port-washington/
-latitude: 40.838
-longitude: -73.701
+latitude: 40.831
+longitude: -73.689
 ---
