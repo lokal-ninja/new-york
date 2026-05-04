@@ -1,6 +1,6 @@
 ---
 title: Alfred
 url: /alfred/
-latitude: 42.254
-longitude: -77.791
+latitude: 42.256
+longitude: -77.79
 ---

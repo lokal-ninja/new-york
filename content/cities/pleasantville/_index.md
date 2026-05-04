@@ -1,6 +1,6 @@
 ---
 title: Pleasantville
 url: /pleasantville/
-latitude: 41.132
+latitude: 41.134
 longitude: -73.794
 ---
