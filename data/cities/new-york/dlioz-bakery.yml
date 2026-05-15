@@ -7,5 +7,5 @@ city: New York
 street: Amsterdam Avenue
 housenumber: "926"
 phone: +1-929-658-3010
-opening_hours: ""
+opening_hours: Mo,We-Fr 08:00-19:00; Sa,Su 09:00-19:00; Tu off
 website: https://dliozbakery.com

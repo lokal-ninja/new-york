@@ -1,6 +1,6 @@
 ---
 title: Beacon
 url: /beacon/
-latitude: 41.508
-longitude: -73.975
+latitude: 41.502
+longitude: -73.964
 ---
