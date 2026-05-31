@@ -1,6 +1,6 @@
 ---
 title: Fort Plain
 url: /fort-plain/
-latitude: 42.931
-longitude: -74.624
+latitude: 42.933
+longitude: -74.62
 ---
