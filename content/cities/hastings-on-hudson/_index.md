@@ -1,6 +1,6 @@
 ---
 title: Hastings on Hudson
 url: /hastings-on-hudson/
-latitude: 40.995
-longitude: -73.879
+latitude: 40.996
+longitude: -73.882
 ---

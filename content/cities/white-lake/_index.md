@@ -1,6 +1,6 @@
 ---
 title: White Lake
 url: /white-lake/
-latitude: 41.674
-longitude: -74.826
+latitude: 41.676
+longitude: -74.815
 ---
