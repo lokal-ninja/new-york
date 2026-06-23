@@ -1,11 +1,11 @@
 id: 12524121184
 type: node
-latitude: 42.68822
-longitude: -73.84956
+latitude: 42.68786
+longitude: -73.8494
 postcode: "12203"
 city: Albany
 street: Crossgates Mall Road
-housenumber: ""
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: "1"
+phone: +1-518-918-3111
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-21:00; Su 11:00-18:00
+website: https://www.rei.com/stores/albany
