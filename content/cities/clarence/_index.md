@@ -1,6 +1,6 @@
 ---
 title: Clarence
 url: /clarence/
-latitude: 43
-longitude: -78.616
+latitude: 42.973
+longitude: -78.636
 ---

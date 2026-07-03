@@ -1,6 +1,6 @@
 ---
 title: Angola
 url: /angola/
-latitude: 42.636
-longitude: -78.987
+latitude: 42.653
+longitude: -79.038
 ---
