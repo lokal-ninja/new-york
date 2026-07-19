@@ -7,5 +7,6 @@ city: Lancaster
 street: Central Avenue
 housenumber: "192"
 phone: +1-716-288-9339
-opening_hours: Mo off; Tu-Fr 10:00-20:00; Sa 8:00-15:00; Su off
-website: ""
+opening_hours: Mo off; Tu 12:00-22:00; We 09:00-17:00; Th 09:00-20:00; Fr 10:00-19:00;
+    Sa 08:00-16:00; Su off
+website: https://colorkarma.mysalononline.com/

@@ -1,6 +1,6 @@
 ---
 title: Au Sable Forks
 url: /au-sable-forks/
-latitude: 44.442
-longitude: -73.675
+latitude: 44.458
+longitude: -73.738
 ---

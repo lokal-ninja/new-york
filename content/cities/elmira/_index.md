@@ -1,6 +1,6 @@
 ---
 title: Elmira
 url: /elmira/
-latitude: 42.153
-longitude: -76.873
+latitude: 42.088
+longitude: -76.808
 ---
