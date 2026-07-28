@@ -1,6 +1,6 @@
 ---
 title: Ridgewood
 url: /ridgewood/
-latitude: 40.697
-longitude: -73.907
+latitude: 40.702
+longitude: -73.905
 ---

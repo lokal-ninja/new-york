@@ -1,6 +1,6 @@
 ---
 title: Hudson
 url: /hudson/
-latitude: 42.271
-longitude: -73.759
+latitude: 42.248
+longitude: -73.784
 ---
