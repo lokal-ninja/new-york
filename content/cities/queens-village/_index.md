@@ -1,6 +1,6 @@
 ---
 title: Queens Village
 url: /queens-village/
-latitude: 40.731
-longitude: -73.742
+latitude: 40.736
+longitude: -73.747
 ---

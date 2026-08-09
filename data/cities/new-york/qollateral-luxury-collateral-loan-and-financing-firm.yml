@@ -7,5 +7,5 @@ city: New York
 street: West 47th Street
 housenumber: "50"
 phone: +1-212-287-5257
-opening_hours: Mo-Thu 09:00-19:00; Fr, Su 09:00-16:00
-website: ""
+opening_hours: Mo-Th 09:00-19:00; Fr,Su 09:00-16:00; Sa "by appointment"
+website: https://qollateral.com/

@@ -7,5 +7,5 @@ city: New York
 street: West 57th Street
 housenumber: "601"
 phone: +1-212-757-2893
-opening_hours: Mo-Fr 06:00-22:00; Sa-Su 6:30-22:00
-website: ""
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.thehudsonmarket.com/

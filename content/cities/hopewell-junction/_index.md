@@ -1,6 +1,6 @@
 ---
 title: Hopewell Junction
 url: /hopewell-junction/
-latitude: 41.627
-longitude: -73.696
+latitude: 41.596
+longitude: -73.796
 ---
