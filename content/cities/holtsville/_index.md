@@ -1,6 +1,6 @@
 ---
 title: Holtsville
 url: /holtsville/
-latitude: 40.797
-longitude: -73.043
+latitude: 40.803
+longitude: -73.041
 ---

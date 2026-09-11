@@ -7,5 +7,5 @@ city: Springville
 street: West Main Street
 housenumber: "254"
 phone: +1-716-592-9172
-opening_hours: Mo-Sa 08:00-17:00; Su 09:30-16:00
+opening_hours: Mo, We, Fr 08:00-17:00; Su 09:30-16:00; Tu, Th 08:00-19:00; Sa 08:00-18:00
 website: ""
