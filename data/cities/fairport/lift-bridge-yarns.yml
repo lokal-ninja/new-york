@@ -7,5 +7,5 @@ city: Fairport
 street: North Main Street
 housenumber: "23"
 phone: +1-585-364-0521
-opening_hours: ""
+opening_hours: Tu,We,Fr,Sa 10:00-17:00; Th 10:00-19:00
 website: https://www.liftbridgeyarns.com/

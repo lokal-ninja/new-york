@@ -1,6 +1,6 @@
 ---
 title: Canajoharie
 url: /canajoharie/
-latitude: 42.906
-longitude: -74.58
+latitude: 42.905
+longitude: -74.579
 ---
