@@ -1,5 +1,5 @@
 ---
-title: "Boomax Event Rental"
+title: "Boomax AV Rental"
 url: /monsey/boomax-event-rental/
 shop: party
 ---
