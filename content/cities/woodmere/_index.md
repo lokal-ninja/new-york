@@ -1,6 +1,6 @@
 ---
 title: Woodmere
 url: /woodmere/
-latitude: 40.633
-longitude: -73.713
+latitude: 40.628
+longitude: -73.722
 ---

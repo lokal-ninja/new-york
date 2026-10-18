@@ -1,6 +1,6 @@
 ---
 title: Bronx
 url: /bronx/
-latitude: 40.846
-longitude: -73.82
+latitude: 40.881
+longitude: -73.825
 ---

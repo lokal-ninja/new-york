@@ -1,6 +1,6 @@
 ---
 title: Potsdam
 url: /potsdam/
-latitude: 44.668
-longitude: -74.988
+latitude: 44.67
+longitude: -74.987
 ---
