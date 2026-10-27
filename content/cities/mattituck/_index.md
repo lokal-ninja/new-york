@@ -1,6 +1,6 @@
 ---
 title: Mattituck
 url: /mattituck/
-latitude: 40.989
+latitude: 40.99
 longitude: -72.534
 ---

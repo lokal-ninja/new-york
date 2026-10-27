@@ -1,6 +1,6 @@
 ---
 title: Floral Park
 url: /floral-park/
-latitude: 40.724
-longitude: -73.707
+latitude: 40.722
+longitude: -73.73
 ---

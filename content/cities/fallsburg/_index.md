@@ -1,6 +1,6 @@
 ---
 title: Fallsburg
 url: /fallsburg/
-latitude: 41.73
-longitude: -74.605
+latitude: 41.732
+longitude: -74.606
 ---
