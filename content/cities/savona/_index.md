@@ -1,6 +1,6 @@
 ---
 title: Savona
 url: /savona/
-latitude: 42.29
-longitude: -77.22
+latitude: 42.289
+longitude: -77.219
 ---

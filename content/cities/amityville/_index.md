@@ -1,6 +1,6 @@
 ---
 title: Amityville
 url: /amityville/
-latitude: 40.678
+latitude: 40.68
 longitude: -73.418
 ---
