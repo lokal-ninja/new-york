@@ -1,6 +1,6 @@
 ---
 title: Boston
 url: /boston/
-latitude: 42.606
-longitude: -78.721
+latitude: 42.629
+longitude: -78.738
 ---
