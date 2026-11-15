@@ -1,6 +1,6 @@
 ---
 title: Bethpage
 url: /bethpage/
-latitude: 40.727
-longitude: -73.478
+latitude: 40.726
+longitude: -73.492
 ---
